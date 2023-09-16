@@ -10,3 +10,12 @@ The requirements file installs:
 - The necessary packages to run *LangChain*, *sketch*, and *pandas-LLM*.  
 
 > Note: LangChain and pandas-LLM need an OpenAI API Key.  
+
+### .env
+The environment file contains:  
+
+```OPENAI_API_KEY=<your key without quotes>```  
+
+I will provide everyone with the API Key.  
+
+> Note: The **gitignore** needs to be used so that the **.env** is not loaded to the repository, exposing the API Key.  
