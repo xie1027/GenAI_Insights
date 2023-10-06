@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "45000","South Carolina",5,SAOEMP,1,"...","All industries ","Number of jobs",80861,79025,81503,84137,83915,88762,89669,91758,67121,78500
+ "45000","South Carolina",5,SAOEMP,2,"..."," Private industries ","Number of jobs",77086,75050,77229,79564,79097,83930,84970,86960,62240,73464
+ "45000","South Carolina",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",658,649,662,639,731,825,863,876,742,838
+ "45000","South Carolina",5,SAOEMP,4,"...","  Mining ","Number of jobs",2,2,2,2,1,2,2,1,1,1
+ "45000","South Carolina",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "45000","South Carolina",5,SAOEMP,6,"...","  Construction ","Number of jobs",806,667,719,751,748,748,796,827,830,848
+ "45000","South Carolina",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",4566,4702,4711,4916,5226,5659,5946,5951,6243,7097
+ "45000","South Carolina",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",3245,3431,3459,3682,3987,4434,4722,4707,4912,5601
+ "45000","South Carolina",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1322,1271,1252,1234,1239,1225,1224,1244,1331,1496
+ "45000","South Carolina",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2473,2437,2428,2512,2587,2625,2618,2615,2399,2553
+ "45000","South Carolina",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",24667,25030,25486,26251,26238,26861,26706,26630,23353,24346
+ "45000","South Carolina",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",1307,1344,1460,1473,1460,1565,1587,1650,1155,1317
+ "45000","South Carolina",5,SAOEMP,13,"...","  Information ","Number of jobs",66,67,68,69,68,68,68,65,68,129
+ "45000","South Carolina",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",559,676,546,554,567,592,636,681,564,585
+ "45000","South Carolina",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",81,76,71,67,67,65,61,73,74,80
+ "45000","South Carolina",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",478,599,475,487,501,528,575,608,490,504
+ "45000","South Carolina",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",646,666,693,770,875,895,937,925,628,580
+ "45000","South Carolina",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",648,692,737,790,849,894,911,910,733,809
+ "45000","South Carolina",5,SAOEMP,19,"...","   Educational services ","Number of jobs",582,630,674,725,784,822,839,833,672,733
+ "45000","South Carolina",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",65,61,63,65,65,72,73,77,61,76
+ "45000","South Carolina",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",39833,37290,38857,39957,38861,42294,42958,44847,24606,33390
+ "45000","South Carolina",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",11875,12328,13196,13544,14192,14622,15241,16215,11258,12616
+ "45000","South Carolina",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",27957,24962,25662,26413,24669,27671,27717,28632,13348,20774
+ "45000","South Carolina",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",854,828,860,880,885,902,942,982,918,972
+ "45000","South Carolina",5,SAOEMP,25,"..."," Government ","Number of jobs",3775,3975,4275,4573,4818,4832,4699,4798,4880,5036
+ "45000","South Carolina",5,SAOEMP,26,"...","  Federal ","Number of jobs",236,204,189,122,123,122,125,87,78,77
+ "45000","South Carolina",5,SAOEMP,27,"...","  State and local ","Number of jobs",3539,3771,4086,4451,4695,4710,4574,4711,4803,4959
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

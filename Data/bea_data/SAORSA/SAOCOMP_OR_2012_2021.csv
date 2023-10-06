@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "41000","Oregon",8,SAOCOMP,1,"...","All industries ","Thousands of dollars",2657144,2630644,2768115,2930266,3073843,3328138,3437126,3531420,3026975,3601454
+ "41000","Oregon",8,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",2330766,2282820,2401685,2541946,2662093,2902763,3005004,3083083,2558944,3110848
+ "41000","Oregon",8,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",114089,116420,129251,126630,141554,156415,156455,155657,150266,173520
+ "41000","Oregon",8,SAOCOMP,4,"...","  Mining ","Thousands of dollars",341,262,200,135,121,252,324,263,178,326
+ "41000","Oregon",8,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "41000","Oregon",8,SAOCOMP,6,"...","  Construction ","Thousands of dollars",36593,36307,39547,38367,41498,46781,52568,54303,53484,52277
+ "41000","Oregon",8,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",209415,210282,212089,225490,253992,280992,282471,265137,332451,398222
+ "41000","Oregon",8,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",140052,140106,147506,160634,184240,206305,214807,193188,242249,289244
+ "41000","Oregon",8,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",69363,70176,64583,64856,69752,74687,67664,71949,90202,108977
+ "41000","Oregon",8,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",235644,225158,235444,255721,265491,281795,290033,298063,256991,291772
+ "41000","Oregon",8,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",665463,681577,704683,757321,766858,836156,835657,866999,895339,1046235
+ "41000","Oregon",8,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",171715,172342,185985,213954,221793,238057,266081,261260,131214,180697
+ "41000","Oregon",8,SAOCOMP,13,"...","  Information ","Thousands of dollars",4098,4066,4196,4541,4324,4565,4806,5045,5765,9913
+ "41000","Oregon",8,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",29363,29046,25660,27461,28064,29887,30358,34839,32228,34622
+ "41000","Oregon",8,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",17727,16524,15319,14579,13846,14050,13936,15036,15072,15479
+ "41000","Oregon",8,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",11636,12522,10341,12882,14218,15837,16422,19803,17157,19143
+ "41000","Oregon",8,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",38035,33993,38270,42357,45153,49263,51769,48675,27282,34580
+ "41000","Oregon",8,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",29541,30017,32195,34039,38539,42435,45851,46909,37936,43397
+ "41000","Oregon",8,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",25592,26212,28211,29783,34022,37499,40682,41361,32760,37031
+ "41000","Oregon",8,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",3949,3806,3984,4256,4517,4936,5168,5548,5176,6366
+ "41000","Oregon",8,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",772102,718429,768094,787674,824866,904700,957127,1012230,602194,809772
+ "41000","Oregon",8,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",286086,291521,308516,301971,337327,363951,382452,399110,267654,295523
+ "41000","Oregon",8,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",486015,426908,459578,485702,487539,540748,574675,613120,334540,514249
+ "41000","Oregon",8,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",24366,24920,26070,28255,29839,31463,31504,33703,33615,35514
+ "41000","Oregon",8,SAOCOMP,25,"..."," Government ","Thousands of dollars",326377,347824,366430,388320,411750,425375,432122,448336,468031,490605
+ "41000","Oregon",8,SAOCOMP,26,"...","  Federal ","Thousands of dollars",33006,31299,33693,35386,40299,43448,43885,35488,26807,27930
+ "41000","Oregon",8,SAOCOMP,27,"...","  State and local ","Thousands of dollars",293371,316525,332737,352934,371451,381926,388237,412848,441224,462676
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "17000","Illinois",3,SAOCOMP,1,"...","All industries ","Thousands of dollars",7131376,7129091,7305031,7537883,7858312,8294441,8384491,8609901,7377132,8573984
+ "17000","Illinois",3,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",6098183,6048378,6198500,6402828,6636378,7030686,7167802,7439661,6238388,7406137
+ "17000","Illinois",3,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",58994,56084,58586,60577,85874,101769,94302,102528,85762,94161
+ "17000","Illinois",3,SAOCOMP,4,"...","  Mining ","Thousands of dollars",2696,2219,1742,1240,1060,2114,2593,2089,1325,2199
+ "17000","Illinois",3,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",12,13,11,13,10,11,7,7,10,9
+ "17000","Illinois",3,SAOCOMP,6,"...","  Construction ","Thousands of dollars",166911,142223,144304,130842,137654,158621,178652,194464,192376,189408
+ "17000","Illinois",3,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",671992,680946,678443,681393,670881,719329,761812,806460,845207,916378
+ "17000","Illinois",3,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",367765,366804,352873,345144,328750,356626,404423,420857,428736,465451
+ "17000","Illinois",3,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",304227,314142,325570,336249,342131,362703,357389,385603,416471,450927
+ "17000","Illinois",3,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",647990,625059,649014,676273,662839,690094,700115,703956,649137,719263
+ "17000","Illinois",3,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",1549756,1586044,1579800,1636646,1597344,1733436,1680857,1724370,1744483,1930077
+ "17000","Illinois",3,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",825049,850631,899962,935066,1003975,1030388,1095006,1205114,800427,1080235
+ "17000","Illinois",3,SAOCOMP,13,"...","  Information ","Thousands of dollars",19424,20383,21017,21315,21265,21547,21515,21279,22711,32766
+ "17000","Illinois",3,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",158159,155425,144429,157651,165966,177610,181017,205157,197329,210570
+ "17000","Illinois",3,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",114251,110531,106809,114352,117624,126478,125095,142263,149231,156273
+ "17000","Illinois",3,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",43908,44895,37620,43299,48343,51132,55921,62894,48098,54296
+ "17000","Illinois",3,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",165552,147979,156867,176698,181026,195175,195822,187888,84423,116831
+ "17000","Illinois",3,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",92826,94826,101315,105086,114316,124208,134166,136360,123371,133365
+ "17000","Illinois",3,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",82393,84326,90556,93798,102227,111361,121005,122410,108859,116616
+ "17000","Illinois",3,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",10433,10500,10759,11288,12090,12847,13161,13951,14513,16749
+ "17000","Illinois",3,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1651817,1596305,1668513,1717256,1885352,1962261,2006847,2029313,1373508,1855786
+ "17000","Illinois",3,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",970338,986562,1056807,1055796,1141051,1226472,1245185,1220884,743358,866219
+ "17000","Illinois",3,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",681479,609743,611705,661460,744301,735789,761663,808429,630150,989567
+ "17000","Illinois",3,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",87005,90241,94496,102772,108817,114124,115092,120677,118319,125090
+ "17000","Illinois",3,SAOCOMP,25,"..."," Government ","Thousands of dollars",1033193,1080712,1106531,1135055,1221934,1263755,1216689,1170240,1138745,1167848
+ "17000","Illinois",3,SAOCOMP,26,"...","  Federal ","Thousands of dollars",9971,7554,6947,6345,6471,7617,7833,7289,6491,7493
+ "17000","Illinois",3,SAOCOMP,27,"...","  State and local ","Thousands of dollars",1023223,1073159,1099583,1128710,1215463,1256138,1208857,1162951,1132254,1160354
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

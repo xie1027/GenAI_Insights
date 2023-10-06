@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "36000","New York",2,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",21312276,22133657,22872216,24047175,24910317,24978023,25688180,26754271,20624383,25454115
+ "36000","New York",2,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",10778414,11174433,11541570,11957062,12043881,12717048,12722518,13089556,10995366,12587834
+ "36000","New York",2,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",6483459,6712147,6806469,7046184,6985252,7336519,7124918,7402930,7139760,7569343
+ "36000","New York",2,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",83282,83567,83961,82371,83154,96107,92550,100374,116336,125675
+ "36000","New York",2,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",873318,892371,933316,986939,1053391,1082963,1075142,1118616,1345848,1099417
+ "36000","New York",2,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",25514,21477,21195,20613,21162,20163,18900,19940,24604,39176
+ "36000","New York",2,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",81337,80990,81961,92408,125469,142994,143222,140302,136530,146949
+ "36000","New York",2,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",70201,76273,80597,81914,87038,83451,84980,94304,64321,65434
+ "36000","New York",2,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",696266,713631,749563,792003,819723,836355,828040,864070,1120394,847859
+ "36000","New York",2,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",162516,166873,170648,171798,164270,168019,169608,180772,191132,256072
+ "36000","New York",2,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",106287,113115,132384,136366,148309,164231,176224,167076,160952,175404
+ "36000","New York",2,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",262622,312772,275293,283298,349830,346935,319371,326960,297007,296713
+ "36000","New York",2,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",134883,153534,132053,134662,180643,182512,166241,177002,153856,140069
+ "36000","New York",2,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",127739,159238,143239,148636,169188,164424,153130,149958,143151,156644
+ "36000","New York",2,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",257091,240986,254616,268769,269092,244764,245359,245269,254901,267737
+ "36000","New York",2,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",29199,32049,32038,32308,31904,29301,26826,30737,29129,25510
+ "36000","New York",2,SAOACTVA,17,"...","   RVing ","Thousands of dollars",459062,475214,492337,521321,513992,506543,516367,528012,569422,663117
+ "36000","New York",2,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",156298,149699,162336,169175,168220,168213,170870,174008,149622,146966
+ "36000","New York",2,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",88995,87534,95466,99562,97563,91404,91339,94469,67321,79401
+ "36000","New York",2,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",67303,62165,66870,69613,70658,76809,79531,79539,82301,67565
+ "36000","New York",2,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",441183,458547,465002,492116,467679,500532,467207,533375,580995,686397
+ "36000","New York",2,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",352547,369356,371726,372713,347947,381278,341294,360349,374198,443707
+ "36000","New York",2,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",88636,89192,93277,119403,119732,119255,125913,173026,206796,242690
+ "36000","New York",2,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",3652600,3786955,3804538,3901722,3735409,4028911,3865393,3997730,3444413,3826337
+ "36000","New York",2,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",4294956,4462286,4735101,4910878,5058629,5380528,5597601,5686626,3855607,5018490
+ "36000","New York",2,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",175027,182600,195170,218972,237559,272199,291083,305011,201858,290977
+ "36000","New York",2,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",1325462,1386004,1524305,1504225,1666748,1794413,1888207,1822320,1030266,1551767
+ "36000","New York",2,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",202340,205110,216416,229543,236444,273405,277653,299821,243553,276805
+ "36000","New York",2,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",890593,917396,933105,952985,977716,984571,1039040,1093559,797998,878943
+ "36000","New York",2,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",729290,727213,780109,801136,777346,873786,932046,945971,488405,749605
+ "36000","New York",2,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",369247,368200,418610,445288,445203,471320,507000,519922,262030,411214
+ "36000","New York",2,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",360043,359013,361499,355847,332143,402466,425046,426049,226375,338391
+ "36000","New York",2,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",178081,186888,189801,207414,215772,225836,226379,226104,260970,297079
+ "36000","New York",2,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",527266,550051,582102,655509,616462,622866,619562,640997,507987,550183
+ "36000","New York",2,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",266897,307023,314093,341095,330581,333452,323631,352844,324569,423132
+ "36000","New York",2,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",10533862,10959224,11330646,12090113,12866437,12260975,12965662,13664715,9629017,12866281
+ "36000","New York",2,SAOACTVA,37,"...","   Construction ","Thousands of dollars",579267,483909,517926,529677,507425,505273,486751,470004,438329,415194
+ "36000","New York",2,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",1676826,1722675,1784047,1890365,1894816,1874485,1960853,2051212,1898137,2116447
+ "36000","New York",2,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",7199506,7588579,7806225,8368381,9117740,8499196,9096060,9708958,5801191,8799016
+ "36000","New York",2,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",1381925,1174322,1201517,1265124,1477187,1389093,1529795,1621134,898904,1823821
+ "36000","New York",2,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",2276935,2664668,2472525,2662755,2838944,2604197,2843722,2978715,2247162,3390610
+ "36000","New York",2,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",1297168,1308959,1346796,1394923,1425775,1387918,1436166,1482079,1548868,1642762
+ "36000","New York",2,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",2243477,2440631,2785386,3045580,3375835,3117987,3286377,3627030,1106258,1941823
+ "36000","New York",2,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",1078264,1164061,1222449,1301691,1346456,1382020,1421997,1434541,1491359,1535625
+ "36000","New York",2,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",146840,152663,128731,124229,137294,151358,175015,125284,118304,123775
+ "36000","New York",2,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",931424,1011398,1093718,1177462,1209162,1230663,1246982,1309257,1373056,1411850
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

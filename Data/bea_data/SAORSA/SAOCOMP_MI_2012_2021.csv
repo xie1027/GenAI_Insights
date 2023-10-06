@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "26000","Michigan",3,SAOCOMP,1,"...","All industries ","Thousands of dollars",4066791,4075738,4232408,4299884,4415697,4753201,4829890,5022046,4449229,4961631
+ "26000","Michigan",3,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",3782864,3774639,3922216,3976896,4087601,4420762,4496520,4674659,4081613,4576092
+ "26000","Michigan",3,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",100214,96158,105010,107393,142780,163287,153651,170843,140777,139363
+ "26000","Michigan",3,SAOCOMP,4,"...","  Mining ","Thousands of dollars",213,203,208,178,176,211,212,186,205,215
+ "26000","Michigan",3,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",22,24,19,23,15,17,10,11,16,13
+ "26000","Michigan",3,SAOCOMP,6,"...","  Construction ","Thousands of dollars",56017,57626,62946,64871,64427,66069,64555,64469,61407,61294
+ "26000","Michigan",3,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",366165,367659,378470,388087,379068,411171,463236,515424,524210,594870
+ "26000","Michigan",3,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",248251,247602,257897,263602,247455,268209,322693,364508,345432,387882
+ "26000","Michigan",3,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",117914,120058,120573,124485,131614,142962,140543,150916,178778,206988
+ "26000","Michigan",3,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",224223,216848,227721,241269,236153,249907,258888,261182,245170,256591
+ "26000","Michigan",3,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",1364886,1374141,1373781,1400323,1381261,1512785,1480371,1514218,1586218,1683500
+ "26000","Michigan",3,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",295416,303388,322187,321582,353363,385408,413539,446425,319034,444858
+ "26000","Michigan",3,SAOCOMP,13,"...","  Information ","Thousands of dollars",8302,8652,9099,9564,9538,9629,9650,9434,10282,17295
+ "26000","Michigan",3,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",101290,100116,90299,97701,99245,101444,107745,119632,111878,118966
+ "26000","Michigan",3,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",54445,52210,51411,51734,50523,50975,50812,55623,54913,55888
+ "26000","Michigan",3,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",46845,47906,38888,45968,48722,50469,56932,64008,56965,63078
+ "26000","Michigan",3,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",75425,69324,76557,84571,86308,93703,98143,93522,47808,61316
+ "26000","Michigan",3,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",41006,41628,45307,47198,51756,57018,61235,61618,51123,56648
+ "26000","Michigan",3,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",33428,34023,37461,39134,43250,47848,51870,51685,41039,45592
+ "26000","Michigan",3,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",7578,7605,7845,8063,8506,9170,9365,9933,10084,11056
+ "26000","Michigan",3,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1086999,1073373,1160838,1135786,1196351,1275212,1290620,1315383,873568,1028750
+ "26000","Michigan",3,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",643533,662999,722585,704752,752772,782692,791351,782993,492047,565004
+ "26000","Michigan",3,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",443467,410374,438254,431034,443579,492520,499269,532390,381521,463745
+ "26000","Michigan",3,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",62685,65498,69773,78351,87159,94899,94665,102313,109915,112413
+ "26000","Michigan",3,SAOCOMP,25,"..."," Government ","Thousands of dollars",283928,301099,310192,322988,328096,332439,333369,347387,367616,385539
+ "26000","Michigan",3,SAOCOMP,26,"...","  Federal ","Thousands of dollars",16647,17059,16963,17432,19135,20528,22211,16836,15343,16027
+ "26000","Michigan",3,SAOCOMP,27,"...","  State and local ","Thousands of dollars",267280,284040,293229,305556,308961,311911,311158,330550,352274,369512
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

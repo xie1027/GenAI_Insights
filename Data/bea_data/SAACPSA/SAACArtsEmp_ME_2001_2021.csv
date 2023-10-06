@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "23000","Maine",1,SAACArtsEmp,1,"...","Total employment ","Number of jobs",627326,626306,627164,632278,627819,632651,635466,635038,612929,607945,608840,611800,615236,619261,624810,632513,637937,644334,651518,612542,637018
+ "23000","Maine",1,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",23828,23042,23172,23045,20855,20767,20540,20515,19097,19033,19274,18288,17345,16846,17085,16931,16796,17065,17270,14954,16743
+ "23000","Maine",1,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",3796,3870,3597,3543,3454,3488,3508,3556,3276,(D),(D),3455,3644,3705,3875,3968,4039,4305,4611,3571,4098
+ "23000","Maine",1,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",431,463,385,340,320,337,344,342,328,354,367,402,382,309,295,309,315,330,360,200,271
+ "23000","Maine",1,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",77,90,74,119,110,142,144,149,167,184,193,215,245,308,470,543,512,658,787,270,462
+ "23000","Maine",1,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",5,7,9,8,6,6,7,8,7,11,13,12,9,9,8,7,7,(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",68,77,74,89,94,98,93,96,82,80,104,106,132,169,151,154,154,(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,120,"...","  Museums ","Number of jobs",366,395,371,375,398,411,438,449,436,453,448,462,477,497,506,533,544,577,599,498,535
+ "23000","Maine",1,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",652,680,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",546,564,539,548,560,607,615,640,570,485,459,467,468,458,452,482,505,504,524,524,512
+ "23000","Maine",1,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",67,61,58,63,61,69,66,82,76,78,81,65,66,73,75,62,61,60,61,59,70
+ "23000","Maine",1,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",53,54,53,55,62,72,74,85,61,41,29,31,34,44,61,65,60,69,83,91,112
+ "23000","Maine",1,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",15,28,24,17,12,14,17,11,11,14,15,15,16,12,14,13,9,15,12,18,16
+ "23000","Maine",1,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",162,126,126,115,121,132,123,99,83,76,81,89,100,112,121,142,163,164,173,157,175
+ "23000","Maine",1,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",54,40,(D),(D),(D),(D),(D),(D),(D),45,44,(D),54,58,63,65,68,53,55,57,61
+ "23000","Maine",1,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",683,605,590,543,512,418,393,367,297,271,254,239,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",22,20,17,22,25,20,16,17,12,9,11,10,9,9,19,24,20,21,23,23,25
+ "23000","Maine",1,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",297,309,346,355,356,368,373,408,369,390,434,464,505,515,536,562,599,648,703,564,647
+ "23000","Maine",1,SAACArtsEmp,150,"...","  Education services ","Number of jobs",298,351,323,298,293,288,352,324,328,317,331,318,330,355,382,363,412,417,450,457,495
+ "23000","Maine",1,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",19057,18194,18650,18599,16515,16410,16152,16102,15000,15083,15258,14166,13059,12489,12537,12282,12101,12114,12015,10812,12021
+ "23000","Maine",1,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",469,450,473,450,393,379,335,(D),(D),(D),108,(D),(D),80,64,60,39,(D),35,32,33
+ "23000","Maine",1,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",17,18,21,15,16,19,20,18,20,23,(D),28,32,33,36,36,36,39,37,35,34
+ "23000","Maine",1,SAACArtsEmp,213,"...","  Unions ","Number of jobs",54,48,52,54,51,49,47,52,59,55,63,61,70,65,69,58,60,60,65,49,60
+ "23000","Maine",1,SAACArtsEmp,214,"...","  Government ","Number of jobs",6321,6522,6322,6025,5451,5101,4799,4752,4620,4424,4653,4609,4566,4556,4514,4573,4633,4635,4631,4463,4518
+ "23000","Maine",1,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",25,(D),(D),4,5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",1678,1601,1678,1640,1642,1633,1682,1562,1360,1303,1232,1140,1055,1010,1006,1006,963,816,781,727,767
+ "23000","Maine",1,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",999,968,1083,915,1043,707,722,735,717,736,642,612,601,628,729,804,815,814,829,413,470
+ "23000","Maine",1,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",18,13,12,15,15,18,20,21,20,20,26,25,21,21,20,18,17,16,27,20,16
+ "23000","Maine",1,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",1139,1182,1230,1236,1256,1209,1307,1339,1410,1499,1505,1518,1456,1397,1424,1400,1282,1460,1353,1277,1298
+ "23000","Maine",1,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),374,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",118,109,93,105,90,86,60,53,35,39,36,51,48,46,43,44,39,35,36,(D),(D)
+ "23000","Maine",1,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",(D),365,368,415,401,387,447,429,324,260,268,262,271,259,244,254,273,273,262,212,219
+ "23000","Maine",1,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",15,15,19,16,19,(D),(D),(D),(D),(D),(D),(D),31,29,29,32,35,160,156,116,129
+ "23000","Maine",1,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",(D),(D),199,(D),172,166,(D),(D),195,183,198,198,201,192,216,232,248,239,227,195,184
+ "23000","Maine",1,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",84,82,68,68,56,43,46,(D),26,(D),42,51,55,66,75,87,102,96,100,90,87
+ "23000","Maine",1,SAACArtsEmp,240,"...","  Construction ","Number of jobs",598,298,666,263,222,672,852,1049,873,1170,1876,995,459,(D),383,194,103,62,182,206,753
+ "23000","Maine",1,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",770,780,800,803,(D),(D),689,702,540,617,634,(D),(D),475,477,(D),(D),(D),(D),(D),(D)
+ "23000","Maine",1,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",5533,5005,5020,5812,4317,4524,4492,4409,4133,4129,3537,3532,3226,2988,2833,2651,2599,2520,2449,2148,2562
+ "23000","Maine",1,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",975,977,925,903,886,869,880,856,821,(D),(D),667,643,652,673,681,656,646,644,571,623
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

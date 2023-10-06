@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "47000","Tennessee",5,SAOEMP,1,"...","All industries ","Number of jobs",92925,89976,91833,91984,94834,98349,99862,103582,80876,93233
+ "47000","Tennessee",5,SAOEMP,2,"..."," Private industries ","Number of jobs",87444,84593,86447,86691,89411,92914,94429,98300,75517,87743
+ "47000","Tennessee",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",928,932,977,952,1185,1295,1341,1351,1097,1285
+ "47000","Tennessee",5,SAOEMP,4,"...","  Mining ","Number of jobs",2,1,1,1,1,1,1,1,1,1
+ "47000","Tennessee",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "47000","Tennessee",5,SAOEMP,6,"...","  Construction ","Number of jobs",1095,867,957,988,952,950,979,1048,1057,1072
+ "47000","Tennessee",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",5856,5698,5609,5668,5958,6653,6673,6978,7089,8098
+ "47000","Tennessee",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",3343,3275,3256,3297,3531,4108,4285,4551,4565,5393
+ "47000","Tennessee",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",2513,2424,2353,2371,2427,2545,2388,2427,2524,2705
+ "47000","Tennessee",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2404,2358,2358,2384,2338,2349,2355,2360,2193,2277
+ "47000","Tennessee",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",30586,30395,30588,30958,31435,31691,31397,31630,27920,29241
+ "47000","Tennessee",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",3766,3693,3606,3403,3455,3438,3636,4075,3296,3977
+ "47000","Tennessee",5,SAOEMP,13,"...","  Information ","Number of jobs",118,121,121,122,119,115,113,107,112,231
+ "47000","Tennessee",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",723,785,655,694,715,753,853,962,744,769
+ "47000","Tennessee",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",225,212,199,190,186,180,168,187,183,185
+ "47000","Tennessee",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",498,572,456,503,530,573,685,775,561,584
+ "47000","Tennessee",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",945,965,995,1060,1131,1071,1068,1025,757,748
+ "47000","Tennessee",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1035,1108,1173,1265,1398,1541,1604,1695,1423,1623
+ "47000","Tennessee",5,SAOEMP,19,"...","   Educational services ","Number of jobs",947,1021,1084,1174,1302,1438,1501,1586,1325,1510
+ "47000","Tennessee",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",88,86,89,91,96,103,103,109,98,114
+ "47000","Tennessee",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",38923,36624,38324,38110,39635,41981,43285,45887,28763,37320
+ "47000","Tennessee",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",13982,14247,14932,15084,16009,17181,18353,19288,13305,15091
+ "47000","Tennessee",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",24941,22377,23392,23025,23626,24800,24932,26599,15458,22229
+ "47000","Tennessee",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",1064,1045,1084,1086,1091,1075,1123,1180,1065,1102
+ "47000","Tennessee",5,SAOEMP,25,"..."," Government ","Number of jobs",5482,5383,5385,5293,5423,5434,5433,5282,5358,5490
+ "47000","Tennessee",5,SAOEMP,26,"...","  Federal ","Number of jobs",1101,968,909,826,857,863,901,625,608,599
+ "47000","Tennessee",5,SAOEMP,27,"...","  State and local ","Number of jobs",4381,4415,4476,4467,4565,4571,4532,4657,4750,4891
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

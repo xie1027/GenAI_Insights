@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "50000","Vermont",1,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1215469,1314868,1257152,1397786,1409263,1479249,1509800,1593638,1258572,1539280
+ "50000","Vermont",1,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",609416,625009,636930,662471,678885,700857,712102,737838,667411,741148
+ "50000","Vermont",1,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",472109,485576,495439,518833,534450,558865,567888,589605,546849,592952
+ "50000","Vermont",1,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",5416,5560,5432,5218,5015,5430,5429,5963,7546,8848
+ "50000","Vermont",1,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",34119,34238,35728,37506,40515,44021,43436,44483,57430,49959
+ "50000","Vermont",1,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",1275,1027,1008,993,1017,1145,1027,1090,1930,4433
+ "50000","Vermont",1,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",7758,7929,8490,9383,11569,14357,14129,13890,13151,14488
+ "50000","Vermont",1,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",2189,2337,2484,2569,2817,2646,2714,3080,2055,2044
+ "50000","Vermont",1,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",22897,22945,23747,24561,25112,25873,25566,26423,40294,28994
+ "50000","Vermont",1,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",13450,13698,13930,14069,13016,14769,14906,15721,16724,20531
+ "50000","Vermont",1,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",9078,9910,12010,12502,14003,15389,16432,14783,13232,14780
+ "50000","Vermont",1,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",45399,53525,40383,40747,52549,51515,49320,48595,57676,61316
+ "50000","Vermont",1,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",18354,21797,16096,16260,21395,17622,18324,16275,18498,17691
+ "50000","Vermont",1,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",27045,31728,24288,24487,31154,33893,30996,32320,39177,43625
+ "50000","Vermont",1,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",13427,12410,12704,13535,13258,11633,11183,10181,12150,13172
+ "50000","Vermont",1,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",1236,1366,1344,1276,1140,1037,996,1056,1052,1176
+ "50000","Vermont",1,SAOACTVA,17,"...","   RVing ","Thousands of dollars",36943,38499,39896,43105,41716,42094,43765,45640,51263,56446
+ "50000","Vermont",1,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",169900,173118,191203,203696,211939,226419,240941,259306,204423,215049
+ "50000","Vermont",1,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",115839,121780,136264,147580,157178,168010,179036,194406,136132,151230
+ "50000","Vermont",1,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",54061,51337,54939,56116,54762,58409,61905,64900,68291,63819
+ "50000","Vermont",1,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",22604,22608,23839,24710,23329,25573,24363,26420,29173,38040
+ "50000","Vermont",1,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",19011,19012,20006,20135,18622,20785,19274,19569,20282,24794
+ "50000","Vermont",1,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",3593,3596,3833,4576,4708,4788,5089,6851,8890,13246
+ "50000","Vermont",1,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",120538,120645,118968,122468,117968,120985,117117,117455,96180,113635
+ "50000","Vermont",1,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",137307,139432,141492,143638,144435,141992,144214,148234,120562,148196
+ "50000","Vermont",1,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",3698,3833,4008,4310,4560,5055,5377,5622,4630,6629
+ "50000","Vermont",1,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",6936,7521,8060,7759,8685,9567,10046,9595,5488,7149
+ "50000","Vermont",1,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",8218,8194,8829,9612,10475,12108,11517,12232,10317,12192
+ "50000","Vermont",1,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",60348,60980,60657,60379,61745,53448,56296,59685,48854,57613
+ "50000","Vermont",1,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",18307,17947,18610,18262,16868,18640,19034,19060,10590,16853
+ "50000","Vermont",1,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",10592,10450,11267,11220,10297,11032,11290,11452,6127,9646
+ "50000","Vermont",1,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",7715,7497,7343,7042,6571,7608,7744,7609,4463,7206
+ "50000","Vermont",1,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",8343,8880,8794,9364,9301,9636,9434,9239,10817,11981
+ "50000","Vermont",1,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",23353,23700,24562,25827,25316,25651,25490,25451,22745,25965
+ "50000","Vermont",1,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",8103,8379,7972,8125,7485,7887,7020,7349,7120,9814
+ "50000","Vermont",1,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",606052,689860,620222,735315,730378,778392,797698,855799,591162,798132
+ "50000","Vermont",1,SAOACTVA,37,"...","   Construction ","Thousands of dollars",6040,5696,6078,6547,7068,8309,9531,10118,9519,9097
+ "50000","Vermont",1,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",119126,122918,125537,131531,135023,134280,136593,148643,134080,148251
+ "50000","Vermont",1,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",451653,529029,453856,559959,550520,598459,613825,657344,405229,594020
+ "50000","Vermont",1,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",79705,74317,66744,86430,85856,97944,99478,105032,43448,88376
+ "50000","Vermont",1,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",237080,307975,252090,322083,316222,348190,357061,383003,249557,354808
+ "50000","Vermont",1,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",72501,79249,72796,83918,79654,87303,89506,92394,88796,95852
+ "50000","Vermont",1,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",62367,67488,62226,67529,68788,65022,67780,76915,23428,54984
+ "50000","Vermont",1,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",29234,32217,34751,37277,37767,37345,37750,39695,42334,46765
+ "50000","Vermont",1,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",448,469,459,464,507,547,623,473,418,437
+ "50000","Vermont",1,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",28786,31748,34292,36813,37260,36797,37127,39222,41916,46327
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

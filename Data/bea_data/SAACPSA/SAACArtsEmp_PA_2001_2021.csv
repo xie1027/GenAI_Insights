@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "42000","Pennsylvania",2,SAACArtsEmp,1,"...","Total employment ","Number of jobs",5876807,5839694,5796960,5827156,5881953,5945739,5982190,5983782,5789273,5794226,5852406,5907982,5933931,5986357,6037379,6086205,6146710,6216778,6279475,5832095,5995350
+ "42000","Pennsylvania",2,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",228504,226879,217189,208586,204426,201094,198714,204585,191060,181234,175804,175414,175464,174862,177376,178190,177553,176466,180947,159748,165186
+ "42000","Pennsylvania",2,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",48795,48474,47527,46740,47318,47754,47905,48399,45143,43324,43582,44076,45777,47587,49007,50959,51790,52118,52360,42489,45680
+ "42000","Pennsylvania",2,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",5550,5509,5217,5061,5070,4787,4802,4713,4313,4104,3857,3895,4085,4284,4332,4500,4695,4651,4748,3100,3515
+ "42000","Pennsylvania",2,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",2142,2345,2839,2621,3181,3662,3863,4208,4289,4120,4343,4305,4683,4668,4742,4803,4914,5214,5532,2153,2816
+ "42000","Pennsylvania",2,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",131,134,126,133,152,136,128,122,114,123,106,116,91,103,119,130,117,118,109,65,62
+ "42000","Pennsylvania",2,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",915,901,948,1007,1133,1208,1221,1214,1221,992,1068,1046,1038,1060,1123,1160,1317,1356,1187,806,1055
+ "42000","Pennsylvania",2,SAACArtsEmp,120,"...","  Museums ","Number of jobs",4605,4614,4805,4986,5100,5380,5919,6094,5971,5799,6021,6316,6482,6613,6752,6811,7112,7221,7243,5424,5729
+ "42000","Pennsylvania",2,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",7374,6924,6481,6198,5829,5445,5178,5336,4718,4707,4909,5354,5370,5985,6132,6515,6463,6254,6222,5533,5870
+ "42000","Pennsylvania",2,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",5327,5211,5141,5203,5324,5674,5907,5928,4964,4375,4078,3943,3991,4044,4271,4458,4640,4760,4894,4785,4792
+ "42000","Pennsylvania",2,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",1602,1770,1523,1683,1624,1538,1363,1355,1175,1107,1064,1017,992,967,921,1008,953,962,950,890,908
+ "42000","Pennsylvania",2,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",609,571,628,713,755,798,878,842,683,620,640,658,687,715,779,814,907,947,941,856,1075
+ "42000","Pennsylvania",2,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",350,494,451,508,468,479,455,435,337,338,359,392,899,902,824,689,751,842,877,549,564
+ "42000","Pennsylvania",2,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",3273,3105,3055,2557,2516,2584,2481,2411,2217,2109,1941,1757,1770,1775,1805,1879,1885,1855,1821,1626,1666
+ "42000","Pennsylvania",2,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",494,422,432,463,493,508,539,585,581,610,665,712,760,769,782,823,834,831,844,848,902
+ "42000","Pennsylvania",2,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",4936,4652,4497,4226,3886,3787,3764,3612,3271,3093,3167,3088,2698,2617,2576,2448,2359,2233,2116,1399,1683
+ "42000","Pennsylvania",2,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",120,88,107,114,123,126,144,139,114,96,97,115,210,211,205,218,226,224,248,190,223
+ "42000","Pennsylvania",2,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",3367,3612,3470,3504,3531,3539,3627,3750,3618,3568,3617,3695,3841,4175,4160,4555,4771,5061,5412,4420,5344
+ "42000","Pennsylvania",2,SAACArtsEmp,150,"...","  Education services ","Number of jobs",8000,8122,7805,7763,8133,8102,7636,7657,7557,7563,7650,7666,8180,8700,9484,10149,9843,9588,9215,9844,9474
+ "42000","Pennsylvania",2,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",170261,169006,160797,153219,148542,144925,142277,147895,138004,130659,125115,124715,123329,120811,121711,120517,119285,117951,122211,111673,113511
+ "42000","Pennsylvania",2,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",3669,3467,3597,3413,2888,2516,2187,1999,1714,1364,1025,934,882,821,933,885,893,912,928,814,823
+ "42000","Pennsylvania",2,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",188,195,223,209,217,248,256,235,275,268,267,314,322,335,334,328,330,344,359,342,340
+ "42000","Pennsylvania",2,SAACArtsEmp,213,"...","  Unions ","Number of jobs",1057,909,959,958,1001,1033,941,1005,1098,968,1103,1063,1231,1140,1214,1058,1140,1011,1134,883,1082
+ "42000","Pennsylvania",2,SAACArtsEmp,214,"...","  Government ","Number of jobs",62597,62967,58233,52166,47814,42921,38496,39235,38036,37513,37379,36330,36491,36126,35879,36124,35543,34747,(D),(D),(D)
+ "42000","Pennsylvania",2,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",224,147,154,171,197,180,184,167,153,119,110,99,111,112,109,102,101,106,105,78,73
+ "42000","Pennsylvania",2,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",17362,16806,17160,16030,15486,15481,15939,15341,13859,(D),12917,12055,11323,10483,10443,9970,9617,10246,10210,10041,10144
+ "42000","Pennsylvania",2,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",6728,6710,6800,6652,6583,6370,6568,6903,7508,6972,7314,7593,7089,6956,7358,7786,7392,7569,7817,4508,5767
+ "42000","Pennsylvania",2,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",664,1003,1033,545,395,416,440,441,407,387,360,272,256,234,265,289,324,374,345,227,292
+ "42000","Pennsylvania",2,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",12610,12707,13069,13649,14008,14862,15869,16193,15643,15458,15253,16426,16114,16065,15897,15946,15105,15381,15333,14768,14746
+ "42000","Pennsylvania",2,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",7725,7200,6681,6359,6611,6957,4599,4775,4687,4447,4814,5044,5174,5325,5478,5460,5564,5578,5505,5350,5726
+ "42000","Pennsylvania",2,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",708,684,590,571,564,541,515,(D),(D),295,284,393,389,347,349,321,310,279,245,207,254
+ "42000","Pennsylvania",2,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",7496,6109,5727,6188,5968,6001,6860,6673,6028,5506,4915,4582,4492,4388,4130,4005,4215,3947,3751,3080,2890
+ "42000","Pennsylvania",2,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",1324,1275,1214,1157,1141,1094,1018,943,833,769,760,839,839,826,870,840,796,751,788,733,768
+ "42000","Pennsylvania",2,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",1066,1419,1310,1256,1073,1110,1602,1749,1447,1431,1550,1583,1666,1596,1860,2055,2108,2209,2158,1800,1712
+ "42000","Pennsylvania",2,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",4128,3861,3523,3035,2573,2169,2474,(D),(D),(D),1587,1633,1591,1795,1928,1722,1886,1737,(D),(D),(D)
+ "42000","Pennsylvania",2,SAACArtsEmp,240,"...","  Construction ","Number of jobs",5442,7249,5534,4876,5652,5896,5720,11766,9261,5911,4048,4454,4074,3384,4010,3578,3645,2876,6136,4860,2736
+ "42000","Pennsylvania",2,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",6620,7219,6786,7073,7397,7282,7665,7329,5891,6665,6751,6503,6471,6563,6560,6344,6434,6443,6633,5836,5931
+ "42000","Pennsylvania",2,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",30654,29078,28202,28911,28973,29846,30942,30378,28989,27628,24677,24599,24815,24313,24095,23704,23882,23443,23959,21873,25024
+ "42000","Pennsylvania",2,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",9448,9399,8865,8627,8566,8416,8532,8292,7913,7251,7107,6624,6358,6464,6658,6715,6478,6397,6376,5586,5995
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

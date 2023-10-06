@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "26000","Michigan",3,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",8391112,8819894,8912566,9183569,9385982,9933891,10321341,10821122,9401311,10848319
+ "26000","Michigan",3,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",4867539,5014161,5118621,5276226,5418990,5742981,5952105,6261109,5859275,6460241
+ "26000","Michigan",3,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",3119067,3184975,3227238,3357183,3481899,3715272,3731370,3884096,4112644,4395225
+ "26000","Michigan",3,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",35590,37913,38314,38145,38236,41638,39336,40391,48296,54152
+ "26000","Michigan",3,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",566934,588528,603765,644055,695213,719899,743929,799594,1094380,947910
+ "26000","Michigan",3,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",23046,18649,18049,18236,18668,16196,16039,18117,27002,46800
+ "26000","Michigan",3,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",75929,77182,78625,88796,124117,140629,142705,138560,138211,153393
+ "26000","Michigan",3,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",37010,40465,43314,44782,49379,46148,47895,55792,39218,37734
+ "26000","Michigan",3,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",430948,452232,463778,492242,503049,516926,537290,587125,889949,709983
+ "26000","Michigan",3,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",82982,85612,89191,92695,89553,105575,103461,107479,115190,149595
+ "26000","Michigan",3,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",80828,86534,97777,103525,120393,131472,149604,140055,130033,154490
+ "26000","Michigan",3,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",188760,216347,205885,220406,287154,322814,305315,357185,330892,326391
+ "26000","Michigan",3,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",114539,130172,123684,136641,194975,230155,219776,273967,241149,227920
+ "26000","Michigan",3,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",74220,86174,82201,83765,92179,92659,85539,83218,89742,98471
+ "26000","Michigan",3,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",156514,149719,154638,166685,166247,153361,155486,146405,170948,186838
+ "26000","Michigan",3,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",16341,17709,17610,17355,16473,15083,14255,15653,15445,15472
+ "26000","Michigan",3,SAOACTVA,17,"...","   RVing ","Thousands of dollars",391533,403233,428076,457420,482116,495312,512092,505974,592866,719914
+ "26000","Michigan",3,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",87368,84176,91112,93257,89090,89241,90700,88799,81951,74848
+ "26000","Michigan",3,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",43760,42913,46745,48151,45910,41279,40649,41497,30215,36636
+ "26000","Michigan",3,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",43608,41263,44367,45106,43180,47962,50051,47303,51736,38212
+ "26000","Michigan",3,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",215060,215109,219593,228621,220178,241953,238743,278272,299215,358225
+ "26000","Michigan",3,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",148085,151472,151291,149185,138305,161196,148808,154157,155215,187765
+ "26000","Michigan",3,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",66975,63637,68302,79437,81873,80757,89935,124115,143999,170461
+ "26000","Michigan",3,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",1297158,1300094,1281275,1295018,1277246,1398925,1378448,1404287,1233428,1407390
+ "26000","Michigan",3,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1748472,1829186,1891382,1919043,1937091,2027709,2220735,2377013,1746631,2065016
+ "26000","Michigan",3,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",66602,69517,72411,78480,83045,92451,100569,106976,84705,117466
+ "26000","Michigan",3,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",253564,268808,296648,288278,326654,355448,358444,325296,150291,207300
+ "26000","Michigan",3,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",67719,68596,71696,74073,74223,84758,83030,89854,78334,90157
+ "26000","Michigan",3,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",461665,472950,472825,478470,488235,466994,489496,514546,385967,427473
+ "26000","Michigan",3,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",421319,441141,464386,456454,416176,466939,633849,781901,496316,584405
+ "26000","Michigan",3,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",230306,248465,276554,288870,284877,274780,418251,586904,347873,422283
+ "26000","Michigan",3,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",191013,192676,187832,167584,131300,192159,215598,194998,148442,162122
+ "26000","Michigan",3,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",189407,211171,209392,222278,229153,235265,235056,229131,259877,306248
+ "26000","Michigan",3,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",201306,206364,213835,228013,224473,225547,224786,233740,197146,215540
+ "26000","Michigan",3,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",86889,90638,90189,92998,95131,100306,95506,95569,93996,116428
+ "26000","Michigan",3,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",3523573,3805733,3793945,3907343,3966992,4190910,4369236,4560013,3542036,4388078
+ "26000","Michigan",3,SAOACTVA,37,"...","   Construction ","Thousands of dollars",98189,98003,114706,130909,129305,128253,123090,121476,115444,110237
+ "26000","Michigan",3,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",797048,821966,847756,866896,854785,850217,886463,909321,898983,1008435
+ "26000","Michigan",3,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",2256493,2494111,2421509,2482878,2541026,2753648,2887265,3043228,2019000,2734225
+ "26000","Michigan",3,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",383398,323600,346780,350077,364598,415439,415208,434970,222972,376811
+ "26000","Michigan",3,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",670635,922138,759114,788925,798854,841476,893756,941266,803502,938545
+ "26000","Michigan",3,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",477678,501222,521039,527954,524340,567419,572022,586710,637211,649924
+ "26000","Michigan",3,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",724783,747151,794576,815922,853234,929313,1006279,1080281,355316,768946
+ "26000","Michigan",3,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",371843,391653,409973,426661,441875,458791,472418,485988,508609,535181
+ "26000","Michigan",3,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",22243,24894,24889,25636,28053,30015,32969,24520,22422,23459
+ "26000","Michigan",3,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",349599,366759,385085,401025,413822,428776,439449,461468,486188,511722
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

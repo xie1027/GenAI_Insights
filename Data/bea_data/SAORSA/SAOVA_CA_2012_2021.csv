@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "06000","California",8,SAOVA,1,"...","All industries ","Thousands of dollars",43830313,45359325,47302752,49926017,50948810,54729148,57051863,59055990,42803675,54700435
+ "06000","California",8,SAOVA,2,"..."," Private industries ","Thousands of dollars",40751898,42263666,44104482,46705532,47486617,51055645,53279679,55350360,39034315,50662245
+ "06000","California",8,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",893988,1052391,1045611,1049213,1111266,1188730,1186003,1187905,1201595,1344145
+ "06000","California",8,SAOVA,4,"...","  Mining ","Thousands of dollars",7299,7208,7269,4600,3634,4549,5454,5066,3839,6734
+ "06000","California",8,SAOVA,5,"...","  Utilities ","Thousands of dollars",106,107,99,105,89,90,74,70,81,83
+ "06000","California",8,SAOVA,6,"...","  Construction ","Thousands of dollars",658170,644961,657669,672742,680838,709557,741861,790146,792655,742061
+ "06000","California",8,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",5660290,5565090,5524121,5460883,4866070,5383125,5966771,5870071,4851490,6202536
+ "06000","California",8,SAOVA,8,"...","   Durable goods ","Thousands of dollars",1389291,1391227,1392424,1503490,1535074,1515788,1593627,1562726,1563556,1827855
+ "06000","California",8,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",4270999,4173863,4131697,3957393,3330996,3867337,4373144,4307345,3287934,4374681
+ "06000","California",8,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",3724445,3660048,3868455,4103918,3912097,3865910,4083331,4275376,3642966,4274788
+ "06000","California",8,SAOVA,11,"...","  Retail trade ","Thousands of dollars",9608572,9954504,10054713,10536809,10670258,11470310,11549502,11973698,11628027,13656090
+ "06000","California",8,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",4612502,5298237,6005782,6360723,6588691,7179131,7280534,7730075,2474747,3792744
+ "06000","California",8,SAOVA,13,"...","  Information ","Thousands of dollars",149639,162198,169349,193464,204941,224528,242341,258361,274957,391707
+ "06000","California",8,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",1553994,1821519,1659270,1790164,1887387,1953818,2055715,2255847,2131094,2226727
+ "06000","California",8,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",409410,368979,441127,487675,503951,467939,494519,532944,522869,519611
+ "06000","California",8,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",1144583,1452539,1218143,1302488,1383436,1485879,1561196,1722903,1608225,1707116
+ "06000","California",8,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",682339,675107,707020,773443,836618,966328,1057760,1023272,279148,605322
+ "06000","California",8,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",353535,357992,387584,409809,462688,501060,553031,577192,412856,484426
+ "06000","California",8,SAOVA,19,"...","   Educational services ","Thousands of dollars",298499,304422,331826,351054,399934,433598,483886,503601,345824,402342
+ "06000","California",8,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",55036,53571,55758,58755,62754,67462,69145,73591,67031,82084
+ "06000","California",8,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",12219297,12424363,13345754,14634553,15506214,16808958,17752261,18542331,10434446,15948285
+ "06000","California",8,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",5496532,5717937,6132401,6407097,6906931,7586304,8064586,8302853,4386048,5650973
+ "06000","California",8,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",6722765,6706426,7213353,8227456,8599283,9222654,9687676,10239478,6048398,10297313
+ "06000","California",8,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",627724,639940,671787,715107,755827,799550,805040,860952,906414,986598
+ "06000","California",8,SAOVA,25,"..."," Government ","Thousands of dollars",3078414,3095660,3198270,3220485,3462193,3673503,3772183,3705630,3769360,4038190
+ "06000","California",8,SAOVA,26,"...","  Federal ","Thousands of dollars",541026,567030,550407,541312,562819,579120,596260,447653,385033,406962
+ "06000","California",8,SAOVA,27,"...","  State and local ","Thousands of dollars",2537388,2528629,2647863,2679173,2899374,3094383,3175923,3257976,3384327,3631228
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

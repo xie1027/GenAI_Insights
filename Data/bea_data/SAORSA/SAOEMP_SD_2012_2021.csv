@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "46000","South Dakota",4,SAOEMP,1,"...","All industries ","Number of jobs",17240,17338,17455,17862,17582,18152,18011,17994,14319,16448
+ "46000","South Dakota",4,SAOEMP,2,"..."," Private industries ","Number of jobs",15329,15435,15533,16052,15826,16473,16396,16408,12695,14766
+ "46000","South Dakota",4,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",226,216,221,206,337,396,433,419,256,286
+ "46000","South Dakota",4,SAOEMP,4,"...","  Mining ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "46000","South Dakota",4,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "46000","South Dakota",4,SAOEMP,6,"...","  Construction ","Number of jobs",446,354,354,345,310,329,378,422,423,443
+ "46000","South Dakota",4,SAOEMP,7,"...","  Manufacturing ","Number of jobs",461,475,477,489,500,504,515,541,627,728
+ "46000","South Dakota",4,SAOEMP,8,"...","   Durable goods ","Number of jobs",251,268,272,279,274,260,253,268,292,339
+ "46000","South Dakota",4,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",210,207,205,210,226,244,262,273,335,389
+ "46000","South Dakota",4,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",427,424,441,457,459,464,470,465,457,490
+ "46000","South Dakota",4,SAOEMP,11,"...","  Retail trade ","Number of jobs",5181,5313,5320,5508,5523,5583,5441,5334,4875,5077
+ "46000","South Dakota",4,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",420,408,443,424,419,404,401,413,307,372
+ "46000","South Dakota",4,SAOEMP,13,"...","  Information ","Number of jobs",21,21,21,21,20,20,20,19,20,41
+ "46000","South Dakota",4,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",103,115,99,99,101,99,103,108,94,98
+ "46000","South Dakota",4,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",42,40,38,37,36,35,32,35,33,33
+ "46000","South Dakota",4,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",60,75,61,63,65,64,71,73,61,65
+ "46000","South Dakota",4,SAOEMP,17,"...","  Professional and business services ","Number of jobs",304,306,311,321,324,278,269,232,193,196
+ "46000","South Dakota",4,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",219,234,247,264,283,302,306,310,253,291
+ "46000","South Dakota",4,SAOEMP,19,"...","   Educational services ","Number of jobs",204,219,233,249,268,286,291,294,239,274
+ "46000","South Dakota",4,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",15,15,15,15,15,16,16,16,14,16
+ "46000","South Dakota",4,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",7353,7399,7428,7745,7382,7929,7892,7979,5036,6587
+ "46000","South Dakota",4,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",2000,2037,2155,2192,2329,2461,2658,2784,2039,2384
+ "46000","South Dakota",4,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",5352,5361,5272,5553,5053,5468,5234,5194,2996,4203
+ "46000","South Dakota",4,SAOEMP,24,"...","  Other services, except government ","Number of jobs",169,169,172,172,168,166,168,167,155,158
+ "46000","South Dakota",4,SAOEMP,25,"..."," Government ","Number of jobs",1911,1904,1923,1810,1756,1679,1615,1586,1624,1682
+ "46000","South Dakota",4,SAOEMP,26,"...","  Federal ","Number of jobs",606,510,471,307,316,320,330,228,205,202
+ "46000","South Dakota",4,SAOEMP,27,"...","  State and local ","Number of jobs",1304,1393,1452,1503,1440,1359,1285,1359,1419,1480
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

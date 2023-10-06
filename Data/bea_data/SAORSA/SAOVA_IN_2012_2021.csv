@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "18000","Indiana",3,SAOVA,1,"...","All industries ","Thousands of dollars",7763312,8183507,8256543,8423038,8843342,9885204,10813178,10512501,10250193,12913307
+ "18000","Indiana",3,SAOVA,2,"..."," Private industries ","Thousands of dollars",7525365,7924731,7971259,8107805,8523977,9584289,10538487,10249849,9978725,12623466
+ "18000","Indiana",3,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",122555,128190,136117,133327,152403,167403,170321,166916,164558,218415
+ "18000","Indiana",3,SAOVA,4,"...","  Mining ","Thousands of dollars",6809,5808,4393,2935,2586,5877,7109,5507,3614,6103
+ "18000","Indiana",3,SAOVA,5,"...","  Utilities ","Thousands of dollars",16,16,14,17,13,14,10,10,14,12
+ "18000","Indiana",3,SAOVA,6,"...","  Construction ","Thousands of dollars",103065,89893,96111,100021,113134,131246,143182,149044,141626,132596
+ "18000","Indiana",3,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",3545716,3836152,3830701,3820764,4178916,5142545,5900494,5382068,5873980,7463934
+ "18000","Indiana",3,SAOVA,8,"...","   Durable goods ","Thousands of dollars",2515561,2831623,2826175,2938667,3455660,4408192,5092861,4623145,5209351,6662777
+ "18000","Indiana",3,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",1030154,1004529,1004526,882097,723256,734353,807633,758922,664629,801157
+ "18000","Indiana",3,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",542413,543229,563217,582705,558350,548558,574597,685258,553462,690540
+ "18000","Indiana",3,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1461896,1519231,1503123,1526272,1510713,1550519,1565915,1608130,1659286,1976655
+ "18000","Indiana",3,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",301921,307551,321361,330893,359623,337756,381203,415545,272189,364489
+ "18000","Indiana",3,SAOVA,13,"...","  Information ","Thousands of dollars",14539,15395,15409,16052,16143,15917,16067,15758,16104,23441
+ "18000","Indiana",3,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",188710,222257,196299,226875,220864,229323,242014,261891,240900,262778
+ "18000","Indiana",3,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",55613,50424,60187,66156,67061,61032,62832,66921,65179,64335
+ "18000","Indiana",3,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",133096,171833,136111,160719,153803,168291,179182,194971,175721,198443
+ "18000","Indiana",3,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",72508,70744,75465,81644,86797,91861,94932,87731,38034,60874
+ "18000","Indiana",3,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",35410,35558,37570,38741,42407,45128,47835,48809,38481,44468
+ "18000","Indiana",3,SAOVA,19,"...","   Educational services ","Thousands of dollars",26976,27097,28883,29730,32838,35148,37438,37911,27630,31721
+ "18000","Indiana",3,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",8434,8461,8688,9011,9569,9980,10397,10898,10851,12747
+ "18000","Indiana",3,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1045182,1064823,1103108,1156076,1187454,1221432,1299873,1323536,870953,1264174
+ "18000","Indiana",3,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",533754,558485,591141,591876,623452,666104,686763,691586,407713,489181
+ "18000","Indiana",3,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",511428,506337,511967,564201,564002,555328,613110,631951,463240,774993
+ "18000","Indiana",3,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",84628,85883,88368,91482,94573,96711,94934,99645,105526,114987
+ "18000","Indiana",3,SAOVA,25,"..."," Government ","Thousands of dollars",237947,258776,285285,315233,319365,300915,274690,262652,271468,289841
+ "18000","Indiana",3,SAOVA,26,"...","  Federal ","Thousands of dollars",23329,24155,21508,20071,19737,20217,21859,16769,16398,17341
+ "18000","Indiana",3,SAOVA,27,"...","  State and local ","Thousands of dollars",214618,234621,263777,295162,299628,280698,252831,245883,255070,272500
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

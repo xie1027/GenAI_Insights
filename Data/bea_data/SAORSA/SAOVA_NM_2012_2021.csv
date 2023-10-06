@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "35000","New Mexico",6,SAOVA,1,"...","All industries ","Thousands of dollars",1934587,2033884,2021045,2119501,2095633,2141399,2180736,2321191,1791636,2279181
+ "35000","New Mexico",6,SAOVA,2,"..."," Private industries ","Thousands of dollars",1737177,1824972,1796708,1884570,1860588,1910528,1949272,2084795,1547437,2023624
+ "35000","New Mexico",6,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",38359,39917,37005,34081,39242,45698,46127,44781,38022,45550
+ "35000","New Mexico",6,SAOVA,4,"...","  Mining ","Thousands of dollars",8288,8089,7771,5758,5238,7022,8085,7133,6298,14035
+ "35000","New Mexico",6,SAOVA,5,"...","  Utilities ","Thousands of dollars",5,5,5,5,4,5,3,3,4,4
+ "35000","New Mexico",6,SAOVA,6,"...","  Construction ","Thousands of dollars",38468,34699,35066,33490,34084,39810,53728,70058,76512,73705
+ "35000","New Mexico",6,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",170362,161921,159586,158970,117374,144717,175558,159511,98416,153310
+ "35000","New Mexico",6,SAOVA,8,"...","   Durable goods ","Thousands of dollars",13037,12833,13128,12967,12004,13242,15368,13235,13150,13731
+ "35000","New Mexico",6,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",157326,149088,146459,146003,105371,131475,160190,146276,85267,139578
+ "35000","New Mexico",6,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",112764,110978,114537,118088,110559,106070,106278,113129,92464,105900
+ "35000","New Mexico",6,SAOVA,11,"...","  Retail trade ","Thousands of dollars",515997,540288,536710,558325,553030,568232,562481,584604,565559,670141
+ "35000","New Mexico",6,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",141364,134416,145981,143883,155450,140432,148532,174336,62795,97704
+ "35000","New Mexico",6,SAOVA,13,"...","  Information ","Thousands of dollars",5550,6103,6204,6460,6505,6866,7301,7277,7359,10440
+ "35000","New Mexico",6,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",132627,199202,152104,155710,164264,183496,166156,177137,174127,182054
+ "35000","New Mexico",6,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",22380,20107,23873,25939,26132,23887,25179,27230,26660,26123
+ "35000","New Mexico",6,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",110247,179095,128231,129771,138132,159609,140978,149907,147468,155931
+ "35000","New Mexico",6,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",26049,25593,28080,30339,32215,33207,34082,30862,18753,24129
+ "35000","New Mexico",6,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",12252,12122,12907,13923,15539,16253,17390,18456,12780,15825
+ "35000","New Mexico",6,SAOVA,19,"...","   Educational services ","Thousands of dollars",9420,9334,10086,10924,12400,13048,14148,14954,9857,12133
+ "35000","New Mexico",6,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",2832,2788,2821,2999,3139,3205,3242,3501,2924,3692
+ "35000","New Mexico",6,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",514725,531256,539925,603921,604906,596676,601988,674731,370747,605878
+ "35000","New Mexico",6,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",121054,125005,134567,139189,145571,146495,147895,152537,95632,110300
+ "35000","New Mexico",6,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",393671,406251,405358,464732,459335,450181,454094,522194,275115,495578
+ "35000","New Mexico",6,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",20367,20384,20827,21616,22177,22045,21561,22779,23600,24952
+ "35000","New Mexico",6,SAOVA,25,"..."," Government ","Thousands of dollars",197410,208912,224338,234931,235044,230871,231464,236396,244199,255557
+ "35000","New Mexico",6,SAOVA,26,"...","  Federal ","Thousands of dollars",27245,27485,26271,25889,27341,28987,30714,25206,22764,24688
+ "35000","New Mexico",6,SAOVA,27,"...","  State and local ","Thousands of dollars",170165,181427,198067,209042,207703,201883,200750,211190,221435,230869
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

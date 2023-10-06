@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "13000","Georgia",5,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",9750998,10057396,10537474,11159185,11840084,12137772,12570775,13098983,10341499,13193106
+ "13000","Georgia",5,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",5258276,5463118,5598315,5929100,6294391,6564102,6647897,6817945,6205595,7048383
+ "13000","Georgia",5,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",3447863,3586114,3637861,3880390,4203237,4365224,4303575,4454997,4420466,4863836
+ "13000","Georgia",5,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",41202,43760,43713,44262,46211,52144,50250,55112,67262,78191
+ "13000","Georgia",5,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",419708,433674,460575,520302,583764,643506,640808,684198,823594,762701
+ "13000","Georgia",5,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",13488,11010,10924,11567,12449,10590,10347,11717,17545,31458
+ "13000","Georgia",5,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",71935,73841,76549,90621,127048,144651,146470,141415,137678,154663
+ "13000","Georgia",5,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",18777,20454,21853,22988,25435,26935,26549,33333,25222,23232
+ "13000","Georgia",5,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",315509,328369,351249,395125,418833,461330,457443,497733,643148,553349
+ "13000","Georgia",5,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",75392,79613,83003,84312,83248,83441,86530,93127,101869,143325
+ "13000","Georgia",5,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",83383,89218,103106,108603,120693,148837,205888,172997,184137,275453
+ "13000","Georgia",5,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",343447,393938,378048,422229,573113,640245,574445,651248,573185,555238
+ "13000","Georgia",5,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",260048,294170,282299,318647,451733,518253,460744,540763,448654,411651
+ "13000","Georgia",5,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",83400,99768,95749,103582,121380,121991,113701,110485,124531,143587
+ "13000","Georgia",5,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",378266,383084,391410,409574,469780,268955,272720,279010,293236,317295
+ "13000","Georgia",5,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",37186,37573,40849,43712,48554,43675,41831,38043,31743,31397
+ "13000","Georgia",5,SAOACTVA,17,"...","   RVing ","Thousands of dollars",208803,224859,239665,263451,302684,319764,336167,340424,399099,498310
+ "13000","Georgia",5,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",20192,18345,20266,21310,25852,61193,65695,60399,97019,39337
+ "13000","Georgia",5,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",7099,7140,7577,7761,7008,6496,6283,6341,4766,7424
+ "13000","Georgia",5,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",13093,11205,12689,13549,18844,54697,59412,54058,92253,31913
+ "13000","Georgia",5,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",210574,221429,222067,237749,251565,269424,254571,285796,310985,375150
+ "13000","Georgia",5,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",162603,174078,171688,174129,185884,204225,186879,196379,203362,243705
+ "13000","Georgia",5,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",47971,47351,50380,63620,65681,65199,67692,89417,107623,131445
+ "13000","Georgia",5,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",1629710,1660622,1655159,1724886,1697772,1834040,1774670,1794642,1538338,1787438
+ "13000","Georgia",5,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1810412,1877004,1960455,2048710,2091155,2198878,2344322,2362948,1785129,2184546
+ "13000","Georgia",5,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",138128,142801,149103,161842,174226,204157,228625,240629,146486,201411
+ "13000","Georgia",5,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",265088,272202,297733,278698,297902,311410,318569,318085,166740,238564
+ "13000","Georgia",5,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",86060,88130,93763,102114,104209,119038,116508,124932,108061,127222
+ "13000","Georgia",5,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",518694,544460,545243,555382,556691,545924,595108,624020,510464,565869
+ "13000","Georgia",5,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",315694,307467,333537,333887,329358,374398,440730,403176,234572,344713
+ "13000","Georgia",5,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",169137,166142,189553,197697,206678,227595,282697,251801,131859,210126
+ "13000","Georgia",5,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",146556,141325,143984,136190,122680,146803,158034,151375,102713,134587
+ "13000","Georgia",5,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",134764,149077,150154,164624,174269,183077,187136,184756,213971,247343
+ "13000","Georgia",5,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",241984,255746,277196,328432,330511,323090,323238,332065,277220,307173
+ "13000","Georgia",5,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",110000,117121,113725,123731,123988,137783,134407,135286,127614,152251
+ "13000","Georgia",5,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",4492722,4594278,4939159,5230086,5545693,5573670,5922879,6281038,4135904,6144724
+ "13000","Georgia",5,SAOACTVA,37,"...","   Construction ","Thousands of dollars",116121,102569,111503,121878,129123,140592,150539,158377,154874,146482
+ "13000","Georgia",5,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",702340,724609,755498,776486,779116,767279,805359,837812,822607,948762
+ "13000","Georgia",5,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",3268468,3334174,3625827,3867924,4182918,4242455,4556394,4870803,2690550,4533956
+ "13000","Georgia",5,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",608189,522901,558231,587631,629737,644286,704831,734460,385611,843972
+ "13000","Georgia",5,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",633852,769317,756391,818504,849897,895499,970239,1027239,712426,1203730
+ "13000","Georgia",5,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",551682,576036,594930,611482,612655,614508,655495,668006,728088,827406
+ "13000","Georgia",5,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",1474745,1465920,1716275,1850307,2090629,2088162,2225828,2441099,864424,1658848
+ "13000","Georgia",5,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",405793,432925,446331,463797,454535,423344,410587,414046,467874,515523
+ "13000","Georgia",5,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",62243,71797,67055,67000,68547,68277,72099,50721,49704,52003
+ "13000","Georgia",5,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",343550,361129,379277,396798,385988,355067,338488,363325,418170,463520
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

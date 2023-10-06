@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "02000","Alaska",8,SAOEMP,1,"...","All industries ","Number of jobs",20046,19905,20042,20799,21088,21377,21618,21969,15951,18878
+ "02000","Alaska",8,SAOEMP,2,"..."," Private industries ","Number of jobs",18142,17967,18059,18838,19045,19310,19443,19742,14374,17305
+ "02000","Alaska",8,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",98,96,100,104,118,129,133,140,(D),141
+ "02000","Alaska",8,SAOEMP,4,"...","  Mining ","Number of jobs",7,7,6,5,5,4,4,4,3,4
+ "02000","Alaska",8,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "02000","Alaska",8,SAOEMP,6,"...","  Construction ","Number of jobs",462,348,338,313,277,273,302,321,306,326
+ "02000","Alaska",8,SAOEMP,7,"...","  Manufacturing ","Number of jobs",196,197,192,200,199,192,186,200,(D),231
+ "02000","Alaska",8,SAOEMP,8,"...","   Durable goods ","Number of jobs",47,48,50,52,55,62,62,67,(D),89
+ "02000","Alaska",8,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",149,149,142,148,144,129,124,134,144,142
+ "02000","Alaska",8,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",164,161,161,162,158,159,164,164,161,168
+ "02000","Alaska",8,SAOEMP,11,"...","  Retail trade ","Number of jobs",4523,4556,4650,4865,4966,4862,4798,4501,4416,4427
+ "02000","Alaska",8,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",3253,3188,3194,3255,3395,3346,3584,4185,2802,4051
+ "02000","Alaska",8,SAOEMP,13,"...","  Information ","Number of jobs",15,15,16,16,16,16,16,15,16,34
+ "02000","Alaska",8,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",163,189,151,152,156,159,162,185,155,160
+ "02000","Alaska",8,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",35,32,31,31,31,31,29,31,29,28
+ "02000","Alaska",8,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",129,157,120,122,125,129,133,154,126,132
+ "02000","Alaska",8,SAOEMP,17,"...","  Professional and business services ","Number of jobs",170,177,180,191,203,203,209,208,134,129
+ "02000","Alaska",8,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",183,191,197,210,226,243,242,232,176,196
+ "02000","Alaska",8,SAOEMP,19,"...","   Educational services ","Number of jobs",169,177,184,195,211,228,227,217,162,181
+ "02000","Alaska",8,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",14,14,14,15,15,15,15,16,13,15
+ "02000","Alaska",8,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",8742,8675,8706,9197,9158,9562,9480,9425,5718,7294
+ "02000","Alaska",8,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",2899,2889,2993,2882,2880,2906,2904,2860,2021,2175
+ "02000","Alaska",8,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",5843,5787,5712,6314,6278,6656,6576,6565,3698,5119
+ "02000","Alaska",8,SAOEMP,24,"...","  Other services, except government ","Number of jobs",167,165,168,168,166,162,162,161,144,145
+ "02000","Alaska",8,SAOEMP,25,"..."," Government ","Number of jobs",1904,1939,1983,1961,2043,2067,2175,2227,1577,1573
+ "02000","Alaska",8,SAOEMP,26,"...","  Federal ","Number of jobs",474,398,393,274,285,279,273,194,162,161
+ "02000","Alaska",8,SAOEMP,27,"...","  State and local ","Number of jobs",1430,1541,1590,1686,1758,1788,1903,2033,1416,1412
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

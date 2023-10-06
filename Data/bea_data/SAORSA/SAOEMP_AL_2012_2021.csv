@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "01000","Alabama",5,SAOEMP,1,"...","All industries ","Number of jobs",59731,58587,59295,59534,61304,62264,63872,64116,52032,58393
+ "01000","Alabama",5,SAOEMP,2,"..."," Private industries ","Number of jobs",56172,54940,55568,55803,57519,58475,60131,60280,48153,54443
+ "01000","Alabama",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",670,656,679,660,834,939,995,1013,827,931
+ "01000","Alabama",5,SAOEMP,4,"...","  Mining ","Number of jobs",29,22,16,11,8,16,21,19,14,22
+ "01000","Alabama",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "01000","Alabama",5,SAOEMP,6,"...","  Construction ","Number of jobs",493,534,565,596,611,648,713,738,690,722
+ "01000","Alabama",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",3885,3860,3718,3662,3749,3778,4115,4176,4184,4896
+ "01000","Alabama",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",1926,2044,1947,1928,2044,2139,2529,2604,2559,3213
+ "01000","Alabama",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1959,1817,1771,1734,1705,1638,1586,1572,1624,1683
+ "01000","Alabama",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2231,2195,2174,2199,2197,2194,2190,2185,2015,2123
+ "01000","Alabama",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",23714,23807,23837,24154,24576,24668,24613,24054,21574,22284
+ "01000","Alabama",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",1358,1228,1235,1169,1231,1170,1226,1329,1264,1495
+ "01000","Alabama",5,SAOEMP,13,"...","  Information ","Number of jobs",69,70,69,68,66,63,61,57,60,120
+ "01000","Alabama",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",625,644,521,512,513,521,556,595,478,483
+ "01000","Alabama",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",203,180,166,152,152,148,136,145,136,134
+ "01000","Alabama",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",422,464,355,360,361,373,420,450,342,349
+ "01000","Alabama",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",427,431,446,467,493,463,468,424,339,333
+ "01000","Alabama",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",746,791,832,869,925,960,954,937,742,821
+ "01000","Alabama",5,SAOEMP,19,"...","   Educational services ","Number of jobs",688,734,773,810,864,894,887,868,679,748
+ "01000","Alabama",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",58,57,58,59,62,66,66,69,63,73
+ "01000","Alabama",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",21244,20038,20795,20756,21631,22385,23535,24062,15329,19561
+ "01000","Alabama",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",7065,7315,7621,7516,7779,8145,8792,9262,6432,7160
+ "01000","Alabama",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",14179,12723,13174,13240,13851,14239,14744,14800,8898,12401
+ "01000","Alabama",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",681,663,680,679,685,671,683,689,638,652
+ "01000","Alabama",5,SAOEMP,25,"..."," Government ","Number of jobs",3559,3647,3728,3731,3785,3789,3742,3836,3879,3950
+ "01000","Alabama",5,SAOEMP,26,"...","  Federal ","Number of jobs",127,105,98,30,34,37,41,32,32,32
+ "01000","Alabama",5,SAOEMP,27,"...","  State and local ","Number of jobs",3432,3542,3630,3700,3751,3752,3701,3805,3847,3918
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

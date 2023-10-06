@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "38000","North Dakota",4,SAACArtsComp,1,"...","Total compensation ","Thousands of dollars",10800632,11243291,11851397,12698581,13362673,14270655,15246423,16457968,16935982,18302336,20889002,24364828,26290932,29122389,28612127,26855278,27557744,28796387,29942200,28983843,29952998
+ "38000","North Dakota",4,SAACArtsComp,10,"...","Total ACPSA compensation ","Thousands of dollars",431343,468270,494537,503665,502958,522894,493001,502127,552581,563493,602327,671874,675279,712318,772525,781171,791746,793398,803161,815396,893170
+ "38000","North Dakota",4,SAACArtsComp,100,"..."," Core arts and cultural production ","Thousands of dollars",41297,44756,45154,46163,46244,48897,48852,50337,50503,47117,48813,57689,60797,70536,74279,74741,75551,81567,88717,94206,103065
+ "38000","North Dakota",4,SAACArtsComp,111,"...","  Performing arts companies ","Thousands of dollars",2546,2152,1992,2801,2561,(D),(D),2197,2129,2219,2464,2402,2469,2583,2492,2909,2722,3212,3387,5136,4349
+ "38000","North Dakota",4,SAACArtsComp,112,"...","  Promoters of performing arts and similar events ","Thousands of dollars",1124,2784,3669,3690,3200,3222,3328,4095,5545,5163,5152,5880,6377,6396,5936,7256,6664,7060,9199,6946,10857
+ "38000","North Dakota",4,SAACArtsComp,113,"...","  Agents/managers for artists ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),38,17,(D),(D),(D),(D),133,140,(D)
+ "38000","North Dakota",4,SAACArtsComp,114,"...","  Independent artists, writers, and performers ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),2426,2636,4308,4515,5220,6033,6240,6343,(D)
+ "38000","North Dakota",4,SAACArtsComp,120,"...","  Museums ","Thousands of dollars",2027,3210,2695,2988,3185,3309,(D),(D),2875,2474,2461,3508,3731,4056,3295,3193,3153,3433,3378,4542,4588
+ "38000","North Dakota",4,SAACArtsComp,131,"...","  Advertising ","Thousands of dollars",5754,5881,6173,(D),(D),8241,9019,8603,8191,8065,8616,9565,10657,10977,11569,(D),12022,(D),12685,13049,(D)
+ "38000","North Dakota",4,SAACArtsComp,132,"...","  Architectural services ","Thousands of dollars",9404,8916,9264,9585,9744,10703,11998,12517,11548,10621,12535,15417,17235,21244,22880,21644,22181,23695,25469,27150,27285
+ "38000","North Dakota",4,SAACArtsComp,133,"...","  Landscape architectural services ","Thousands of dollars",(D),(D),584,608,308,(D),(D),(D),(D),(D),(D),425,(D),(D),(D),(D),(D),(D),(D),4037,3492
+ "38000","North Dakota",4,SAACArtsComp,134,"...","  Interior design services ","Thousands of dollars",75,46,101,217,(D),(D),937,784,(D),(D),(D),(D),(D),(D),847,708,991,989,1011,1065,1405
+ "38000","North Dakota",4,SAACArtsComp,135,"...","  Industrial design services ","Thousands of dollars",0,0,0,0,(D),(D),0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsComp,136,"...","  Graphic design services ","Thousands of dollars",471,543,736,881,1116,1024,1091,1277,1208,1163,1237,1938,1684,2991,4020,3709,3611,4185,4822,5186,6603
+ "38000","North Dakota",4,SAACArtsComp,137,"...","  Computer systems design ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1820,(D),2415,3080,2871,(D),3321,3458,(D),3973,4280
+ "38000","North Dakota",4,SAACArtsComp,138,"...","  Photography and photofinishing services ","Thousands of dollars",12275,12719,10621,8319,(D),7506,7281,(D),6888,6473,5325,(D),(D),7826,7373,(D),6595,7525,8501,7597,10104
+ "38000","North Dakota",4,SAACArtsComp,139,"...","  All other design services ","Thousands of dollars",0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsComp,140,"...","  Fine arts education ","Thousands of dollars",763,669,1077,1408,1376,1552,1407,1382,1631,1824,1671,1652,1746,2100,2452,2970,3527,3842,4257,3794,4735
+ "38000","North Dakota",4,SAACArtsComp,150,"...","  Education services ","Thousands of dollars",3727,4953,5859,5994,5780,6431,4402,4430,4504,4106,4457,4684,5032,5250,5358,5163,4645,4568,5023,4963,5049
+ "38000","North Dakota",4,SAACArtsComp,200,"..."," Supporting arts and cultural production ","Thousands of dollars",374108,406863,432706,440234,438647,455165,423814,430102,479996,494240,528379,586617,585801,609847,666844,678012,687645,682323,684415,694088,761070
+ "38000","North Dakota",4,SAACArtsComp,211,"...","  Rental and leasing ","Thousands of dollars",(D),2372,(D),3440,3172,3272,2352,2325,(D),2092,(D),3769,5066,8965,9247,6480,4327,4542,4353,(D),3869
+ "38000","North Dakota",4,SAACArtsComp,212,"...","  Grantmaking and giving services ","Thousands of dollars",192,244,313,(D),(D),509,617,606,729,614,741,598,712,774,901,880,963,973,1085,934,982
+ "38000","North Dakota",4,SAACArtsComp,213,"...","  Unions ","Thousands of dollars",711,601,665,736,729,841,698,778,834,786,825,831,957,951,944,1001,1096,1184,1260,1290,1347
+ "38000","North Dakota",4,SAACArtsComp,214,"...","  Government ","Thousands of dollars",208755,220416,227069,224540,228562,228652,178704,186419,201565,216067,229074,244693,261431,276980,297810,314157,325689,330775,344068,350040,360677
+ "38000","North Dakota",4,SAACArtsComp,215,"...","  Other support services ","Thousands of dollars",(D),(D),(D),(D),653,680,796,803,679,445,303,280,179,(D),(D),(D),(D),(D),(D),(D),54
+ "38000","North Dakota",4,SAACArtsComp,221,"...","  Publishing ","Thousands of dollars",59205,63782,72093,75615,73144,87145,100289,91885,98827,(D),100556,106114,107401,(D),(D),(D),123209,(D),(D),128850,(D)
+ "38000","North Dakota",4,SAACArtsComp,222,"...","  Motion pictures ","Thousands of dollars",4377,(D),5068,(D),5756,(D),(D),5985,(D),6503,7176,7919,(D),9053,9554,9405,(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsComp,223,"...","  Sound recording ","Thousands of dollars",(D),(D),(D),171,141,(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,(D),(D),(D),(D),234
+ "38000","North Dakota",4,SAACArtsComp,224,"...","  Broadcasting ","Thousands of dollars",38724,41551,46682,51154,53930,56295,61861,65755,70655,(D),(D),(D),90873,(D),(D),(D),90533,93781,93397,95877,(D)
+ "38000","North Dakota",4,SAACArtsComp,225,"...","  Other information services ","Thousands of dollars",799,534,907,1267,1444,1589,961,1378,1239,1241,1165,1024,(D),(D),(D),(D),(D),(D),540,1714,2439
+ "38000","North Dakota",4,SAACArtsComp,231,"...","  Jewelry and silverware manufacturing ","Thousands of dollars",2285,1631,1884,2469,2565,2771,3380,4547,2692,2323,1902,2650,2618,2652,2738,2843,3145,3708,3489,2898,3207
+ "38000","North Dakota",4,SAACArtsComp,232,"...","  Printed goods manufacturing ","Thousands of dollars",5132,4548,4505,5219,5396,5728,7041,7306,6718,7043,6570,6739,6749,6709,6313,6137,6262,6229,5981,5248,5488
+ "38000","North Dakota",4,SAACArtsComp,233,"...","  Musical instruments manufacturing ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,0,0,0,0,0,0
+ "38000","North Dakota",4,SAACArtsComp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Thousands of dollars",(D),2252,1702,(D),(D),(D),(D),(D),(D),(D),4189,(D),5313,5513,6508,5983,6239,7309,6895,6354,6296
+ "38000","North Dakota",4,SAACArtsComp,236,"...","  Other goods manufacturing ","Thousands of dollars",1913,2824,3119,4021,3692,3710,4295,3899,2896,3529,3796,3461,3579,4230,5135,5090,6661,6650,7430,8512,9599
+ "38000","North Dakota",4,SAACArtsComp,240,"...","  Construction ","Thousands of dollars",7817,18445,19852,16653,8082,9824,6582,5532,30511,27220,26208,47317,18380,4539,33551,23897,27433,13560,10480,9543,37416
+ "38000","North Dakota",4,SAACArtsComp,250,"...","  Wholesale and transportation industries ","Thousands of dollars",6473,6831,7029,7066,(D),(D),(D),(D),(D),(D),9709,12173,(D),(D),(D),(D),(D),(D),(D),(D),30141
+ "38000","North Dakota",4,SAACArtsComp,260,"...","  Retail industries ","Thousands of dollars",33096,36072,37638,39049,41535,39346,38604,39694,40946,43977,52822,56402,57225,58577,60247,53407,50670,(D),42373,39253,49546
+ "38000","North Dakota",4,SAACArtsComp,300,"..."," All other industries 2/","Thousands of dollars",15938,16650,16677,17268,18068,18832,20334,21688,22083,22136,25135,27568,28680,31935,31402,28419,28549,29509,30030,27102,29035
+"Note: See the included footnote file."
+"SAACArtsComp: ACPSA compensation by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

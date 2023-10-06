@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "40000","Oklahoma",6,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",3575328,3632615,3677366,3745367,3819037,3842446,4093046,4123971,3485757,4286181
+ "40000","Oklahoma",6,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",1767493,1813493,1848545,1909943,1946834,2064901,2082296,2059414,1972117,2227046
+ "40000","Oklahoma",6,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",1212685,1239795,1266969,1321493,1350769,1421877,1409685,1396129,1440068,1588532
+ "40000","Oklahoma",6,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",12134,12694,12895,13046,12726,14373,13815,14163,16837,19123
+ "40000","Oklahoma",6,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",152002,154389,161154,176613,193930,206010,202889,205721,296581,235611
+ "40000","Oklahoma",6,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",4559,3757,3727,3860,3996,3677,3353,3555,5364,9469
+ "40000","Oklahoma",6,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",27234,27727,28614,33050,45871,53612,53913,52749,52194,58010
+ "40000","Oklahoma",6,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",7420,8207,8835,9155,10097,9368,9493,10764,8108,7978
+ "40000","Oklahoma",6,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",112790,114698,119978,130549,133965,139352,136130,138652,230915,160154
+ "40000","Oklahoma",6,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",27719,28935,29537,28873,27292,27858,27943,29751,30993,43143
+ "40000","Oklahoma",6,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",86188,90986,102744,107916,127701,136614,148453,141239,117073,131639
+ "40000","Oklahoma",6,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",58400,68501,65391,69329,83249,83752,76853,76136,82182,87281
+ "40000","Oklahoma",6,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",28387,33248,32318,35105,44427,43469,40034,40678,40047,40126
+ "40000","Oklahoma",6,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",30013,35252,33073,34224,38822,40283,36818,35458,42135,47155
+ "40000","Oklahoma",6,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",85420,79298,80284,85414,81865,81529,82481,75818,83225,96926
+ "40000","Oklahoma",6,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",20246,21363,22033,21170,18506,17269,17879,18183,12630,15286
+ "40000","Oklahoma",6,SAOACTVA,17,"...","   RVing ","Thousands of dollars",173017,182320,191491,201193,210904,214651,219207,206324,234449,300464
+ "40000","Oklahoma",6,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",20455,18499,18474,17511,14331,17910,20584,19100,17208,18099
+ "40000","Oklahoma",6,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",3520,3351,3784,3896,3449,2957,2847,2917,2297,3253
+ "40000","Oklahoma",6,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",16934,15149,14690,13614,10882,14953,17737,16183,14911,14846
+ "40000","Oklahoma",6,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",107252,106057,106029,108142,98980,107968,107840,114562,113229,143796
+ "40000","Oklahoma",6,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",93514,92009,91403,89238,79999,89300,88276,88390,80716,104170
+ "40000","Oklahoma",6,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",13738,14048,14626,18904,18981,18667,19564,26172,32513,39626
+ "40000","Oklahoma",6,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",469854,476754,476935,492285,481287,513943,491743,495131,435660,497164
+ "40000","Oklahoma",6,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",554808,573697,581575,588450,596065,643024,672611,663286,532049,638514
+ "40000","Oklahoma",6,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",35112,36470,38071,41943,44748,50578,52610,53959,40710,55083
+ "40000","Oklahoma",6,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",73850,78299,85671,86342,99077,108761,112065,102673,55334,65295
+ "40000","Oklahoma",6,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",22115,22559,23398,24480,24324,28308,27639,29345,27628,33260
+ "40000","Oklahoma",6,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",150342,153913,149641,148291,146120,146868,154852,160743,132801,153879
+ "40000","Oklahoma",6,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",82518,78801,83212,79731,74941,91661,109073,100909,60044,88919
+ "40000","Oklahoma",6,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",38022,37221,42033,44240,45024,51138,64782,60711,32806,54208
+ "40000","Oklahoma",6,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",44496,41579,41179,35491,29917,40522,44292,40198,27238,34710
+ "40000","Oklahoma",6,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",97610,107648,103812,104393,104288,111836,115274,114315,127260,142242
+ "40000","Oklahoma",6,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",63166,64767,66715,71676,70902,74385,72514,72617,60639,66420
+ "40000","Oklahoma",6,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",30095,31240,31056,31595,31665,30627,28582,28724,27632,33417
+ "40000","Oklahoma",6,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1807836,1819122,1828821,1835424,1872204,1777545,2010750,2064557,1513640,2059135
+ "40000","Oklahoma",6,SAOACTVA,37,"...","   Construction ","Thousands of dollars",71492,69454,82555,93989,107145,129587,159981,192396,201041,192037
+ "40000","Oklahoma",6,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",447474,437142,440283,434062,400058,400817,438044,443656,397182,496904
+ "40000","Oklahoma",6,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",1110657,1120195,1103477,1096853,1154454,1036918,1199801,1209858,686182,1124109
+ "40000","Oklahoma",6,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",169065,147894,158646,171898,192130,160873,186342,180882,97488,185843
+ "40000","Oklahoma",6,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",172000,215030,206752,221103,234308,201928,225618,223540,166053,223986
+ "40000","Oklahoma",6,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",176053,183696,192129,195366,199153,191721,206776,207201,221577,241707
+ "40000","Oklahoma",6,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",593540,573575,545950,508486,528863,482396,581065,598235,201064,472573
+ "40000","Oklahoma",6,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",178213,192331,202505,210521,210547,210224,212924,218647,229235,246084
+ "40000","Oklahoma",6,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",11162,12547,11648,11036,11460,12031,13852,9821,9360,9793
+ "40000","Oklahoma",6,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",167050,179784,190858,199485,199087,198193,199072,208826,219875,236291
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

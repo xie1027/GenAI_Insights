@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "33000","New Hampshire",1,SAOCOMP,1,"...","All industries ","Thousands of dollars",1045891,1047375,1067419,1106366,1133256,1185468,1170281,1218231,1053132,1186844
+ "33000","New Hampshire",1,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",995478,993236,1010882,1047220,1073077,1124505,1109924,1157333,990458,1121990
+ "33000","New Hampshire",1,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",7904,7520,8370,7925,8919,8953,8112,7098,6299,6823
+ "33000","New Hampshire",1,SAOCOMP,4,"...","  Mining ","Thousands of dollars",8,7,7,6,6,8,8,7,7,8
+ "33000","New Hampshire",1,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",2,3,2,3,2,2,1,1,2,1
+ "33000","New Hampshire",1,SAOCOMP,6,"...","  Construction ","Thousands of dollars",3490,3325,3551,3525,4101,5144,6376,7279,7417,7345
+ "33000","New Hampshire",1,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",82265,90148,84628,91590,112106,105430,103328,98935,122081,144113
+ "33000","New Hampshire",1,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",64602,72225,66594,72959,92606,83866,81722,75514,96842,112795
+ "33000","New Hampshire",1,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",17663,17923,18034,18631,19500,21564,21606,23421,25239,31318
+ "33000","New Hampshire",1,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",126498,120005,127447,136688,133828,135108,135482,138461,123564,137007
+ "33000","New Hampshire",1,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",271188,276179,281368,293572,288405,307679,295624,307990,315483,341431
+ "33000","New Hampshire",1,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",43314,43936,40505,40695,40662,47305,43905,47197,24071,31856
+ "33000","New Hampshire",1,SAOCOMP,13,"...","  Information ","Thousands of dollars",1927,1952,2039,2187,2150,2241,2295,2338,2519,3601
+ "33000","New Hampshire",1,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",45803,44503,42249,45677,46026,46065,45663,48479,47392,49053
+ "33000","New Hampshire",1,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",35090,33520,33141,34045,33681,32862,31172,32549,32788,33246
+ "33000","New Hampshire",1,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",10713,10982,9107,11631,12344,13202,14491,15930,14604,15807
+ "33000","New Hampshire",1,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",13267,12476,13906,16039,16582,17742,17915,16991,8300,11040
+ "33000","New Hampshire",1,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",18127,18401,19598,20578,22258,24587,26414,26800,23261,26170
+ "33000","New Hampshire",1,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",16574,16859,18017,18912,20500,22913,24706,24937,21506,24081
+ "33000","New Hampshire",1,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1553,1542,1582,1666,1757,1674,1708,1862,1755,2089
+ "33000","New Hampshire",1,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",370250,363061,375232,375909,384639,410224,411136,441366,295542,348887
+ "33000","New Hampshire",1,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",165632,167048,175513,171659,177420,190427,200188,205679,140059,149906
+ "33000","New Hampshire",1,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",204619,196012,199719,204250,207218,219797,210948,235686,155483,198980
+ "33000","New Hampshire",1,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",11435,11722,11981,12827,13394,14018,13664,14391,14520,14654
+ "33000","New Hampshire",1,SAOCOMP,25,"..."," Government ","Thousands of dollars",50414,54138,56537,59146,60180,60962,60357,60897,62674,64854
+ "33000","New Hampshire",1,SAOCOMP,26,"...","  Federal ","Thousands of dollars",3261,2836,3001,2991,2975,2912,2758,2300,1726,1826
+ "33000","New Hampshire",1,SAOCOMP,27,"...","  State and local ","Thousands of dollars",47153,51302,53536,56155,57205,58050,57599,58597,60948,63028
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

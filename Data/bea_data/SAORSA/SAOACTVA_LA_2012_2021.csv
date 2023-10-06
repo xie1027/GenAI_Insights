@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "22000","Louisiana",5,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",6722971,6639623,6645016,6507471,5996786,6358421,6875837,6756216,5089167,6482108
+ "22000","Louisiana",5,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",2771217,2801067,2813785,2810665,2697752,2875954,2915649,2856638,2734273,2894188
+ "22000","Louisiana",5,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",2087835,2091787,2084022,2074432,1957761,2107208,2126839,2051710,2117561,2126196
+ "22000","Louisiana",5,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",9384,9706,9773,9528,9295,9861,9291,9221,10873,12527
+ "22000","Louisiana",5,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",357247,351888,356447,362667,361532,400655,407699,409904,695769,438050
+ "22000","Louisiana",5,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",9934,8011,7898,7911,7662,7186,6540,6999,9590,17098
+ "22000","Louisiana",5,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",45709,46781,47748,54197,75711,83643,82171,76778,74665,82243
+ "22000","Louisiana",5,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",13234,14034,15011,15088,15710,14960,14626,18524,11777,10559
+ "22000","Louisiana",5,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",288370,283062,285790,285471,262449,294866,304362,307603,599738,328151
+ "22000","Louisiana",5,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",24842,26581,27429,27550,26128,24984,25431,26640,29323,40175
+ "22000","Louisiana",5,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",82834,88646,98732,101410,108981,116984,124067,121558,116529,136682
+ "22000","Louisiana",5,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",90226,103452,99193,106109,130274,133692,120775,126378,122507,123074
+ "22000","Louisiana",5,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",48917,56644,55261,62261,82520,85570,77276,84631,75532,70668
+ "22000","Louisiana",5,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",41309,46807,43931,43849,47754,48122,43500,41747,46976,52406
+ "22000","Louisiana",5,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",173764,162703,160329,155079,132702,133390,145162,126473,105180,131156
+ "22000","Louisiana",5,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",49024,46120,45258,37211,23576,25171,27607,26290,13514,18455
+ "22000","Louisiana",5,SAOACTVA,17,"...","   RVing ","Thousands of dollars",219179,219585,224810,228351,211190,222844,233971,216939,204494,266487
+ "22000","Louisiana",5,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",85875,78632,74437,64559,43399,58460,72276,59027,32059,32747
+ "22000","Louisiana",5,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",2970,2746,2809,2693,2495,2301,2233,2199,1573,2894
+ "22000","Louisiana",5,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",82904,75886,71628,61866,40904,56160,70043,56827,30486,29853
+ "22000","Louisiana",5,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",276798,264923,257217,241732,194756,226479,243205,229129,179427,244474
+ "22000","Louisiana",5,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",246346,234728,224989,204125,158103,190559,206838,182343,122468,173987
+ "22000","Louisiana",5,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",30452,30194,32229,37607,36653,35919,36367,46786,56959,70487
+ "22000","Louisiana",5,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",718663,739551,730397,740235,715927,754689,717356,700152,607885,682369
+ "22000","Louisiana",5,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",683382,709280,729762,736232,739991,768746,788810,804928,616712,767992
+ "22000","Louisiana",5,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",49565,51975,53670,57477,58003,63235,64029,64648,45608,60545
+ "22000","Louisiana",5,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",157267,167971,182150,176770,193095,210101,216380,213129,111291,159237
+ "22000","Louisiana",5,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",32109,31832,32771,33298,32288,36581,35320,37836,34433,40403
+ "22000","Louisiana",5,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",141295,142320,140565,140751,139623,127816,133776,137969,114527,128085
+ "22000","Louisiana",5,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",97542,96913,102487,97116,86527,99568,108803,116168,66921,96151
+ "22000","Louisiana",5,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",44350,42486,46935,46142,43099,44071,50939,56135,34241,49708
+ "22000","Louisiana",5,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",53192,54426,55552,50973,43428,55497,57864,60033,32680,46443
+ "22000","Louisiana",5,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",66603,73565,75612,84202,84622,81142,79269,80226,100016,116632
+ "22000","Louisiana",5,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",86644,88035,87643,91676,90405,97766,99257,105029,93919,106241
+ "22000","Louisiana",5,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",52358,56670,54864,54942,55427,52537,51975,49921,49996,60698
+ "22000","Louisiana",5,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",3951754,3838556,3831231,3696807,3299034,3482467,3960188,3899578,2354895,3587920
+ "22000","Louisiana",5,SAOACTVA,37,"...","   Construction ","Thousands of dollars",213310,213125,239834,249620,249500,233272,242403,252396,259680,247704
+ "22000","Louisiana",5,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",1250044,1175960,1134778,1024897,776822,880010,1029983,913492,586249,848825
+ "22000","Louisiana",5,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",2154274,2088672,2077895,2029366,1883653,1981840,2296152,2320544,1072404,2022171
+ "22000","Louisiana",5,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",228616,185889,194452,217413,239595,213376,226858,252355,136850,306512
+ "22000","Louisiana",5,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",308098,347531,326516,377290,386439,366028,398158,448492,333579,527194
+ "22000","Louisiana",5,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",280094,277548,282023,267313,254022,263479,283710,279345,274771,333925
+ "22000","Louisiana",5,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",1337467,1277704,1274904,1167350,1003596,1138957,1387426,1340352,327204,854540
+ "22000","Louisiana",5,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",334126,360800,378724,392924,389059,387345,391650,413147,436562,469219
+ "22000","Louisiana",5,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",4834,5772,5531,5407,5206,4969,5227,3862,3632,3800
+ "22000","Louisiana",5,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",329293,355027,373193,387517,383854,382376,386424,409285,432930,465419
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "56000","Wyoming",7,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1286086,1335662,1364993,1428651,1405618,1519094,1578395,1574623,1155027,1485337
+ "56000","Wyoming",7,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",494261,505098,519857,537841,550313,573877,577461,594389,546878,588614
+ "56000","Wyoming",7,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",393686,400081,411320,427621,441520,458931,459666,474297,440917,464089
+ "56000","Wyoming",7,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",2291,2374,2387,2342,2296,2460,2407,2517,3120,3650
+ "56000","Wyoming",7,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",35052,35306,36156,37359,39135,42250,43791,44159,63301,43728
+ "56000","Wyoming",7,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",834,668,658,657,644,584,531,557,810,1439
+ "56000","Wyoming",7,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",6115,6283,6562,7618,10391,11477,11686,11586,11254,12732
+ "56000","Wyoming",7,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",1329,1428,1440,1480,1492,1639,1639,1844,1333,1449
+ "56000","Wyoming",7,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",26774,26927,27496,27604,26608,28550,29934,30172,49903,28109
+ "56000","Wyoming",7,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",11581,11819,12154,12931,12305,12872,13798,15127,17557,19525
+ "56000","Wyoming",7,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",26916,27940,30294,31526,37013,38791,41058,40159,30824,33820
+ "56000","Wyoming",7,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",49155,52416,51330,54371,71772,72687,59760,62940,50328,44556
+ "56000","Wyoming",7,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",40842,42772,42121,44878,61245,62027,49739,52905,39209,31846
+ "56000","Wyoming",7,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",8314,9644,9209,9493,10527,10661,10021,10034,11119,12710
+ "56000","Wyoming",7,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",21101,19673,19601,20466,18248,17572,17728,15862,16380,20708
+ "56000","Wyoming",7,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",4386,4059,3966,3454,2512,2625,2828,3015,2012,2773
+ "56000","Wyoming",7,SAOACTVA,17,"...","   RVing ","Thousands of dollars",59667,60235,62008,65587,61394,62819,66947,70817,80429,85947
+ "56000","Wyoming",7,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",97217,98622,105614,111588,115212,118503,123316,128495,95369,108258
+ "56000","Wyoming",7,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",72460,75764,81555,86513,91563,93774,96971,101782,70459,81740
+ "56000","Wyoming",7,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",24757,22858,24059,25075,23650,24728,26345,26714,24910,26518
+ "56000","Wyoming",7,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",25218,24142,24752,24277,21013,23692,25318,26739,23588,33191
+ "56000","Wyoming",7,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",22256,21105,21555,20289,17124,20034,21462,21447,17020,25269
+ "56000","Wyoming",7,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",2962,3037,3198,3988,3889,3659,3856,5292,6568,7922
+ "56000","Wyoming",7,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",61102,63493,63057,63722,60619,64660,62715,64468,58010,67933
+ "56000","Wyoming",7,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",100575,105018,108537,110220,108793,114946,117795,120092,105961,124525
+ "56000","Wyoming",7,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",3573,3773,3925,4249,4399,4668,4834,5094,4706,6540
+ "56000","Wyoming",7,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",2675,2762,3007,2858,3222,3388,3724,3697,2037,2989
+ "56000","Wyoming",7,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",3564,3690,3864,3942,3955,4247,4352,4629,3875,4665
+ "56000","Wyoming",7,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",25138,27050,27546,28587,28651,28770,29353,30353,23562,26990
+ "56000","Wyoming",7,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",21908,21170,23033,21660,19519,22423,23543,23090,21171,27148
+ "56000","Wyoming",7,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",9472,9131,10968,10666,10133,10923,11548,11681,9984,13300
+ "56000","Wyoming",7,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",12436,12038,12065,10994,9386,11500,11995,11410,11186,13848
+ "56000","Wyoming",7,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",9790,10745,10664,11453,11629,12223,12161,12581,14851,16735
+ "56000","Wyoming",7,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",30301,31961,32675,33682,33748,35492,36275,36987,32196,35047
+ "56000","Wyoming",7,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",3627,3866,3822,3788,3669,3734,3555,3660,3563,4410
+ "56000","Wyoming",7,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",791825,830563,845136,890809,855305,945217,1000934,980234,608149,896723
+ "56000","Wyoming",7,SAOACTVA,37,"...","   Construction ","Thousands of dollars",27539,24749,27366,26880,27149,30572,39009,47618,49591,48002
+ "56000","Wyoming",7,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",161223,151496,146988,143021,129911,137936,138875,142645,105950,151440
+ "56000","Wyoming",7,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",473476,512389,530170,576229,547218,622132,661032,652112,313064,546949
+ "56000","Wyoming",7,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",79770,76637,83352,94137,98782,108532,108210,107739,44438,86750
+ "56000","Wyoming",7,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",210080,258411,261765,295977,287846,314782,329511,326379,167588,265945
+ "56000","Wyoming",7,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",66536,70175,69904,68836,67370,79443,82001,78277,67366,78694
+ "56000","Wyoming",7,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",117089,107166,115150,117280,93220,119375,141310,139717,33672,115561
+ "56000","Wyoming",7,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",129588,141931,140612,144680,151027,154577,162018,137859,139545,150332
+ "56000","Wyoming",7,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",69881,77473,72283,73011,78308,82774,90670,64486,61565,64412
+ "56000","Wyoming",7,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",59707,64457,68329,71669,72719,71803,71348,73373,77980,85920
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

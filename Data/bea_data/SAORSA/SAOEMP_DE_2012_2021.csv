@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "10000","Delaware",2,SAOEMP,1,"...","All industries ","Number of jobs",15730,15231,15476,16004,16760,16865,16673,17827,12848,14827
+ "10000","Delaware",2,SAOEMP,2,"..."," Private industries ","Number of jobs",15209,14703,14945,15468,16202,16303,16124,17259,12269,14218
+ "10000","Delaware",2,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),99,115
+ "10000","Delaware",2,SAOEMP,4,"...","  Mining ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),0,0
+ "10000","Delaware",2,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "10000","Delaware",2,SAOEMP,6,"...","  Construction ","Number of jobs",152,169,175,183,193,208,272,322,330,360
+ "10000","Delaware",2,SAOEMP,7,"...","  Manufacturing ","Number of jobs",320,311,319,326,331,331,337,344,351,339
+ "10000","Delaware",2,SAOEMP,8,"...","   Durable goods ","Number of jobs",49,47,46,46,45,43,42,46,43,48
+ "10000","Delaware",2,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",271,264,273,280,286,287,295,299,308,291
+ "10000","Delaware",2,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",196,190,192,192,185,182,180,184,178,185
+ "10000","Delaware",2,SAOEMP,11,"...","  Retail trade ","Number of jobs",6447,6416,6448,6580,6716,6689,6498,6551,5627,5715
+ "10000","Delaware",2,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",143,145,142,141,138,141,145,155,125,136
+ "10000","Delaware",2,SAOEMP,13,"...","  Information ","Number of jobs",14,14,14,14,14,14,14,13,14,32
+ "10000","Delaware",2,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",143,172,133,138,151,146,148,154,134,137
+ "10000","Delaware",2,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",25,25,25,26,29,28,26,28,26,26
+ "10000","Delaware",2,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",118,147,108,111,123,117,122,126,108,111
+ "10000","Delaware",2,SAOEMP,17,"...","  Professional and business services ","Number of jobs",258,251,264,281,304,289,280,273,175,165
+ "10000","Delaware",2,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",208,219,230,239,248,247,245,243,191,214
+ "10000","Delaware",2,SAOEMP,19,"...","   Educational services ","Number of jobs",189,201,212,219,228,226,224,221,174,193
+ "10000","Delaware",2,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",19,18,18,19,20,21,20,22,17,21
+ "10000","Delaware",2,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",7065,6565,6771,7123,7662,7794,7736,8738,4903,6665
+ "10000","Delaware",2,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",1857,1862,1974,2014,2107,2128,2205,2409,1733,1938
+ "10000","Delaware",2,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",5208,4703,4797,5109,5555,5666,5530,6329,3169,4727
+ "10000","Delaware",2,SAOEMP,24,"...","  Other services, except government ","Number of jobs",169,162,163,163,164,162,163,172,143,154
+ "10000","Delaware",2,SAOEMP,25,"..."," Government ","Number of jobs",521,528,530,537,558,562,549,568,579,609
+ "10000","Delaware",2,SAOEMP,26,"...","  Federal ","Number of jobs",3,3,3,7,6,5,5,4,3,3
+ "10000","Delaware",2,SAOEMP,27,"...","  State and local ","Number of jobs",518,525,528,530,552,556,544,564,577,606
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

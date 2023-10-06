@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "41000","Oregon",8,SAOEMP,1,"...","All industries ","Number of jobs",77435,75043,77390,79505,81866,85151,85946,85777,64388,73402
+ "41000","Oregon",8,SAOEMP,2,"..."," Private industries ","Number of jobs",72040,69755,71952,74133,76265,79494,80463,80277,59116,68176
+ "41000","Oregon",8,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",2927,2972,3117,3168,3379,3578,3610,3702,3614,4234
+ "41000","Oregon",8,SAOEMP,4,"...","  Mining ","Number of jobs",2,1,1,1,1,2,2,2,1,2
+ "41000","Oregon",8,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "41000","Oregon",8,SAOEMP,6,"...","  Construction ","Number of jobs",922,809,861,889,872,907,961,983,961,967
+ "41000","Oregon",8,SAOEMP,7,"...","  Manufacturing ","Number of jobs",4134,4244,4229,4480,4665,4884,4778,4684,4862,5542
+ "41000","Oregon",8,SAOEMP,8,"...","   Durable goods ","Number of jobs",2821,2946,2963,3213,3353,3542,3497,3361,3500,4044
+ "41000","Oregon",8,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1313,1298,1266,1267,1312,1341,1281,1323,1362,1498
+ "41000","Oregon",8,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2953,2874,2879,2973,3081,3208,3266,3301,2945,3119
+ "41000","Oregon",8,SAOEMP,11,"...","  Retail trade ","Number of jobs",24192,24155,24648,25382,25732,26038,25716,25328,21507,22612
+ "41000","Oregon",8,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",2427,2335,2442,2619,2608,2711,2901,2773,1535,1950
+ "41000","Oregon",8,SAOEMP,13,"...","  Information ","Number of jobs",70,68,67,68,66,65,65,64,68,156
+ "41000","Oregon",8,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",558,609,517,519,558,584,598,662,568,609
+ "41000","Oregon",8,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",177,164,149,136,130,126,119,127,120,117
+ "41000","Oregon",8,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",382,445,369,383,428,458,480,535,447,492
+ "41000","Oregon",8,SAOEMP,17,"...","  Professional and business services ","Number of jobs",842,848,870,914,991,946,934,841,593,557
+ "41000","Oregon",8,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1343,1432,1490,1560,1756,1876,1892,1899,1493,1640
+ "41000","Oregon",8,SAOEMP,19,"...","   Educational services ","Number of jobs",1276,1369,1425,1492,1685,1801,1816,1820,1424,1559
+ "41000","Oregon",8,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",66,63,66,68,71,75,76,79,69,80
+ "41000","Oregon",8,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",30858,28615,30009,30737,31736,33888,34916,35211,20237,26055
+ "41000","Oregon",8,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",10444,10733,11281,11322,12596,13300,13844,14151,9695,10440
+ "41000","Oregon",8,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",20413,17882,18728,19415,19141,20588,21072,21060,10542,15615
+ "41000","Oregon",8,SAOEMP,24,"...","  Other services, except government ","Number of jobs",813,792,820,822,820,806,824,830,733,734
+ "41000","Oregon",8,SAOEMP,25,"..."," Government ","Number of jobs",5395,5287,5439,5372,5601,5657,5483,5500,5272,5225
+ "41000","Oregon",8,SAOEMP,26,"...","  Federal ","Number of jobs",842,635,674,460,511,537,521,412,302,298
+ "41000","Oregon",8,SAOEMP,27,"...","  State and local ","Number of jobs",4553,4652,4764,4913,5090,5120,4961,5088,4970,4927
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

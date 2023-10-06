@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "35000","New Mexico",6,SAOEMP,1,"...","All industries ","Number of jobs",30506,30466,30402,31564,31772,31318,31040,32998,24090,28475
+ "35000","New Mexico",6,SAOEMP,2,"..."," Private industries ","Number of jobs",27973,27952,27851,29099,29282,28779,28426,30188,21108,25343
+ "35000","New Mexico",6,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",344,324,337,320,490,575,632,647,470,534
+ "35000","New Mexico",6,SAOEMP,4,"...","  Mining ","Number of jobs",20,18,17,14,14,54,59,61,84,91
+ "35000","New Mexico",6,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "35000","New Mexico",6,SAOEMP,6,"...","  Construction ","Number of jobs",666,523,535,524,509,546,666,780,810,852
+ "35000","New Mexico",6,SAOEMP,7,"...","  Manufacturing ","Number of jobs",379,378,376,384,388,383,388,383,379,393
+ "35000","New Mexico",6,SAOEMP,8,"...","   Durable goods ","Number of jobs",130,129,128,128,123,125,130,114,95,105
+ "35000","New Mexico",6,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",248,249,248,256,264,258,257,269,284,288
+ "35000","New Mexico",6,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",430,422,424,431,416,413,410,415,382,391
+ "35000","New Mexico",6,SAOEMP,11,"...","  Retail trade ","Number of jobs",9623,9793,9756,9948,9808,9636,9381,9512,8140,8716
+ "35000","New Mexico",6,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",878,796,811,768,806,748,787,892,615,752
+ "35000","New Mexico",6,SAOEMP,13,"...","  Information ","Number of jobs",31,31,31,30,30,29,29,27,29,85
+ "35000","New Mexico",6,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",304,362,295,314,317,333,317,349,308,326
+ "35000","New Mexico",6,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",72,68,63,59,56,54,51,56,53,52
+ "35000","New Mexico",6,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",232,294,232,256,261,278,265,293,255,275
+ "35000","New Mexico",6,SAOEMP,17,"...","  Professional and business services ","Number of jobs",343,345,355,370,390,354,357,312,254,254
+ "35000","New Mexico",6,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",459,489,503,561,594,626,614,655,518,578
+ "35000","New Mexico",6,SAOEMP,19,"...","   Educational services ","Number of jobs",430,461,474,531,563,595,584,623,491,546
+ "35000","New Mexico",6,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",29,29,29,30,31,31,30,32,27,32
+ "35000","New Mexico",6,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",14170,14144,14080,15102,15190,14766,14466,15830,8834,12085
+ "35000","New Mexico",6,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",3982,4169,4379,4715,4799,4758,4629,4893,3297,3644
+ "35000","New Mexico",6,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",10187,9975,9701,10387,10391,10008,9837,10937,5538,8440
+ "35000","New Mexico",6,SAOEMP,24,"...","  Other services, except government ","Number of jobs",329,326,330,334,330,318,320,325,284,287
+ "35000","New Mexico",6,SAOEMP,25,"..."," Government ","Number of jobs",2533,2514,2552,2465,2490,2539,2614,2810,2981,3132
+ "35000","New Mexico",6,SAOEMP,26,"...","  Federal ","Number of jobs",355,284,273,156,165,170,175,131,115,116
+ "35000","New Mexico",6,SAOEMP,27,"...","  State and local ","Number of jobs",2178,2230,2279,2309,2325,2369,2439,2679,2866,3016
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

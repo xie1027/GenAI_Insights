@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "02000","Alaska",8,SAOVA,1,"...","All industries ","Thousands of dollars",1690270,1788928,1823581,1996208,2014407,2074158,2165478,2363936,1543844,2082723
+ "02000","Alaska",8,SAOVA,2,"..."," Private industries ","Thousands of dollars",1471539,1555672,1571967,1711168,1705464,1741676,1794494,1974015,1238438,1761379
+ "02000","Alaska",8,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",8155,9018,8824,9073,10172,11435,11129,11002,9484,10385
+ "02000","Alaska",8,SAOVA,4,"...","  Mining ","Thousands of dollars",4093,4145,4343,2840,2298,2785,3479,3447,2507,4451
+ "02000","Alaska",8,SAOVA,5,"...","  Utilities ","Thousands of dollars",27,29,25,31,22,27,17,16,25,20
+ "02000","Alaska",8,SAOVA,6,"...","  Construction ","Thousands of dollars",30968,28395,28657,26904,24669,23864,24808,26124,25586,24301
+ "02000","Alaska",8,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",100303,107528,113482,109498,74161,78171,90134,74753,43182,71989
+ "02000","Alaska",8,SAOVA,8,"...","   Durable goods ","Thousands of dollars",3750,3399,3491,3292,3313,3384,3845,4820,5328,7105
+ "02000","Alaska",8,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",96553,104129,109991,106206,70849,74787,86289,69933,37854,64884
+ "02000","Alaska",8,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",44516,42459,42746,42429,39241,38263,44018,43149,50121,55386
+ "02000","Alaska",8,SAOVA,11,"...","  Retail trade ","Thousands of dollars",261199,269807,275341,290157,292159,291520,287569,279558,302970,340336
+ "02000","Alaska",8,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",419556,441213,458443,513415,543576,525930,569074,733717,240282,528951
+ "02000","Alaska",8,SAOVA,13,"...","  Information ","Thousands of dollars",2468,2709,2730,3025,3245,3342,3308,3423,3592,4442
+ "02000","Alaska",8,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",99702,133716,107226,113896,124806,125268,110783,129569,139263,126094
+ "02000","Alaska",8,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",16120,14245,17092,18330,17871,15131,14821,15115,14389,13703
+ "02000","Alaska",8,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",83582,119471,90134,95566,106935,110137,95962,114453,124874,112392
+ "02000","Alaska",8,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",14509,14258,14840,15844,16513,18650,20643,20723,5160,13137
+ "02000","Alaska",8,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",5992,5886,6158,6546,6969,7596,7932,8103,5647,6915
+ "02000","Alaska",8,SAOVA,19,"...","   Educational services ","Thousands of dollars",4331,4247,4470,4705,5029,5591,5918,6007,3848,4778
+ "02000","Alaska",8,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",1662,1639,1687,1841,1940,2004,2014,2095,1799,2137
+ "02000","Alaska",8,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",461382,477813,490344,559299,550080,596385,604592,623330,392826,556608
+ "02000","Alaska",8,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",123385,125386,132256,130110,130359,139622,142067,144022,96972,106873
+ "02000","Alaska",8,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",337997,352427,358088,429189,419721,456763,462525,479308,295854,449735
+ "02000","Alaska",8,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",18667,18695,18808,18211,17553,18439,17010,17101,17794,18364
+ "02000","Alaska",8,SAOVA,25,"..."," Government ","Thousands of dollars",218732,233256,251614,285040,308943,332481,370983,389921,305406,321344
+ "02000","Alaska",8,SAOVA,26,"...","  Federal ","Thousands of dollars",36142,37925,37328,37643,39422,39906,40624,30776,26536,28381
+ "02000","Alaska",8,SAOVA,27,"...","  State and local ","Thousands of dollars",182589,195331,214285,247397,269520,292575,330359,359145,278871,292963
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

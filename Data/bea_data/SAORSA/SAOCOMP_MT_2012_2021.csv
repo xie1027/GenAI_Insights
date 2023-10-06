@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "30000","Montana",7,SAOCOMP,1,"...","All industries ","Thousands of dollars",873895,910380,952356,1015125,1030236,1109121,1124583,1162501,998248,1172983
+ "30000","Montana",7,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",811195,843751,883454,943606,954187,1029303,1039399,1081520,915824,1084922
+ "30000","Montana",7,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",14304,14528,15247,14449,19421,22509,23005,23908,19523,20836
+ "30000","Montana",7,SAOCOMP,4,"...","  Mining ","Thousands of dollars",1770,1529,1207,859,721,1337,1672,1426,986,1708
+ "30000","Montana",7,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "30000","Montana",7,SAOCOMP,6,"...","  Construction ","Thousands of dollars",14109,12850,14555,13553,14844,16415,18770,20868,23838,22252
+ "30000","Montana",7,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",41318,43116,42163,45826,53195,53159,55652,57617,56854,65734
+ "30000","Montana",7,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",17077,18785,18071,20561,25520,24463,24587,24521,27274,33943
+ "30000","Montana",7,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",24241,24331,24092,25265,27675,28696,31065,33096,29579,31791
+ "30000","Montana",7,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",92768,92602,95775,102671,102998,102418,102707,103122,90994,105949
+ "30000","Montana",7,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",228025,241612,248409,266614,265597,289056,280538,280158,281423,320478
+ "30000","Montana",7,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",50881,55877,57133,68584,60424,76956,83712,94405,61274,82184
+ "30000","Montana",7,SAOCOMP,13,"...","  Information ","Thousands of dollars",938,995,1037,1043,1041,1057,1083,1064,1147,1769
+ "30000","Montana",7,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",11668,11883,10935,12334,12680,13556,13705,15350,14434,15492
+ "30000","Montana",7,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",6018,5789,5625,5664,5594,5711,5689,6067,5948,6152
+ "30000","Montana",7,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",5651,6095,5309,6670,7086,7845,8016,9283,8486,9340
+ "30000","Montana",7,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",11110,10048,12209,13870,14771,15075,15480,14383,10749,12395
+ "30000","Montana",7,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",6451,6569,7149,7500,8208,9030,9821,10361,8631,10693
+ "30000","Montana",7,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",5371,5457,5995,6251,6928,7684,8459,8912,7326,9056
+ "30000","Montana",7,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1080,1112,1154,1248,1280,1346,1361,1449,1306,1636
+ "30000","Montana",7,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",332593,346653,371840,389842,393355,421241,425774,450847,337863,416950
+ "30000","Montana",7,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",144352,149507,165993,166320,178332,181712,188909,199584,166746,182245
+ "30000","Montana",7,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",188242,197146,205847,223522,215023,239529,236865,251263,171117,234705
+ "30000","Montana",7,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",5259,5487,5796,6460,6933,7492,7480,8010,8108,8482
+ "30000","Montana",7,SAOCOMP,25,"..."," Government ","Thousands of dollars",62699,66629,68902,71518,76049,79818,85184,80981,82423,88060
+ "30000","Montana",7,SAOCOMP,26,"...","  Federal ","Thousands of dollars",25446,26120,26297,26863,29387,31039,33266,25553,21696,22722
+ "30000","Montana",7,SAOCOMP,27,"...","  State and local ","Thousands of dollars",37253,40509,42606,44655,46662,48779,51918,55428,60728,65338
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

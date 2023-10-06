@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "33000","New Hampshire",1,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",2115354,2249213,2219486,2367597,2446940,2508934,2507805,2610566,2261709,2663745
+ "33000","New Hampshire",1,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",1229522,1296159,1301512,1377136,1444305,1465654,1480896,1506740,1467983,1615214
+ "33000","New Hampshire",1,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",923505,983155,980221,1040407,1106226,1104695,1104272,1114778,1174232,1260783
+ "33000","New Hampshire",1,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",9646,9868,9580,9243,9555,10294,9937,11257,14682,16146
+ "33000","New Hampshire",1,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",104157,104977,107627,113651,123847,133722,138293,146947,199576,158931
+ "33000","New Hampshire",1,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",4357,3767,3746,3853,4042,3962,3859,4256,5683,9560
+ "33000","New Hampshire",1,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",13449,13220,13415,15419,21120,23290,24368,24221,24048,27018
+ "33000","New Hampshire",1,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",8835,9474,9898,9946,10645,10766,11284,13095,9476,9871
+ "33000","New Hampshire",1,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",77516,78516,80568,84432,88040,95703,98781,105374,160370,112482
+ "33000","New Hampshire",1,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",27083,27639,28351,29421,28630,29563,30827,32615,34828,41249
+ "33000","New Hampshire",1,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",7363,7912,9195,9412,10481,12373,15583,13324,14343,18245
+ "33000","New Hampshire",1,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",127824,182400,147463,156520,215014,194043,184725,171657,228965,264942
+ "33000","New Hampshire",1,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",52727,76313,61283,65239,90638,69076,70395,58243,74585,86605
+ "33000","New Hampshire",1,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",75097,106087,86181,91281,124376,124967,114329,113415,154381,178337
+ "33000","New Hampshire",1,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",44689,44793,44690,46850,49427,37542,35605,32387,40286,44786
+ "33000","New Hampshire",1,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",3207,3580,3595,3667,3485,3348,3262,3424,3594,3968
+ "33000","New Hampshire",1,SAOACTVA,17,"...","   RVing ","Thousands of dollars",93624,97462,100452,110071,108592,110544,114598,118242,134883,142495
+ "33000","New Hampshire",1,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",190744,185184,203113,208661,203363,199246,204609,208403,183659,191583
+ "33000","New Hampshire",1,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",104179,101514,114232,120788,117077,106605,108225,113366,83861,100141
+ "33000","New Hampshire",1,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",86565,83669,88881,87873,86287,92640,96384,95036,99799,91442
+ "33000","New Hampshire",1,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",52838,53072,56149,61266,60628,65848,62687,68258,72902,89663
+ "33000","New Hampshire",1,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",41178,41871,44304,47165,45925,51703,47909,49011,49957,61156
+ "33000","New Hampshire",1,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",11660,11201,11845,14101,14703,14145,14779,19247,22944,28507
+ "33000","New Hampshire",1,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",262329,266268,270005,291646,293203,308171,304145,308265,246512,288775
+ "33000","New Hampshire",1,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",306017,313004,321291,336729,338079,360959,376625,391962,293751,354431
+ "33000","New Hampshire",1,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",36531,36623,37774,39793,42082,49681,53434,55928,26911,38298
+ "33000","New Hampshire",1,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",21275,24093,24910,23044,22736,22600,20915,18454,11018,13933
+ "33000","New Hampshire",1,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",16737,16760,17598,19145,19880,24224,24797,27563,22307,27117
+ "33000","New Hampshire",1,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",97212,99457,99048,100983,103318,100625,107788,112900,88493,103040
+ "33000","New Hampshire",1,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",49470,48061,51387,51498,50590,58957,63058,65524,45778,61136
+ "33000","New Hampshire",1,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",25940,25318,28400,28821,28577,32460,34779,36637,24574,33190
+ "33000","New Hampshire",1,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",23529,22743,22986,22676,22014,26496,28278,28887,21204,27946
+ "33000","New Hampshire",1,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",14283,15485,15633,17705,18823,19830,19670,19647,24064,26504
+ "33000","New Hampshire",1,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",56445,56831,59213,66901,63970,67836,70777,75313,59672,65035
+ "33000","New Hampshire",1,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",14064,15696,15730,17660,16678,17208,16185,16633,15507,19368
+ "33000","New Hampshire",1,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",885832,953053,917973,990461,1002635,1043280,1026909,1103826,793726,1048531
+ "33000","New Hampshire",1,SAOACTVA,37,"...","   Construction ","Thousands of dollars",5469,5023,5583,6601,7474,9195,11376,12873,13115,12470
+ "33000","New Hampshire",1,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",239892,243976,251235,265843,269871,266767,251306,268323,238568,269779
+ "33000","New Hampshire",1,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",592220,650391,602991,655491,661017,703424,699973,757146,472887,693826
+ "33000","New Hampshire",1,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",131971,115631,117928,127231,132575,145529,141720,157805,67365,139955
+ "33000","New Hampshire",1,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",232630,299183,256360,288589,288516,301886,305983,327171,236051,320522
+ "33000","New Hampshire",1,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",97305,102524,102695,105569,104580,110420,110433,119990,117562,129835
+ "33000","New Hampshire",1,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",130315,133052,126008,134102,135346,145589,141837,152179,51908,103514
+ "33000","New Hampshire",1,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",48251,53663,58165,62526,64274,63894,64253,65483,69155,72456
+ "33000","New Hampshire",1,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",4060,3927,4227,4221,4148,3939,3740,3030,2209,2311
+ "33000","New Hampshire",1,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",44191,49736,53938,58305,60126,59955,60513,62454,66946,70144
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

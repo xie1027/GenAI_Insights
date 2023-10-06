@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "47000","Tennessee",5,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",6551687,6678880,6830267,7062932,7228575,7689707,8079130,8711834,7173124,9047893
+ "47000","Tennessee",5,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",3388842,3451223,3533028,3628667,3710520,3994226,4162810,4360427,4060927,4705913
+ "47000","Tennessee",5,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",2177363,2211011,2251237,2317624,2355594,2492810,2556116,2688166,2815168,3142167
+ "47000","Tennessee",5,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",18193,18899,19331,18654,19443,21007,20775,24401,31995,36188
+ "47000","Tennessee",5,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",455568,478089,504687,532281,552244,599521,651116,727893,853219,854207
+ "47000","Tennessee",5,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",21967,16966,16349,16359,15798,10412,10463,11884,17182,29709
+ "47000","Tennessee",5,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",64869,65289,66924,73229,97841,105378,112120,112440,115543,130057
+ "47000","Tennessee",5,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",22933,24669,27204,28034,29881,28893,29659,34347,24719,22138
+ "47000","Tennessee",5,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",345798,371166,394209,414660,408724,454839,498874,569222,695775,672304
+ "47000","Tennessee",5,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",61439,64157,67947,68188,64515,66307,69061,73670,81845,106249
+ "47000","Tennessee",5,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",75301,78645,88722,92108,105982,114748,125902,119940,107465,124273
+ "47000","Tennessee",5,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",105781,124771,118144,121629,146997,146644,150385,156019,178821,198610
+ "47000","Tennessee",5,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",41191,49382,47071,49957,64249,60596,65354,68679,75010,78934
+ "47000","Tennessee",5,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",64590,75389,71073,71672,82748,86048,85030,87340,103810,119676
+ "47000","Tennessee",5,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",126704,121610,121758,127513,127274,117643,118355,113241,133944,151081
+ "47000","Tennessee",5,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",11439,12240,12263,12069,11069,9865,9604,10543,10764,11901
+ "47000","Tennessee",5,SAOACTVA,17,"...","   RVing ","Thousands of dollars",212497,221748,237235,253836,261856,269674,285433,287755,335096,406107
+ "47000","Tennessee",5,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",30129,30723,33065,34346,34068,35978,38113,39026,32456,31506
+ "47000","Tennessee",5,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",20908,21509,23343,24550,25407,25470,26320,27719,19431,22620
+ "47000","Tennessee",5,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",9221,9214,9722,9797,8662,10508,11794,11308,13025,8886
+ "47000","Tennessee",5,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",179622,175526,178623,186252,181366,191343,186943,217426,238057,288757
+ "47000","Tennessee",5,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",110814,112014,111295,108215,100842,111119,104474,109790,112310,136266
+ "47000","Tennessee",5,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",68808,63512,67328,78037,80524,80225,82469,107637,125747,152490
+ "47000","Tennessee",5,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",900689,884603,869463,870748,850781,920080,900429,918250,811506,933287
+ "47000","Tennessee",5,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1211479,1240212,1281790,1311042,1354926,1501416,1606694,1672261,1245758,1563746
+ "47000","Tennessee",5,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",99713,102460,105524,116741,130222,164090,187892,203007,112528,154581
+ "47000","Tennessee",5,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",242640,248855,276226,275634,312545,348984,374166,370562,193506,283666
+ "47000","Tennessee",5,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",45027,44726,48152,49464,50233,57918,59229,67841,62168,73856
+ "47000","Tennessee",5,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",285302,282447,275544,267441,268211,251791,273015,294518,242498,281059
+ "47000","Tennessee",5,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",166588,166202,177206,173964,166816,207628,239737,253445,163252,223134
+ "47000","Tennessee",5,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",76740,76546,87387,91070,94655,103182,121498,140566,84199,120656
+ "47000","Tennessee",5,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",89848,89655,89819,82894,72161,104447,118239,112879,79054,102478
+ "47000","Tennessee",5,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",136891,158157,161139,174837,177638,186561,189402,187664,213947,257495
+ "47000","Tennessee",5,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",142410,142709,146063,154198,150438,164944,174508,186618,157659,175131
+ "47000","Tennessee",5,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",92909,94657,91936,98763,98824,119500,108746,108606,100200,114823
+ "47000","Tennessee",5,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",3162845,3227657,3297239,3434266,3518055,3695481,3916320,4351407,3112197,4341981
+ "47000","Tennessee",5,SAOACTVA,37,"...","   Construction ","Thousands of dollars",70630,67586,80802,88996,93980,101041,110290,118310,116845,109738
+ "47000","Tennessee",5,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",584473,605338,618470,645213,624761,625499,635356,702941,656502,752864
+ "47000","Tennessee",5,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",2155206,2178018,2214270,2305582,2390366,2547626,2733003,3112532,1902787,3010075
+ "47000","Tennessee",5,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",471968,385436,412905,422294,449850,494294,512631,569189,274112,568484
+ "47000","Tennessee",5,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",580837,651759,632513,684815,688819,752746,809456,909876,590059,964844
+ "47000","Tennessee",5,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",503276,516768,537156,551430,537442,564797,574249,607479,643198,698138
+ "47000","Tennessee",5,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",599125,624055,631697,647043,714255,735790,836666,1025988,395418,778610
+ "47000","Tennessee",5,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",352536,376715,383697,394475,408948,421314,437671,417623,436064,469304
+ "47000","Tennessee",5,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",92145,104861,98740,99797,105391,108901,119031,84734,84688,88604
+ "47000","Tennessee",5,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",260392,271854,284957,294678,303557,312413,318640,332889,351376,380699
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

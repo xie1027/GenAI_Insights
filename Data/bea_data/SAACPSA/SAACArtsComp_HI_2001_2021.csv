@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "15000","Hawaii",8,SAACArtsComp,1,"...","Total compensation ","Thousands of dollars",24634143,26161978,27935614,29974681,32016849,33865424,35757080,36816673,36023591,36561920,38166216,39540036,40821298,42495392,44516725,46098301,47710577,49080158,50422070,47851561,51355582
+ "15000","Hawaii",8,SAACArtsComp,10,"...","Total ACPSA compensation ","Thousands of dollars",879967,911814,947777,1013738,1023935,1073057,1154060,1157014,1078652,1100640,1073528,1111839,1137641,1199079,1246448,1265393,1378240,1518901,1623520,1428049,1578481
+ "15000","Hawaii",8,SAACArtsComp,100,"..."," Core arts and cultural production ","Thousands of dollars",184465,195587,211326,216638,236915,254701,269606,283886,267837,245274,243848,277384,294536,324777,325732,325896,343986,390577,399636,350424,380435
+ "15000","Hawaii",8,SAACArtsComp,111,"...","  Performing arts companies ","Thousands of dollars",31164,26083,24746,31526,33937,37258,32085,37621,37151,(D),(D),28126,37451,39894,44844,29770,38060,45999,42743,28014,33383
+ "15000","Hawaii",8,SAACArtsComp,112,"...","  Promoters of performing arts and similar events ","Thousands of dollars",4303,7027,6507,6004,6422,7222,8019,8542,9476,7158,8165,7948,7493,7806,6925,7755,8417,7265,9717,6816,12351
+ "15000","Hawaii",8,SAACArtsComp,113,"...","  Agents/managers for artists ","Thousands of dollars",(D),(D),(D),(D),1431,(D),916,(D),224,226,225,(D),250,240,(D),(D),175,237,335,(D),439
+ "15000","Hawaii",8,SAACArtsComp,114,"...","  Independent artists, writers, and performers ","Thousands of dollars",9481,7033,9029,10667,10174,16524,21246,28550,27925,27052,16085,16378,17595,27916,30360,35926,43433,63560,69574,44963,47982
+ "15000","Hawaii",8,SAACArtsComp,120,"...","  Museums ","Thousands of dollars",18023,25130,22869,23575,27657,31221,36058,35888,(D),30836,46710,63539,66980,66764,57099,63496,60437,65891,64296,65465,61283
+ "15000","Hawaii",8,SAACArtsComp,131,"...","  Advertising ","Thousands of dollars",(D),11900,(D),(D),14706,15136,16080,(D),(D),(D),(D),13313,14197,(D),13378,13724,14645,15788,15814,(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,132,"...","  Architectural services ","Thousands of dollars",53100,58533,67835,59616,69592,71673,79822,79939,73030,69488,68426,70691,74960,80271,81291,80108,79486,86574,89637,92702,98585
+ "15000","Hawaii",8,SAACArtsComp,133,"...","  Landscape architectural services ","Thousands of dollars",8047,8583,9302,10273,12607,14837,14511,15045,14635,12735,11848,11296,13717,12632,12749,14538,15737,15345,14982,19835,17382
+ "15000","Hawaii",8,SAACArtsComp,134,"...","  Interior design services ","Thousands of dollars",3142,3942,4934,5171,6286,7528,7976,6032,4570,4291,4428,6284,4654,7618,7572,7127,7642,9023,9062,9249,12655
+ "15000","Hawaii",8,SAACArtsComp,135,"...","  Industrial design services ","Thousands of dollars",(D),(D),(D),(D),0,(D),(D),102,95,87,109,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,136,"...","  Graphic design services ","Thousands of dollars",3113,3708,4591,4407,5174,5835,5626,5807,4617,4619,4393,5760,4521,6079,7968,7590,7790,8990,9795,9475,10071
+ "15000","Hawaii",8,SAACArtsComp,137,"...","  Computer systems design ","Thousands of dollars",1250,1409,1559,1705,1991,2463,2706,2754,2728,2814,2953,3195,3372,3471,3747,3799,3941,3868,3696,3874,5446
+ "15000","Hawaii",8,SAACArtsComp,138,"...","  Photography and photofinishing services ","Thousands of dollars",26068,25399,24720,22227,22146,20853,20320,19601,18524,16988,16588,23716,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,139,"...","  All other design services ","Thousands of dollars",(D),(D),(D),(D),81,(D),(D),1095,154,178,206,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,140,"...","  Fine arts education ","Thousands of dollars",2801,2699,3455,4449,4891,4767,4890,5368,5520,4966,4535,4185,4317,5294,5607,5941,6874,7831,9344,6490,9271
+ "15000","Hawaii",8,SAACArtsComp,150,"...","  Education services ","Thousands of dollars",11720,13731,17176,21936,19819,18046,18652,21248,22680,21357,20425,22329,23528,23852,23026,24081,23630,24332,24703,28974,30120
+ "15000","Hawaii",8,SAACArtsComp,200,"..."," Supporting arts and cultural production ","Thousands of dollars",663205,682398,702207,761269,749821,780410,844408,833498,772568,819957,794046,800508,808936,838880,882737,899951,994459,1088202,1183201,1042831,1158375
+ "15000","Hawaii",8,SAACArtsComp,211,"...","  Rental and leasing ","Thousands of dollars",8384,9095,7709,7385,8116,9047,8072,8477,7108,6460,6674,7127,8020,7730,8916,8903,7560,7345,7710,5643,(D)
+ "15000","Hawaii",8,SAACArtsComp,212,"...","  Grantmaking and giving services ","Thousands of dollars",2449,3159,3893,3561,4025,4822,6285,5819,6277,5595,6789,5404,6733,7349,8364,8513,8938,8872,10288,8345,7363
+ "15000","Hawaii",8,SAACArtsComp,213,"...","  Unions ","Thousands of dollars",(D),(D),(D),(D),(D),4294,(D),4302,(D),4553,4738,(D),4867,4937,5135,(D),5308,5555,6018,6265,6618
+ "15000","Hawaii",8,SAACArtsComp,214,"...","  Government ","Thousands of dollars",279341,298705,309828,327137,312339,305897,307216,328184,333660,323376,324574,319888,331317,357155,360043,378895,389268,406842,414036,412611,410802
+ "15000","Hawaii",8,SAACArtsComp,215,"...","  Other support services ","Thousands of dollars",346,(D),(D),(D),(D),751,1356,1461,1069,1062,935,881,723,800,1049,1088,1256,1395,(D),(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,221,"...","  Publishing ","Thousands of dollars",75654,67953,72104,71534,70893,72450,75246,66879,58993,49154,42862,41691,42755,44178,43847,43487,42858,(D),45426,41449,56922
+ "15000","Hawaii",8,SAACArtsComp,222,"...","  Motion pictures ","Thousands of dollars",31038,52424,40652,75716,60857,54886,69283,61559,61441,139754,81269,79198,85127,71614,88152,87146,113031,186009,132089,64625,132950
+ "15000","Hawaii",8,SAACArtsComp,223,"...","  Sound recording ","Thousands of dollars",1321,925,1217,1243,1143,1160,1299,1573,1298,929,970,972,1014,943,884,649,515,572,806,784,1176
+ "15000","Hawaii",8,SAACArtsComp,224,"...","  Broadcasting ","Thousands of dollars",(D),95338,99728,107693,110373,124606,(D),132752,135364,143344,153338,160002,168652,(D),183677,179770,(D),191103,180426,177921,185924
+ "15000","Hawaii",8,SAACArtsComp,225,"...","  Other information services ","Thousands of dollars",2954,2124,7470,8566,12388,13690,7938,7441,7466,8009,9903,10530,9013,9536,10132,9093,9324,9965,12440,14031,31207
+ "15000","Hawaii",8,SAACArtsComp,231,"...","  Jewelry and silverware manufacturing ","Thousands of dollars",11819,9308,13635,14655,16251,17063,17632,19880,10771,8828,6869,9473,9872,10125,10700,10665,12667,14604,13608,4882,8600
+ "15000","Hawaii",8,SAACArtsComp,232,"...","  Printed goods manufacturing ","Thousands of dollars",8637,7444,7685,8754,8452,8379,9802,(D),(D),(D),6949,6922,6928,6590,6042,5870,6042,6084,5558,3769,3870
+ "15000","Hawaii",8,SAACArtsComp,233,"...","  Musical instruments manufacturing ","Thousands of dollars",1240,(D),(D),(D),(D),(D),(D),2224,1883,1823,1917,2486,2733,(D),(D),3016,(D),3563,3945,(D),(D)
+ "15000","Hawaii",8,SAACArtsComp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Thousands of dollars",488,777,816,1005,1419,(D),(D),2093,(D),1451,1662,(D),(D),2841,3220,(D),3672,(D),3363,2282,2368
+ "15000","Hawaii",8,SAACArtsComp,236,"...","  Other goods manufacturing ","Thousands of dollars",474,(D),(D),(D),(D),(D),791,(D),212,(D),234,249,(D),445,(D),560,707,725,924,786,1100
+ "15000","Hawaii",8,SAACArtsComp,240,"...","  Construction ","Thousands of dollars",49009,34731,35157,21845,28569,50345,93838,67643,38992,16328,29304,33134,8819,15340,33593,35081,73355,63452,205063,176699,167393
+ "15000","Hawaii",8,SAACArtsComp,250,"...","  Wholesale and transportation industries ","Thousands of dollars",34830,38028,37694,41517,42897,42609,44839,52698,42117,53254,66851,66653,69230,66638,66088,72109,80883,(D),(D),72922,(D)
+ "15000","Hawaii",8,SAACArtsComp,260,"...","  Retail industries ","Thousands of dollars",58360,57420,58372,63709,64999,65394,63144,60252,51795,49328,48207,48862,50077,51592,49935,46705,50303,51960,53578,46018,57575
+ "15000","Hawaii",8,SAACArtsComp,300,"..."," All other industries 2/","Thousands of dollars",32297,33829,34245,35831,37200,37946,40045,39629,38247,35409,35634,33947,34169,35422,37979,39546,39795,40121,40683,34793,39671
+"Note: See the included footnote file."
+"SAACArtsComp: ACPSA compensation by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

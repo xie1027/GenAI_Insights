@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "50000","Vermont",1,SAOEMP,1,"...","All industries ","Number of jobs",17306,17537,16679,18021,17550,17964,17760,17833,12400,14582
+ "50000","Vermont",1,SAOEMP,2,"..."," Private industries ","Number of jobs",16966,17190,16322,17655,17172,17584,17368,17414,11970,14146
+ "50000","Vermont",1,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",82,81,85,83,113,127,134,136,106,122
+ "50000","Vermont",1,SAOEMP,4,"...","  Mining ","Number of jobs",2,2,2,1,1,1,1,1,1,1
+ "50000","Vermont",1,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "50000","Vermont",1,SAOEMP,6,"...","  Construction ","Number of jobs",101,86,89,94,96,100,108,109,101,106
+ "50000","Vermont",1,SAOEMP,7,"...","  Manufacturing ","Number of jobs",667,664,645,641,647,603,580,574,595,693
+ "50000","Vermont",1,SAOEMP,8,"...","   Durable goods ","Number of jobs",413,415,398,393,391,348,328,324,331,399
+ "50000","Vermont",1,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",254,249,247,248,256,255,252,251,264,294
+ "50000","Vermont",1,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",1010,968,977,993,981,971,953,943,814,850
+ "50000","Vermont",1,SAOEMP,11,"...","  Retail trade ","Number of jobs",5304,5380,5242,5423,5183,5140,4955,4847,4075,4239
+ "50000","Vermont",1,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",408,420,382,389,388,379,383,411,264,326
+ "50000","Vermont",1,SAOEMP,13,"...","  Information ","Number of jobs",16,16,16,15,14,13,12,12,12,22
+ "50000","Vermont",1,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",306,328,276,273,271,262,270,292,273,281
+ "50000","Vermont",1,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",148,135,123,112,105,101,96,104,102,102
+ "50000","Vermont",1,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",157,193,153,161,166,162,174,188,172,179
+ "50000","Vermont",1,SAOEMP,17,"...","  Professional and business services ","Number of jobs",143,143,142,143,148,139,138,126,93,87
+ "50000","Vermont",1,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",332,352,373,405,445,470,477,450,347,379
+ "50000","Vermont",1,SAOEMP,19,"...","   Educational services ","Number of jobs",316,337,357,389,429,457,463,436,336,366
+ "50000","Vermont",1,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",16,16,15,16,16,14,13,14,11,13
+ "50000","Vermont",1,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",8460,8617,7959,9055,8746,9240,9220,9375,5170,6918
+ "50000","Vermont",1,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",1849,1871,1967,1961,1946,1880,1972,2010,1362,1513
+ "50000","Vermont",1,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",6611,6746,5992,7093,6800,7360,7247,7365,3808,5406
+ "50000","Vermont",1,SAOEMP,24,"...","  Other services, except government ","Number of jobs",137,135,135,140,138,137,137,138,119,123
+ "50000","Vermont",1,SAOEMP,25,"..."," Government ","Number of jobs",340,347,358,366,378,380,391,419,429,436
+ "50000","Vermont",1,SAOEMP,26,"...","  Federal ","Number of jobs",9,7,7,4,5,5,5,4,3,3
+ "50000","Vermont",1,SAOEMP,27,"...","  State and local ","Number of jobs",331,340,351,362,373,375,386,416,426,432
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

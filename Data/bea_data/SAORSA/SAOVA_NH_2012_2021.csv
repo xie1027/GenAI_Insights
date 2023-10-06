@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "33000","New Hampshire",1,SAOVA,1,"...","All industries ","Thousands of dollars",2115354,2249213,2219486,2367597,2446940,2508934,2507805,2610566,2261709,2663745
+ "33000","New Hampshire",1,SAOVA,2,"..."," Private industries ","Thousands of dollars",2050232,2178533,2143159,2286276,2363630,2425558,2423657,2524969,2171140,2569640
+ "33000","New Hampshire",1,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",9595,11285,10713,10833,10852,11655,10814,9481,8480,9516
+ "33000","New Hampshire",1,SAOVA,4,"...","  Mining ","Thousands of dollars",20,19,19,15,13,17,19,17,12,17
+ "33000","New Hampshire",1,SAOVA,5,"...","  Utilities ","Thousands of dollars",5,5,4,5,4,4,3,2,3,3
+ "33000","New Hampshire",1,SAOVA,6,"...","  Construction ","Thousands of dollars",5103,4953,5275,5632,6402,7842,9693,11313,11497,10875
+ "33000","New Hampshire",1,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",211180,264800,229193,244513,301700,272694,265281,259609,322486,373960
+ "33000","New Hampshire",1,SAOVA,8,"...","   Durable goods ","Thousands of dollars",169194,222976,187411,200645,255944,225276,216216,205541,266763,304214
+ "33000","New Hampshire",1,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",41986,41825,41782,43868,45755,47417,49065,54068,55723,69746
+ "33000","New Hampshire",1,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",351660,344188,361850,392182,386805,384981,387534,399703,361345,393213
+ "33000","New Hampshire",1,SAOVA,11,"...","  Retail trade ","Thousands of dollars",514644,531721,536829,555543,552429,576418,560267,580760,584926,670900
+ "33000","New Hampshire",1,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",92882,95187,89365,91624,90323,100381,87905,93347,33721,49670
+ "33000","New Hampshire",1,SAOVA,13,"...","  Information ","Thousands of dollars",4879,5030,5068,5564,5773,6038,6206,6426,6708,8382
+ "33000","New Hampshire",1,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",197890,247987,207403,233955,246127,244859,264175,275950,271538,285943
+ "33000","New Hampshire",1,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",41450,37068,43679,47538,48683,44019,45182,46952,45381,45477
+ "33000","New Hampshire",1,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",156440,210918,163724,186417,197444,200841,218994,228998,226157,240466
+ "33000","New Hampshire",1,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",20760,20492,21887,23806,24710,25994,25914,24206,8108,15267
+ "33000","New Hampshire",1,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",19204,19262,20369,21043,23282,25380,26731,26926,19270,22086
+ "33000","New Hampshire",1,SAOVA,19,"...","   Educational services ","Thousands of dollars",16601,16730,17765,18354,20457,22590,23896,23875,16608,18805
+ "33000","New Hampshire",1,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",2603,2532,2604,2689,2824,2790,2834,3052,2662,3281
+ "33000","New Hampshire",1,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",595920,607328,628655,674389,687103,740144,750664,807327,511505,696235
+ "33000","New Hampshire",1,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",241039,247866,261146,268951,283499,306388,324703,339217,217309,253317
+ "33000","New Hampshire",1,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",354881,359461,367509,405438,403604,433756,425961,468110,294196,442918
+ "33000","New Hampshire",1,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",26490,26277,26529,27170,28108,29152,28453,29900,31539,33574
+ "33000","New Hampshire",1,SAOVA,25,"..."," Government ","Thousands of dollars",65122,70680,76327,81321,83310,83376,84148,85597,90568,94105
+ "33000","New Hampshire",1,SAOVA,26,"...","  Federal ","Thousands of dollars",6879,6323,6458,6282,6150,6042,5727,4911,3807,4077
+ "33000","New Hampshire",1,SAOVA,27,"...","  State and local ","Thousands of dollars",58243,64357,69869,75039,77160,77334,78421,80686,86761,90028
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

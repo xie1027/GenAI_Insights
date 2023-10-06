@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "45000","South Carolina",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",2496668,2484945,2605392,2726927,2780731,3056997,3142137,3295758,2833767,3345585
+ "45000","South Carolina",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",2275802,2244687,2345046,2442418,2478977,2744715,2821702,2959035,2469141,2960599
+ "45000","South Carolina",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",31067,30413,30547,32668,50327,69641,63677,79505,53133,47314
+ "45000","South Carolina",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",96,79,82,67,62,89,81,65,68,72
+ "45000","South Carolina",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",4,4,3,4,3,3,2,2,4,3
+ "45000","South Carolina",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",29876,28109,30423,29686,32661,36353,41785,44564,45264,44711
+ "45000","South Carolina",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",299626,302699,312800,315544,339740,366779,409305,393019,464850,545981
+ "45000","South Carolina",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",239125,241992,249751,252863,278591,304362,346329,323991,384957,449621
+ "45000","South Carolina",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",60502,60707,63049,62680,61149,62417,62977,69028,79893,96360
+ "45000","South Carolina",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",162675,159106,166077,178953,182524,187831,190736,194778,180696,203310
+ "45000","South Carolina",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",653619,672747,688073,727976,725537,804842,805655,842148,861148,958715
+ "45000","South Carolina",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",66861,71890,82592,85806,82103,97207,98999,107109,70015,85615
+ "45000","South Carolina",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",3695,3937,4194,4387,4440,4592,4674,4640,4987,7137
+ "45000","South Carolina",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",26265,28150,23908,27359,28443,30490,32688,36673,33726,37805
+ "45000","South Carolina",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",7369,7054,6747,6692,6575,6668,6652,7976,8599,9776
+ "45000","South Carolina",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",18896,21096,17160,20667,21868,23823,26036,28698,25127,28029
+ "45000","South Carolina",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",29344,27669,31428,37443,41181,47536,52253,51919,25490,35545
+ "45000","South Carolina",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",18172,18379,19916,21304,23087,25572,27212,27418,22942,26131
+ "45000","South Carolina",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",14349,14722,16098,17245,18944,20867,22345,22158,18422,20412
+ "45000","South Carolina",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",3823,3657,3818,4059,4143,4705,4866,5260,4520,5719
+ "45000","South Carolina",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",921516,867221,918701,940715,924843,1026542,1047738,1125729,650813,909012
+ "45000","South Carolina",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",277780,285773,308821,307066,326081,340287,349368,370574,267410,292249
+ "45000","South Carolina",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",643736,581448,609880,633649,598762,686255,698371,755155,383402,616763
+ "45000","South Carolina",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",32987,34285,36304,40507,44027,47238,46895,51466,56007,59247
+ "45000","South Carolina",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",220866,240258,260346,284509,301754,312282,320436,336723,364626,384985
+ "45000","South Carolina",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",19927,17858,16795,16241,16341,17298,17513,14145,12600,13592
+ "45000","South Carolina",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",200940,222400,243552,268267,285413,294985,302923,322578,352026,371393
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

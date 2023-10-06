@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "15000","Hawaii",8,SAOEMP,1,"...","All industries ","Number of jobs",56238,55819,56744,57549,55961,58579,59024,60212,37603,46414
+ "15000","Hawaii",8,SAOEMP,2,"..."," Private industries ","Number of jobs",53748,53239,54026,54806,53037,55596,56068,57370,34826,43649
+ "15000","Hawaii",8,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",506,480,501,509,510,515,499,501,492,(D)
+ "15000","Hawaii",8,SAOEMP,4,"...","  Mining ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "15000","Hawaii",8,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "15000","Hawaii",8,SAOEMP,6,"...","  Construction ","Number of jobs",504,410,424,476,517,601,781,921,933,1016
+ "15000","Hawaii",8,SAOEMP,7,"...","  Manufacturing ","Number of jobs",510,512,507,514,512,491,463,471,437,(D)
+ "15000","Hawaii",8,SAOEMP,8,"...","   Durable goods ","Number of jobs",70,68,62,60,61,60,60,64,66,(D)
+ "15000","Hawaii",8,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",440,444,444,453,451,431,403,407,370,376
+ "15000","Hawaii",8,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",445,436,439,449,447,453,457,466,439,447
+ "15000","Hawaii",8,SAOEMP,11,"...","  Retail trade ","Number of jobs",13452,13665,13597,13874,13286,13417,13383,13441,10878,11468
+ "15000","Hawaii",8,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",6873,7555,7992,7694,7664,8336,8795,8945,4655,6269
+ "15000","Hawaii",8,SAOEMP,13,"...","  Information ","Number of jobs",22,23,23,23,24,23,24,23,25,68
+ "15000","Hawaii",8,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",371,405,333,340,340,344,385,423,318,326
+ "15000","Hawaii",8,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",47,43,41,38,37,37,34,38,36,35
+ "15000","Hawaii",8,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",324,362,292,302,303,308,351,385,282,291
+ "15000","Hawaii",8,SAOEMP,17,"...","  Professional and business services ","Number of jobs",1169,1195,1201,1268,1334,1307,1266,1209,702,630
+ "15000","Hawaii",8,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",479,513,534,560,573,602,600,600,449,518
+ "15000","Hawaii",8,SAOEMP,19,"...","   Educational services ","Number of jobs",432,469,490,516,531,557,557,555,420,479
+ "15000","Hawaii",8,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",47,44,44,44,42,45,44,46,29,40
+ "15000","Hawaii",8,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",28915,27566,27987,28607,27354,29038,28942,29889,15161,21541
+ "15000","Hawaii",8,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",5810,6130,6535,6506,6610,6826,7156,7687,5446,6015
+ "15000","Hawaii",8,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",23105,21436,21453,22101,20744,22212,21786,22202,9715,15527
+ "15000","Hawaii",8,SAOEMP,24,"...","  Other services, except government ","Number of jobs",502,479,488,492,474,466,473,480,337,350
+ "15000","Hawaii",8,SAOEMP,25,"..."," Government ","Number of jobs",2490,2580,2718,2743,2924,2984,2956,2842,2777,2765
+ "15000","Hawaii",8,SAOEMP,26,"...","  Federal ","Number of jobs",630,569,537,355,367,369,380,253,220,218
+ "15000","Hawaii",8,SAOEMP,27,"...","  State and local ","Number of jobs",1860,2011,2181,2389,2558,2615,2576,2589,2557,2547
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "05000","Arkansas",5,SAACArtsEmp,1,"...","Total employment ","Number of jobs",1207983,1203333,1202294,1215751,1232788,1257506,1259279,1259243,1221329,1219912,1223928,1229574,1231398,1243509,1265002,1280318,1285976,1297146,1308721,1260663,1287757
+ "05000","Arkansas",5,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",37707,36873,36396,35427,34523,33775,35103,34058,32280,31631,32030,31945,32056,32889,32425,32622,33665,33430,33739,30872,30893
+ "05000","Arkansas",5,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",4733,4792,4783,4778,4711,4776,4771,4633,4475,4463,4494,4901,5027,5122,5251,5465,5634,5841,6060,5293,5823
+ "05000","Arkansas",5,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",522,556,(D),(D),504,(D),470,(D),(D),474,(D),423,435,468,(D),448,458,(D),(D),(D),(D)
+ "05000","Arkansas",5,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",461,440,421,444,479,468,495,526,506,458,461,481,457,465,500,599,650,719,700,300,387
+ "05000","Arkansas",5,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",9,9,9,9,8,10,10,13,11,12,14,15,12,20,13,19,22,17,15,21,24
+ "05000","Arkansas",5,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",77,94,94,97,100,114,130,104,106,70,55,64,79,71,53,55,62,68,70,72,74
+ "05000","Arkansas",5,SAACArtsEmp,120,"...","  Museums ","Number of jobs",189,187,191,192,202,210,218,246,282,298,301,415,468,492,538,596,612,654,679,665,677
+ "05000","Arkansas",5,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",769,760,711,682,624,(D),(D),580,556,624,679,1011,1181,1214,1250,(D),(D),1427,1413,1324,1454
+ "05000","Arkansas",5,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",722,748,825,892,973,1019,1063,1017,994,990,948,830,787,750,762,831,883,876,926,922,923
+ "05000","Arkansas",5,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",122,106,97,114,143,140,122,111,93,78,75,106,90,116,108,112,122,129,131,144,132
+ "05000","Arkansas",5,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",121,118,117,148,170,151,164,126,106,139,154,92,83,99,92,95,96,98,107,101,130
+ "05000","Arkansas",5,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",24,27,29,51,55,76,70,69,61,52,57,64,69,31,32,31,33,28,27,37,65
+ "05000","Arkansas",5,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",193,173,169,181,192,198,223,221,188,181,198,206,208,228,208,184,164,158,181,161,168
+ "05000","Arkansas",5,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",(D),(D),19,18,21,24,32,38,(D),48,53,(D),(D),(D),64,76,68,75,78,91,90
+ "05000","Arkansas",5,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",1021,(D),(D),(D),737,688,588,500,447,390,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "05000","Arkansas",5,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",10,31,32,33,8,10,14,17,20,23,20,39,41,45,49,49,50,19,22,24,28
+ "05000","Arkansas",5,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",(D),(D),265,265,261,301,(D),(D),331,327,336,396,424,441,486,473,494,504,539,493,647
+ "05000","Arkansas",5,SAACArtsEmp,150,"...","  Education services ","Number of jobs",249,321,333,281,235,262,278,289,272,300,313,325,331,339,317,315,318,339,380,379,387
+ "05000","Arkansas",5,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",31049,30165,29797,28872,28042,27247,28568,27720,26184,25689,26097,25711,25752,26465,25820,25783,26710,26284,26385,24397,23805
+ "05000","Arkansas",5,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",743,724,750,768,686,632,583,520,450,338,238,208,167,134,114,95,90,78,71,59,63
+ "05000","Arkansas",5,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",17,17,20,20,19,22,24,23,27,29,30,31,27,28,31,28,30,29,29,28,29
+ "05000","Arkansas",5,SAACArtsEmp,213,"...","  Unions ","Number of jobs",88,77,84,81,84,89,76,80,87,81,91,85,97,91,102,94,104,90,98,79,96
+ "05000","Arkansas",5,SAACArtsEmp,214,"...","  Government ","Number of jobs",14677,14538,14416,13606,13226,13255,13558,13864,13367,12952,12990,13059,13342,13913,13927,13915,14254,14631,14516,13758,13470
+ "05000","Arkansas",5,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",7,5,7,7,9,8,8,6,5,5,4,3,4,4,3,4,3,3,3,2,2
+ "05000","Arkansas",5,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",3183,2968,3070,2976,2914,2877,2913,2800,2524,2332,2355,2217,2116,(D),(D),1423,(D),1206,(D),(D),744
+ "05000","Arkansas",5,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",1093,1066,1145,1182,1128,1140,1183,1154,1192,1192,1175,1170,1085,1010,1087,1026,1060,1249,1229,635,725
+ "05000","Arkansas",5,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",50,38,30,29,28,38,40,42,38,37,37,31,28,27,25,24,18,13,15,19,(D)
+ "05000","Arkansas",5,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",(D),(D),(D),(D),(D),(D),2585,(D),2536,2592,(D),2656,2637,(D),2603,2682,2951,2123,2063,2000,1963
+ "05000","Arkansas",5,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",541,(D),461,(D),(D),361,207,(D),209,191,185,186,(D),(D),203,(D),(D),208,(D),(D),(D)
+ "05000","Arkansas",5,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",21,13,(D),25,23,20,(D),7,3,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),10
+ "05000","Arkansas",5,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",833,698,683,752,(D),(D),(D),(D),863,790,744,611,533,519,679,667,701,662,624,496,472
+ "05000","Arkansas",5,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",275,196,155,154,110,124,122,84,36,26,26,28,28,28,28,28,25,23,20,22,15
+ "05000","Arkansas",5,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",327,403,358,(D),(D),230,291,288,159,(D),187,(D),(D),(D),(D),(D),(D),(D),(D),215,203
+ "05000","Arkansas",5,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",339,297,271,233,232,228,280,250,179,172,164,171,155,180,202,197,237,229,256,263,263
+ "05000","Arkansas",5,SAACArtsEmp,240,"...","  Construction ","Number of jobs",1024,789,521,511,534,407,883,454,291,360,284,398,492,797,377,463,685,824,1229,1289,402
+ "05000","Arkansas",5,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",(D),(D),(D),1426,1371,1290,1373,1111,948,1070,1135,886,892,905,938,1005,1087,1123,1085,1020,1063
+ "05000","Arkansas",5,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",3814,3728,3744,3673,3395,3411,3538,3363,3270,(D),3855,3766,3706,3741,3745,3676,3718,3548,3530,3388,3977
+ "05000","Arkansas",5,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",1925,1916,1816,1778,1770,1752,1764,1704,1620,1479,1438,1333,1277,1302,1354,1373,1321,1305,1294,1183,1264
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

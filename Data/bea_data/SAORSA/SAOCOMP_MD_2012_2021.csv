@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "24000","Maryland",2,SAOCOMP,1,"...","All industries ","Thousands of dollars",3112105,3077035,3191426,3264637,3350056,3524957,3581588,3731893,3207747,3630815
+ "24000","Maryland",2,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",2637566,2570616,2662105,2706720,2762015,2916091,2955984,3097498,2540403,2943598
+ "24000","Maryland",2,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",42595,43122,46196,46623,60060,70897,68180,74843,62197,64036
+ "24000","Maryland",2,SAOCOMP,4,"...","  Mining ","Thousands of dollars",275,219,168,117,107,231,314,276,181,310
+ "24000","Maryland",2,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",9,10,8,10,7,8,5,5,8,7
+ "24000","Maryland",2,SAOCOMP,6,"...","  Construction ","Thousands of dollars",40995,37338,40907,40393,43918,46996,48579,49467,48301,47531
+ "24000","Maryland",2,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",109835,111993,112358,113834,109216,113835,116945,117229,120259,131369
+ "24000","Maryland",2,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",52933,54305,52844,53312,47963,52737,59478,55212,49900,51368
+ "24000","Maryland",2,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",56903,57688,59514,60521,61253,61098,57467,62017,70360,80001
+ "24000","Maryland",2,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",159464,153563,159327,170535,167476,170340,171096,173438,175106,175653
+ "24000","Maryland",2,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",844456,841334,838993,859809,835349,910496,887628,923770,924644,976894
+ "24000","Maryland",2,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",227810,228715,251796,244357,270699,288504,312735,335174,241970,319800
+ "24000","Maryland",2,SAOCOMP,13,"...","  Information ","Thousands of dollars",7155,7495,7847,8013,8006,8118,8091,8011,8609,13308
+ "24000","Maryland",2,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",62101,60562,55140,58255,58952,60010,64060,71921,62920,67649
+ "24000","Maryland",2,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",33944,32492,31729,31970,31033,31752,31580,35029,35794,36910
+ "24000","Maryland",2,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",28157,28070,23411,26286,27919,28258,32480,36892,27126,30739
+ "24000","Maryland",2,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",59210,55318,59867,67960,69781,78352,83262,78391,37065,48325
+ "24000","Maryland",2,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",52326,52615,56930,59490,66269,73078,79203,79919,68196,73474
+ "24000","Maryland",2,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",46776,47229,51398,53736,60194,66611,72584,72780,61194,65498
+ "24000","Maryland",2,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",5550,5386,5532,5754,6075,6467,6619,7139,7002,7976
+ "24000","Maryland",2,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",968850,914853,967125,967721,999559,1021025,1044974,1110658,715268,947191
+ "24000","Maryland",2,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",454534,470749,516694,511413,546636,571463,583436,585456,386358,463422
+ "24000","Maryland",2,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",514316,444104,450431,456307,452923,449562,461538,525202,328910,483769
+ "24000","Maryland",2,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",62482,63479,65443,69604,72617,74201,70912,74397,75678,78051
+ "24000","Maryland",2,SAOCOMP,25,"..."," Government ","Thousands of dollars",474540,506420,529322,557917,588041,608866,625604,634395,667344,687217
+ "24000","Maryland",2,SAOCOMP,26,"...","  Federal ","Thousands of dollars",55398,58018,54906,55145,57037,57661,59567,43115,41091,43144
+ "24000","Maryland",2,SAOCOMP,27,"...","  State and local ","Thousands of dollars",419142,448402,474416,502772,531004,551205,566037,591280,626253,644073
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "11000","District of Columbia",2,SAOEMP,1,"...","All industries ","Number of jobs",19151,17662,17195,17427,16834,17873,17033,16422,11073,12909
+ "11000","District of Columbia",2,SAOEMP,2,"..."," Private industries ","Number of jobs",16318,14893,14499,15260,14515,15542,14780,14616,9479,11296
+ "11000","District of Columbia",2,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",0,0,0,0,0,0,0,0,0,(D)
+ "11000","District of Columbia",2,SAOEMP,4,"...","  Mining ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,(D),0
+ "11000","District of Columbia",2,SAOEMP,6,"...","  Construction ","Number of jobs",454,277,274,289,243,(D),226,253,282,292
+ "11000","District of Columbia",2,SAOEMP,7,"...","  Manufacturing ","Number of jobs",16,16,15,16,16,(D),15,15,(D),(D)
+ "11000","District of Columbia",2,SAOEMP,8,"...","   Durable goods ","Number of jobs",4,5,4,4,4,(D),5,4,(D),(D)
+ "11000","District of Columbia",2,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",11,11,11,12,11,(D),10,10,10,10
+ "11000","District of Columbia",2,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",85,81,83,87,86,85,80,80,80,78
+ "11000","District of Columbia",2,SAOEMP,11,"...","  Retail trade ","Number of jobs",3441,3451,3424,3612,3511,3607,3271,3032,2450,2264
+ "11000","District of Columbia",2,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",332,332,343,348,357,371,376,389,234,236
+ "11000","District of Columbia",2,SAOEMP,13,"...","  Information ","Number of jobs",57,54,53,50,49,48,49,51,51,61
+ "11000","District of Columbia",2,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",47,54,47,50,45,46,45,46,35,37
+ "11000","District of Columbia",2,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",8,8,7,7,8,8,7,8,7,8
+ "11000","District of Columbia",2,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",39,46,39,42,38,39,38,38,28,29
+ "11000","District of Columbia",2,SAOEMP,17,"...","  Professional and business services ","Number of jobs",297,295,295,300,310,298,295,290,181,162
+ "11000","District of Columbia",2,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",567,618,632,630,606,598,600,602,533,540
+ "11000","District of Columbia",2,SAOEMP,19,"...","   Educational services ","Number of jobs",546,600,614,611,588,578,581,582,519,525
+ "11000","District of Columbia",2,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",21,19,18,19,18,20,19,19,14,15
+ "11000","District of Columbia",2,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",10578,9277,8884,9425,8858,9846,9408,9429,5333,7351
+ "11000","District of Columbia",2,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",1298,1264,1325,1304,1402,1518,1613,1640,1084,1237
+ "11000","District of Columbia",2,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",9280,8013,7559,8121,7455,8328,7794,7789,4250,6114
+ "11000","District of Columbia",2,SAOEMP,24,"...","  Other services, except government ","Number of jobs",446,438,450,452,433,400,414,431,285,260
+ "11000","District of Columbia",2,SAOEMP,25,"..."," Government ","Number of jobs",2833,2769,2696,2167,2319,2330,2253,1805,1594,1614
+ "11000","District of Columbia",2,SAOEMP,26,"...","  Federal ","Number of jobs",2112,1891,1821,1220,1310,1343,1398,943,832,819
+ "11000","District of Columbia",2,SAOEMP,27,"...","  State and local ","Number of jobs",721,878,875,947,1010,987,855,862,762,795
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

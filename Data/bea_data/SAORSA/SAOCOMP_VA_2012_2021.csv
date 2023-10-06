@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "51000","Virginia",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",4166382,4153573,4336325,4465272,4557660,4837450,4858886,5027289,4231513,4836396
+ "51000","Virginia",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",3596181,3566122,3731217,3841632,3913218,4184088,4209663,4380373,3554921,4131612
+ "51000","Virginia",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",62015,64273,67614,68597,95658,116746,112938,125897,88021,78539
+ "51000","Virginia",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",2421,1976,1461,967,757,1462,1835,1552,1006,1695
+ "51000","Virginia",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",5,5,4,5,3,4,2,2,3,3
+ "51000","Virginia",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",65023,58589,63338,61978,63307,68378,71458,76552,76636,75234
+ "51000","Virginia",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",145817,143446,145975,147371,147531,157510,164326,179868,188140,214317
+ "51000","Virginia",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",52366,49328,49971,50704,52104,59910,64663,74196,69808,79601
+ "51000","Virginia",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",93451,94119,96005,96667,95427,97600,99663,105672,118332,134717
+ "51000","Virginia",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",352671,345282,351347,370017,366214,367216,369767,377348,359966,398500
+ "51000","Virginia",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",1157776,1181779,1186099,1223837,1192133,1305260,1272245,1296740,1283872,1418798
+ "51000","Virginia",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",335048,356836,400527,420692,437202,455114,467457,524438,323623,405918
+ "51000","Virginia",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",13946,14881,15857,16743,16889,16970,16972,16900,18177,25377
+ "51000","Virginia",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",66060,65182,59622,65268,66871,68501,70852,79478,74920,79097
+ "51000","Virginia",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",39158,38011,37632,39054,39194,41125,41567,46176,47075,48661
+ "51000","Virginia",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",26902,27170,21990,26214,27677,27375,29285,33302,27845,30437
+ "51000","Virginia",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",73730,65194,71626,80147,84720,94195,100765,96969,52172,67153
+ "51000","Virginia",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",57807,58710,63540,66481,72469,79476,84309,85187,72094,83914
+ "51000","Virginia",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",50997,51952,56499,59141,64778,71129,75748,76080,62962,73290
+ "51000","Virginia",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",6809,6758,7041,7340,7690,8347,8561,9107,9132,10623
+ "51000","Virginia",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1203944,1148268,1240381,1250922,1297559,1377323,1401311,1438900,933715,1198122
+ "51000","Virginia",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",527224,536154,574186,572646,621761,669671,684395,689786,455085,518301
+ "51000","Virginia",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",676720,612114,666195,678276,675798,707652,716915,749114,478631,679821
+ "51000","Virginia",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",59918,61702,63827,68606,71904,75934,75425,80540,82577,84946
+ "51000","Virginia",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",570201,587451,605108,623640,644442,653362,649224,646915,676592,704784
+ "51000","Virginia",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",81267,76755,72130,69855,71887,76221,77737,59105,52335,56567
+ "51000","Virginia",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",488934,510696,532977,553785,572555,577141,571487,587811,624256,648217
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

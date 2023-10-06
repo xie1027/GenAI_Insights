@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "17000","Illinois",3,SAACArtsEmp,1,"...","Total employment ","Number of jobs",6189475,6082004,6011017,6010044,6045861,6125051,6168678,6137104,5846112,5790356,5851115,5922889,5965073,6043531,6139095,6181422,6216882,6253422,6283547,5849130,5968913
+ "17000","Illinois",3,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",285332,278507,262108,247359,242104,235596,233047,231402,213571,206540,209751,211737,210194,209411,212346,216389,224991,217142,217492,188463,196769
+ "17000","Illinois",3,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",61308,59860,57036,56267,56882,57407,57737,58015,51999,49417,50805,52409,53865,55553,56429,(D),(D),(D),(D),(D),(D)
+ "17000","Illinois",3,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",5674,5694,5764,5676,5819,5732,5807,5914,5489,5329,5225,5518,5820,5914,6237,6210,6542,6462,6458,3800,3800
+ "17000","Illinois",3,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",1417,1387,1385,1229,1193,1174,1254,1275,1103,1041,1505,1716,1847,2051,2222,2376,3195,3442,3358,1698,1983
+ "17000","Illinois",3,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",210,198,227,210,222,253,260,269,278,285,260,282,291,351,329,322,351,318,299,271,275
+ "17000","Illinois",3,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",1539,1750,1654,1640,1493,1571,1844,1623,1529,1624,1703,1638,1616,1689,1497,1514,1438,1444,1324,965,1173
+ "17000","Illinois",3,SAACArtsEmp,120,"...","  Museums ","Number of jobs",6299,6284,6273,6282,6488,6690,7036,7025,6880,6931,6891,7046,7077,7114,7066,7501,7648,7434,7395,6044,5494
+ "17000","Illinois",3,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",11649,10758,9882,9372,8972,8705,8212,8605,8079,8414,9298,10035,10700,11498,11917,11870,12113,12180,12006,10657,10676
+ "17000","Illinois",3,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",7720,7302,6968,6927,7253,7634,7878,7991,6476,5822,5783,5887,5939,6120,6300,6404,6562,6727,6811,6413,6341
+ "17000","Illinois",3,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",4328,4281,4107,3912,3871,3615,3129,2889,2437,2128,1994,1951,1949,1973,1847,1945,1930,1848,1843,1817,1790
+ "17000","Illinois",3,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",1128,1034,1058,1183,1349,1586,1575,1494,1215,1043,1155,1145,1203,1353,1471,1561,1724,1789,1797,1707,1772
+ "17000","Illinois",3,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",547,597,575,532,521,563,574,576,504,495,520,551,545,556,580,611,596,606,692,957,2571
+ "17000","Illinois",3,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",6017,5075,4860,4746,5135,5238,5289,5205,4549,4370,4430,4180,4124,4155,4297,4380,4298,3992,3883,3249,3170
+ "17000","Illinois",3,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",668,544,510,505,545,582,625,663,654,708,778,857,909,925,970,1020,1079,1105,1121,1112,1167
+ "17000","Illinois",3,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",6861,6442,6116,5579,5287,5234,5191,4866,4117,3718,3672,3523,3325,3119,3076,(D),(D),(D),(D),(D),(D)
+ "17000","Illinois",3,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",132,130,127,125,157,265,314,361,395,309,305,268,355,378,423,453,457,453,465,362,377
+ "17000","Illinois",3,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",3995,4109,3993,4324,4394,4306,4131,4304,4251,4191,4226,4552,4801,5039,5171,5372,5730,6101,6257,5398,6302
+ "17000","Illinois",3,SAACArtsEmp,150,"...","  Education services ","Number of jobs",3125,4275,3537,4025,4183,4261,4618,4953,4043,3010,3061,3259,3364,3318,3026,3193,3592,3990,4150,4106,4080
+ "17000","Illinois",3,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",214115,208913,195932,182215,176427,169515,166515,164902,153622,149896,151880,152711,149943,147341,149170,151838,158278,150042,150451,132272,137566
+ "17000","Illinois",3,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",4598,4272,4328,4234,3765,3555,3163,2910,2555,1989,1698,1550,1395,1299,1239,1327,1280,1242,1154,872,845
+ "17000","Illinois",3,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",281,284,305,251,255,281,273,252,298,290,297,347,362,385,387,393,389,391,411,354,379
+ "17000","Illinois",3,SAACArtsEmp,213,"...","  Unions ","Number of jobs",1791,1603,1705,1630,1608,1641,1496,1685,1937,1662,1882,1848,2174,2060,2238,1972,2240,2047,2232,1777,2141
+ "17000","Illinois",3,SAACArtsEmp,214,"...","  Government ","Number of jobs",96844,98020,(D),77879,71995,65552,59744,60199,(D),59278,(D),(D),(D),(D),58148,57732,58923,(D),(D),52859,52648
+ "17000","Illinois",3,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",131,91,94,98,115,129,145,139,110,94,88,91,95,90,85,85,77,75,73,46,39
+ "17000","Illinois",3,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",20038,18921,17860,16522,15969,15841,16058,15391,13521,12530,11910,11233,10467,10392,11001,10544,10112,9902,9853,9636,9718
+ "17000","Illinois",3,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",10055,9726,9326,9102,9259,9147,9307,9105,8707,8430,8240,8321,7855,7610,8196,9166,(D),9191,9542,5138,6230
+ "17000","Illinois",3,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",1660,1517,1375,1509,1479,1399,1121,784,620,548,558,606,500,518,548,556,490,525,592,571,657
+ "17000","Illinois",3,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",12580,13039,13049,13572,13537,13559,14924,15936,15706,15749,16174,16720,16772,16411,16125,15692,15783,14979,14090,13021,12196
+ "17000","Illinois",3,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",3044,2156,2009,2035,2881,3468,2729,2931,2881,2946,3236,5513,5472,5731,6347,6564,6793,6979,7631,7426,7520
+ "17000","Illinois",3,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",(D),838,845,(D),929,893,891,826,588,559,549,725,761,761,758,730,715,689,630,550,528
+ "17000","Illinois",3,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",8449,6779,6713,7134,6958,6927,7985,7828,6713,5999,5470,5242,5229,4902,4611,4558,4779,4606,4365,3780,3499
+ "17000","Illinois",3,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",699,644,609,609,614,585,555,530,462,380,336,342,308,305,300,285,279,282,292,293,281
+ "17000","Illinois",3,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",707,1026,1033,1003,1055,1102,1483,1584,1301,1232,1374,1417,1378,1334,1411,1525,1551,1652,1602,1331,1178
+ "17000","Illinois",3,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",(D),(D),(D),(D),815,792,915,763,(D),622,(D),(D),(D),(D),769,688,(D),(D),(D),670,707
+ "17000","Illinois",3,SAACArtsEmp,240,"...","  Construction ","Number of jobs",5364,4962,4319,3345,4179,4901,5057,3865,2981,2707,2308,2118,1527,1241,1607,1445,1323,2563,2538,1156,3310
+ "17000","Illinois",3,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",16299,16169,15055,14301,13879,12808,13186,13744,10839,11932,12350,11507,11245,11179,11399,14724,19426,12431,12590,11454,11813
+ "17000","Illinois",3,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",29750,(D),26833,27367,27135,26934,27481,26432,23905,22948,25253,25002,24127,23349,24003,23852,24323,23571,23364,21337,23878
+ "17000","Illinois",3,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",9909,9734,9140,8876,8795,8673,8795,8485,7950,7227,7066,6617,6386,6517,6746,(D),(D),(D),(D),(D),(D)
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

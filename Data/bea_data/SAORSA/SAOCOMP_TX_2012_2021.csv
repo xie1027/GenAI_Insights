@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "48000","Texas",6,SAOCOMP,1,"...","All industries ","Thousands of dollars",11540285,11701905,12227000,12900430,13645677,14592630,14827942,15490556,13414420,15546817
+ "48000","Texas",6,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",10629030,10740916,11200188,11787302,12427366,13307530,13524360,14167461,12039699,14110317
+ "48000","Texas",6,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",226201,239288,253147,283915,418135,490647,433468,531807,397372,365654
+ "48000","Texas",6,SAOCOMP,4,"...","  Mining ","Thousands of dollars",14534,14149,14149,13683,13033,11981,13544,14245,14286,16457
+ "48000","Texas",6,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",42,46,40,53,41,49,30,30,46,36
+ "48000","Texas",6,SAOCOMP,6,"...","  Construction ","Thousands of dollars",240464,234750,246722,238112,243478,250882,254703,253538,242377,238306
+ "48000","Texas",6,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",1011944,1033309,1000335,1035832,1115996,1200152,1238179,1234227,1237661,1401034
+ "48000","Texas",6,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",324373,326153,341539,358966,385469,405547,465569,414002,431460,542049
+ "48000","Texas",6,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",687570,707156,658796,676865,730527,794605,772610,820225,806201,858985
+ "48000","Texas",6,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",729653,714500,753152,803811,768403,811296,843852,866717,796037,899141
+ "48000","Texas",6,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",3403162,3540929,3580944,3776968,3754592,4113719,4067377,4195279,4345253,4923226
+ "48000","Texas",6,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",1283742,1337354,1446731,1547379,1654020,1726068,1763905,1945205,1338765,1665596
+ "48000","Texas",6,SAOCOMP,13,"...","  Information ","Thousands of dollars",31863,34065,36435,38559,39008,40262,41879,42444,48808,92142
+ "48000","Texas",6,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",228340,225786,212304,234092,245473,259180,278310,319263,298298,324495
+ "48000","Texas",6,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",139980,136533,138031,147249,151423,159318,162837,185447,193427,200649
+ "48000","Texas",6,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",88360,89253,74273,86843,94050,99862,115473,133815,104871,123846
+ "48000","Texas",6,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",266036,244962,277198,315713,334860,371090,400320,390509,196299,267051
+ "48000","Texas",6,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",133493,136061,146829,154969,171709,189443,211430,220320,187352,215662
+ "48000","Texas",6,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",115846,118064,128030,134864,149918,165723,187028,194078,159508,183144
+ "48000","Texas",6,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",17648,17997,18799,20105,21791,23720,24402,26243,27845,32518
+ "48000","Texas",6,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2862015,2775211,3009716,3097976,3406577,3570541,3706306,3867739,2643589,3394649
+ "48000","Texas",6,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",1589460,1633445,1792471,1825356,2006277,2175104,2244359,2289096,1451474,1688774
+ "48000","Texas",6,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",1272555,1141766,1217245,1272620,1400299,1395437,1461947,1578643,1192115,1705875
+ "48000","Texas",6,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",197540,210507,222485,246241,262041,272221,271057,286137,293556,306867
+ "48000","Texas",6,SAOCOMP,25,"..."," Government ","Thousands of dollars",911255,960988,1026811,1113128,1218311,1285100,1303581,1323094,1374722,1436501
+ "48000","Texas",6,SAOCOMP,26,"...","  Federal ","Thousands of dollars",66682,55915,51063,48674,51081,56577,59384,49752,46138,49725
+ "48000","Texas",6,SAOCOMP,27,"...","  State and local ","Thousands of dollars",844573,905073,975748,1064454,1167230,1228523,1244197,1273342,1328583,1386775
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

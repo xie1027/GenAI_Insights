@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "35000","New Mexico",6,SAACArtsComp,1,"...","Total compensation ","Thousands of dollars",28483441,29993899,31595656,33619648,35847330,38223836,40322186,42130986,41321063,42003903,42995234,44131038,44484843,45730951,46975806,47426293,48595918,50923901,53423701,53439245,56522224
+ "35000","New Mexico",6,SAACArtsComp,10,"...","Total ACPSA compensation ","Thousands of dollars",1094962,1159843,1189348,1210566,1215884,1244775,1311280,1409381,1292147,1254145,1326624,1348501,1292929,1272114,1349259,1407590,1465891,1494762,1589506,1444344,1685662
+ "35000","New Mexico",6,SAACArtsComp,100,"..."," Core arts and cultural production ","Thousands of dollars",134297,142545,152870,157459,152105,156168,181116,189813,(D),157446,149361,157996,153860,167095,170774,176253,181331,193056,206259,215949,245377
+ "35000","New Mexico",6,SAACArtsComp,111,"...","  Performing arts companies ","Thousands of dollars",20260,17231,18383,18624,17506,16182,15908,16274,15735,(D),15279,(D),13875,14037,14348,16521,16912,17608,18063,20933,19639
+ "35000","New Mexico",6,SAACArtsComp,112,"...","  Promoters of performing arts and similar events ","Thousands of dollars",2228,3568,3811,3455,3259,4380,6815,6799,7565,8243,7161,9240,8502,9018,9239,9715,10211,9632,10485,7634,13269
+ "35000","New Mexico",6,SAACArtsComp,113,"...","  Agents/managers for artists ","Thousands of dollars",176,271,316,175,182,145,(D),(D),100,296,(D),121,(D),250,374,299,314,233,441,550,1456
+ "35000","New Mexico",6,SAACArtsComp,114,"...","  Independent artists, writers, and performers ","Thousands of dollars",17988,18353,17914,20081,19412,14068,(D),(D),16003,14707,13468,13972,15832,17378,20335,20332,20419,24119,31666,33787,44266
+ "35000","New Mexico",6,SAACArtsComp,120,"...","  Museums ","Thousands of dollars",4854,7764,7524,7863,(D),11346,13812,14092,14905,12821,12210,19164,18061,18389,15351,16546,(D),(D),(D),(D),(D)
+ "35000","New Mexico",6,SAACArtsComp,131,"...","  Advertising ","Thousands of dollars",6548,6827,7071,7742,(D),9554,10128,10131,9251,7774,7688,8166,8601,9308,9514,9925,11139,10641,11660,11403,12755
+ "35000","New Mexico",6,SAACArtsComp,132,"...","  Architectural services ","Thousands of dollars",39610,41081,45601,44930,45469,50643,57693,58689,56220,49587,47336,41566,42190,44662,45917,46546,44914,47694,50329,56374,55924
+ "35000","New Mexico",6,SAACArtsComp,133,"...","  Landscape architectural services ","Thousands of dollars",12043,17950,18377,18139,10019,9929,11418,11533,6858,5307,5088,5493,5692,5326,5577,6069,6921,7389,7351,8471,7694
+ "35000","New Mexico",6,SAACArtsComp,134,"...","  Interior design services ","Thousands of dollars",1853,1596,2058,2268,2184,2268,3025,3145,1967,1598,1498,2047,1471,2593,2685,2891,3307,4481,4419,5331,7320
+ "35000","New Mexico",6,SAACArtsComp,135,"...","  Industrial design services ","Thousands of dollars",1763,1162,2688,3771,3750,812,830,731,708,771,628,633,571,(D),(D),(D),69,93,103,71,84
+ "35000","New Mexico",6,SAACArtsComp,136,"...","  Graphic design services ","Thousands of dollars",4764,4733,5565,5474,6873,8043,8441,8474,7427,7692,6982,8836,7374,9738,11072,9780,9872,9812,10139,9774,12166
+ "35000","New Mexico",6,SAACArtsComp,137,"...","  Computer systems design ","Thousands of dollars",2362,1890,1842,1718,2019,2245,3157,3307,3074,3523,3783,4504,4344,4428,4543,4445,5117,4958,5291,5679,5839
+ "35000","New Mexico",6,SAACArtsComp,138,"...","  Photography and photofinishing services ","Thousands of dollars",11562,12119,11432,10029,9866,10755,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35000","New Mexico",6,SAACArtsComp,139,"...","  All other design services ","Thousands of dollars",104,104,394,567,570,1695,1886,1421,1121,548,683,1092,820,(D),(D),(D),1215,1169,428,738,687
+ "35000","New Mexico",6,SAACArtsComp,140,"...","  Fine arts education ","Thousands of dollars",4307,3515,4604,5944,6934,7206,8393,10770,11130,11309,12350,11620,12207,13740,14241,14877,16466,18079,19572,15461,18326
+ "35000","New Mexico",6,SAACArtsComp,150,"...","  Education services ","Thousands of dollars",3873,4381,5290,6680,6917,6898,7103,7467,6955,6735,6528,6818,6527,7109,6676,7270,6998,6982,7035,6902,7788
+ "35000","New Mexico",6,SAACArtsComp,200,"..."," Supporting arts and cultural production ","Thousands of dollars",922642,977353,996705,1012264,1020967,1042745,1080512,1169093,1073684,1051219,1131997,1147837,1097587,1061861,1133329,1186217,1240618,1256466,1336394,1184418,1391623
+ "35000","New Mexico",6,SAACArtsComp,211,"...","  Rental and leasing ","Thousands of dollars",6055,7558,7104,7790,7994,9161,(D),(D),8150,6619,(D),7356,7112,7839,5623,4623,(D),(D),(D),(D),(D)
+ "35000","New Mexico",6,SAACArtsComp,212,"...","  Grantmaking and giving services ","Thousands of dollars",1391,1588,1951,1841,2132,2611,3063,3047,3789,3405,3887,3008,3410,3739,4325,3682,3902,3809,4341,3501,3643
+ "35000","New Mexico",6,SAACArtsComp,213,"...","  Unions ","Thousands of dollars",1796,1561,1841,2118,2050,2406,2144,2577,2863,2653,2835,2615,2855,2818,2810,2793,3388,3728,3122,3248,3420
+ "35000","New Mexico",6,SAACArtsComp,214,"...","  Government ","Thousands of dollars",515869,549521,537637,551837,533647,531027,521234,527690,535508,546783,538400,544242,537814,549402,555656,600305,617296,639142,661500,689201,701473
+ "35000","New Mexico",6,SAACArtsComp,215,"...","  Other support services ","Thousands of dollars",(D),(D),(D),293,263,293,419,310,262,233,213,249,239,261,271,241,274,310,280,122,203
+ "35000","New Mexico",6,SAACArtsComp,221,"...","  Publishing ","Thousands of dollars",(D),(D),(D),60445,(D),66037,68661,65103,55798,52066,51245,47889,47057,45360,46545,47540,47601,47205,46520,45524,59835
+ "35000","New Mexico",6,SAACArtsComp,222,"...","  Motion pictures ","Thousands of dollars",17279,26789,23068,22464,66374,88602,107110,138619,123419,126583,118168,164806,130916,138220,183329,209846,170691,171201,223180,108812,256411
+ "35000","New Mexico",6,SAACArtsComp,223,"...","  Sound recording ","Thousands of dollars",3813,3211,3512,4378,3928,4251,5275,7843,8965,8958,8996,10100,10486,11089,13371,12780,11733,11563,13579,13495,17243
+ "35000","New Mexico",6,SAACArtsComp,224,"...","  Broadcasting ","Thousands of dollars",75513,(D),89979,(D),(D),(D),(D),(D),(D),96089,(D),(D),99162,96971,100811,103821,(D),(D),(D),155317,159678
+ "35000","New Mexico",6,SAACArtsComp,225,"...","  Other information services ","Thousands of dollars",(D),(D),(D),(D),(D),(D),9087,9827,(D),(D),7511,7139,6639,7010,8797,(D),9042,8637,9097,8790,11002
+ "35000","New Mexico",6,SAACArtsComp,231,"...","  Jewelry and silverware manufacturing ","Thousands of dollars",42417,38524,44998,46000,51237,53291,55605,68530,37208,30727,23294,29977,28059,29657,33781,34340,36382,36269,31100,18485,22549
+ "35000","New Mexico",6,SAACArtsComp,232,"...","  Printed goods manufacturing ","Thousands of dollars",6806,5144,4613,5164,5466,5804,6948,6911,5899,5433,5617,5823,5820,5795,5956,5819,6339,5895,5793,4647,4506
+ "35000","New Mexico",6,SAACArtsComp,233,"...","  Musical instruments manufacturing ","Thousands of dollars",683,709,558,(D),(D),(D),(D),(D),(D),(D),160,198,159,(D),149,(D),(D),(D),(D),(D),382
+ "35000","New Mexico",6,SAACArtsComp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),7183,4599,3837,4065,(D),(D),(D),(D),(D),(D),(D),(D),5153,(D)
+ "35000","New Mexico",6,SAACArtsComp,236,"...","  Other goods manufacturing ","Thousands of dollars",7678,7799,8069,7899,7024,7898,8740,6086,4709,4405,4202,3716,3709,4019,(D),3914,5631,5591,5803,6669,6779
+ "35000","New Mexico",6,SAACArtsComp,240,"...","  Construction ","Thousands of dollars",32023,38849,56900,48667,37543,23757,34057,61547,42130,23664,144041,108603,98903,49957,56560,39102,36913,26854,66705,24478,24159
+ "35000","New Mexico",6,SAACArtsComp,250,"...","  Wholesale and transportation industries ","Thousands of dollars",(D),(D),(D),34126,30368,(D),34919,34138,26720,28243,(D),(D),(D),(D),25045,26209,27587,29232,27301,24855,(D)
+ "35000","New Mexico",6,SAACArtsComp,260,"...","  Retail industries ","Thousands of dollars",113983,110543,111950,117397,116285,119076,121968,126734,107968,104458,85664,80424,80513,77441,80212,76602,71937,73604,74525,67231,84748
+ "35000","New Mexico",6,SAACArtsComp,300,"..."," All other industries 2/","Thousands of dollars",38023,39944,39773,40843,42812,45862,49652,50475,(D),45481,45266,42667,41482,43158,45156,45120,43942,45241,46854,43977,48663
+"Note: See the included footnote file."
+"SAACArtsComp: ACPSA compensation by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

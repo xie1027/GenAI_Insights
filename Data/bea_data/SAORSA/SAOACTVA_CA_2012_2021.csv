@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "06000","California",8,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",43830313,45359325,47302752,49926017,50948810,54729148,57051863,59055990,42803675,54700435
+ "06000","California",8,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",21252610,21902244,22638563,23777655,24364132,26219623,26996685,27905337,23268422,27204940
+ "06000","California",8,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",12595729,12915820,13207455,13810344,13998407,14960258,15016888,15549045,15256923,16878089
+ "06000","California",8,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",353412,358911,363201,351610,356580,392881,385320,419837,498434,536292
+ "06000","California",8,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",1525517,1540646,1603444,1687249,1827177,1961063,1998934,2098824,2695388,2294269
+ "06000","California",8,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",46979,41167,41012,40432,41905,42441,40495,43947,53985,89753
+ "06000","California",8,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",240379,239905,244842,271944,369792,421843,429605,426463,458278,515999
+ "06000","California",8,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",75381,81159,86190,87224,94341,93584,95369,112274,81853,83535
+ "06000","California",8,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",1162778,1178415,1231399,1287649,1321139,1403195,1433465,1516139,2101272,1604982
+ "06000","California",8,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",326814,343831,354643,360953,356533,359080,372424,407590,430614,596001
+ "06000","California",8,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",289451,307884,357212,369915,412724,458692,521233,495299,479024,544837
+ "06000","California",8,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",461801,520507,493220,514063,638716,652311,642087,648517,715079,763782
+ "06000","California",8,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",201663,227086,211521,219431,288083,274432,278409,284415,307287,318506
+ "06000","California",8,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",260138,293421,281699,294632,350633,377879,363678,364103,407792,445276
+ "06000","California",8,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",807915,793742,814794,818313,811463,699001,717944,709953,719882,792541
+ "06000","California",8,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",117185,117336,119453,121236,122570,120895,116930,117361,107625,96251
+ "06000","California",8,SAOACTVA,17,"...","   RVing ","Thousands of dollars",1118800,1153310,1212858,1293855,1334359,1405361,1486057,1488918,1627020,2014214
+ "06000","California",8,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",566498,541947,573927,580735,560485,572076,599203,595480,489890,505666
+ "06000","California",8,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",307494,305072,327816,338942,337796,316590,317125,325635,230264,268084
+ "06000","California",8,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",259004,236875,246111,241793,222690,255486,282078,269845,259626,237581
+ "06000","California",8,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",1056070,1059129,1077459,1126060,1065747,1163904,1146288,1280837,1344531,1650711
+ "06000","California",8,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",813899,823152,831940,835842,778698,882200,851094,889300,877502,1065823
+ "06000","California",8,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",242170,235977,245519,290218,287049,281704,295195,391537,467029,584888
+ "06000","California",8,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",5972266,6178576,6237244,6586354,6512055,7174996,7030468,7286428,6149436,7083525
+ "06000","California",8,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",8656881,8986424,9431108,9967311,10365725,11259365,11979797,12356292,8011499,10326851
+ "06000","California",8,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",1640072,1704502,1785354,1979901,2167596,2633801,2918478,3056267,1337783,1868349
+ "06000","California",8,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",1455675,1565217,1733440,1732790,1944001,2102816,2234652,2235467,1162685,1722838
+ "06000","California",8,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",386676,386175,404843,421967,432259,500359,505380,558764,490874,588224
+ "06000","California",8,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",2034328,2056237,2050811,2062557,2109873,2043266,2157182,2282250,1732265,1953885
+ "06000","California",8,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",1118891,1120688,1202146,1227153,1224292,1424131,1607706,1588391,795335,1273396
+ "06000","California",8,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",606908,610447,683548,717167,735299,835235,975695,955234,470051,759646
+ "06000","California",8,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",511983,510241,518598,509986,488994,588896,632011,633157,325284,513750
+ "06000","California",8,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",543687,634270,667286,746194,785586,818510,832769,837753,947314,1100231
+ "06000","California",8,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",1039143,1036129,1095169,1252163,1165833,1169914,1153086,1198281,1003004,1115661
+ "06000","California",8,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",438407,483206,492060,544586,536284,566569,570544,599119,542239,704268
+ "06000","California",8,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",22577703,23457081,24664189,26148361,26584678,28509525,30055178,31150653,19535253,27495495
+ "06000","California",8,SAOACTVA,37,"...","   Construction ","Thousands of dollars",747995,693779,741746,781874,794094,823963,852983,881943,884814,833114
+ "06000","California",8,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",3682596,3701739,3791481,3839895,3656704,3829215,4147686,4150398,3623967,4412192
+ "06000","California",8,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",15367523,16271322,17313658,18724109,19116027,20633936,21723170,22869776,11658867,18595866
+ "06000","California",8,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",2574113,2176420,2335634,2601379,2851633,3072959,3200235,3387427,1587549,3280569
+ "06000","California",8,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",4079888,4648616,4752094,5437247,5523321,5927716,6209552,6565898,4064988,6498333
+ "06000","California",8,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",2539527,2667719,2770174,2894857,2929655,3110566,3184176,3289697,3338407,3657223
+ "06000","California",8,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",6173995,6778566,7455756,7790625,7811419,8522695,9129207,9626754,2667924,5159741
+ "06000","California",8,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",2779588,2790242,2817304,2802484,3017853,3222411,3331340,3248535,3367605,3654322
+ "06000","California",8,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",466300,501811,489615,484721,506740,519086,538398,391706,336410,351967
+ "06000","California",8,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",2313288,2288431,2327689,2317764,2511113,2703325,2792941,2856829,3031195,3302355
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

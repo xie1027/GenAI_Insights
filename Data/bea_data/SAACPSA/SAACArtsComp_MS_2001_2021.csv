@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "28000","Mississippi",5,SAACArtsComp,1,"...","Total compensation ","Thousands of dollars",38704753,40029587,41463970,43819170,45793759,48141009,50345502,52172417,50724953,51224492,52025790,53978415,54945092,56581998,57707289,58948001,60351086,62108234,63896949,64962568,68953534
+ "28000","Mississippi",5,SAACArtsComp,10,"...","Total ACPSA compensation ","Thousands of dollars",1104172,1110034,1082342,1087043,1066400,1083712,1111785,1112036,1088863,1136716,1147347,1142927,1161731,1219201,1252314,1188542,1218665,1197175,1217196,1207696,1268099
+ "28000","Mississippi",5,SAACArtsComp,100,"..."," Core arts and cultural production ","Thousands of dollars",94595,99378,101682,102169,100765,114335,125496,126064,129650,117036,117306,120416,118355,123801,126834,123990,128012,133644,136775,140180,147351
+ "28000","Mississippi",5,SAACArtsComp,111,"...","  Performing arts companies ","Thousands of dollars",4815,(D),4818,7717,5733,5084,(D),(D),5787,4191,4939,3967,3593,3334,3241,3536,3615,3662,4369,5647,4457
+ "28000","Mississippi",5,SAACArtsComp,112,"...","  Promoters of performing arts and similar events ","Thousands of dollars",2759,4726,5059,4589,3737,4019,3454,3549,2969,3742,2592,3563,4712,5057,4360,4477,4609,4195,4064,2359,4506
+ "28000","Mississippi",5,SAACArtsComp,113,"...","  Agents/managers for artists ","Thousands of dollars",1043,1448,411,535,474,922,987,977,1042,679,625,(D),(D),(D),796,(D),(D),(D),604,753,688
+ "28000","Mississippi",5,SAACArtsComp,114,"...","  Independent artists, writers, and performers ","Thousands of dollars",4844,5968,5721,4363,4651,7096,10260,8222,8170,7767,9915,(D),(D),(D),19370,(D),(D),(D),13141,11353,7401
+ "28000","Mississippi",5,SAACArtsComp,120,"...","  Museums ","Thousands of dollars",(D),4245,(D),3773,3755,(D),4267,4720,5490,4818,5936,7443,7697,7897,7284,7929,7807,8866,9061,12985,12640
+ "28000","Mississippi",5,SAACArtsComp,131,"...","  Advertising ","Thousands of dollars",13653,14368,14905,(D),16907,18246,(D),(D),17778,(D),(D),15478,(D),(D),(D),(D),20238,20881,21487,21002,(D)
+ "28000","Mississippi",5,SAACArtsComp,132,"...","  Architectural services ","Thousands of dollars",26175,25340,27472,27336,29076,35015,41878,43439,45637,40690,40827,35232,35811,36313,32705,33009,37117,37808,38510,39360,41752
+ "28000","Mississippi",5,SAACArtsComp,133,"...","  Landscape architectural services ","Thousands of dollars",6559,5821,5511,4291,4683,5251,5394,3019,3208,2737,2193,2233,2575,2492,2593,2727,3188,3064,3170,4393,4400
+ "28000","Mississippi",5,SAACArtsComp,134,"...","  Interior design services ","Thousands of dollars",765,838,1121,1238,1218,1871,1919,1523,1210,1111,858,1329,1074,1445,1709,1713,2486,2390,2181,2760,3377
+ "28000","Mississippi",5,SAACArtsComp,135,"...","  Industrial design services ","Thousands of dollars",374,325,524,485,(D),472,548,357,(D),73,(D),258,420,984,1082,(D),(D),(D),(D),590,476
+ "28000","Mississippi",5,SAACArtsComp,136,"...","  Graphic design services ","Thousands of dollars",2146,2146,2302,2263,2317,2451,2448,3149,3510,3137,2694,3148,2363,3263,3437,3755,3466,3877,4774,5265,6658
+ "28000","Mississippi",5,SAACArtsComp,137,"...","  Computer systems design ","Thousands of dollars",1312,1331,1438,1749,2160,2656,3067,3103,3029,2983,2758,2942,2945,2936,3050,3108,3472,3593,3777,3901,4505
+ "28000","Mississippi",5,SAACArtsComp,138,"...","  Photography and photofinishing services ","Thousands of dollars",17461,17612,17241,14431,12663,12567,11206,11621,(D),(D),(D),(D),(D),(D),(D),(D),8233,9227,7692,(D),(D)
+ "28000","Mississippi",5,SAACArtsComp,139,"...","  All other design services ","Thousands of dollars",340,207,179,106,(D),121,160,86,(D),54,(D),594,631,326,179,(D),(D),(D),(D),284,280
+ "28000","Mississippi",5,SAACArtsComp,140,"...","  Fine arts education ","Thousands of dollars",(D),(D),(D),(D),(D),(D),2665,3742,4485,3980,3360,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,SAACArtsComp,150,"...","  Education services ","Thousands of dollars",8048,9727,9951,11293,10976,13011,13752,14409,15294,14806,16069,17543,16001,16887,16898,17372,16244,16846,17763,18736,18603
+ "28000","Mississippi",5,SAACArtsComp,200,"..."," Supporting arts and cultural production ","Thousands of dollars",950297,949806,920865,923713,902928,905786,919862,919823,895826,961248,972508,967778,989761,1039908,1067119,1004767,1032271,1004709,1021089,1010205,1056917
+ "28000","Mississippi",5,SAACArtsComp,211,"...","  Rental and leasing ","Thousands of dollars",8027,9109,7607,7654,7785,9333,(D),(D),(D),(D),(D),(D),(D),(D),5849,5626,5408,5344,(D),(D),(D)
+ "28000","Mississippi",5,SAACArtsComp,212,"...","  Grantmaking and giving services ","Thousands of dollars",432,468,562,476,520,683,856,807,816,748,840,631,669,636,779,1090,1618,1587,1779,1797,1468
+ "28000","Mississippi",5,SAACArtsComp,213,"...","  Unions ","Thousands of dollars",1149,934,1023,1129,1090,1327,1204,1336,1516,1432,1481,1411,1423,1376,1514,1570,1614,1631,1673,1574,1643
+ "28000","Mississippi",5,SAACArtsComp,214,"...","  Government ","Thousands of dollars",585977,604342,586826,575628,534427,497934,480785,498318,513742,522460,541719,535777,537229,540100,547122,556123,560978,563232,580868,578852,578547
+ "28000","Mississippi",5,SAACArtsComp,215,"...","  Other support services ","Thousands of dollars",132,85,104,130,132,116,126,112,119,115,110,125,114,159,199,117,148,176,172,83,151
+ "28000","Mississippi",5,SAACArtsComp,221,"...","  Publishing ","Thousands of dollars",58111,55396,59195,59214,60049,62289,66835,62795,56183,52118,51067,51571,51087,60165,50555,47623,47224,42454,(D),(D),(D)
+ "28000","Mississippi",5,SAACArtsComp,222,"...","  Motion pictures ","Thousands of dollars",10243,10927,11559,12914,12892,12680,13837,12820,14685,14048,11814,12833,15310,25723,19552,19931,17078,17902,18165,12005,23616
+ "28000","Mississippi",5,SAACArtsComp,223,"...","  Sound recording ","Thousands of dollars",2781,2364,2328,2827,2595,2781,2456,4049,1828,1996,1789,2032,1619,1874,2181,2592,3632,4300,4518,5021,11118
+ "28000","Mississippi",5,SAACArtsComp,224,"...","  Broadcasting ","Thousands of dollars",84422,90033,92376,103178,118002,117425,120907,131038,137090,146500,158501,175813,187513,193802,189568,189523,213675,212599,207253,207863,218981
+ "28000","Mississippi",5,SAACArtsComp,225,"...","  Other information services ","Thousands of dollars",1322,1092,1279,1591,1833,2300,1249,1276,1454,1663,2234,2171,2840,2769,2925,2782,3195,3995,3427,3611,5188
+ "28000","Mississippi",5,SAACArtsComp,231,"...","  Jewelry and silverware manufacturing ","Thousands of dollars",660,(D),(D),448,425,376,629,633,406,333,239,343,316,306,468,534,582,712,616,497,661
+ "28000","Mississippi",5,SAACArtsComp,232,"...","  Printed goods manufacturing ","Thousands of dollars",23057,19072,17196,(D),18612,19101,22365,19500,15734,12802,12277,11421,11285,11075,11415,10875,8984,8850,8701,7581,7770
+ "28000","Mississippi",5,SAACArtsComp,233,"...","  Musical instruments manufacturing ","Thousands of dollars",2759,(D),521,455,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,SAACArtsComp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Thousands of dollars",5635,7300,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),9133,(D),10130,(D),(D),(D),9698
+ "28000","Mississippi",5,SAACArtsComp,236,"...","  Other goods manufacturing ","Thousands of dollars",12091,11378,8385,7147,5867,(D),(D),7618,5746,5774,4789,4061,4003,4384,4416,4158,5137,5036,6123,6826,6745
+ "28000","Mississippi",5,SAACArtsComp,240,"...","  Construction ","Thousands of dollars",63587,46500,33888,32923,39044,63767,76128,54742,30581,82318,57305,43172,52426,77157,110912,34676,27427,5524,10040,13084,5073
+ "28000","Mississippi",5,SAACArtsComp,250,"...","  Wholesale and transportation industries ","Thousands of dollars",37511,38183,38833,38298,40640,41099,42282,41133,39329,45846,51581,50358,50220,(D),(D),(D),(D),60853,63338,70696,79370
+ "28000","Mississippi",5,SAACArtsComp,260,"...","  Retail industries ","Thousands of dollars",52399,51759,51520,53336,51138,60643,61235,61368,58236,58139,63422,62340,60640,59250,57610,58281,59488,57955,58156,53433,66431
+ "28000","Mississippi",5,SAACArtsComp,300,"..."," All other industries 2/","Thousands of dollars",59280,60851,59794,61160,62706,63591,66427,66149,63387,58432,57533,54733,53615,55493,58360,59784,58382,58822,59332,57311,63831
+"Note: See the included footnote file."
+"SAACArtsComp: ACPSA compensation by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "51000","Virginia",5,SAOVA,1,"...","All industries ","Thousands of dollars",8042045,8247050,8508352,8991376,9078737,9439951,9508156,9886961,7795873,9422118
+ "51000","Virginia",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",7422647,7574924,7799047,8245508,8354314,8766523,8889202,9303087,7194939,8781858
+ "51000","Virginia",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",202720,230661,224840,233251,299230,362104,356406,387009,297931,272565
+ "51000","Virginia",5,SAOVA,4,"...","  Mining ","Thousands of dollars",9333,6977,4743,2799,2360,5228,6243,4891,3402,6004
+ "51000","Virginia",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",15,15,12,15,11,13,9,8,12,10
+ "51000","Virginia",5,SAOVA,6,"...","  Construction ","Thousands of dollars",103033,94408,102688,108670,108852,114013,118552,128969,129300,120788
+ "51000","Virginia",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",593330,610583,609773,653444,602531,590702,611865,661495,711057,777730
+ "51000","Virginia",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",92111,91279,92513,94478,94269,103333,126883,151799,125400,144490
+ "51000","Virginia",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",501219,519304,517260,558966,508262,487369,484983,509696,585657,633240
+ "51000","Virginia",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",873054,867439,864156,927997,929905,916959,934873,968914,964603,1011826
+ "51000","Virginia",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",2205992,2264269,2247372,2286008,2254052,2389890,2371878,2418260,2346350,2749908
+ "51000","Virginia",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",740978,790608,920357,999385,1033829,1054845,1038349,1180298,392397,605527
+ "51000","Virginia",5,SAOVA,13,"...","  Information ","Thousands of dollars",35528,39119,40457,44913,47991,49974,51467,53348,56304,70429
+ "51000","Virginia",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",320524,384838,326077,371737,386320,360378,379532,415188,392094,421326
+ "51000","Virginia",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",78358,71582,84062,91069,93539,86688,91256,100681,100058,103859
+ "51000","Virginia",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",242167,313256,242015,280668,292781,273691,288276,314507,292036,317467
+ "51000","Virginia",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",120587,113167,119006,127872,136710,150507,159414,151812,58485,101471
+ "51000","Virginia",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",67993,66750,71015,72510,78689,86132,91069,92054,65996,77841
+ "51000","Virginia",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",56008,55173,59000,60186,65860,72461,77146,77506,52424,61614
+ "51000","Virginia",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",11985,11577,12015,12325,12829,13671,13923,14548,13572,16227
+ "51000","Virginia",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2018115,1974139,2133089,2277055,2329089,2532245,2617948,2679606,1605659,2383132
+ "51000","Virginia",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",740728,760876,812363,847525,929019,1046599,1091422,1107052,669546,825387
+ "51000","Virginia",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1277387,1213263,1320726,1429530,1400070,1485646,1526527,1572554,936113,1557745
+ "51000","Virginia",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",131446,131952,135462,139852,144745,153533,151597,161234,171349,183299
+ "51000","Virginia",5,SAOVA,25,"..."," Government ","Thousands of dollars",619398,672126,709305,745869,724422,673428,618954,583875,600933,640260
+ "51000","Virginia",5,SAOVA,26,"...","  Federal ","Thousands of dollars",116441,121158,112680,108648,110996,115059,118789,90146,80250,86460
+ "51000","Virginia",5,SAOVA,27,"...","  State and local ","Thousands of dollars",502957,550967,596625,637220,613426,558370,500165,493729,520683,553800
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

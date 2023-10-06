@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "36000","New York",2,SAOEMP,1,"...","All industries ","Number of jobs",286683,282640,287112,289503,296215,289934,289806,288636,223773,248414
+ "36000","New York",2,SAOEMP,2,"..."," Private industries ","Number of jobs",267060,262422,267168,269699,276748,270988,271988,270734,206954,231387
+ "36000","New York",2,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",1613,1563,1653,1669,1906,2037,2088,2114,1879,2144
+ "36000","New York",2,SAOEMP,4,"...","  Mining ","Number of jobs",5,4,4,4,4,4,4,4,4,4
+ "36000","New York",2,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "36000","New York",2,SAOEMP,6,"...","  Construction ","Number of jobs",7999,5025,4991,4864,4232,3835,3628,3614,3481,3591
+ "36000","New York",2,SAOEMP,7,"...","  Manufacturing ","Number of jobs",9786,9664,9699,10079,9679,9546,9214,8898,8192,8442
+ "36000","New York",2,SAOEMP,8,"...","   Durable goods ","Number of jobs",2503,2564,2617,2921,2565,2515,2392,2210,2042,2199
+ "36000","New York",2,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",7284,7100,7081,7157,7114,7031,6822,6688,6150,6244
+ "36000","New York",2,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",7635,7427,7442,7585,7500,7544,7427,7341,6620,6643
+ "36000","New York",2,SAOEMP,11,"...","  Retail trade ","Number of jobs",106741,106333,106290,106761,106472,104846,102314,99726,84897,85910
+ "36000","New York",2,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",14001,13976,14872,14869,15768,14856,15181,15783,10040,12033
+ "36000","New York",2,SAOEMP,13,"...","  Information ","Number of jobs",631,632,630,628,623,608,595,577,574,895
+ "36000","New York",2,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",2552,2803,2385,2458,2442,2455,2536,2751,2360,2395
+ "36000","New York",2,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",1096,1037,977,954,940,926,868,948,898,867
+ "36000","New York",2,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",1456,1766,1408,1504,1502,1529,1668,1803,1461,1529
+ "36000","New York",2,SAOEMP,17,"...","  Professional and business services ","Number of jobs",3696,3724,3721,3874,4048,3966,3906,3752,2357,2061
+ "36000","New York",2,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",7673,8224,8777,9449,10341,11117,11331,11212,9021,9648
+ "36000","New York",2,SAOEMP,19,"...","   Educational services ","Number of jobs",7401,7954,8502,9169,10046,10809,11023,10891,8720,9311
+ "36000","New York",2,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",272,270,275,280,295,307,308,321,301,338
+ "36000","New York",2,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",100546,98866,102389,103159,109426,106113,109628,110799,73948,94075
+ "36000","New York",2,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",46627,48724,51944,52290,53070,53830,54333,55004,37356,41988
+ "36000","New York",2,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",53920,50141,50445,50869,56356,52282,55295,55795,36592,52087
+ "36000","New York",2,SAOEMP,24,"...","  Other services, except government ","Number of jobs",4183,4180,4315,4299,4307,4060,4137,4163,3581,3545
+ "36000","New York",2,SAOEMP,25,"..."," Government ","Number of jobs",19623,20218,19943,19804,19467,18946,17818,17902,16819,17028
+ "36000","New York",2,SAOEMP,26,"...","  Federal ","Number of jobs",2244,1799,1518,1029,1118,1200,1324,925,850,837
+ "36000","New York",2,SAOEMP,27,"...","  State and local ","Number of jobs",17378,18419,18426,18775,18349,17747,16494,16978,15969,16191
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

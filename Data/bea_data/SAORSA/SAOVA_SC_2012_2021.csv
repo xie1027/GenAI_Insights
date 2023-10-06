@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "45000","South Carolina",5,SAOVA,1,"...","All industries ","Thousands of dollars",4989520,5206970,5325650,5689273,5832093,6347706,6535974,6819857,5680319,7115721
+ "45000","South Carolina",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",4756172,4950375,5032479,5353047,5470382,5977213,6160037,6431166,5278628,6685728
+ "45000","South Carolina",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",104481,120283,117197,132270,193048,266147,255069,304086,242766,229641
+ "45000","South Carolina",5,SAOVA,4,"...","  Mining ","Thousands of dollars",268,233,228,160,139,212,202,159,151,175
+ "45000","South Carolina",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",10,9,8,9,7,8,6,6,10,9
+ "45000","South Carolina",5,SAOVA,6,"...","  Construction ","Thousands of dollars",48917,46477,50412,52678,56504,61065,69185,74847,75706,71128
+ "45000","South Carolina",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",682618,718672,722426,743175,813954,839133,880330,837710,960163,1181265
+ "45000","South Carolina",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",533760,569859,568181,581701,650000,675088,714730,660834,766306,933756
+ "45000","South Carolina",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",148858,148813,154244,161474,163954,164045,165600,176875,193858,247509
+ "45000","South Carolina",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",424909,417843,437458,477569,490293,478881,494424,514992,488596,549379
+ "45000","South Carolina",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1282416,1334046,1349940,1413895,1429224,1548956,1576255,1637646,1650705,1961630
+ "45000","South Carolina",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",138242,150622,183141,192309,186167,218105,224094,244187,114021,157945
+ "45000","South Carolina",5,SAOVA,13,"...","  Information ","Thousands of dollars",10612,11638,11939,13030,13571,14346,15119,15582,15672,19138
+ "45000","South Carolina",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",305963,440497,356998,371932,386122,411742,437472,459161,453366,474467
+ "45000","South Carolina",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",40028,36206,43617,48719,50786,48004,51528,56656,56377,55856
+ "45000","South Carolina",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",265935,404291,313381,323214,335336,363738,385943,402505,396990,418611
+ "45000","South Carolina",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",39952,39765,43080,47885,52100,57518,61553,59401,22756,40750
+ "45000","South Carolina",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",26391,24937,26463,27726,29727,32251,34102,34534,23830,29534
+ "45000","South Carolina",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",19515,18489,19745,20595,22445,24140,25764,25677,16913,20373
+ "45000","South Carolina",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",6876,6448,6718,7131,7282,8111,8338,8857,6918,9161
+ "45000","South Carolina",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1634316,1586915,1671545,1813971,1748181,1975363,2039691,2170335,1142851,1870807
+ "45000","South Carolina",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",437644,449416,479019,495038,520549,548762,567846,597902,387811,462047
+ "45000","South Carolina",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1196672,1137499,1192526,1318932,1227632,1426601,1471845,1572433,755040,1408759
+ "45000","South Carolina",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",57079,58438,61644,66438,71346,73486,72535,78518,88034,99861
+ "45000","South Carolina",5,SAOVA,25,"..."," Government ","Thousands of dollars",233348,256595,293172,336226,361711,370493,375937,388691,401690,429992
+ "45000","South Carolina",5,SAOVA,26,"...","  Federal ","Thousands of dollars",25001,25262,23464,22659,22803,23578,24347,19277,17245,18632
+ "45000","South Carolina",5,SAOVA,27,"...","  State and local ","Thousands of dollars",208348,231332,269707,313567,338908,346916,351590,369414,384445,411360
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

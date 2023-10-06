@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "16000","Idaho",7,SAOCOMP,1,"...","All industries ","Thousands of dollars",869046,879221,925344,956994,1041770,1133635,1192634,1239599,1165436,1372786
+ "16000","Idaho",7,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",785046,789294,830377,856107,935158,1022690,1078743,1122557,1042765,1242417
+ "16000","Idaho",7,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",21302,22935,24504,26523,40018,49428,46332,54720,41723,41671
+ "16000","Idaho",7,SAOCOMP,4,"...","  Mining ","Thousands of dollars",223,184,168,137,123,178,195,171,168,205
+ "16000","Idaho",7,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "16000","Idaho",7,SAOCOMP,6,"...","  Construction ","Thousands of dollars",7835,8463,9016,8927,10149,12155,15173,16911,17302,17433
+ "16000","Idaho",7,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",77254,81728,84972,92251,110402,123230,133251,116011,157170,189494
+ "16000","Idaho",7,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",52861,56554,59427,65284,81728,90683,98961,83324,120520,147669
+ "16000","Idaho",7,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",24393,25174,25544,26967,28674,32548,34290,32687,36650,41825
+ "16000","Idaho",7,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",43941,43400,46488,49996,49968,51960,53946,55836,54099,61615
+ "16000","Idaho",7,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",266468,274273,280373,296294,303774,334140,342319,350119,378846,432961
+ "16000","Idaho",7,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",61164,63127,63715,63921,78663,74218,77717,91386,81760,100921
+ "16000","Idaho",7,SAOCOMP,13,"...","  Information ","Thousands of dollars",1187,1271,1318,1363,1392,1424,1467,1443,1575,2902
+ "16000","Idaho",7,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",15382,15259,14028,15575,16050,17389,18307,20232,19734,20589
+ "16000","Idaho",7,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",8775,8481,8124,8272,8179,8485,8536,9026,8941,9154
+ "16000","Idaho",7,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",6607,6778,5904,7304,7871,8904,9770,11206,10793,11435
+ "16000","Idaho",7,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",17041,15519,17588,19249,20130,21791,23673,23314,15550,19137
+ "16000","Idaho",7,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",9346,9617,10387,10781,12336,14273,15728,16914,14674,17817
+ "16000","Idaho",7,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",8184,8466,9176,9520,10992,12852,14210,15265,13066,15794
+ "16000","Idaho",7,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1161,1151,1211,1261,1344,1420,1518,1649,1608,2023
+ "16000","Idaho",7,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",255198,244367,268032,260008,279561,308068,335616,358792,242287,319508
+ "16000","Idaho",7,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",116877,120840,130369,125871,137471,149986,159083,170680,121608,132548
+ "16000","Idaho",7,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",138320,123527,137663,134137,142090,158082,176533,188112,120679,186960
+ "16000","Idaho",7,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",8704,9150,9788,11081,12592,14435,15019,16707,17875,18164
+ "16000","Idaho",7,SAOCOMP,25,"..."," Government ","Thousands of dollars",84000,89927,94967,100887,106612,110945,113891,117042,122671,130369
+ "16000","Idaho",7,SAOCOMP,26,"...","  Federal ","Thousands of dollars",18692,17764,18453,18046,18878,19136,18777,15360,12119,12878
+ "16000","Idaho",7,SAOCOMP,27,"...","  State and local ","Thousands of dollars",65308,72163,76514,82841,87733,91809,95114,101683,110552,117491
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

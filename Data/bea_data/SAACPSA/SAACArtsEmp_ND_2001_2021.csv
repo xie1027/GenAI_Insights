@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "38000","North Dakota",4,SAACArtsEmp,1,"...","Total employment ","Number of jobs",344694,345912,347433,355611,361718,369207,375055,383039,381991,392040,412875,447229,463244,480657,471445,450498,447455,451305,457492,431522,434811
+ "38000","North Dakota",4,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",13995,14282,13684,13271,12708,12260,11912,11977,12478,12531,12876,13674,13491,13456,14036,13845,13445,13011,12900,12153,12849
+ "38000","North Dakota",4,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",1869,1920,1895,2008,1866,1807,1809,1818,1794,1745,1802,1834,1939,1988,2092,2137,2055,2106,2049,1874,2084
+ "38000","North Dakota",4,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",150,110,95,102,96,(D),(D),100,97,103,104,106,114,129,105,124,115,125,140,109,120
+ "38000","North Dakota",4,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",102,227,254,347,281,247,244,288,344,340,373,355,386,383,418,457,419,452,345,280,349
+ "38000","North Dakota",4,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4,3,(D),(D),(D),(D),3,2,(D)
+ "38000","North Dakota",4,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),62,68,72,86,99,99,97,83,(D)
+ "38000","North Dakota",4,SAACArtsEmp,120,"...","  Museums ","Number of jobs",182,194,195,203,199,197,(D),(D),151,141,147,158,170,177,170,170,174,175,179,160,168
+ "38000","North Dakota",4,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",274,264,254,(D),(D),263,252,247,227,228,250,271,292,309,310,(D),299,(D),288,278,(D)
+ "38000","North Dakota",4,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",179,181,184,200,195,199,207,218,198,180,190,207,231,238,284,280,268,259,267,270,264
+ "38000","North Dakota",4,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",(D),(D),19,22,18,(D),(D),(D),(D),(D),(D),11,(D),(D),(D),(D),(D),(D),(D),38,35
+ "38000","North Dakota",4,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",4,4,11,16,(D),(D),32,29,(D),(D),(D),(D),(D),(D),30,26,31,29,27,25,34
+ "38000","North Dakota",4,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",0,0,0,0,(D),(D),0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",20,21,31,35,50,48,53,54,50,48,45,54,53,61,79,65,57,54,55,56,66
+ "38000","North Dakota",4,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),30,(D),36,38,35,(D),37,38,(D),44,46
+ "38000","North Dakota",4,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",622,556,488,424,(D),341,363,(D),304,281,264,(D),(D),210,199,(D),148,140,138,116,136
+ "38000","North Dakota",4,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",96,99,130,136,134,139,140,132,133,152,147,158,175,193,232,256,260,296,329,278,345
+ "38000","North Dakota",4,SAACArtsEmp,150,"...","  Education services ","Number of jobs",140,170,150,156,144,146,142,145,141,137,139,133,146,135,139,134,128,121,123,129,134
+ "38000","North Dakota",4,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",11627,11860,11310,10791,10366,9978,9615,9674,10206,10337,10613,11375,11090,10984,11463,11256,10954,10474,10422,9899,10367
+ "38000","North Dakota",4,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",(D),185,(D),220,196,183,155,140,(D),107,(D),102,105,124,110,86,64,60,56,(D),54
+ "38000","North Dakota",4,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",6,6,7,(D),(D),8,8,8,10,11,11,13,16,15,14,14,15,15,15,15,16
+ "38000","North Dakota",4,SAACArtsEmp,213,"...","  Unions ","Number of jobs",25,23,24,23,23,23,20,21,24,20,24,25,29,27,27,25,28,28,32,24,31
+ "38000","North Dakota",4,SAACArtsEmp,214,"...","  Government ","Number of jobs",6359,6371,5727,5219,4979,4577,4061,4066,4254,4382,4455,4744,4892,4823,5019,5106,5093,5056,5224,5085,5134
+ "38000","North Dakota",4,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",(D),(D),(D),(D),24,24,26,22,18,11,7,6,4,(D),(D),(D),(D),(D),(D),(D),1
+ "38000","North Dakota",4,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",1418,1401,1385,1295,1252,1286,1382,1371,1410,(D),1349,1302,1233,(D),(D),(D),1138,(D),(D),940,(D)
+ "38000","North Dakota",4,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",410,(D),412,(D),395,(D),(D),399,(D),377,382,379,(D),416,418,424,(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",(D),(D),(D),4,4,(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,(D),(D),(D),(D),2
+ "38000","North Dakota",4,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",773,816,877,945,996,1050,1126,1171,1188,(D),(D),(D),1396,(D),(D),(D),1281,1261,1231,1203,(D)
+ "38000","North Dakota",4,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",18,16,24,36,37,32,21,27,27,29,26,25,(D),(D),(D),(D),(D),(D),9,24,27
+ "38000","North Dakota",4,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",84,73,72,80,72,72,78,84,63,66,61,82,81,80,71,70,71,72,71,66,59
+ "38000","North Dakota",4,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",163,139,136,152,155,161,192,192,173,183,162,162,160,152,143,136,135,126,120,102,104
+ "38000","North Dakota",4,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,0,0,0,0,0,0
+ "38000","North Dakota",4,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",(D),67,51,(D),(D),(D),(D),(D),(D),(D),96,(D),117,120,133,129,130,161,147,125,121
+ "38000","North Dakota",4,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",59,83,92,100,110,84,88,88,62,57,58,63,63,79,91,86,95,90,98,100,105
+ "38000","North Dakota",4,SAACArtsEmp,240,"...","  Construction ","Number of jobs",164,394,428,341,169,202,133,105,510,418,351,640,218,48,356,272,300,151,110,83,348
+ "38000","North Dakota",4,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",191,194,192,189,(D),(D),(D),(D),(D),(D),240,270,(D),(D),(D),(D),(D),(D),(D),(D),462
+ "38000","North Dakota",4,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",1664,1686,1638,1670,1690,1647,1617,1648,1635,1776,1989,2081,2034,2036,2003,1763,1655,(D),1430,1300,1478
+ "38000","North Dakota",4,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",499,502,479,473,477,475,488,486,478,449,461,465,461,484,481,452,435,431,429,380,398
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

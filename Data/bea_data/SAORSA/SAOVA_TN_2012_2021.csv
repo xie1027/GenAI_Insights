@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "47000","Tennessee",5,SAOVA,1,"...","All industries ","Thousands of dollars",6551687,6678880,6830267,7062932,7228575,7689707,8079130,8711834,7173124,9047893
+ "47000","Tennessee",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",6167417,6271089,6408491,6627603,6777389,7225772,7597962,8248442,6694132,8535520
+ "47000","Tennessee",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",122312,147451,147084,150359,158684,175664,178348,180453,173973,208206
+ "47000","Tennessee",5,SAOVA,4,"...","  Mining ","Thousands of dollars",448,407,337,244,218,422,447,323,234,387
+ "47000","Tennessee",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",7,7,6,7,6,6,5,4,6,6
+ "47000","Tennessee",5,SAOVA,6,"...","  Construction ","Thousands of dollars",63737,63455,73100,77982,82177,89208,97410,107164,105498,98544
+ "47000","Tennessee",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",1000013,1037965,1039871,1063154,1004612,1068862,1106755,1184363,1180974,1374708
+ "47000","Tennessee",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",547233,556580,556505,565007,553353,614767,643462,712475,694580,820766
+ "47000","Tennessee",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",452780,481385,483366,498148,451259,454095,463293,471888,486393,553943
+ "47000","Tennessee",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",596119,582953,608758,633238,612617,615512,642681,667386,636329,694507
+ "47000","Tennessee",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1721476,1732361,1739408,1757693,1767362,1847712,1871079,1976172,2018940,2381170
+ "47000","Tennessee",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",503754,526936,542679,548388,617453,631558,682113,848559,444148,677981
+ "47000","Tennessee",5,SAOVA,13,"...","  Information ","Thousands of dollars",16422,17706,18113,19548,20560,21955,22825,23317,23953,32090
+ "47000","Tennessee",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",248715,319663,258261,296195,301434,308669,352417,391860,354451,392298
+ "47000","Tennessee",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",55512,50568,60081,65926,67162,61905,64267,69461,68192,67996
+ "47000","Tennessee",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",193203,269095,198181,230268,234272,246764,288150,322400,286259,324302
+ "47000","Tennessee",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",79870,79928,87304,98552,108979,123780,132131,130947,46210,93244
+ "47000","Tennessee",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",36213,35107,37356,38169,42555,45946,49213,51895,40057,47425
+ "47000","Tennessee",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",26262,25471,27270,27761,31451,34181,37140,39077,28375,33239
+ "47000","Tennessee",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",9952,9636,10087,10407,11104,11765,12073,12818,11683,14185
+ "47000","Tennessee",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1716599,1665202,1791033,1875240,1987250,2216101,2378567,2593547,1570833,2424882
+ "47000","Tennessee",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",636886,650813,701389,722377,795862,912719,999594,1042169,617366,799432
+ "47000","Tennessee",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1079713,1014389,1089644,1152863,1191388,1303382,1378973,1551378,953467,1625451
+ "47000","Tennessee",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",61731,61949,65179,68834,73482,80377,83971,92453,98526,110072
+ "47000","Tennessee",5,SAOVA,25,"..."," Government ","Thousands of dollars",384270,407791,421776,435330,451186,463934,481169,463392,478992,512373
+ "47000","Tennessee",5,SAOVA,26,"...","  Federal ","Thousands of dollars",95944,107710,101399,102273,107943,111813,121921,87658,87307,91756
+ "47000","Tennessee",5,SAOVA,27,"...","  State and local ","Thousands of dollars",288326,300081,320377,333057,343243,352122,359248,375735,391685,420618
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

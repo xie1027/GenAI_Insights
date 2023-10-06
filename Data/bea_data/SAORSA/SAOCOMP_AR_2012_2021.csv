@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "05000","Arkansas",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",1236468,1243922,1278862,1317387,1377777,1428949,1479193,1538234,1525570,1788064
+ "05000","Arkansas",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",1097010,1097675,1130112,1164592,1221022,1264764,1305348,1356288,1327613,1576812
+ "05000","Arkansas",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",11402,11812,12168,12273,20405,24928,24635,26611,19589,20576
+ "05000","Arkansas",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",601,493,408,293,263,407,464,382,262,401
+ "05000","Arkansas",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "05000","Arkansas",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",17132,15899,17723,18797,21553,26882,33679,40930,43177,43017
+ "05000","Arkansas",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",188187,187359,193937,193138,204701,207166,211458,220914,257325,288208
+ "05000","Arkansas",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",100987,101121,110091,112177,116401,114572,127984,131443,149393,169525
+ "05000","Arkansas",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",87200,86238,83846,80961,88300,92594,83473,89471,107931,118683
+ "05000","Arkansas",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",95525,92319,96222,101568,99809,102215,103765,105119,96682,107989
+ "05000","Arkansas",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",365834,376217,380028,398246,402199,432002,427992,436843,457304,508869
+ "05000","Arkansas",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",83821,81155,80438,78049,85013,77280,88324,101488,119993,156246
+ "05000","Arkansas",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",3400,3579,3710,3654,3488,3561,3473,3312,3461,4977
+ "05000","Arkansas",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",11993,12234,10393,11657,12639,12958,13613,14581,13680,15059
+ "05000","Arkansas",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",4835,4672,4532,4569,4544,4597,4495,4925,4935,5292
+ "05000","Arkansas",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",7158,7562,5861,7089,8094,8361,9119,9656,8745,9767
+ "05000","Arkansas",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",12123,10980,13737,15580,16756,16927,17491,15982,12865,14284
+ "05000","Arkansas",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",13373,13635,14841,15675,16796,17064,18108,18488,15190,17526
+ "05000","Arkansas",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",11306,11548,12682,13411,14338,14419,15348,15532,12230,14056
+ "05000","Arkansas",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",2067,2086,2158,2264,2458,2645,2760,2956,2960,3470
+ "05000","Arkansas",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",275859,273529,287420,295245,315899,321065,340630,349081,264415,375533
+ "05000","Arkansas",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",105641,111252,120094,124839,131673,141922,148571,139116,123204,156138
+ "05000","Arkansas",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",170218,162278,167326,170406,184227,179143,192059,209966,141211,219396
+ "05000","Arkansas",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",17759,18463,19086,20415,21501,22308,21715,22557,23668,24126
+ "05000","Arkansas",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",139458,146247,148750,152795,156756,164185,173845,181946,197957,211252
+ "05000","Arkansas",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",28728,27896,26269,25422,27137,28564,29849,22012,18400,19179
+ "05000","Arkansas",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",110731,118351,122481,127373,129619,135621,143996,159934,179557,192073
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

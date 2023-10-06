@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "32000","Nevada",8,SAOVA,1,"...","All industries ","Thousands of dollars",4052200,4237430,4366697,4682565,4922725,5168979,5344692,5587046,3800398,4878044
+ "32000","Nevada",8,SAOVA,2,"..."," Private industries ","Thousands of dollars",3699357,3864660,3970341,4260695,4465633,4682883,4834970,5083461,3281174,4326968
+ "32000","Nevada",8,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",8928,9624,9583,9253,11139,12367,12786,12696,9972,11356
+ "32000","Nevada",8,SAOVA,4,"...","  Mining ","Thousands of dollars",645,566,565,401,360,548,570,478,518,578
+ "32000","Nevada",8,SAOVA,5,"...","  Utilities ","Thousands of dollars",34,36,32,41,31,36,24,22,27,24
+ "32000","Nevada",8,SAOVA,6,"...","  Construction ","Thousands of dollars",106969,104901,113817,113894,119597,125241,144708,164533,166393,156592
+ "32000","Nevada",8,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",81635,87307,87718,88619,91219,89646,90151,97426,111109,130609
+ "32000","Nevada",8,SAOVA,8,"...","   Durable goods ","Thousands of dollars",45902,49950,49859,50014,55223,54571,53411,58090,70273,81610
+ "32000","Nevada",8,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",35733,37357,37859,38605,35996,35075,36740,39336,40837,48999
+ "32000","Nevada",8,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",256778,248949,260459,282078,277040,273617,289164,299605,248748,292389
+ "32000","Nevada",8,SAOVA,11,"...","  Retail trade ","Thousands of dollars",954966,1001760,1010428,1067298,1084339,1145848,1162896,1203920,1149135,1365893
+ "32000","Nevada",8,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",934768,1016914,1067885,1147996,1182287,1258581,1325847,1362613,353606,590624
+ "32000","Nevada",8,SAOVA,13,"...","  Information ","Thousands of dollars",7646,8035,8328,8897,9279,9374,10048,10627,11663,18479
+ "32000","Nevada",8,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",169776,239203,193616,199441,214234,215497,202421,254820,246191,273131
+ "32000","Nevada",8,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",40274,38799,45547,51821,58545,59886,66548,82425,87135,98237
+ "32000","Nevada",8,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",129502,200405,148070,147620,155689,155610,135873,172395,159056,174893
+ "32000","Nevada",8,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",73890,69333,71416,76287,81576,92511,94998,90563,22083,52953
+ "32000","Nevada",8,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",20661,20010,21732,24020,27615,28048,30146,31663,22089,28096
+ "32000","Nevada",8,SAOVA,19,"...","   Educational services ","Thousands of dollars",15123,14736,16292,18140,21208,21293,23298,24316,16133,20155
+ "32000","Nevada",8,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",5538,5274,5440,5880,6407,6755,6848,7348,5956,7941
+ "32000","Nevada",8,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1043875,1018783,1084102,1200187,1322744,1384098,1423373,1503301,886911,1349608
+ "32000","Nevada",8,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",424457,438432,478887,493137,547019,574466,607034,619816,397233,475950
+ "32000","Nevada",8,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",619419,580351,605215,707050,775725,809632,816339,883485,489678,873659
+ "32000","Nevada",8,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",38787,39238,40658,42284,44173,47472,47837,51193,52728,56637
+ "32000","Nevada",8,SAOVA,25,"..."," Government ","Thousands of dollars",352843,372770,396356,421870,457093,486096,509722,503585,519224,551075
+ "32000","Nevada",8,SAOVA,26,"...","  Federal ","Thousands of dollars",63378,67448,61880,61779,65350,68112,73778,53698,52502,55555
+ "32000","Nevada",8,SAOVA,27,"...","  State and local ","Thousands of dollars",289465,305322,334476,360091,391742,417984,435944,449888,466722,495521
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

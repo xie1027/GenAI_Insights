@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "23000","Maine",1,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",2220270,2355777,2293101,2397842,2389887,2552434,2566243,2720572,2335295,2785287
+ "23000","Maine",1,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",969142,984458,974211,989490,1006410,1060408,1052846,1091596,1200574,1243481
+ "23000","Maine",1,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",771239,781580,769402,784606,802235,839377,826707,858148,1018181,1019379
+ "23000","Maine",1,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",4712,4892,4687,4589,4679,6246,5230,5599,6756,7808
+ "23000","Maine",1,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",277468,266161,260602,265874,287835,292327,298855,320718,471466,406996
+ "23000","Maine",1,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",10167,7211,6682,6558,6329,4317,3993,4344,6332,10677
+ "23000","Maine",1,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",41726,39622,31714,31771,50531,36439,40537,40772,72628,86463
+ "23000","Maine",1,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",22618,23235,24460,24190,26535,28032,28692,30986,21246,20753
+ "23000","Maine",1,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",202957,196094,197746,203355,204440,223539,225633,244617,371260,289103
+ "23000","Maine",1,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",24124,25577,25798,26724,24154,26001,25544,27812,30906,35000
+ "23000","Maine",1,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",14510,15333,16807,17497,19876,22074,24429,23611,22502,25876
+ "23000","Maine",1,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",46402,54337,43318,41562,51194,44634,40055,37406,47327,54560
+ "23000","Maine",1,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",18383,21761,17139,16485,20758,15202,14535,12455,16003,18553
+ "23000","Maine",1,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",28019,32576,26179,25077,30436,29432,25520,24951,31324,36007
+ "23000","Maine",1,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",26527,24472,24588,25427,24646,23646,23256,21670,25757,29096
+ "23000","Maine",1,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",3084,3628,3552,3371,2834,2728,2664,3122,2617,2878
+ "23000","Maine",1,SAOACTVA,17,"...","   RVing ","Thousands of dollars",115415,122963,127501,134377,127553,126835,131966,135361,160641,172356
+ "23000","Maine",1,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",55411,54272,57739,59801,60409,59237,60335,61531,50745,51194
+ "23000","Maine",1,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",38864,38985,41307,42639,43257,41122,41328,42359,29735,33382
+ "23000","Maine",1,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",16548,15287,16432,17162,17153,18115,19007,19171,21010,17812
+ "23000","Maine",1,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",34754,36433,34876,35174,34838,57105,39215,44034,44674,56911
+ "23000","Maine",1,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",27452,29182,27389,26149,25685,47473,28725,29536,28037,36878
+ "23000","Maine",1,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",7302,7251,7487,9025,9154,9632,10491,14498,16637,20033
+ "23000","Maine",1,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",168831,173512,169934,170210,164218,178545,175158,177284,154789,176704
+ "23000","Maine",1,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",197904,202878,204809,204884,204174,221031,226139,233449,182393,224102
+ "23000","Maine",1,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",14668,14818,14844,15086,15211,17031,18640,20035,13570,20252
+ "23000","Maine",1,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",18308,19468,19980,17979,17481,16771,16209,15251,9124,12103
+ "23000","Maine",1,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",9273,9537,9139,9185,9565,11814,11129,11938,10392,13325
+ "23000","Maine",1,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",50110,52274,51694,51867,53675,53893,58020,60869,46720,54942
+ "23000","Maine",1,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",33712,32803,34887,34076,32320,39406,41251,43268,25550,36522
+ "23000","Maine",1,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",15128,14315,16285,15793,15370,17955,19044,19560,13788,18972
+ "23000","Maine",1,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",18585,18489,18602,18282,16949,21451,22207,23708,11761,17550
+ "23000","Maine",1,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",20963,22297,22430,24000,24843,26692,26593,26361,29805,33613
+ "23000","Maine",1,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",40520,40733,41093,41807,40261,44992,44419,45590,37600,41524
+ "23000","Maine",1,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",10350,10948,10743,10884,10818,10432,9878,10136,9633,11820
+ "23000","Maine",1,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1251128,1371319,1318890,1408352,1383477,1492026,1513397,1628976,1134721,1541806
+ "23000","Maine",1,SAOACTVA,37,"...","   Construction ","Thousands of dollars",36500,29363,29423,25697,24277,28400,35915,43374,44821,42903
+ "23000","Maine",1,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",257835,260805,269925,279778,290649,288383,275838,286819,272157,302928
+ "23000","Maine",1,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",897329,1015848,953330,1033643,995371,1098445,1119044,1221030,736631,1108100
+ "23000","Maine",1,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",162016,144689,143874,152621,144700,168688,175091,191828,75424,163119
+ "23000","Maine",1,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",492148,619496,547237,603721,590246,645988,652725,707037,468691,674213
+ "23000","Maine",1,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",130774,138550,136345,137190,128378,140006,144678,154994,145240,164263
+ "23000","Maine",1,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",112390,113113,125875,140110,132047,143763,146551,167171,47276,106505
+ "23000","Maine",1,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",59464,65303,66212,69234,73179,76798,82599,77752,81112,87875
+ "23000","Maine",1,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",20057,22358,20511,20634,22491,24564,28678,21034,20718,21676
+ "23000","Maine",1,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",39408,42945,45701,48600,50688,52234,53922,56719,60394,66199
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

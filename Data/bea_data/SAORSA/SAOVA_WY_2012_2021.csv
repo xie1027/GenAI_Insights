@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "56000","Wyoming",7,SAOVA,1,"...","All industries ","Thousands of dollars",1286086,1335662,1364993,1428651,1405618,1519094,1578395,1574623,1155027,1485337
+ "56000","Wyoming",7,SAOVA,2,"..."," Private industries ","Thousands of dollars",1142498,1180748,1208861,1267888,1237743,1346700,1397214,1416298,994849,1314046
+ "56000","Wyoming",7,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",68568,73922,71997,74138,91795,99794,88258,91232,71372,69630
+ "56000","Wyoming",7,SAOVA,4,"...","  Mining ","Thousands of dollars",20597,17503,14241,9793,8853,16551,19393,15074,10868,20202
+ "56000","Wyoming",7,SAOVA,5,"...","  Utilities ","Thousands of dollars",4,4,3,4,3,3,2,2,3,2
+ "56000","Wyoming",7,SAOVA,6,"...","  Construction ","Thousands of dollars",24800,23067,24182,23537,23306,25911,32947,40436,41889,40421
+ "56000","Wyoming",7,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",173695,152263,141687,123962,88257,118063,154261,146782,83504,152916
+ "56000","Wyoming",7,SAOVA,8,"...","   Durable goods ","Thousands of dollars",2557,2640,2436,2580,3071,2757,2580,2798,3199,3841
+ "56000","Wyoming",7,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",171138,149623,139252,121382,85186,115307,151681,143985,80305,149075
+ "56000","Wyoming",7,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",66262,65472,75934,80234,76150,74565,72721,76798,59745,72791
+ "56000","Wyoming",7,SAOVA,11,"...","  Retail trade ","Thousands of dollars",220521,233046,234343,241245,237734,244303,234686,239115,225630,268039
+ "56000","Wyoming",7,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",46244,43135,51234,59211,48735,63172,65921,66597,29737,52288
+ "56000","Wyoming",7,SAOVA,13,"...","  Information ","Thousands of dollars",1323,1396,1393,1470,1585,1684,1786,1779,1836,2707
+ "56000","Wyoming",7,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",59408,67265,52500,59590,66455,60791,61723,62953,62264,69634
+ "56000","Wyoming",7,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",11051,9984,11775,12736,12722,11502,12026,12825,12695,12672
+ "56000","Wyoming",7,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",48357,57281,40724,46854,53734,49289,49697,50128,49570,56962
+ "56000","Wyoming",7,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",14166,13758,14913,15685,16151,15206,15346,13553,10696,12261
+ "56000","Wyoming",7,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",8288,8361,9064,9600,10703,11680,12615,13078,8818,10962
+ "56000","Wyoming",7,SAOVA,19,"...","   Educational services ","Thousands of dollars",7236,7310,7961,8423,9468,10400,11322,11760,7838,9666
+ "56000","Wyoming",7,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",1052,1051,1103,1176,1235,1280,1293,1318,981,1296
+ "56000","Wyoming",7,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",430969,474045,509644,561493,559936,606654,629424,640410,379954,533211
+ "56000","Wyoming",7,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",116948,122241,131614,136293,143341,147021,152546,157893,107884,119000
+ "56000","Wyoming",7,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",314021,351804,378030,425199,416595,459633,476878,482517,272070,414211
+ "56000","Wyoming",7,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",7653,7512,7726,7929,8079,8322,8131,8489,8532,8981
+ "56000","Wyoming",7,SAOVA,25,"..."," Government ","Thousands of dollars",143588,154913,156132,160762,167875,172394,181181,158325,160178,171292
+ "56000","Wyoming",7,SAOVA,26,"...","  Federal ","Thousands of dollars",71349,78650,73474,74125,79544,84089,91882,65703,62647,65852
+ "56000","Wyoming",7,SAOVA,27,"...","  State and local ","Thousands of dollars",72239,76263,82658,86637,88331,88304,89299,92622,97531,105440
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"
