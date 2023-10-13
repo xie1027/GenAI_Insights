@@ -1,6 +1,9 @@
 # GenAI_Insights
 This repository serves as a centralized location for sharing documents related to the AI Seeding Effort -- Analytic Insights and Ad-hoc Analyses.
 
+## Documents 
+1. [Tools & Questions](https://docs.google.com/document/d/1lX_OhzyxmRfg6PNLbMXUOBh2S1BGB4E77usqPBLc2-Y/edit?usp=sharing)   
+
 ## development-david
 This was run using Python 3.10.12 in a virtual environment (venv). 
 
