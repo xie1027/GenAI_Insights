@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "38000","North Dakota",4,SAACCompRatio,10,"...","Total arts compensation ratio ","Ratio",0.040,0.042,0.042,0.040,0.038,0.037,0.032,0.031,0.033,0.031,0.029,0.028,0.026,0.024,0.027,0.029,0.029,0.028,0.027,0.028,0.030
+ "38000","North Dakota",4,SAACCompRatio,100,"..."," Core arts and cultural production ","Ratio",0.349,0.371,0.358,0.317,0.288,0.274,0.248,0.245,0.265,0.256,0.253,0.255,0.255,0.248,0.263,0.252,0.240,0.243,0.244,0.253,0.254
+ "38000","North Dakota",4,SAACCompRatio,111,"...","  Performing arts companies ","Ratio",0.910,0.904,0.917,0.935,0.946,(D),(D),0.962,0.965,0.968,0.971,0.969,0.970,0.970,0.968,0.969,0.969,0.969,0.972,0.976,0.970
+ "38000","North Dakota",4,SAACCompRatio,112,"...","  Promoters of performing arts and similar events ","Ratio",0.825,0.846,0.839,0.822,0.827,0.831,0.836,0.829,0.828,0.811,0.794,0.781,0.779,0.779,0.777,0.837,0.781,0.780,0.785,0.780,0.773
+ "38000","North Dakota",4,SAACCompRatio,113,"...","  Agents/managers for artists ","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.544,0.541,(D),(D),(D),(D),0.542,0.542,(D)
+ "38000","North Dakota",4,SAACCompRatio,114,"...","  Independent artists, writers, and performers ","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.989,0.989,0.988,0.989,0.989,0.989,0.989,0.988,(D)
+ "38000","North Dakota",4,SAACCompRatio,120,"...","  Museums ","Ratio",0.866,0.871,0.883,0.891,0.888,0.910,(D),(D),0.916,0.901,0.894,0.896,0.892,0.890,0.890,0.891,0.884,0.887,0.884,0.888,0.871
+ "38000","North Dakota",4,SAACCompRatio,131,"...","  Advertising ","Ratio",0.418,0.422,0.403,(D),(D),0.331,0.313,0.327,0.339,0.355,0.370,0.395,0.395,0.396,0.397,(D),0.396,(D),0.396,0.396,(D)
+ "38000","North Dakota",4,SAACCompRatio,132,"...","  Architectural services ","Ratio",0.714,0.712,0.719,0.725,0.730,0.730,0.735,0.741,0.741,0.740,0.739,0.742,0.741,0.742,0.740,0.741,0.742,0.741,0.742,0.742,0.742
+ "38000","North Dakota",4,SAACCompRatio,133,"...","  Landscape architectural services ","Ratio",(D),(D),0.949,0.953,0.953,(D),(D),(D),(D),(D),(D),0.965,(D),(D),(D),(D),(D),(D),(D),0.967,0.966
+ "38000","North Dakota",4,SAACCompRatio,134,"...","  Interior design services ","Ratio",0.826,0.791,0.821,0.848,(D),(D),0.898,0.910,(D),(D),(D),(D),(D),(D),0.951,0.950,0.951,0.952,0.953,0.953,0.953
+ "38000","North Dakota",4,SAACCompRatio,135,"...","  Industrial design services ","Ratio",0.000,0.000,0.000,0.000,(D),(D),0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACCompRatio,136,"...","  Graphic design services ","Ratio",0.953,0.948,0.948,0.947,0.946,0.946,0.944,0.945,0.939,0.945,0.947,0.949,0.949,0.948,0.949,0.949,0.950,0.949,0.949,0.947,0.948
+ "38000","North Dakota",4,SAACCompRatio,137,"...","  Computer systems design ","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.023,(D),0.024,0.024,0.024,(D),0.024,0.024,(D),0.024,0.024
+ "38000","North Dakota",4,SAACCompRatio,138,"...","  Photography and photofinishing services ","Ratio",0.886,0.877,0.875,0.871,(D),0.894,0.929,(D),0.903,0.910,0.961,(D),(D),0.980,0.978,(D),0.980,0.985,0.984,0.983,0.984
+ "38000","North Dakota",4,SAACCompRatio,139,"...","  All other design services ","Ratio",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACCompRatio,140,"...","  Fine arts education ","Ratio",0.448,0.441,0.442,0.443,0.441,0.442,0.436,0.437,0.429,0.412,0.402,0.400,0.401,0.401,0.397,0.389,0.391,0.405,0.416,0.426,0.450
+ "38000","North Dakota",4,SAACCompRatio,150,"...","  Education services ","Ratio",0.139,0.162,0.187,0.179,0.168,0.174,0.110,0.106,0.101,0.091,0.092,0.090,0.089,0.083,0.084,0.070,0.062,0.056,0.057,0.059,0.056
+ "38000","North Dakota",4,SAACCompRatio,200,"..."," Supporting arts and cultural production ","Ratio",0.121,0.123,0.122,0.118,0.112,0.115,0.103,0.101,0.103,0.100,0.099,0.103,0.096,0.093,0.096,0.095,0.096,0.096,0.096,0.094,0.100
+ "38000","North Dakota",4,SAACCompRatio,211,"...","  Rental and leasing ","Ratio",(D),0.424,(D),0.426,0.398,0.395,0.371,0.349,(D),0.324,(D),0.292,0.274,0.257,0.246,0.238,0.233,0.224,0.217,(D),0.216
+ "38000","North Dakota",4,SAACCompRatio,212,"...","  Grantmaking and giving services ","Ratio",0.031,0.031,0.033,(D),(D),0.033,0.033,0.031,0.035,0.035,0.036,0.039,0.039,0.039,0.039,0.040,0.040,0.040,0.040,0.038,0.039
+ "38000","North Dakota",4,SAACCompRatio,213,"...","  Unions ","Ratio",0.028,0.024,0.025,0.024,0.025,0.025,0.023,0.024,0.029,0.027,0.031,0.028,0.033,0.030,0.033,0.029,0.033,0.029,0.033,0.026,0.033
+ "38000","North Dakota",4,SAACCompRatio,214,"...","  Government ","Ratio",0.135,0.133,0.128,0.119,0.115,0.110,0.082,0.082,0.081,0.079,0.080,0.083,0.085,0.085,0.086,0.087,0.089,0.089,0.091,0.089,0.089
+ "38000","North Dakota",4,SAACCompRatio,215,"...","  Other support services ","Ratio",(D),(D),(D),(D),0.018,0.019,0.020,0.019,0.018,0.017,0.016,0.014,0.014,(D),(D),(D),(D),(D),(D),(D),0.015
+ "38000","North Dakota",4,SAACCompRatio,221,"...","  Publishing ","Ratio",0.447,0.454,0.471,0.449,0.443,0.443,0.446,0.438,0.428,(D),0.415,0.405,0.392,(D),(D),(D),0.367,(D),(D),0.332,(D)
+ "38000","North Dakota",4,SAACCompRatio,222,"...","  Motion pictures ","Ratio",0.984,(D),0.985,(D),0.977,(D),(D),0.978,(D),0.973,0.970,0.963,(D),0.959,0.955,0.954,(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACCompRatio,223,"...","  Sound recording ","Ratio",(D),(D),(D),1.010,1.009,(D),(D),(D),(D),(D),(D),(D),(D),0.000,0.000,0.000,(D),(D),(D),(D),0.919
+ "38000","North Dakota",4,SAACCompRatio,224,"...","  Broadcasting ","Ratio",0.265,0.287,0.311,0.338,0.357,0.375,0.393,0.410,0.424,(D),(D),(D),0.499,(D),(D),(D),0.512,0.520,0.516,0.519,(D)
+ "38000","North Dakota",4,SAACCompRatio,225,"...","  Other information services ","Ratio",0.892,0.865,0.873,0.892,0.898,0.898,0.905,0.905,0.899,0.881,0.884,0.888,(D),(D),(D),(D),(D),(D),0.868,0.866,0.875
+ "38000","North Dakota",4,SAACCompRatio,231,"...","  Jewelry and silverware manufacturing ","Ratio",0.899,0.923,0.928,0.933,0.937,0.943,0.958,0.929,0.751,0.717,0.681,0.926,0.930,0.928,0.931,0.932,0.940,0.925,0.915,0.904,0.905
+ "38000","North Dakota",4,SAACCompRatio,232,"...","  Printed goods manufacturing ","Ratio",0.164,0.143,0.142,0.159,0.160,0.164,0.193,0.197,0.194,0.187,0.181,0.179,0.183,0.177,0.170,0.168,0.177,0.171,0.166,0.157,0.155
+ "38000","North Dakota",4,SAACCompRatio,233,"...","  Musical instruments manufacturing ","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "38000","North Dakota",4,SAACCompRatio,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Ratio",(D),0.103,0.100,(D),(D),(D),(D),(D),(D),(D),0.131,(D),0.140,0.135,0.142,0.150,0.150,0.148,0.143,0.128,0.118
+ "38000","North Dakota",4,SAACCompRatio,236,"...","  Other goods manufacturing ","Ratio",0.120,0.117,0.116,0.108,0.103,0.095,0.115,0.114,0.104,0.104,0.102,0.110,0.106,0.119,0.126,0.120,0.131,0.125,0.137,0.135,0.136
+ "38000","North Dakota",4,SAACCompRatio,240,"...","  Construction ","Ratio",0.128,0.322,0.340,0.257,0.130,0.149,0.092,0.068,0.330,0.272,0.206,0.314,0.096,0.020,0.148,0.120,0.146,0.078,0.054,0.062,0.263
+ "38000","North Dakota",4,SAACCompRatio,250,"...","  Wholesale and transportation industries ","Ratio",0.025,0.026,0.024,0.024,(D),(D),(D),(D),(D),(D),0.025,0.023,(D),(D),(D),(D),(D),(D),(D),(D),0.023
+ "38000","North Dakota",4,SAACCompRatio,260,"...","  Retail industries ","Ratio",0.042,0.041,0.040,0.040,0.039,0.039,0.040,0.040,0.039,0.039,0.039,0.039,0.038,0.038,0.038,0.038,0.039,(D),0.039,0.038,0.041
+ "38000","North Dakota",4,SAACCompRatio,300,"..."," All other industries 2/","Ratio",0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+"Note: See the included footnote file."
+"SAACCompRatio: Arts compensation ratio 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

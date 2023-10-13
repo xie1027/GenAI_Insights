@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "21000","Kentucky",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",1666727,1647909,1697623,1765695,1810576,1894466,1953371,2030467,1903945,2293299
+ "21000","Kentucky",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",1495915,1468349,1512184,1572646,1617391,1702817,1765136,1838451,1704011,2086796
+ "21000","Kentucky",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",33893,35229,35896,36220,52197,62086,62584,69843,56474,52715
+ "21000","Kentucky",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",5547,4245,3110,1951,1482,2786,3446,2837,1757,2838
+ "21000","Kentucky",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",4,4,3,4,3,4,2,2,3,3
+ "21000","Kentucky",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",26436,22394,23856,21758,24180,28006,33722,38945,42051,40868
+ "21000","Kentucky",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",177995,181335,184452,197034,198592,192328,205153,228687,231403,258781
+ "21000","Kentucky",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",87475,88512,87798,99918,102163,98700,106947,122106,113629,125843
+ "21000","Kentucky",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",90519,92822,96654,97116,96430,93628,98206,106582,117775,132937
+ "21000","Kentucky",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",83342,81801,86921,91500,86825,90984,94298,97074,98789,103622
+ "21000","Kentucky",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",496628,501645,503206,525016,527811,578269,572120,584229,590899,663154
+ "21000","Kentucky",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",123768,109477,115534,109812,122586,118036,137007,158366,120643,176359
+ "21000","Kentucky",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",3540,3645,3814,3818,3755,3754,3747,3682,3935,6374
+ "21000","Kentucky",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",16190,15837,14008,15768,16617,17100,18236,21035,18534,22196
+ "21000","Kentucky",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",6404,6296,6144,6288,6254,6228,5910,6400,6506,7268
+ "21000","Kentucky",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",9786,9540,7864,9480,10363,10872,12326,14635,12028,14927
+ "21000","Kentucky",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",25776,23095,28290,31775,33689,33787,35207,32933,25290,29200
+ "21000","Kentucky",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",18548,18338,19170,19257,20606,22397,23875,24545,21777,24951
+ "21000","Kentucky",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",15294,15139,15881,15797,16895,18357,19716,20131,17272,19714
+ "21000","Kentucky",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",3255,3200,3289,3460,3711,4039,4159,4414,4505,5238
+ "21000","Kentucky",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",460747,447229,468815,491352,499560,522384,544970,543344,457722,669131
+ "21000","Kentucky",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",214373,231041,247800,262362,263048,278901,293702,275861,274444,388747
+ "21000","Kentucky",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",246374,216187,221015,228990,236512,243483,251268,267483,183277,280384
+ "21000","Kentucky",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",23502,24075,25109,27381,29487,30897,30770,32928,34734,36605
+ "21000","Kentucky",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",170812,179560,185440,193048,193185,191649,188235,192017,199934,206504
+ "21000","Kentucky",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",22334,19568,18403,17397,17500,18298,18416,14800,13169,14267
+ "21000","Kentucky",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",148478,159991,167037,175652,175685,173351,169819,177217,186765,192237
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

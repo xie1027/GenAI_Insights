@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "46000","South Dakota",4,SAACCompLQ,10,"...","Total ","Location quotient",1.017,1.078,1.033,1.019,1.021,0.972,0.920,0.921,0.907,0.938,0.882,0.842,0.820,0.832,0.786,0.773,0.747,0.750,0.741,0.711,0.696
+ "46000","South Dakota",4,SAACCompLQ,100,"..."," Core arts and cultural production ","Location quotient",0.831,0.888,0.771,0.739,0.523,0.504,0.494,0.500,0.531,0.539,0.511,0.478,0.485,0.486,0.454,0.458,0.454,0.470,0.460,0.476,0.495
+ "46000","South Dakota",4,SAACCompLQ,111,"...","  Performing arts companies ","Location quotient",(D),0.266,0.228,(D),0.237,0.217,0.221,0.197,0.198,0.191,0.191,0.206,0.177,0.193,0.157,0.173,0.198,0.190,0.215,(D),0.280
+ "46000","South Dakota",4,SAACCompLQ,112,"...","  Promoters of performing arts and similar events ","Location quotient",1.039,0.921,0.968,1.223,1.198,1.127,1.072,0.917,0.957,0.944,1.010,0.983,1.001,1.034,1.046,1.103,1.072,1.023,1.027,1.132,1.162
+ "46000","South Dakota",4,SAACCompLQ,113,"...","  Agents/managers for artists ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),0.000,0.000,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACCompLQ,114,"...","  Independent artists, writers, and performers ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),0.186,0.178,(D),(D),(D),(D),0.239,(D),0.304,0.284,0.368,0.356
+ "46000","South Dakota",4,SAACCompLQ,120,"...","  Museums ","Location quotient",0.974,1.063,1.049,1.152,1.182,1.149,1.169,1.129,1.119,1.152,1.241,1.234,1.229,1.208,1.202,1.216,1.244,1.285,1.214,1.192,1.314
+ "46000","South Dakota",4,SAACCompLQ,131,"...","  Advertising ","Location quotient",0.419,(D),0.457,0.471,0.492,(D),0.477,0.452,0.475,(D),0.473,0.425,(D),(D),(D),(D),0.420,(D),(D),0.388,0.382
+ "46000","South Dakota",4,SAACCompLQ,132,"...","  Architectural services ","Location quotient",0.537,0.508,0.505,0.529,0.500,0.447,0.439,0.502,0.578,0.672,0.605,0.565,0.567,0.607,0.521,0.483,0.476,0.479,0.457,0.467,0.487
+ "46000","South Dakota",4,SAACCompLQ,133,"...","  Landscape architectural services ","Location quotient",0.644,0.489,0.470,0.413,0.393,0.447,0.433,0.603,0.512,0.622,0.465,0.443,0.413,0.345,0.318,0.273,0.276,0.293,0.393,0.384,0.341
+ "46000","South Dakota",4,SAACCompLQ,134,"...","  Interior design services ","Location quotient",0.084,0.119,0.162,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.157,0.167,0.183
+ "46000","South Dakota",4,SAACCompLQ,135,"...","  Industrial design services ","Location quotient",(D),(D),0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,(D)
+ "46000","South Dakota",4,SAACCompLQ,136,"...","  Graphic design services ","Location quotient",0.319,0.372,0.182,0.165,0.177,0.164,0.166,0.171,0.169,0.161,0.148,0.169,0.182,0.171,0.171,0.174,0.179,0.198,0.335,0.338,0.265
+ "46000","South Dakota",4,SAACCompLQ,137,"...","  Computer systems design ","Location quotient",(D),(D),(D),0.186,0.186,0.205,(D),0.229,0.254,0.236,0.242,0.281,0.312,0.297,0.305,0.323,0.311,0.288,0.285,0.290,0.304
+ "46000","South Dakota",4,SAACCompLQ,138,"...","  Photography and photofinishing services ","Location quotient",4.769,4.906,4.271,4.491,1.582,1.480,1.497,1.552,1.670,1.674,1.557,1.012,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACCompLQ,139,"...","  All other design services ","Location quotient",(D),(D),0.039,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.065,0.025,(D)
+ "46000","South Dakota",4,SAACCompLQ,140,"...","  Fine arts education ","Location quotient",(D),0.186,0.228,0.237,(D),(D),(D),(D),(D),(D),(D),(D),(D),0.394,0.409,0.412,0.388,0.407,0.410,0.475,0.519
+ "46000","South Dakota",4,SAACCompLQ,150,"...","  Education services ","Location quotient",1.095,1.156,1.202,1.053,1.024,1.017,0.947,0.930,0.886,0.891,0.842,0.826,0.758,0.765,0.746,0.774,0.754,0.821,0.804,0.783,0.761
+ "46000","South Dakota",4,SAACCompLQ,200,"..."," Supporting arts and cultural production ","Location quotient",1.059,1.124,1.096,1.087,1.145,1.093,1.031,1.030,0.999,1.031,0.967,0.929,0.896,0.917,0.865,0.850,0.816,0.817,0.811,0.766,0.737
+ "46000","South Dakota",4,SAACCompLQ,211,"...","  Rental and leasing ","Location quotient",1.079,0.846,0.832,0.804,0.891,0.880,0.888,(D),(D),(D),(D),(D),(D),(D),(D),0.349,0.255,0.235,0.217,0.220,0.248
+ "46000","South Dakota",4,SAACCompLQ,212,"...","  Grantmaking and giving services ","Location quotient",0.913,0.957,0.929,0.903,1.042,1.036,1.039,1.067,1.107,0.944,0.744,0.789,0.698,0.737,0.784,0.767,0.764,0.747,0.768,0.743,0.803
+ "46000","South Dakota",4,SAACCompLQ,213,"...","  Unions ","Location quotient",0.378,0.372,0.363,0.386,0.383,0.381,0.363,0.329,0.297,0.286,0.270,(D),0.271,0.263,0.243,0.254,0.266,0.275,0.265,0.230,0.247
+ "46000","South Dakota",4,SAACCompLQ,214,"...","  Government ","Location quotient",1.614,1.602,1.603,1.603,1.585,1.598,1.567,1.524,1.524,1.546,1.549,1.527,1.477,1.491,1.502,1.522,1.575,1.607,1.602,1.556,1.598
+ "46000","South Dakota",4,SAACCompLQ,215,"...","  Other support services ","Location quotient",(D),(D),(D),(D),1.397,(D),(D),(D),(D),1.274,(D),(D),(D),(D),(D),(D),(D),(D),(D),0.347,0.305
+ "46000","South Dakota",4,SAACCompLQ,221,"...","  Publishing ","Location quotient",(D),(D),(D),(D),0.493,0.485,0.467,0.452,0.445,0.424,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACCompLQ,222,"...","  Motion pictures ","Location quotient",0.135,(D),0.156,0.148,0.155,0.195,0.236,(D),0.187,0.166,0.158,0.149,0.164,0.182,0.170,0.155,0.169,(D),0.164,0.162,0.166
+ "46000","South Dakota",4,SAACCompLQ,223,"...","  Sound recording ","Location quotient",0.042,(D),0.052,0.048,0.072,0.067,0.027,0.030,0.032,0.020,0.021,0.023,0.029,0.027,0.029,0.027,0.020,0.016,0.090,0.095,0.103
+ "46000","South Dakota",4,SAACCompLQ,224,"...","  Broadcasting ","Location quotient",1.010,1.058,(D),(D),(D),(D),1.209,1.194,1.155,1.175,1.178,1.131,1.074,(D),(D),(D),(D),(D),1.104,1.092,1.122
+ "46000","South Dakota",4,SAACCompLQ,225,"...","  Other information services ","Location quotient",0.084,0.097,0.107,0.115,0.101,0.116,0.058,0.067,0.067,0.048,0.040,0.036,0.029,0.040,0.041,0.044,0.040,(D),(D),(D),0.059
+ "46000","South Dakota",4,SAACCompLQ,231,"...","  Jewelry and silverware manufacturing ","Location quotient",6.959,7.184,7.146,7.294,6.988,6.881,6.513,6.112,6.148,5.912,5.380,5.316,5.265,5.175,5.058,5.044,4.669,4.566,(D),4.251,4.566
+ "46000","South Dakota",4,SAACCompLQ,232,"...","  Printed goods manufacturing ","Location quotient",0.777,0.821,0.866,0.872,0.930,0.966,0.992,1.011,1.116,1.142,1.064,1.135,1.192,1.162,1.122,1.124,1.163,1.212,1.266,1.324,1.417
+ "46000","South Dakota",4,SAACCompLQ,233,"...","  Musical instruments manufacturing ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACCompLQ,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Location quotient",(D),2.185,(D),(D),3.884,(D),(D),4.066,3.859,(D),(D),(D),4.110,4.479,(D),2.369,2.141,2.021,(D),(D),2.008
+ "46000","South Dakota",4,SAACCompLQ,236,"...","  Other goods manufacturing ","Location quotient",0.005,(D),(D),0.006,0.007,0.077,0.075,0.075,0.074,(D),0.021,0.028,0.030,0.018,0.016,0.015,0.016,0.009,0.006,0.010,0.010
+ "46000","South Dakota",4,SAACCompLQ,240,"...","  Construction ","Location quotient",0.765,1.352,0.484,0.515,2.107,1.207,0.363,0.893,0.581,1.919,1.236,0.550,0.717,1.694,0.587,0.452,0.277,0.395,0.917,0.785,1.450
+ "46000","South Dakota",4,SAACCompLQ,250,"...","  Wholesale and transportation industries ","Location quotient",0.942,(D),0.918,0.932,0.846,0.577,(D),(D),0.469,0.387,0.366,0.408,0.405,(D),0.471,0.510,0.500,0.511,0.470,0.463,(D)
+ "46000","South Dakota",4,SAACCompLQ,260,"...","  Retail industries ","Location quotient",1.001,1.111,1.190,1.167,1.153,1.194,1.149,1.110,1.093,1.099,1.017,0.994,1.014,0.952,0.935,0.915,0.750,0.701,0.661,0.586,0.582
+ "46000","South Dakota",4,SAACCompLQ,300,"..."," All other industries 2/","Location quotient",0.972,0.972,0.972,0.970,0.973,0.977,0.980,0.989,0.994,0.991,0.995,1.002,1.011,1.009,1.020,1.022,1.025,1.028,1.024,1.038,1.038
+"Note: See the included footnote file."
+"SAACCompLQ: Arts compensation location quotient 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

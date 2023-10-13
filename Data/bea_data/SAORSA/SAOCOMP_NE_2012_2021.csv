@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "31000","Nebraska",4,SAOCOMP,1,"...","All industries ","Thousands of dollars",932065,936555,955864,986084,1021525,1060063,1114090,1133968,1070966,1201481
+ "31000","Nebraska",4,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",843871,843281,857497,882551,915480,952474,1006576,1021552,950513,1073830
+ "31000","Nebraska",4,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",12460,11573,13031,12665,19018,23122,24253,24754,20213,21236
+ "31000","Nebraska",4,SAOCOMP,4,"...","  Mining ","Thousands of dollars",18,16,16,12,12,13,14,13,12,14
+ "31000","Nebraska",4,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",6,7,6,7,5,7,5,5,6,4
+ "31000","Nebraska",4,SAOCOMP,6,"...","  Construction ","Thousands of dollars",33650,30935,32243,29429,30353,32422,36789,40952,44026,43152
+ "31000","Nebraska",4,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",117488,124235,127560,123745,140315,143071,160837,153114,198792,201458
+ "31000","Nebraska",4,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",80883,87788,88619,83091,92035,85111,98346,91651,131043,131679
+ "31000","Nebraska",4,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",36605,36447,38941,40654,48280,57960,62491,61463,67749,69779
+ "31000","Nebraska",4,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",63117,62704,67728,70349,69217,71743,74119,74630,75070,83639
+ "31000","Nebraska",4,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",268301,276671,272873,284092,279097,303116,301935,307607,303715,338706
+ "31000","Nebraska",4,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",59285,57217,55910,55046,58539,55286,63315,67999,55155,67780
+ "31000","Nebraska",4,SAOCOMP,13,"...","  Information ","Thousands of dollars",2048,2078,2183,2340,2403,2499,2664,2594,2758,3968
+ "31000","Nebraska",4,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",16950,16653,15711,15697,16018,16735,17259,19281,18393,18869
+ "31000","Nebraska",4,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",13154,12579,12239,12027,12017,12536,12811,14180,14120,14054
+ "31000","Nebraska",4,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",3796,4074,3472,3670,4002,4200,4448,5101,4273,4815
+ "31000","Nebraska",4,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",43471,38692,42070,45916,46578,49526,51038,47654,23630,30711
+ "31000","Nebraska",4,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",12648,13065,14236,15223,16930,18597,20489,21122,18536,21095
+ "31000","Nebraska",4,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",11009,11424,12589,13486,15086,16619,18428,18954,16348,18600
+ "31000","Nebraska",4,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1639,1641,1646,1737,1844,1979,2061,2168,2187,2495
+ "31000","Nebraska",4,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",199832,194401,198270,211011,218949,217616,235252,242284,170109,222658
+ "31000","Nebraska",4,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",87522,91727,99867,101228,107722,112009,115308,117075,88849,100537
+ "31000","Nebraska",4,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",112309,102674,98403,109783,111227,105607,119944,125209,81260,122121
+ "31000","Nebraska",4,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",14599,15033,15661,17018,18044,18721,18609,19543,20097,20538
+ "31000","Nebraska",4,SAOCOMP,25,"..."," Government ","Thousands of dollars",88194,93274,98367,103533,106046,107589,107514,112416,120453,127651
+ "31000","Nebraska",4,SAOCOMP,26,"...","  Federal ","Thousands of dollars",4302,3738,3553,3397,3506,3843,3998,3412,3094,3394
+ "31000","Nebraska",4,SAOCOMP,27,"...","  State and local ","Thousands of dollars",83892,89536,94814,100136,102540,103746,103515,109004,117359,124257
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "22000","Louisiana",5,SAOVA,1,"...","All industries ","Thousands of dollars",6722971,6639623,6645016,6507471,5996786,6358421,6875837,6756216,5089167,6482108
+ "22000","Louisiana",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",6330716,6227903,6199602,6043952,5537648,5902154,6417068,6273802,4585854,5946296
+ "22000","Louisiana",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",102607,114383,109976,113822,132240,149222,143256,157033,140775,150729
+ "22000","Louisiana",5,SAOVA,4,"...","  Mining ","Thousands of dollars",11565,11555,11168,7987,7039,8238,9588,8345,7226,14719
+ "22000","Louisiana",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",14,15,13,16,12,13,10,9,12,11
+ "22000","Louisiana",5,SAOVA,6,"...","  Construction ","Thousands of dollars",191321,199800,214588,220774,220147,204109,214819,225481,231729,220119
+ "22000","Louisiana",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",2583002,2392183,2276710,1985803,1383115,1738451,2200277,1837709,977564,1476856
+ "22000","Louisiana",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",92961,95586,98456,99258,97439,99993,107923,117595,108690,125775
+ "22000","Louisiana",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",2490042,2296597,2178253,1886545,1285676,1638458,2092354,1720115,868873,1351081
+ "22000","Louisiana",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",433467,427869,440256,429512,396800,376369,372872,376078,397624,424447
+ "22000","Louisiana",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1397384,1441311,1429533,1469366,1470813,1498914,1452619,1441375,1447836,1674095
+ "22000","Louisiana",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",423704,436562,483129,475953,522361,522434,553602,649855,261616,383160
+ "22000","Louisiana",5,SAOVA,13,"...","  Information ","Thousands of dollars",7890,8475,8508,9126,9499,9932,10161,10202,10262,14547
+ "22000","Louisiana",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",196383,235855,205318,235299,235790,239894,252719,295026,285715,297147
+ "22000","Louisiana",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",55117,49885,59841,65569,66382,60173,62284,66635,64883,62944
+ "22000","Louisiana",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",141266,185970,145477,169730,169408,179721,190435,228391,220831,234203
+ "22000","Louisiana",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",37159,36402,39292,42364,44575,46285,48142,45318,23802,33857
+ "22000","Louisiana",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",19770,19465,20845,22192,25012,26675,28663,29951,23301,27838
+ "22000","Louisiana",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",13828,13688,14861,15914,18273,19687,21602,22545,16211,19238
+ "22000","Louisiana",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",5942,5776,5984,6278,6739,6988,7061,7406,7091,8600
+ "22000","Louisiana",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",871628,848872,903159,973059,1031138,1023167,1074651,1140864,721264,1166082
+ "22000","Louisiana",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",352374,364047,391303,394141,416889,456551,466134,475834,284267,364135
+ "22000","Louisiana",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",519254,484825,511856,578917,614249,566616,608517,665029,436997,801948
+ "22000","Louisiana",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",54822,55158,57105,58680,59107,58450,55690,56558,57128,62689
+ "22000","Louisiana",5,SAOVA,25,"..."," Government ","Thousands of dollars",392255,411720,445414,463519,459138,456267,458769,482413,503314,535811
+ "22000","Louisiana",5,SAOVA,26,"...","  Federal ","Thousands of dollars",11735,11792,11085,10493,10169,10114,10144,8594,7839,8582
+ "22000","Louisiana",5,SAOVA,27,"...","  State and local ","Thousands of dollars",380521,399928,434329,453026,448969,446153,448625,473820,495474,527229
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

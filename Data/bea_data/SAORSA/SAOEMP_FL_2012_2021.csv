@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "12000","Florida",5,SAOEMP,1,"...","All industries ","Number of jobs",446570,441375,459086,470154,481817,496382,504863,512371,364316,414582
+ "12000","Florida",5,SAOEMP,2,"..."," Private industries ","Number of jobs",431974,427015,444582,456050,467055,481373,490077,497774,349742,399587
+ "12000","Florida",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",6364,6288,6662,6706,7372,7835,8103,8641,8759,11042
+ "12000","Florida",5,SAOEMP,4,"...","  Mining ","Number of jobs",3,3,3,3,3,3,3,3,2,3
+ "12000","Florida",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "12000","Florida",5,SAOEMP,6,"...","  Construction ","Number of jobs",6962,6571,6691,6909,6880,6757,6927,7087,6986,7194
+ "12000","Florida",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",8842,9091,9150,9734,10632,12105,12320,12413,12555,14550
+ "12000","Florida",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",5895,6250,6370,6961,7763,9292,9538,9604,9538,11144
+ "12000","Florida",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",2947,2841,2780,2773,2869,2813,2782,2809,3017,3406
+ "12000","Florida",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",10133,9921,9977,10306,10366,10531,10604,10830,10533,10814
+ "12000","Florida",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",128949,130806,133412,136701,137776,138834,137674,135876,122009,118979
+ "12000","Florida",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",22433,22799,25187,27176,27207,29019,29832,30814,18247,21577
+ "12000","Florida",5,SAOEMP,13,"...","  Information ","Number of jobs",339,342,344,345,341,332,326,312,331,696
+ "12000","Florida",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",4238,4795,3927,4050,4093,4123,4481,4906,4165,4223
+ "12000","Florida",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",931,885,840,827,838,834,796,874,850,847
+ "12000","Florida",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",3308,3911,3088,3223,3255,3290,3685,4031,3316,3376
+ "12000","Florida",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",7879,7846,7817,8091,8789,8890,9098,8789,5456,4872
+ "12000","Florida",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",3959,4124,4318,4475,4750,4963,5061,5179,4282,4890
+ "12000","Florida",5,SAOEMP,19,"...","   Educational services ","Number of jobs",3627,3804,3986,4134,4397,4587,4683,4784,3950,4488
+ "12000","Florida",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",332,320,332,341,353,376,377,395,332,402
+ "12000","Florida",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",226735,219268,231640,235912,243075,252342,259831,267044,151186,195457
+ "12000","Florida",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",104321,105160,111379,113507,119881,126016,131887,136382,84679,98337
+ "12000","Florida",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",122414,114108,120262,122405,123194,126326,127944,130661,66508,97120
+ "12000","Florida",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",5138,5160,5456,5641,5771,5638,5816,5881,5231,5291
+ "12000","Florida",5,SAOEMP,25,"..."," Government ","Number of jobs",14596,14359,14504,14105,14763,15009,14786,14597,14574,14995
+ "12000","Florida",5,SAOEMP,26,"...","  Federal ","Number of jobs",1417,1277,1203,862,867,843,840,568,528,521
+ "12000","Florida",5,SAOEMP,27,"...","  State and local ","Number of jobs",13178,13083,13301,13243,13895,14166,13946,14028,14047,14474
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

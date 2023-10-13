@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "54000","West Virginia",5,SAOVA,1,"...","All industries ","Thousands of dollars",1488669,1523930,1467042,1521992,1488657,1501540,1529564,1566569,1318156,1607636
+ "54000","West Virginia",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",1356587,1384342,1322378,1375209,1344662,1359993,1386989,1422616,1168816,1444096
+ "54000","West Virginia",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",15239,16737,16691,17119,24044,29229,28862,29651,23482,25835
+ "54000","West Virginia",5,SAOVA,4,"...","  Mining ","Thousands of dollars",54782,42000,30298,18595,15995,34909,44484,36919,26556,49188
+ "54000","West Virginia",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",4,4,4,5,4,4,3,3,4,4
+ "54000","West Virginia",5,SAOVA,6,"...","  Construction ","Thousands of dollars",23762,21611,22951,23023,23616,24393,28367,31939,32887,30563
+ "54000","West Virginia",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",92832,96855,101129,103892,95098,99807,109687,104249,94806,109056
+ "54000","West Virginia",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",10712,9919,10290,10996,12509,11278,12659,16810,17541,20547
+ "54000","West Virginia",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",82120,86936,90840,92896,82589,88529,97028,87440,77265,88509
+ "54000","West Virginia",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",165971,161206,169951,179183,169819,164107,163684,170910,130323,159400
+ "54000","West Virginia",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",446806,462567,446997,458467,444083,454954,457400,463067,442502,518676
+ "54000","West Virginia",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",51065,44981,45944,43944,49324,40715,46044,60364,33067,51432
+ "54000","West Virginia",5,SAOVA,13,"...","  Information ","Thousands of dollars",3776,3861,3858,4083,4299,4175,3984,3746,3827,5006
+ "54000","West Virginia",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",126772,164264,127139,131284,139760,140356,123961,138883,138242,142379
+ "54000","West Virginia",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",19103,16954,19867,21119,20829,18723,19256,20241,19161,18101
+ "54000","West Virginia",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",107669,147310,107271,110165,118931,121633,104705,118642,119081,124279
+ "54000","West Virginia",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",16330,15903,16941,17748,18208,17958,18361,16743,10982,13569
+ "54000","West Virginia",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",7243,6941,6969,7202,7494,7623,7915,8057,6354,7331
+ "54000","West Virginia",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",4704,4439,4480,4560,4765,4830,5039,5079,3526,4022
+ "54000","West Virginia",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",2539,2501,2489,2642,2728,2792,2876,2978,2828,3310
+ "54000","West Virginia",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",337569,333262,319336,356533,338843,327252,339851,343138,210254,315291
+ "54000","West Virginia",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",107279,107773,112766,110773,111600,110201,109141,109465,72854,87797
+ "54000","West Virginia",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",230291,225488,206571,245761,227242,217051,230710,233672,137399,227495
+ "54000","West Virginia",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",14437,14149,14169,14133,14077,14510,14385,14947,15531,16364
+ "54000","West Virginia",5,SAOVA,25,"..."," Government ","Thousands of dollars",132082,139588,144664,146783,143995,141547,142575,143953,149339,163540
+ "54000","West Virginia",5,SAOVA,26,"...","  Federal ","Thousands of dollars",17405,18339,17337,16894,17472,17775,18767,13592,12362,13048
+ "54000","West Virginia",5,SAOVA,27,"...","  State and local ","Thousands of dollars",114678,121249,127327,129889,126523,123772,123808,130360,136977,150492
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

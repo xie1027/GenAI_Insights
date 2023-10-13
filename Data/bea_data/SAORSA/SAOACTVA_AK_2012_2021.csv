@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "02000","Alaska",8,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1690270,1788928,1823581,1996208,2014407,2074158,2165478,2363936,1543844,2082723
+ "02000","Alaska",8,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",566040,582030,599969,623802,614038,644707,633679,654403,542718,597143
+ "02000","Alaska",8,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",362765,371216,382427,401115,403601,412063,397675,400118,420673,424839
+ "02000","Alaska",8,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",4599,4763,5009,5060,4962,5058,4554,4546,5430,6071
+ "02000","Alaska",8,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",81469,82879,85409,87345,92923,96801,94542,95044,107476,93239
+ "02000","Alaska",8,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",2058,1692,1615,1509,1461,1392,1267,1321,1794,2826
+ "02000","Alaska",8,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",12810,13199,14220,16907,24222,25830,24526,23168,22551,24747
+ "02000","Alaska",8,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",1662,1872,1999,2021,2267,2104,2074,2485,1802,1657
+ "02000","Alaska",8,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",64939,66117,67575,66909,64973,67475,66674,68071,81330,64009
+ "02000","Alaska",8,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",17430,18328,19350,20944,20037,20636,20919,22281,24825,28064
+ "02000","Alaska",8,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",4376,4607,5358,5579,6379,6803,7506,7100,6574,7189
+ "02000","Alaska",8,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",21360,24263,24368,25479,28810,27195,25203,24250,24384,26529
+ "02000","Alaska",8,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",7542,8697,8852,9484,11469,10232,9693,9202,9880,10417
+ "02000","Alaska",8,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",13818,15567,15516,15995,17341,16963,15510,15048,14505,16112
+ "02000","Alaska",8,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",17098,16444,16886,17573,15415,13887,13587,11784,12562,14435
+ "02000","Alaska",8,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",17761,19281,17434,20489,26885,27053,18924,19827,29410,12714
+ "02000","Alaska",8,SAOACTVA,17,"...","   RVing ","Thousands of dollars",59171,60295,62101,68343,65236,68876,73147,76660,86125,96103
+ "02000","Alaska",8,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",24482,23729,27228,28902,27715,26846,26895,26635,22741,23221
+ "02000","Alaska",8,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",10283,10238,11926,12916,12762,12053,12226,12984,9343,10883
+ "02000","Alaska",8,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",14199,13491,15303,15986,14952,14793,14669,13650,13398,12338
+ "02000","Alaska",8,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",21671,22353,23564,24135,21096,21976,21197,21555,20840,26684
+ "02000","Alaska",8,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",18292,18985,19910,19505,16597,17744,16950,15965,14296,18843
+ "02000","Alaska",8,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",3379,3368,3654,4630,4499,4233,4247,5590,6543,7841
+ "02000","Alaska",8,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",93350,94273,95719,97268,94142,96933,91201,90436,80306,90589
+ "02000","Alaska",8,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",203275,210815,217543,222687,210436,232644,236005,254286,122045,172304
+ "02000","Alaska",8,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",7904,8234,8355,8849,9149,10351,11297,12344,7786,10809
+ "02000","Alaska",8,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",6699,7253,7896,7580,7803,7376,6751,6177,3314,4040
+ "02000","Alaska",8,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",7087,7202,7524,7519,7446,8021,8007,8286,6289,7248
+ "02000","Alaska",8,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",13868,14029,14174,14323,14406,14109,14603,14795,11720,13456
+ "02000","Alaska",8,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",114121,118692,122772,126491,113918,132815,136022,152609,45828,86719
+ "02000","Alaska",8,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",63524,63665,66328,67350,57859,65526,65241,67803,22363,38139
+ "02000","Alaska",8,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",50597,55027,56444,59141,56059,67289,70780,84806,23465,48581
+ "02000","Alaska",8,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",5238,5484,5557,6354,6630,6522,6182,6035,6786,7213
+ "02000","Alaska",8,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",44180,45439,46658,46781,46221,48512,48640,49510,35922,37548
+ "02000","Alaska",8,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",4178,4483,4607,4788,4863,4937,4502,4528,4399,5271
+ "02000","Alaska",8,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1124230,1206897,1223612,1372405,1400369,1429451,1531798,1709533,1001127,1485580
+ "02000","Alaska",8,SAOACTVA,37,"...","   Construction ","Thousands of dollars",34162,30304,31930,30201,27886,27067,28127,29442,28916,27565
+ "02000","Alaska",8,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",132677,140070,143616,144152,130726,129128,151205,140682,168057,202367
+ "02000","Alaska",8,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",880587,952095,957972,1100063,1133091,1158828,1229557,1419928,679730,1116565
+ "02000","Alaska",8,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",87735,78297,79657,97459,100919,109374,106123,109407,45078,89436
+ "02000","Alaska",8,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",230252,281570,257804,304430,295614,322075,315822,337019,194423,295529
+ "02000","Alaska",8,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",47111,50588,50825,55437,51864,53659,52984,53431,47266,51129
+ "02000","Alaska",8,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",515490,541639,569686,642737,684694,673720,754628,920072,392963,680471
+ "02000","Alaska",8,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",76803,84429,90094,97989,108667,114427,122910,119480,124424,139082
+ "02000","Alaska",8,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",29730,32313,32023,32754,34450,34679,35632,25892,22201,23228
+ "02000","Alaska",8,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",47074,52115,58071,65234,74216,79748,87278,93589,102223,115854
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "41000","Oregon",8,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",4616351,4759800,5005198,5467100,5677744,6146889,6374528,6574489,5193718,6501307
+ "41000","Oregon",8,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",2269112,2364920,2461301,2641001,2801391,3063686,3128485,3207500,3095972,3578618
+ "41000","Oregon",8,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",1574357,1649797,1716492,1858876,2000833,2179531,2195709,2241009,2322075,2629457
+ "41000","Oregon",8,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",33052,34605,34896,34894,37677,44995,44165,53528,70083,77278
+ "41000","Oregon",8,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",235075,236534,244174,264755,306432,346138,360456,378518,435040,422376
+ "41000","Oregon",8,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",8349,6683,6623,6787,7154,6626,6426,6932,10198,18542
+ "41000","Oregon",8,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",61014,61556,61958,73016,103759,117300,124781,126413,130928,151856
+ "41000","Oregon",8,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",7393,7899,8418,8407,9520,9670,9955,12457,8950,8455
+ "41000","Oregon",8,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",158319,160395,167174,176546,186000,212542,219293,232717,284964,243522
+ "41000","Oregon",8,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",83810,85579,85633,85776,81243,87791,89959,98089,100101,133961
+ "41000","Oregon",8,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",56880,61008,64468,67580,79459,87281,101271,92992,84631,100493
+ "41000","Oregon",8,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",64835,74655,74752,82584,106496,116843,115279,124658,133001,143568
+ "41000","Oregon",8,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",28958,34199,34713,40274,57214,61448,60330,69769,73671,75829
+ "41000","Oregon",8,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",35877,40457,40039,42310,49281,55395,54949,54889,59329,67740
+ "41000","Oregon",8,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",65783,67991,68985,75348,82447,87810,87695,88220,91673,96588
+ "41000","Oregon",8,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",5939,6511,6688,7318,7824,7300,6784,7290,7425,7093
+ "41000","Oregon",8,SAOACTVA,17,"...","   RVing ","Thousands of dollars",302503,331235,357624,392607,439954,457728,454515,416297,504141,617116
+ "41000","Oregon",8,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",94878,94818,104080,111448,116636,125662,132190,137511,117839,114173
+ "41000","Oregon",8,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",65217,67434,74086,79310,83382,85325,88943,94543,66660,75213
+ "41000","Oregon",8,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",29660,27384,29994,32138,33254,40336,43247,42967,51179,38960
+ "41000","Oregon",8,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",88158,91874,94959,102719,100991,116527,106344,121587,132093,169112
+ "41000","Oregon",8,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",70965,74862,76731,80549,78340,93282,80488,85649,87307,111546
+ "41000","Oregon",8,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",17192,17012,18228,22170,22651,23245,25856,35938,44786,57566
+ "41000","Oregon",8,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",543444,564986,580234,633847,641674,701456,697050,722320,646049,747699
+ "41000","Oregon",8,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",694756,715123,744809,782125,800558,884155,932776,966490,773897,949160
+ "41000","Oregon",8,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",40172,43104,46216,52282,57735,68249,74589,78358,48961,69472
+ "41000","Oregon",8,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",82916,81733,87346,82042,91727,102783,111218,112194,57080,83720
+ "41000","Oregon",8,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",34228,34190,35970,38110,39672,50395,50644,56190,48422,57958
+ "41000","Oregon",8,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",181269,184719,183300,186904,190659,186358,199472,213556,177864,206311
+ "41000","Oregon",8,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",109229,104813,115064,112695,110189,133413,147580,150546,107174,143985
+ "41000","Oregon",8,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",54055,51174,59437,60258,60585,67699,77121,80161,56546,76917
+ "41000","Oregon",8,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",55174,53639,55627,52438,49604,65714,70459,70385,50628,67068
+ "41000","Oregon",8,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",93892,108409,109785,120047,127622,138434,140924,136276,151118,175783
+ "41000","Oregon",8,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",121650,123672,131370,148956,142110,160569,164514,173048,137992,151429
+ "41000","Oregon",8,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",31400,34482,35756,41088,40844,43954,43836,46323,45285,60503
+ "41000","Oregon",8,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",2347239,2394880,2543897,2826099,2876353,3083203,3246042,3366989,2097746,2922690
+ "41000","Oregon",8,SAOACTVA,37,"...","   Construction ","Thousands of dollars",62529,61086,70112,73728,78344,84699,93226,95100,92512,87020
+ "41000","Oregon",8,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",399839,413904,428908,457308,465076,469915,468590,511137,434771,498349
+ "41000","Oregon",8,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",1598512,1605322,1703775,1921633,1935081,2109519,2251652,2320669,1123422,1862033
+ "41000","Oregon",8,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",391068,312376,337751,372192,377804,429267,459275,480113,190472,417081
+ "41000","Oregon",8,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",440822,500583,493315,566624,544674,611059,643674,691845,397612,652372
+ "41000","Oregon",8,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",288850,292508,304253,325508,323096,347656,362845,375265,350334,401826
+ "41000","Oregon",8,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",477773,499855,568456,657308,689507,721538,785857,773447,185003,390754
+ "41000","Oregon",8,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",286360,314568,341102,373430,397852,419070,432574,440083,447040,475288
+ "41000","Oregon",8,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",49413,48787,52742,55176,62288,67331,68551,55480,41714,43644
+ "41000","Oregon",8,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",236947,265780,288360,318254,335563,351739,364023,384603,405326,431644
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

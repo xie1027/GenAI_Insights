@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "38000","North Dakota",4,SAOCOMP,1,"...","All industries ","Thousands of dollars",483332,506087,530182,565631,565897,571069,582425,598445,555280,617567
+ "38000","North Dakota",4,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",419141,435007,453752,481338,475064,474929,483879,499063,450693,508443
+ "38000","North Dakota",4,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",6725,6426,7201,6792,9379,10786,10865,11793,10274,10558
+ "38000","North Dakota",4,SAOCOMP,4,"...","  Mining ","Thousands of dollars",1509,1492,1403,1074,1098,1357,1673,1600,1300,1686
+ "38000","North Dakota",4,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "38000","North Dakota",4,SAOCOMP,6,"...","  Construction ","Thousands of dollars",19292,19062,21995,21758,21600,21657,23009,25539,25799,25621
+ "38000","North Dakota",4,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",14120,14545,14756,15746,17214,18448,18866,19896,23671,27897
+ "38000","North Dakota",4,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",3800,3802,3853,3793,3858,3872,4339,4463,5852,7226
+ "38000","North Dakota",4,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",10320,10743,10903,11953,13356,14576,14527,15433,17819,20671
+ "38000","North Dakota",4,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",50303,53008,57795,58574,54740,53556,55361,56145,57145,65044
+ "38000","North Dakota",4,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",137525,146380,149785,164272,164230,171964,168967,171411,177734,194005
+ "38000","North Dakota",4,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",43085,45222,46662,45324,42453,37527,41359,46007,36641,41090
+ "38000","North Dakota",4,SAOCOMP,13,"...","  Information ","Thousands of dollars",881,906,959,1031,1036,1062,1059,1046,1115,1691
+ "38000","North Dakota",4,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",4759,4640,4352,5005,5207,5385,5796,5980,5633,5995
+ "38000","North Dakota",4,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",2480,2418,2403,2540,2702,2850,2891,3189,3171,3270
+ "38000","North Dakota",4,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",2278,2222,1949,2465,2505,2535,2905,2790,2462,2725
+ "38000","North Dakota",4,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",12001,10580,11458,12054,11963,12329,12722,11854,6853,8443
+ "38000","North Dakota",4,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",3497,3607,3897,4223,4651,5045,5331,5469,4618,5474
+ "38000","North Dakota",4,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",2757,2846,3120,3367,3755,4101,4361,4418,3579,4302
+ "38000","North Dakota",4,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",740,762,777,856,896,943,970,1051,1039,1172
+ "38000","North Dakota",4,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",121215,124705,128750,140127,135792,129919,132953,136080,93627,114377
+ "38000","North Dakota",4,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",41007,41634,45181,43519,44899,44994,45739,47087,36397,37856
+ "38000","North Dakota",4,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",80208,83070,83569,96608,90893,84925,87214,88993,57231,76520
+ "38000","North Dakota",4,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",4228,4433,4736,5357,5701,5893,5917,6242,6281,6559
+ "38000","North Dakota",4,SAOCOMP,25,"..."," Government ","Thousands of dollars",64191,71080,76431,84294,90833,96140,98546,99382,104587,109125
+ "38000","North Dakota",4,SAOCOMP,26,"...","  Federal ","Thousands of dollars",5508,5260,4899,4710,4908,5259,5755,4593,4342,4680
+ "38000","North Dakota",4,SAOCOMP,27,"...","  State and local ","Thousands of dollars",58683,65820,71532,79584,85925,90880,92791,94788,100245,104445
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

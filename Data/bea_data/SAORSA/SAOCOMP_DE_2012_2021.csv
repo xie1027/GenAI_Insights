@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "10000","Delaware",2,SAOCOMP,1,"...","All industries ","Thousands of dollars",480568,470850,486237,510959,535393,564927,570265,625928,515367,606906
+ "10000","Delaware",2,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",441318,431005,446312,471212,494080,521590,525049,576394,460724,547579
+ "10000","Delaware",2,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),3698,4215
+ "10000","Delaware",2,SAOCOMP,4,"...","  Mining ","Thousands of dollars",(D),(D),(D),(D),(D),(D),(D),(D),1,2
+ "10000","Delaware",2,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "10000","Delaware",2,SAOCOMP,6,"...","  Construction ","Thousands of dollars",5986,6541,7068,7128,8275,10092,13681,16877,18134,18621
+ "10000","Delaware",2,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",23593,23030,23680,23961,25114,25100,25729,28600,27589,28166
+ "10000","Delaware",2,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",3756,3494,3589,3460,3140,3019,3070,3627,3393,3913
+ "10000","Delaware",2,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",19837,19536,20091,20501,21974,22081,22659,24974,24196,24253
+ "10000","Delaware",2,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",20566,19602,20806,20811,19313,18887,18866,19709,20047,21749
+ "10000","Delaware",2,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",170938,174336,176562,185376,186969,202631,196915,208017,203123,219183
+ "10000","Delaware",2,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",8988,8802,8773,9221,9477,10023,10652,11866,8935,10190
+ "10000","Delaware",2,SAOCOMP,13,"...","  Information ","Thousands of dollars",931,958,999,1006,995,995,988,948,1026,1717
+ "10000","Delaware",2,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",7499,7920,6874,8255,9281,9318,9485,10198,9611,10498
+ "10000","Delaware",2,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",2793,2794,2937,3287,3573,3685,3555,3845,3777,4047
+ "10000","Delaware",2,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",4706,5126,3937,4968,5708,5633,5930,6352,5834,6451
+ "10000","Delaware",2,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",18977,16584,18050,20268,20577,22460,24546,23836,9830,13582
+ "10000","Delaware",2,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",6364,6388,6832,7107,7507,7545,7946,8280,6563,7716
+ "10000","Delaware",2,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",5216,5269,5668,5861,6164,6127,6538,6731,5274,6095
+ "10000","Delaware",2,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1148,1119,1164,1246,1343,1418,1408,1549,1289,1620
+ "10000","Delaware",2,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",168489,157906,167050,178176,195715,203189,204962,236391,144222,203337
+ "10000","Delaware",2,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",49854,50475,54094,54641,57622,59723,62607,66565,52651,58611
+ "10000","Delaware",2,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",118635,107431,112956,123535,138092,143466,142355,169827,91571,144725
+ "10000","Delaware",2,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",5558,5600,5786,6210,6563,6965,7044,7760,7944,8605
+ "10000","Delaware",2,SAOCOMP,25,"..."," Government ","Thousands of dollars",39250,39846,39925,39747,41313,43337,45215,49534,54643,59327
+ "10000","Delaware",2,SAOCOMP,26,"...","  Federal ","Thousands of dollars",1496,1034,988,917,908,1062,1073,1069,956,1081
+ "10000","Delaware",2,SAOCOMP,27,"...","  State and local ","Thousands of dollars",37754,38811,38937,38830,40406,42275,44142,48465,53687,58246
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "15000","Hawaii",8,SAOCOMP,1,"...","All industries ","Thousands of dollars",2157829,2250395,2346734,2436344,2407576,2689710,2802650,2968905,1881694,2428432
+ "15000","Hawaii",8,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",2002452,2087764,2175683,2254972,2211979,2484290,2587209,2753283,1648871,2180477
+ "15000","Hawaii",8,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",20581,20122,22100,21794,24123,24305,21538,20464,21281,(D)
+ "15000","Hawaii",8,SAOCOMP,4,"...","  Mining ","Thousands of dollars",17,15,15,13,12,18,16,12,12,13
+ "15000","Hawaii",8,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",2,2,2,2,2,2,1,1,2,1
+ "15000","Hawaii",8,SAOCOMP,6,"...","  Construction ","Thousands of dollars",20972,20400,21505,22177,26193,33858,44385,53225,55154,56375
+ "15000","Hawaii",8,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",24942,26215,25958,27222,27385,28733,27742,30485,27584,(D)
+ "15000","Hawaii",8,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",3164,2853,2633,2624,2728,2883,3008,3566,3808,(D)
+ "15000","Hawaii",8,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",21778,23362,23324,24599,24657,25851,24734,26920,23776,24107
+ "15000","Hawaii",8,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",28709,28271,29616,31896,31449,32717,34024,35408,34202,35513
+ "15000","Hawaii",8,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",399985,417020,419013,439359,418295,461112,475455,508381,454986,490491
+ "15000","Hawaii",8,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",436507,526369,569966,576135,572065,691095,748927,783101,348331,529607
+ "15000","Hawaii",8,SAOCOMP,13,"...","  Information ","Thousands of dollars",1446,1555,1660,1705,1754,1779,1802,1730,1821,3222
+ "15000","Hawaii",8,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",17220,17457,14631,16215,16866,17801,20227,23346,18846,21377
+ "15000","Hawaii",8,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",4511,4221,4053,3981,3869,3917,3894,4330,4285,4291
+ "15000","Hawaii",8,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",12709,13236,10578,12234,12997,13884,16333,19016,14562,17086
+ "15000","Hawaii",8,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",53932,50682,53006,58840,59397,66456,69953,66380,25050,38581
+ "15000","Hawaii",8,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",14381,14280,15014,15439,15595,17111,18073,18856,14343,17761
+ "15000","Hawaii",8,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",11087,11167,11844,12112,12379,13562,14489,15001,11898,14209
+ "15000","Hawaii",8,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",3294,3114,3170,3327,3217,3548,3584,3855,2445,3553
+ "15000","Hawaii",8,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",971427,953113,990597,1030416,1004722,1094337,1110269,1196138,633240,919441
+ "15000","Hawaii",8,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",185524,193447,207994,197944,203582,212844,224629,247363,182876,190929
+ "15000","Hawaii",8,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",785903,759666,782603,832472,801140,881493,885640,948775,450365,728513
+ "15000","Hawaii",8,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",12331,12263,12600,13758,14119,14966,14795,15757,14019,15620
+ "15000","Hawaii",8,SAOCOMP,25,"..."," Government ","Thousands of dollars",155377,162631,171050,181372,195597,205420,215441,215622,232823,247955
+ "15000","Hawaii",8,SAOCOMP,26,"...","  Federal ","Thousands of dollars",38322,37982,36137,36281,37898,40049,41532,30752,26999,28565
+ "15000","Hawaii",8,SAOCOMP,27,"...","  State and local ","Thousands of dollars",117056,124649,134914,145090,157699,165371,173908,184871,205824,219390
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

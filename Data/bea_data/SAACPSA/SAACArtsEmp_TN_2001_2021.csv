@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "47000","Tennessee",5,SAACArtsEmp,1,"...","Total employment ","Number of jobs",2781665,2762428,2764842,2812871,2843584,2888427,2903666,2880821,2716243,2709735,2754090,2806427,2846413,2903888,2975213,3040550,3083966,3133983,3195765,3074175,3175654
+ "47000","Tennessee",5,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",108790,106881,106958,105053,106038,104396,100514,99683,89552,87719,86368,86083,86861,86836,88078,90084,92285,90930,92403,82726,87408
+ "47000","Tennessee",5,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",22407,22042,22692,22165,22252,22626,22636,22672,(D),20750,20979,20896,21304,22431,23009,(D),(D),(D),(D),20678,21929
+ "47000","Tennessee",5,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",3520,3280,3592,3742,3706,3690,3868,3719,3580,3641,3638,3756,3939,4022,4166,4149,4186,4572,4762,(D),(D)
+ "47000","Tennessee",5,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",1060,1163,1342,1058,1068,1151,997,1007,1039,1052,1017,1082,1167,1319,1504,1537,1588,1817,2055,1283,1394
+ "47000","Tennessee",5,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",241,254,287,255,284,300,330,382,363,353,368,407,388,441,488,520,579,605,641,620,609
+ "47000","Tennessee",5,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",383,778,836,884,988,1180,1212,1233,1140,1185,1207,1265,1457,1606,1609,1539,1609,1461,1515,1094,1155
+ "47000","Tennessee",5,SAACArtsEmp,120,"...","  Museums ","Number of jobs",2389,2348,2452,2549,2721,2837,2930,2900,2882,2939,2955,3091,3288,3497,3779,3881,4072,4191,4291,3327,3390
+ "47000","Tennessee",5,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",2139,2079,2029,1987,1871,1785,1607,1699,1607,1613,1665,1822,1970,2300,2275,2336,2344,2524,2593,2281,2341
+ "47000","Tennessee",5,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",2507,2336,2280,2353,2492,2626,2708,2711,2304,2153,2414,1880,1922,2005,1821,1862,1889,1962,2034,2090,2124
+ "47000","Tennessee",5,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",828,803,826,893,1000,976,914,932,808,812,756,599,635,650,655,582,694,682,690,571,625
+ "47000","Tennessee",5,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",378,353,398,375,373,430,444,440,368,305,302,340,375,426,467,484,532,554,581,585,668
+ "47000","Tennessee",5,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",119,103,99,125,174,171,132,130,110,104,102,102,112,37,52,59,37,33,38,46,45
+ "47000","Tennessee",5,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",952,837,874,761,917,948,937,949,881,758,831,832,750,853,879,891,867,875,862,750,817
+ "47000","Tennessee",5,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",144,133,134,120,119,126,143,142,137,140,136,152,168,178,186,193,194,204,204,208,234
+ "47000","Tennessee",5,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",5563,5119,4942,4612,4183,4027,3872,3793,(D),3033,3025,2892,2323,2204,2111,(D),(D),(D),(D),(D),(D)
+ "47000","Tennessee",5,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",28,26,13,12,10,8,10,13,19,29,35,37,42,42,60,53,42,81,98,93,114
+ "47000","Tennessee",5,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",955,911,1036,976,1041,1088,1198,1379,1348,1385,1216,1326,1351,1344,1364,1386,1440,1564,1689,1483,1718
+ "47000","Tennessee",5,SAACArtsEmp,150,"...","  Education services ","Number of jobs",1200,1520,1552,1463,1306,1282,1334,1243,1308,1247,1311,1313,1414,1506,1592,1428,1378,1358,1596,1649,1624
+ "47000","Tennessee",5,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",81927,80404,80070,78746,79639,77683,73758,73058,64487,63624,62098,62078,62531,61283,61793,63636,65484,63279,63556,59093,62291
+ "47000","Tennessee",5,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",2208,1988,2059,2032,1853,1834,1615,1420,1258,945,628,565,522,502,497,479,453,433,406,325,299
+ "47000","Tennessee",5,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",60,71,88,79,56,58,50,49,58,57,58,65,68,69,75,80,86,89,104,100,98
+ "47000","Tennessee",5,SAACArtsEmp,213,"...","  Unions ","Number of jobs",280,233,239,228,226,221,195,208,238,212,235,226,251,239,254,220,241,228,246,185,232
+ "47000","Tennessee",5,SAACArtsEmp,214,"...","  Government ","Number of jobs",31430,31988,29033,26050,23147,20619,17214,17721,18149,19007,18693,18504,18409,18336,18454,18368,17918,17676,18402,18079,17649
+ "47000","Tennessee",5,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",31,25,40,53,61,82,82,78,46,51,55,41,45,47,50,49,46,45,57,45,43
+ "47000","Tennessee",5,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",6028,6003,6306,6070,6137,5920,5671,5381,4625,4427,4259,4234,4180,4134,4121,4181,3889,3757,4229,4343,5038
+ "47000","Tennessee",5,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",6840,6398,6636,6504,6493,6567,6616,6903,6323,6372,(D),(D),(D),(D),(D),7533,8039,7966,8002,5899,6829
+ "47000","Tennessee",5,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",1695,1887,1725,1615,2229,1952,1954,1999,1931,1950,1950,1965,1849,1902,1953,2002,2050,2245,2771,2734,2915
+ "47000","Tennessee",5,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",(D),(D),(D),(D),(D),6295,6872,7072,7076,7403,7639,7907,8000,8271,8114,7980,8575,8193,7347,7023,6888
+ "47000","Tennessee",5,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",(D),(D),(D),491,581,515,447,533,517,475,446,411,361,342,379,432,593,651,619,600,890
+ "47000","Tennessee",5,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",289,205,197,(D),82,(D),(D),70,62,65,64,84,67,37,42,58,73,85,75,70,70
+ "47000","Tennessee",5,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",3900,3131,3004,3309,3221,3131,3496,3251,2753,2313,1806,1708,1765,1678,1575,1550,1602,1543,1485,1279,1256
+ "47000","Tennessee",5,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",1099,1056,1018,915,992,942,894,873,776,731,869,952,919,919,885,818,789,695,658,644,841
+ "47000","Tennessee",5,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",578,600,540,515,498,465,627,632,474,450,459,488,599,579,658,681,705,675,645,581,517
+ "47000","Tennessee",5,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",(D),1629,1796,1636,(D),(D),(D),1565,1030,871,(D),(D),(D),(D),(D),1452,1459,1362,1474,1396,1331
+ "47000","Tennessee",5,SAACArtsEmp,240,"...","  Construction ","Number of jobs",1489,1574,3362,4897,7576,8427,6927,6678,3183,2719,1963,1566,2435,1915,1578,1931,2535,1355,790,841,928
+ "47000","Tennessee",5,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",5438,4734,4330,4387,4751,5046,5539,5707,4166,4229,3897,3717,3665,3390,3590,3708,3864,3792,4283,4131,4500
+ "47000","Tennessee",5,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",13237,13239,13948,14358,14231,14011,13770,12917,11824,11347,12312,12688,12594,12213,12237,12116,12567,12489,11963,10818,11967
+ "47000","Tennessee",5,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",4456,4434,4196,4142,4146,4088,4120,3954,(D),3345,3291,3108,3026,3121,3276,(D),(D),(D),(D),2956,3188
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

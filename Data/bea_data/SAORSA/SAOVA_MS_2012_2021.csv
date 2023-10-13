@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "28000","Mississippi",5,SAOVA,1,"...","All industries ","Thousands of dollars",2491907,2550589,2565479,2614028,2573782,2769906,2978038,2976608,2462571,3093613
+ "28000","Mississippi",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",2305911,2351228,2360622,2403573,2364207,2564815,2771139,2781989,2261340,2879292
+ "28000","Mississippi",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",71310,78658,75596,75621,90412,107640,108353,118702,110618,122383
+ "28000","Mississippi",5,SAOVA,4,"...","  Mining ","Thousands of dollars",1377,1365,1329,942,823,1191,1462,1284,971,1804
+ "28000","Mississippi",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",10,10,9,11,8,9,6,6,8,7
+ "28000","Mississippi",5,SAOVA,6,"...","  Construction ","Thousands of dollars",58349,53600,57986,54978,57044,62205,71232,79486,79285,74495
+ "28000","Mississippi",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",658695,662293,655867,640701,538554,680881,914736,844298,565090,764412
+ "28000","Mississippi",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",158533,163728,162464,160011,159454,173817,210238,234100,223016,256751
+ "28000","Mississippi",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",500162,498565,493403,480690,379100,507063,704498,610198,342075,507661
+ "28000","Mississippi",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",183876,177711,184334,189434,184509,181181,182775,185543,158605,193330
+ "28000","Mississippi",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",717857,745977,745456,766886,773562,807783,788176,790108,780798,934678
+ "28000","Mississippi",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",97078,92093,95405,94072,105644,99597,109091,122731,93527,125490
+ "28000","Mississippi",5,SAOVA,13,"...","  Information ","Thousands of dollars",5033,5568,5682,6126,6372,6566,6706,6798,6988,9124
+ "28000","Mississippi",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",129194,153898,131937,144322,155620,158795,133597,147333,142451,149525
+ "28000","Mississippi",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",24525,22132,26667,29433,29875,27198,28190,30000,29193,28590
+ "28000","Mississippi",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",104668,131766,105270,114889,125745,131598,105408,117333,113258,120935
+ "28000","Mississippi",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",15757,15782,17560,19071,19913,19243,19448,17601,13901,15837
+ "28000","Mississippi",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",11770,11376,12143,12356,13197,13455,14261,14933,11157,13751
+ "28000","Mississippi",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",8603,8279,8943,9093,9732,9720,10557,11052,7503,9310
+ "28000","Mississippi",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",3166,3097,3200,3262,3465,3734,3704,3882,3654,4441
+ "28000","Mississippi",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",329023,325744,349370,370621,389940,398833,395001,426434,269961,444895
+ "28000","Mississippi",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",92340,95265,101321,104897,112294,112830,119109,123957,83113,92415
+ "28000","Mississippi",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",236683,230479,248048,265723,277646,286002,275892,302477,186849,352480
+ "28000","Mississippi",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",26582,27153,27948,28431,28608,27436,26296,26732,27978,29560
+ "28000","Mississippi",5,SAOVA,25,"..."," Government ","Thousands of dollars",185997,199361,204857,210455,209575,205091,206899,194618,201231,214321
+ "28000","Mississippi",5,SAOVA,26,"...","  Federal ","Thousands of dollars",60188,66813,61072,60247,60972,61357,65384,47526,46404,48876
+ "28000","Mississippi",5,SAOVA,27,"...","  State and local ","Thousands of dollars",125809,132548,143785,150208,148603,143735,141515,147092,154826,165445
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

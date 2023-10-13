@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "21000","Kentucky",5,SAOVA,1,"...","All industries ","Thousands of dollars",3601058,3661983,3724620,3887253,3921436,4080129,4373346,4625939,3937579,4813009
+ "21000","Kentucky",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",3408436,3451084,3497022,3640499,3666564,3817815,4101432,4340759,3642039,4491870
+ "21000","Kentucky",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",119063,137562,136671,141062,159478,183271,188545,200806,181390,198677
+ "21000","Kentucky",5,SAOVA,4,"...","  Mining ","Thousands of dollars",24832,19057,13597,8291,7112,14880,17319,12636,8476,14247
+ "21000","Kentucky",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",15,15,14,17,12,13,9,9,12,11
+ "21000","Kentucky",5,SAOVA,6,"...","  Construction ","Thousands of dollars",40283,35205,37555,36725,39584,44662,53213,62533,66899,62079
+ "21000","Kentucky",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",635516,671736,677629,724307,678781,704680,874404,974154,812787,944439
+ "21000","Kentucky",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",217740,234599,235558,271258,275593,266483,356088,453428,351324,380857
+ "21000","Kentucky",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",417776,437137,442071,453050,403189,438197,518316,520726,461464,563582
+ "21000","Kentucky",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",356242,353935,373177,376799,344278,344451,353074,359822,356637,376330
+ "21000","Kentucky",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1000311,1026362,1022154,1060022,1080666,1147923,1156372,1175753,1175068,1392044
+ "21000","Kentucky",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",219162,195415,215652,207784,233171,216285,255963,304842,151040,257785
+ "21000","Kentucky",5,SAOVA,13,"...","  Information ","Thousands of dollars",9197,9750,9954,10340,10599,10709,10895,11072,11398,15590
+ "21000","Kentucky",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",164312,180392,158077,172814,186553,183060,185458,198219,188120,197813
+ "21000","Kentucky",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",35635,32116,38458,42291,43001,39492,41251,44108,42590,40850
+ "21000","Kentucky",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",128677,148276,119619,130524,143552,143568,144207,154111,145530,156964
+ "21000","Kentucky",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",52930,51493,55734,58758,60392,57713,58725,53562,37132,46438
+ "21000","Kentucky",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",21603,20704,21331,21126,22491,25085,26676,27476,21087,25100
+ "21000","Kentucky",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",15781,15070,15551,15108,16074,18151,19579,20084,14050,16710
+ "21000","Kentucky",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",5822,5634,5780,6017,6417,6934,7097,7392,7037,8390
+ "21000","Kentucky",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",725022,709389,734194,779530,798569,837329,873432,909569,577732,901666
+ "21000","Kentucky",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",252280,272128,287476,294033,308073,329259,344821,351254,213343,266693
+ "21000","Kentucky",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",472742,437261,446718,485497,490496,508071,528611,558315,364390,634973
+ "21000","Kentucky",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",39949,40067,41283,42924,44877,47752,47345,50307,54260,59651
+ "21000","Kentucky",5,SAOVA,25,"..."," Government ","Thousands of dollars",192622,210899,227599,246754,254872,262314,271914,285180,295540,321140
+ "21000","Kentucky",5,SAOVA,26,"...","  Federal ","Thousands of dollars",26951,26804,25027,23877,24247,24827,25323,19790,17608,19052
+ "21000","Kentucky",5,SAOVA,27,"...","  State and local ","Thousands of dollars",165671,184094,202571,222877,230625,237487,246592,265390,277932,302087
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

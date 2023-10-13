@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "13000","Georgia",5,SAOEMP,1,"...","All industries ","Number of jobs",135653,134100,137938,140702,145622,147696,151006,151412,120137,139208
+ "13000","Georgia",5,SAOEMP,2,"..."," Private industries ","Number of jobs",127743,126073,129804,132630,137369,139470,142982,143345,111893,130624
+ "13000","Georgia",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",1409,1373,1438,1469,1626,1759,1802,1848,1640,1856
+ "13000","Georgia",5,SAOEMP,4,"...","  Mining ","Number of jobs",1,1,1,1,1,1,1,1,1,1
+ "13000","Georgia",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "13000","Georgia",5,SAOEMP,6,"...","  Construction ","Number of jobs",1777,1368,1410,1506,1474,1485,1541,1605,1515,1590
+ "13000","Georgia",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",7034,7176,7214,7558,8010,8028,8637,8483,9056,9709
+ "13000","Georgia",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",3803,4073,4138,4500,4921,4968,5534,5361,5830,6246
+ "13000","Georgia",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",3231,3103,3076,3058,3089,3060,3103,3122,3226,3464
+ "13000","Georgia",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",4636,4587,4593,4739,4876,4937,4925,4927,4439,4675
+ "13000","Georgia",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",50125,50096,50244,51012,51329,51519,50632,49454,42754,45602
+ "13000","Georgia",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",9653,9090,9941,9691,9984,9962,10370,10385,7423,9397
+ "13000","Georgia",5,SAOEMP,13,"...","  Information ","Number of jobs",204,205,208,208,209,210,208,201,213,403
+ "13000","Georgia",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",1305,1413,1248,1269,1301,1343,1435,1618,1289,1284
+ "13000","Georgia",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",529,526,514,522,523,530,513,563,539,501
+ "13000","Georgia",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",776,887,734,748,778,814,921,1055,751,784
+ "13000","Georgia",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",1803,1824,1813,1825,1833,1724,1704,1629,1106,1050
+ "13000","Georgia",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1914,2015,2099,2193,2351,2467,2479,2473,2032,2265
+ "13000","Georgia",5,SAOEMP,19,"...","   Educational services ","Number of jobs",1797,1898,1978,2069,2220,2327,2338,2325,1894,2100
+ "13000","Georgia",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",118,117,120,124,131,140,141,148,138,165
+ "13000","Georgia",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",46145,45181,47786,49320,52510,54229,57386,58814,38690,50990
+ "13000","Georgia",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",19202,20141,21711,22663,24423,25758,27010,27987,19267,21622
+ "13000","Georgia",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",26943,25040,26075,26658,28087,28471,30376,30826,19422,29368
+ "13000","Georgia",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",1736,1742,1808,1838,1866,1804,1862,1907,1733,1800
+ "13000","Georgia",5,SAOEMP,25,"..."," Government ","Number of jobs",7910,8027,8134,8072,8252,8226,8024,8066,8244,8585
+ "13000","Georgia",5,SAOEMP,26,"...","  Federal ","Number of jobs",974,864,806,557,560,544,547,376,358,354
+ "13000","Georgia",5,SAOEMP,27,"...","  State and local ","Number of jobs",6936,7163,7328,7515,7692,7682,7477,7690,7886,8231
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "53000","Washington",8,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",9042483,9279978,9831892,10587047,10896132,11587080,12446113,12619474,9808698,12272562
+ "53000","Washington",8,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",5080787,5275386,5515358,5865982,6032058,6439482,6792194,6719635,6133358,7175313
+ "53000","Washington",8,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",3312921,3436330,3545075,3749764,3815053,3990503,4043715,4164793,4284229,4744672
+ "53000","Washington",8,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",62128,62892,64225,63878,63445,71297,71985,78137,91929,105773
+ "53000","Washington",8,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",587987,601976,606719,627413,668624,710170,726167,761155,1015417,887679
+ "53000","Washington",8,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",23437,18444,16997,16248,16242,13334,12757,13687,19518,34796
+ "53000","Washington",8,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",88478,89921,94200,110172,147670,168763,176548,178239,171527,193179
+ "53000","Washington",8,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",22398,24416,25839,25784,28166,27122,27519,35473,24757,22491
+ "53000","Washington",8,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",453674,469195,469683,475209,476546,500951,509344,533756,799615,637213
+ "53000","Washington",8,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",107307,108767,112882,114493,112564,118013,121336,130860,138248,195432
+ "53000","Washington",8,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",99716,106475,121497,126386,142677,156983,174006,166198,158750,183106
+ "53000","Washington",8,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",123901,138861,131819,134093,154783,157909,153465,160502,174358,192255
+ "53000","Washington",8,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",56272,61654,56998,56932,68567,66703,65836,72040,77803,83410
+ "53000","Washington",8,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",67629,77207,74820,77162,86216,91206,87630,88462,96554,108845
+ "53000","Washington",8,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",134552,130214,134938,152238,157254,144211,151209,143109,169546,196222
+ "53000","Washington",8,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",117422,122353,143188,162462,173757,156524,150358,115137,64862,65211
+ "53000","Washington",8,SAOACTVA,17,"...","   RVing ","Thousands of dollars",268028,286591,306103,336789,354955,368640,379720,376092,425365,524078
+ "53000","Washington",8,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",255930,249905,271219,278367,270437,271315,284946,295460,254425,261261
+ "53000","Washington",8,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",145880,144340,158783,166284,163717,153507,156003,163686,119885,140782
+ "53000","Washington",8,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",110050,105565,112436,112083,106719,117807,128943,131775,134540,120478
+ "53000","Washington",8,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",236276,246463,260703,287253,283428,317262,323373,377610,438047,573387
+ "53000","Washington",8,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",182308,190470,199266,205814,197267,226578,221719,235801,244198,304603
+ "53000","Washington",8,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",53967,55992,61436,81439,86161,90685,101653,141809,193849,268784
+ "53000","Washington",8,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",1319674,1381831,1391783,1466392,1433129,1518178,1507149,1560533,1353282,1560267
+ "53000","Washington",8,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1767867,1839056,1970283,2116218,2217006,2448979,2748479,2554842,1849129,2430641
+ "53000","Washington",8,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",63811,66574,69318,75225,80122,92794,101531,107317,75008,107806
+ "53000","Washington",8,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",226422,248204,282432,282497,306360,309598,302754,280458,134516,205792
+ "53000","Washington",8,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",65310,65329,69269,74078,76831,90819,91648,103608,90880,107384
+ "53000","Washington",8,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",376899,379458,369738,369846,375634,363121,394919,429979,346402,397063
+ "53000","Washington",8,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",474112,476873,527532,563628,595278,774517,1016885,750646,284608,545853
+ "53000","Washington",8,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",324523,331063,380210,418935,455494,605245,839054,573107,205208,408374
+ "53000","Washington",8,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",149589,145810,147321,144693,139784,169272,177831,177539,79400,137479
+ "53000","Washington",8,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",99181,107206,109209,126091,138923,149357,157069,164729,221047,246895
+ "53000","Washington",8,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",391846,413295,454782,523739,540230,560209,573102,598702,572703,664577
+ "53000","Washington",8,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",70286,82117,88002,101114,103628,108564,110572,119402,123965,155271
+ "53000","Washington",8,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",3961696,4004592,4316534,4721065,4864073,5147598,5653920,5899839,3675340,5097250
+ "53000","Washington",8,SAOACTVA,37,"...","   Construction ","Thousands of dollars",155512,150547,174932,194858,226915,265424,333306,387515,406056,392523
+ "53000","Washington",8,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",690898,703790,730033,753105,714918,732760,782024,809908,714094,891021
+ "53000","Washington",8,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",2611297,2616822,2863284,3205781,3320855,3509387,3866289,4026011,1850925,3034961
+ "53000","Washington",8,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",551907,417802,472946,519436,540324,579102,628032,651503,282293,547937
+ "53000","Washington",8,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",465420,541585,511925,589426,578075,611479,660577,698792,453309,654729
+ "53000","Washington",8,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",419704,418243,440216,451542,444273,466492,492554,506886,507498,553688
+ "53000","Washington",8,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",1174265,1239191,1438197,1645378,1758183,1852314,2085126,2168830,607825,1278608
+ "53000","Washington",8,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",503989,533433,548284,567321,601385,640027,672300,676406,704264,778744
+ "53000","Washington",8,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",82699,90643,87524,87445,91286,94190,100078,74533,67359,70474
+ "53000","Washington",8,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",421290,442790,460760,479875,510099,545837,572222,601873,636905,708269
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

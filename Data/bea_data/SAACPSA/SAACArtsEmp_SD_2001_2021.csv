@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "46000","South Dakota",4,SAACArtsEmp,1,"...","Total employment ","Number of jobs",396026,395488,396335,402184,407734,415350,423437,430152,421797,423052,427213,435054,438191,444363,447384,450688,453668,458954,462706,450634,462954
+ "46000","South Dakota",4,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",17865,18487,17500,17015,16632,15898,15423,15475,14872,15329,14854,14499,14322,14726,14318,14298,14050,14142,14219,12853,13421
+ "46000","South Dakota",4,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",2863,2772,2688,2865,2436,2443,2455,2448,2376,2345,2403,2317,2380,2495,2518,2618,2688,2839,2879,2415,2575
+ "46000","South Dakota",4,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",(D),147,154,(D),168,164,163,146,125,121,130,134,145,134,125,136,146,141,170,(D),121
+ "46000","South Dakota",4,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",264,243,242,394,396,414,430,365,383,404,420,413,415,471,514,522,550,574,589,362,399
+ "46000","South Dakota",4,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),84,92,(D),(D),(D),(D),148,(D),167,174,197,209
+ "46000","South Dakota",4,SAACArtsEmp,120,"...","  Museums ","Number of jobs",290,331,368,423,443,423,441,438,446,454,455,462,468,484,498,531,551,576,574,461,526
+ "46000","South Dakota",4,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",268,(D),243,262,257,(D),208,218,223,(D),236,230,(D),(D),(D),(D),260,(D),(D),236,239
+ "46000","South Dakota",4,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",201,195,186,200,201,197,197,236,226,215,218,209,205,208,202,204,211,210,208,212,213
+ "46000","South Dakota",4,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",94,69,64,56,54,58,50,59,41,45,36,34,34,27,24,24,25,25,33,39,33
+ "46000","South Dakota",4,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",10,14,16,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),25,27,29
+ "46000","South Dakota",4,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",(D),(D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,(D)
+ "46000","South Dakota",4,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",51,55,42,40,45,43,46,44,39,36,36,42,47,45,44,51,53,56,80,74,67
+ "46000","South Dakota",4,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",(D),(D),(D),8,9,9,(D),12,15,13,14,18,22,22,22,24,26,24,25,26,28
+ "46000","South Dakota",4,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",1199,1102,958,923,432,431,421,410,391,366,381,301,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",(D),(D),5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4,2,(D)
+ "46000","South Dakota",4,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",(D),84,96,91,(D),(D),(D),(D),(D),(D),(D),(D),(D),232,233,241,277,301,304,274,324
+ "46000","South Dakota",4,SAACArtsEmp,150,"...","  Education services ","Number of jobs",199,228,249,232,238,250,231,232,227,221,221,222,210,219,219,230,220,242,229,238,226
+ "46000","South Dakota",4,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",14411,15125,14251,13600,13647,12907,12403,12470,11958,12493,11970,11729,11503,11784,11337,11213,10913,10860,10901,10033,10411
+ "46000","South Dakota",4,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",224,214,223,232,233,210,197,(D),(D),(D),(D),(D),(D),(D),(D),30,22,20,16,11,12
+ "46000","South Dakota",4,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",15,20,21,18,18,20,22,20,24,19,15,19,16,17,18,18,18,18,19,19,21
+ "46000","South Dakota",4,SAACArtsEmp,213,"...","  Unions ","Number of jobs",20,17,18,18,18,18,17,18,20,18,20,(D),23,20,21,19,22,20,21,16,19
+ "46000","South Dakota",4,SAACArtsEmp,214,"...","  Government ","Number of jobs",7890,8107,7508,6785,6209,5658,5146,5267,5415,5551,5478,5375,5220,5217,5238,5361,5395,5451,5461,5319,5359
+ "46000","South Dakota",4,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",(D),(D),(D),(D),20,(D),(D),(D),(D),14,(D),(D),(D),(D),(D),(D),(D),(D),(D),2,2
+ "46000","South Dakota",4,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",(D),(D),(D),(D),918,932,962,924,836,796,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",513,(D),573,572,568,594,665,(D),567,566,548,534,545,575,584,541,577,(D),585,378,407
+ "46000","South Dakota",4,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",6,(D),5,4,7,7,4,3,3,2,3,3,4,3,4,5,4,4,8,7,10
+ "46000","South Dakota",4,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",923,993,(D),(D),(D),(D),1484,1551,1541,1638,1662,1699,1665,(D),(D),(D),(D),(D),1583,1541,1561
+ "46000","South Dakota",4,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",26,22,24,29,25,38,25,29,30,13,11,12,19,25,29,35,40,(D),(D),(D),66
+ "46000","South Dakota",4,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",836,825,767,735,726,705,656,582,395,357,310,413,405,395,371,352,305,285,(D),220,242
+ "46000","South Dakota",4,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",263,225,222,243,249,262,319,321,294,274,244,252,256,243,227,220,231,227,224,199,204
+ "46000","South Dakota",4,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "46000","South Dakota",4,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",(D),181,(D),(D),287,(D),(D),447,352,(D),(D),(D),389,421,(D),259,231,223,(D),(D),177
+ "46000","South Dakota",4,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",3,(D),(D),3,3,9,10,8,7,(D),2,3,3,3,3,3,3,1,1,2,2
+ "46000","South Dakota",4,SAACArtsEmp,240,"...","  Construction ","Number of jobs",328,580,194,219,907,530,145,329,190,717,400,155,205,509,187,152,98,142,350,190,350
+ "46000","South Dakota",4,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",459,(D),478,492,418,369,(D),(D),293,291,307,296,302,(D),316,324,318,319,296,269,(D)
+ "46000","South Dakota",4,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",1707,1835,1914,1893,1814,1877,1881,1892,1828,1837,1807,1781,1699,1640,1649,1571,1456,1392,1342,1217,1349
+ "46000","South Dakota",4,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",592,591,561,550,550,548,565,557,537,491,481,453,438,447,463,467,449,443,439,405,435
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

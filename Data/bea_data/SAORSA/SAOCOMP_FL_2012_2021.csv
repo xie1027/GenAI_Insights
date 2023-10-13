@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "12000","Florida",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",16728727,16798973,17811121,18728732,19462699,21383999,22415783,23597625,17126266,20001106
+ "12000","Florida",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",15700509,15736623,16719112,17621760,18287415,20154726,21159747,22342801,15814000,18623903
+ "12000","Florida",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",175120,185892,203679,208878,265425,303688,307092,361867,355122,427350
+ "12000","Florida",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",325,282,240,200,195,302,365,315,255,322
+ "12000","Florida",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",23,24,20,25,19,24,17,19,32,24
+ "12000","Florida",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",256149,241377,249415,235517,254411,270881,299278,319928,330615,325756
+ "12000","Florida",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",477084,482609,504649,516715,496818,522672,576817,657282,682588,793546
+ "12000","Florida",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",336764,339964,357158,365569,346429,368665,423107,490274,496522,577394
+ "12000","Florida",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",140320,142645,147492,151146,150389,154007,153710,167008,186066,216152
+ "12000","Florida",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",769577,746742,781984,842466,838363,868641,894365,939970,968912,1016734
+ "12000","Florida",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",3694245,3843932,3943860,4174175,4179894,4553567,4538810,4688368,4877486,5092399
+ "12000","Florida",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",1869699,2019508,2291715,2630385,2703176,2962204,3137129,3381627,1977389,2403261
+ "12000","Florida",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",21307,22231,23328,24129,24234,24758,25132,25196,27345,42623
+ "12000","Florida",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",226052,228691,201974,235599,245694,254944,275708,311357,291320,313379
+ "12000","Florida",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",86765,84113,83121,87213,88960,91839,92090,102190,105007,109963
+ "12000","Florida",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",139286,144577,118853,148386,156734,163105,183618,209167,186313,203416
+ "12000","Florida",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",387347,358557,384704,427710,452782,518707,582423,573994,244457,354045
+ "12000","Florida",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",129735,130524,140779,146526,157103,167512,178931,184190,154564,182418
+ "12000","Florida",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",108274,109483,118628,123231,132710,141100,151606,154907,128779,150447
+ "12000","Florida",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",21460,21042,22151,23295,24393,26412,27326,29283,25784,31971
+ "12000","Florida",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",7505246,7275317,7775535,7930995,8395669,9417003,10066706,10607195,5599663,7352954
+ "12000","Florida",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",4074567,4018330,4247845,4277373,4675041,5558780,6101385,6352829,3246332,3803065
+ "12000","Florida",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",3430680,3256987,3527690,3653622,3720628,3858223,3965321,4254366,2353331,3549889
+ "12000","Florida",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",188602,200937,217229,248440,273632,289821,276975,291494,304254,319093
+ "12000","Florida",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",1028218,1062350,1092009,1106972,1175283,1229273,1256036,1254824,1312266,1377203
+ "12000","Florida",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",82506,83845,78919,78511,80922,83477,86089,64267,59957,63984
+ "12000","Florida",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",945712,978505,1013089,1028460,1094361,1145796,1169947,1190557,1252309,1313218
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

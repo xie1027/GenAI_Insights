@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "11000","District of Columbia",2,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1336739,1344294,1353192,1499089,1476519,1637979,1635580,1620059,1136769,1397370
+ "11000","District of Columbia",2,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",310935,324387,346450,361737,377551,412164,413966,416374,284868,365347
+ "11000","District of Columbia",2,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",126213,131047,133714,140635,141614,155500,151539,152930,139039,153213
+ "11000","District of Columbia",2,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",3595,3533,3493,3541,3855,4601,4730,4681,5212,5478
+ "11000","District of Columbia",2,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",19091,18687,19750,20123,21337,25768,26711,28153,25378,24097
+ "11000","District of Columbia",2,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",357,311,310,301,314,350,338,363,375,610
+ "11000","District of Columbia",2,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",839,852,909,1091,1498,1621,1690,1684,1569,1756
+ "11000","District of Columbia",2,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",962,1015,1110,1189,1281,1248,1256,1397,1006,1120
+ "11000","District of Columbia",2,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",16933,16508,17421,17542,18244,22549,23428,24709,22427,20610
+ "11000","District of Columbia",2,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",2393,2522,2684,2884,2895,3015,3153,3401,3597,5833
+ "11000","District of Columbia",2,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",1017,1099,1425,1402,1428,1566,1663,1518,1684,1739
+ "11000","District of Columbia",2,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",4225,4613,4483,4716,5589,6307,6447,6586,5982,6528
+ "11000","District of Columbia",2,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",931,1113,1044,1149,1461,1232,1261,1169,1333,1479
+ "11000","District of Columbia",2,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",3294,3500,3439,3567,4128,5075,5186,5416,4648,5049
+ "11000","District of Columbia",2,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",6002,5349,6006,6295,6212,5621,5852,6043,5926,5939
+ "11000","District of Columbia",2,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",269,259,272,262,244,198,184,226,211,204
+ "11000","District of Columbia",2,SAOACTVA,17,"...","   RVing ","Thousands of dollars",7877,8127,8537,9164,8998,9253,9631,10189,10058,10477
+ "11000","District of Columbia",2,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",774,760,850,907,935,950,994,1003,663,810
+ "11000","District of Columbia",2,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",587,594,673,725,735,722,744,767,418,622
+ "11000","District of Columbia",2,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",188,166,176,182,201,228,250,237,245,188
+ "11000","District of Columbia",2,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",7850,8358,8575,8819,8551,9076,8079,8696,9258,11407
+ "11000","District of Columbia",2,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",6718,7220,7327,7318,7001,7659,6615,6820,6961,8396
+ "11000","District of Columbia",2,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",1132,1138,1248,1502,1550,1417,1465,1876,2297,3011
+ "11000","District of Columbia",2,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",73121,77739,77640,82522,81571,89146,84093,82435,71073,80700
+ "11000","District of Columbia",2,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",184722,193340,212735,221103,235937,256663,262428,263444,145829,212133
+ "11000","District of Columbia",2,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",7176,7421,7715,8323,8726,9492,9904,10238,9175,11712
+ "11000","District of Columbia",2,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",91726,100601,116276,123380,137513,147379,149362,147114,73827,113097
+ "11000","District of Columbia",2,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",4702,4738,4920,4833,4928,5622,5913,6234,4512,5231
+ "11000","District of Columbia",2,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",15089,15439,16085,16350,16775,17335,18642,19724,13944,15349
+ "11000","District of Columbia",2,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",41869,41196,43557,43684,43337,51286,53172,53644,22269,41793
+ "11000","District of Columbia",2,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",21841,21369,23109,22927,22735,26097,27091,26827,11865,21597
+ "11000","District of Columbia",2,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",20028,19827,20447,20757,20602,25189,26081,26816,10404,20196
+ "11000","District of Columbia",2,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",3487,3371,3257,3327,3211,3218,3060,3065,3597,4061
+ "11000","District of Columbia",2,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",17069,16488,16741,16610,16667,17185,17496,18449,14016,15477
+ "11000","District of Columbia",2,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",3604,4087,4185,4596,4780,5146,4878,4977,4488,5415
+ "11000","District of Columbia",2,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1025803,1019907,1006742,1137352,1098969,1225815,1221613,1203685,851901,1032023
+ "11000","District of Columbia",2,SAOACTVA,37,"...","   Construction ","Thousands of dollars",33076,30084,32658,36313,34822,36271,37799,43001,46333,44428
+ "11000","District of Columbia",2,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",93507,98265,103472,111392,112604,114440,102158,95288,88301,102884
+ "11000","District of Columbia",2,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",687559,647373,624632,725362,663729,759663,737922,768027,427156,587888
+ "11000","District of Columbia",2,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",291846,238114,228285,264355,249160,293176,282927,295165,136399,190702
+ "11000","District of Columbia",2,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",313631,317365,302143,355846,311566,361451,350904,364527,213269,321868
+ "11000","District of Columbia",2,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",46099,45182,42873,45094,41577,48094,47631,49563,50324,39183
+ "11000","District of Columbia",2,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",35983,46713,51331,60067,61426,56942,56461,58771,27164,36135
+ "11000","District of Columbia",2,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",211661,244185,245981,264285,287813,315441,343735,297370,290111,296823
+ "11000","District of Columbia",2,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",124426,144765,139890,147419,161008,169503,184825,127807,115774,121128
+ "11000","District of Columbia",2,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",87235,99421,106091,116866,126805,145938,158910,169563,174337,175695
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

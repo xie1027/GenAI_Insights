@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "25000","Massachusetts",1,SAOVA,1,"...","All industries ","Thousands of dollars",7831456,8225683,8282915,8875341,9206142,9780283,9774391,10016336,7634697,9501221
+ "25000","Massachusetts",1,SAOVA,2,"..."," Private industries ","Thousands of dollars",7536928,7900533,7942617,8509581,8825128,9393376,9381382,9635292,7251757,9100746
+ "25000","Massachusetts",1,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",71822,75980,71057,67690,68856,73390,74305,74287,66062,71851
+ "25000","Massachusetts",1,SAOVA,4,"...","  Mining ","Thousands of dollars",98,97,105,74,61,70,74,64,47,76
+ "25000","Massachusetts",1,SAOVA,5,"...","  Utilities ","Thousands of dollars",61,66,58,79,55,64,35,30,43,33
+ "25000","Massachusetts",1,SAOVA,6,"...","  Construction ","Thousands of dollars",65257,66838,75064,82505,95742,112031,132293,148616,146210,139124
+ "25000","Massachusetts",1,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",781117,804491,763307,811852,926505,954326,901273,945561,1029184,1202755
+ "25000","Massachusetts",1,SAOVA,8,"...","   Durable goods ","Thousands of dollars",521434,535661,495252,517341,594841,591511,581760,603837,613688,692899
+ "25000","Massachusetts",1,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",259684,268829,268055,294511,331664,362815,319514,341724,415495,509856
+ "25000","Massachusetts",1,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",822474,818338,845290,866473,811677,786108,778693,777409,811018,763589
+ "25000","Massachusetts",1,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1761946,1827678,1802110,1847578,1855709,1969044,1937044,1985897,1996005,2284901
+ "25000","Massachusetts",1,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",807290,886753,967786,1153341,1160075,1342256,1281795,1348121,383015,686918
+ "25000","Massachusetts",1,SAOVA,13,"...","  Information ","Thousands of dollars",47953,46278,46028,49030,48504,50240,50683,52400,53936,67265
+ "25000","Massachusetts",1,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",435139,522473,442517,494079,503862,500818,569416,573046,550463,588904
+ "25000","Massachusetts",1,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",106371,98493,113918,123932,128230,120028,124471,136259,136984,146154
+ "25000","Massachusetts",1,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",328768,423980,328599,370147,375632,380791,444945,436787,413478,442751
+ "25000","Massachusetts",1,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",328100,319885,324570,344195,359400,415554,448532,433935,82804,240782
+ "25000","Massachusetts",1,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",112826,115776,122831,126089,142544,156895,171420,175537,132238,142922
+ "25000","Massachusetts",1,SAOVA,19,"...","   Educational services ","Thousands of dollars",99884,102854,109781,112587,128289,141914,156506,159998,117624,125727
+ "25000","Massachusetts",1,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",12942,12922,13050,13502,14255,14980,14914,15539,14614,17194
+ "25000","Massachusetts",1,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2186183,2295496,2357466,2534828,2715357,2889914,2895651,2971391,1845975,2738958
+ "25000","Massachusetts",1,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",1039076,1074353,1160431,1194117,1301905,1401091,1464622,1482355,881343,1126433
+ "25000","Massachusetts",1,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1147107,1221143,1197035,1340711,1413452,1488823,1431029,1489036,964632,1612525
+ "25000","Massachusetts",1,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",116662,120386,124427,131770,136781,142667,140168,148997,154757,172668
+ "25000","Massachusetts",1,SAOVA,25,"..."," Government ","Thousands of dollars",294528,325150,340298,365761,381013,386906,393008,381044,382941,400475
+ "25000","Massachusetts",1,SAOVA,26,"...","  Federal ","Thousands of dollars",99248,109171,100248,96759,96609,96610,102262,74871,69397,73133
+ "25000","Massachusetts",1,SAOVA,27,"...","  State and local ","Thousands of dollars",195280,215979,240051,269002,284405,290296,290747,306173,313544,327342
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

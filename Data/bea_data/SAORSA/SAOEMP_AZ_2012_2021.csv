@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "04000","Arizona",6,SAOEMP,1,"...","All industries ","Number of jobs",104395,102401,107005,108689,111504,113442,113803,114295,85332,100514
+ "04000","Arizona",6,SAOEMP,2,"..."," Private industries ","Number of jobs",98185,96448,100987,103249,105818,107630,107958,108482,79555,94718
+ "04000","Arizona",6,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",820,801,829,788,957,1065,1113,1109,841,945
+ "04000","Arizona",6,SAOEMP,4,"...","  Mining ","Number of jobs",5,4,3,2,2,4,4,4,4,4
+ "04000","Arizona",6,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAOEMP,6,"...","  Construction ","Number of jobs",1680,1704,1686,1594,1550,1620,1842,1985,1968,2044
+ "04000","Arizona",6,SAOEMP,7,"...","  Manufacturing ","Number of jobs",2141,2159,2096,2154,2312,2287,2373,2367,2434,2884
+ "04000","Arizona",6,SAOEMP,8,"...","   Durable goods ","Number of jobs",1543,1560,1506,1547,1661,1632,1713,1692,1700,2072
+ "04000","Arizona",6,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",598,599,590,607,651,655,659,676,734,812
+ "04000","Arizona",6,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2089,2054,2033,2058,2037,2051,2069,2079,1939,2057
+ "04000","Arizona",6,SAOEMP,11,"...","  Retail trade ","Number of jobs",34718,35070,35666,36303,36207,36176,35714,35019,30141,32446
+ "04000","Arizona",6,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",5745,5421,5943,5635,5863,6017,6107,6507,4607,6322
+ "04000","Arizona",6,SAOEMP,13,"...","  Information ","Number of jobs",97,99,101,106,107,103,106,101,119,379
+ "04000","Arizona",6,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",1366,1569,1305,1339,1355,1360,1433,1541,1239,1270
+ "04000","Arizona",6,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",314,320,327,332,337,323,304,335,335,355
+ "04000","Arizona",6,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",1051,1249,979,1007,1018,1037,1129,1206,904,915
+ "04000","Arizona",6,SAOEMP,17,"...","  Professional and business services ","Number of jobs",2393,2333,2375,2503,2738,2675,2627,2476,1555,1417
+ "04000","Arizona",6,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1383,1455,1520,1585,1688,1773,1745,1765,1436,1625
+ "04000","Arizona",6,SAOEMP,19,"...","   Educational services ","Number of jobs",1292,1365,1425,1488,1587,1666,1637,1652,1335,1504
+ "04000","Arizona",6,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",92,90,94,97,101,107,108,113,100,120
+ "04000","Arizona",6,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",44603,42647,46250,48000,49820,51346,51646,52335,32176,42177
+ "04000","Arizona",6,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",15482,15872,16996,17517,18544,19081,19328,20037,14006,15439
+ "04000","Arizona",6,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",29121,26775,29254,30483,31276,32266,32318,32298,18170,26738
+ "04000","Arizona",6,SAOEMP,24,"...","  Other services, except government ","Number of jobs",1147,1133,1179,1184,1183,1153,1180,1196,1095,1148
+ "04000","Arizona",6,SAOEMP,25,"..."," Government ","Number of jobs",6210,5953,6019,5440,5686,5812,5845,5813,5778,5796
+ "04000","Arizona",6,SAOEMP,26,"...","  Federal ","Number of jobs",1869,1567,1491,780,824,851,873,616,520,514
+ "04000","Arizona",6,SAOEMP,27,"...","  State and local ","Number of jobs",4341,4386,4528,4659,4862,4961,4973,5197,5257,5281
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

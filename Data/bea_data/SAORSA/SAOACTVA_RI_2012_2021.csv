@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "44000","Rhode Island",1,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1130350,1185586,1193176,1267554,1299018,1319870,1388922,1444338,1094583,1371453
+ "44000","Rhode Island",1,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",491979,500785,515414,537987,547139,565602,567408,584042,567963,588993
+ "44000","Rhode Island",1,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",328048,330717,337443,353143,356092,367248,361329,371079,423814,403858
+ "44000","Rhode Island",1,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",3486,3631,3697,3674,3599,3909,3734,3960,4909,5726
+ "44000","Rhode Island",1,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",133576,132669,136653,144025,148966,149377,146861,152113,217115,163824
+ "44000","Rhode Island",1,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",4771,3365,3072,3026,2984,1742,1709,1812,2165,3317
+ "44000","Rhode Island",1,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",4755,4857,4975,5608,7199,8316,8434,8264,8370,9111
+ "44000","Rhode Island",1,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",15859,16915,18243,18785,19882,18431,18518,19745,13589,13083
+ "44000","Rhode Island",1,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",108191,107531,110362,116607,118901,120888,118201,122292,192993,138313
+ "44000","Rhode Island",1,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",9278,9874,10194,10586,9866,10053,9958,10741,11067,14901
+ "44000","Rhode Island",1,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",2885,3057,3615,3727,4049,4593,4906,4565,4797,5191
+ "44000","Rhode Island",1,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",5568,6461,6465,6776,7435,7059,7015,6868,6657,7459
+ "44000","Rhode Island",1,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",1494,1739,1696,1728,1926,1623,1655,1541,1856,2132
+ "44000","Rhode Island",1,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",4075,4722,4769,5048,5509,5436,5360,5326,4802,5327
+ "44000","Rhode Island",1,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",13398,12255,12973,14069,13995,12896,12828,12455,13512,14335
+ "44000","Rhode Island",1,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",1055,1102,1119,1145,1097,939,920,1027,980,1026
+ "44000","Rhode Island",1,SAOACTVA,17,"...","   RVing ","Thousands of dollars",21430,21536,22283,23363,23406,22643,22926,23391,23769,27684
+ "44000","Rhode Island",1,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",4541,4359,4782,4977,4835,4597,4613,4744,4450,4523
+ "44000","Rhode Island",1,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",2421,2370,2590,2681,2559,2301,2271,2350,1738,2202
+ "44000","Rhode Island",1,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",2120,1989,2192,2295,2276,2296,2343,2394,2713,2321
+ "44000","Rhode Island",1,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",17718,17980,18352,19441,18847,20405,19750,22866,25941,32236
+ "44000","Rhode Island",1,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",12822,13166,13305,13487,12811,14362,13238,14055,14985,18510
+ "44000","Rhode Island",1,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",4896,4814,5047,5954,6036,6042,6512,8811,10956,13726
+ "44000","Rhode Island",1,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",115113,117794,117309,121360,119998,130777,127818,128351,110616,126953
+ "44000","Rhode Island",1,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",163931,170068,177970,184844,191046,198354,206079,212962,144150,185135
+ "44000","Rhode Island",1,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",9388,9766,10124,11088,11913,13163,13905,14460,9981,14433
+ "44000","Rhode Island",1,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",11858,12812,13862,13508,15328,16391,16784,16637,10406,11890
+ "44000","Rhode Island",1,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",7459,7713,8190,8571,8683,9527,9606,10471,9300,11319
+ "44000","Rhode Island",1,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",54578,56374,57817,58935,61402,61867,64071,65820,48167,54195
+ "44000","Rhode Island",1,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",42690,43401,47013,49060,49233,53738,57077,59745,24965,46714
+ "44000","Rhode Island",1,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",21431,21463,24108,24968,25178,26322,28158,28920,14590,24712
+ "44000","Rhode Island",1,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",21259,21939,22905,24093,24055,27416,28919,30825,10376,22003
+ "44000","Rhode Island",1,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",6973,7214,7218,7953,8348,8603,8554,8466,9745,10736
+ "44000","Rhode Island",1,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",19855,21222,22315,24202,24719,23716,25018,26193,21393,23389
+ "44000","Rhode Island",1,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",11130,11566,11431,11527,11420,11348,11065,11170,10192,12460
+ "44000","Rhode Island",1,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",638371,684801,677762,729566,751879,754267,821514,860296,526620,782460
+ "44000","Rhode Island",1,SAOACTVA,37,"...","   Construction ","Thousands of dollars",7829,8374,9469,10121,11522,13144,16331,18231,18057,17726
+ "44000","Rhode Island",1,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",108649,114930,116214,120996,122990,123599,128448,141298,133822,150996
+ "44000","Rhode Island",1,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",479199,514803,502699,546252,565411,566026,625382,647322,318301,552462
+ "44000","Rhode Island",1,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",199506,186755,183595,203643,211702,218720,243864,239615,98403,212214
+ "44000","Rhode Island",1,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",101398,140078,118022,131920,130788,137675,156631,158911,97726,154976
+ "44000","Rhode Island",1,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",52916,58646,59615,63865,64888,69003,74931,78207,76041,82658
+ "44000","Rhode Island",1,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",125379,129324,141467,146824,158033,140628,149956,170589,46132,102614
+ "44000","Rhode Island",1,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",42693,46694,49380,52197,51956,51498,51353,53446,56439,61275
+ "44000","Rhode Island",1,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",417,472,432,434,464,512,588,422,385,402
+ "44000","Rhode Island",1,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",42276,46222,48948,51763,51492,50986,50765,53024,56054,60873
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

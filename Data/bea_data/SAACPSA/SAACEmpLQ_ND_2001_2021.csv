@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "38000","North Dakota",4,SAACEmpLQ,10,"...","Total ","Location quotient",0.969,1.000,0.987,0.962,0.941,0.914,0.883,0.871,0.931,0.917,0.902,0.897,0.859,0.830,0.882,0.908,0.888,0.863,0.848,0.897,0.925
+ "38000","North Dakota",4,SAACEmpLQ,100,"..."," Core arts and cultural production ","Location quotient",0.663,0.691,0.683,0.714,0.662,0.624,0.610,0.594,0.613,0.596,0.577,0.537,0.540,0.521,0.556,0.588,0.564,0.567,0.540,0.597,0.635
+ "38000","North Dakota",4,SAACEmpLQ,111,"...","  Performing arts companies ","Location quotient",0.499,0.380,0.329,0.347,0.330,(D),(D),0.323,0.317,0.328,0.316,0.300,0.314,0.338,0.283,0.345,0.321,0.341,0.373,0.481,0.493
+ "38000","North Dakota",4,SAACEmpLQ,112,"...","  Promoters of performing arts and similar events ","Location quotient",0.714,1.427,1.560,2.041,1.592,1.356,1.249,1.405,1.581,1.511,1.576,1.393,1.361,1.195,1.325,1.449,1.264,1.284,0.948,1.424,1.519
+ "38000","North Dakota",4,SAACEmpLQ,113,"...","  Agents/managers for artists ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.107,0.073,(D),(D),(D),(D),0.063,0.052,(D)
+ "38000","North Dakota",4,SAACEmpLQ,114,"...","  Independent artists, writers, and performers ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.370,0.383,0.428,0.549,0.655,0.650,0.617,0.648,(D)
+ "38000","North Dakota",4,SAACEmpLQ,120,"...","  Museums ","Location quotient",0.703,0.735,0.723,0.726,0.698,0.664,(D),(D),0.452,0.412,0.406,0.394,0.404,0.396,0.386,0.393,0.401,0.395,0.395,0.450,0.476
+ "38000","North Dakota",4,SAACEmpLQ,131,"...","  Advertising ","Location quotient",0.596,0.618,0.631,(D),(D),0.732,0.730,0.668,0.631,0.602,0.586,0.551,0.561,0.551,0.564,(D),0.579,(D),0.563,0.604,(D)
+ "38000","North Dakota",4,SAACEmpLQ,132,"...","  Architectural services ","Location quotient",0.511,0.529,0.538,0.563,0.522,0.498,0.493,0.507,0.539,0.532,0.548,0.557,0.595,0.577,0.678,0.684,0.648,0.617,0.624,0.651,0.652
+ "38000","North Dakota",4,SAACEmpLQ,133,"...","  Landscape architectural services ","Location quotient",(D),(D),0.180,0.206,0.166,(D),(D),(D),(D),(D),(D),0.119,(D),(D),(D),(D),(D),(D),(D),0.398,0.369
+ "38000","North Dakota",4,SAACEmpLQ,134,"...","  Interior design services ","Location quotient",0.055,0.056,0.149,0.198,(D),(D),0.305,0.278,(D),(D),(D),(D),(D),(D),0.251,0.219,0.250,0.225,0.201,0.199,0.256
+ "38000","North Dakota",4,SAACEmpLQ,135,"...","  Industrial design services ","Location quotient",0.000,0.000,0.000,0.000,(D),(D),0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACEmpLQ,136,"...","  Graphic design services ","Location quotient",0.103,0.120,0.182,0.209,0.293,0.268,0.288,0.290,0.295,0.288,0.256,0.290,0.276,0.309,0.411,0.355,0.318,0.309,0.323,0.361,0.424
+ "38000","North Dakota",4,SAACEmpLQ,137,"...","  Computer systems design ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.549,(D),0.543,0.545,0.489,(D),0.519,0.514,(D),0.566,0.580
+ "38000","North Dakota",4,SAACEmpLQ,138,"...","  Photography and photofinishing services ","Location quotient",1.518,1.437,1.319,1.221,(D),1.130,1.230,(D),1.186,1.151,1.013,(D),(D),0.857,0.866,(D),0.761,0.745,0.744,0.874,0.942
+ "38000","North Dakota",4,SAACEmpLQ,139,"...","  All other design services ","Location quotient",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACEmpLQ,140,"...","  Fine arts education ","Location quotient",0.553,0.537,0.663,0.654,0.626,0.624,0.611,0.537,0.530,0.595,0.540,0.519,0.521,0.533,0.642,0.725,0.714,0.758,0.783,0.781,0.819
+ "38000","North Dakota",4,SAACEmpLQ,150,"...","  Education services ","Location quotient",0.803,0.891,0.756,0.752,0.678,0.675,0.653,0.640,0.606,0.583,0.553,0.485,0.509,0.451,0.470,0.472,0.454,0.422,0.426,0.437,0.460
+ "38000","North Dakota",4,SAACEmpLQ,200,"..."," Supporting arts and cultural production ","Location quotient",1.049,1.081,1.070,1.030,1.019,0.996,0.960,0.950,1.024,1.007,0.995,1.002,0.953,0.923,0.984,1.011,0.992,0.960,0.949,0.989,1.017
+ "38000","North Dakota",4,SAACEmpLQ,211,"...","  Rental and leasing ","Location quotient",(D),0.823,(D),0.953,0.946,0.953,0.895,0.894,(D),0.978,(D),1.208,1.363,1.784,1.729,1.446,1.103,1.074,1.003,(D),1.232
+ "38000","North Dakota",4,SAACEmpLQ,212,"...","  Grantmaking and giving services ","Location quotient",0.398,0.381,0.415,(D),(D),0.495,0.463,0.488,0.517,0.567,0.521,0.489,0.584,0.519,0.493,0.524,0.560,0.558,0.540,0.569,0.621
+ "38000","North Dakota",4,SAACEmpLQ,213,"...","  Unions ","Location quotient",0.536,0.553,0.546,0.526,0.527,0.516,0.489,0.454,0.446,0.399,0.402,0.404,0.391,0.380,0.366,0.402,0.419,0.463,0.476,0.460,0.501
+ "38000","North Dakota",4,SAACEmpLQ,214,"...","  Government ","Location quotient",1.459,1.429,1.371,1.324,1.351,1.329,1.264,1.225,1.237,1.244,1.232,1.249,1.262,1.219,1.315,1.410,1.424,1.421,1.454,1.474,1.551
+ "38000","North Dakota",4,SAACEmpLQ,215,"...","  Other support services ","Location quotient",(D),(D),(D),(D),2.311,2.142,2.158,1.950,1.834,1.187,0.774,0.669,0.438,(D),(D),(D),(D),(D),(D),(D),0.166
+ "38000","North Dakota",4,SAACEmpLQ,221,"...","  Publishing ","Location quotient",1.258,1.290,1.258,1.235,1.206,1.233,1.281,1.283,1.407,(D),1.347,1.244,1.191,(D),(D),(D),1.224,(D),(D),1.021,(D)
+ "38000","North Dakota",4,SAACEmpLQ,222,"...","  Motion pictures ","Location quotient",0.446,(D),0.465,(D),0.437,(D),(D),0.416,(D),0.376,0.365,0.336,(D),0.352,0.346,0.343,(D),(D),(D),(D),(D)
+ "38000","North Dakota",4,SAACEmpLQ,223,"...","  Sound recording ","Location quotient",(D),(D),(D),0.073,0.072,(D),(D),(D),(D),(D),(D),(D),(D),0.000,0.000,0.000,(D),(D),(D),(D),0.041
+ "38000","North Dakota",4,SAACEmpLQ,224,"...","  Broadcasting ","Location quotient",0.989,1.030,1.088,1.102,1.125,1.147,1.105,1.082,1.065,(D),(D),(D),0.965,(D),(D),(D),0.999,1.007,1.029,1.053,(D)
+ "38000","North Dakota",4,SAACEmpLQ,225,"...","  Other information services ","Location quotient",0.066,0.074,0.118,0.165,0.159,0.127,0.093,0.108,0.106,0.108,0.085,0.069,(D),(D),(D),(D),(D),(D),0.016,0.039,0.042
+ "38000","North Dakota",4,SAACEmpLQ,231,"...","  Jewelry and silverware manufacturing ","Location quotient",0.684,0.615,0.647,0.752,0.676,0.712,0.792,0.936,0.977,1.091,1.017,0.966,0.929,0.912,0.858,0.932,1.013,1.085,1.146,1.302,1.090
+ "38000","North Dakota",4,SAACEmpLQ,232,"...","  Printed goods manufacturing ","Location quotient",0.515,0.539,0.554,0.559,0.577,0.591,0.608,0.612,0.607,0.692,0.629,0.612,0.589,0.572,0.585,0.602,0.585,0.583,0.580,0.589,0.634
+ "38000","North Dakota",4,SAACEmpLQ,233,"...","  Musical instruments manufacturing ","Location quotient",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "38000","North Dakota",4,SAACEmpLQ,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Location quotient",(D),0.742,0.605,(D),(D),(D),(D),(D),(D),(D),1.058,(D),1.061,1.082,1.157,1.095,1.101,1.353,1.267,1.251,1.308
+ "38000","North Dakota",4,SAACEmpLQ,236,"...","  Other goods manufacturing ","Location quotient",0.549,0.841,0.973,1.123,1.288,1.060,0.952,1.027,0.937,0.907,0.890,0.855,0.858,0.929,1.018,1.045,1.075,1.076,1.082,1.176,1.234
+ "38000","North Dakota",4,SAACEmpLQ,240,"...","  Construction ","Location quotient",0.414,0.986,1.141,0.837,0.409,0.470,0.343,0.311,1.675,1.137,1.053,2.085,0.681,0.140,0.994,0.768,0.836,0.410,0.285,0.342,1.460
+ "38000","North Dakota",4,SAACEmpLQ,250,"...","  Wholesale and transportation industries ","Location quotient",0.341,0.333,0.352,0.342,(D),(D),(D),(D),(D),(D),0.373,0.407,(D),(D),(D),(D),(D),(D),(D),(D),0.761
+ "38000","North Dakota",4,SAACEmpLQ,260,"...","  Retail industries ","Location quotient",1.024,1.068,1.064,1.055,1.080,1.028,0.981,0.993,1.012,1.082,1.139,1.111,1.066,1.042,1.051,0.977,0.900,(D),0.797,0.784,0.813
+ "38000","North Dakota",4,SAACEmpLQ,300,"..."," All other industries 2/","Location quotient",0.933,0.936,0.936,0.932,0.938,0.940,0.946,0.951,0.951,0.950,0.954,0.963,0.963,0.968,0.960,0.944,0.958,0.965,0.961,0.956,0.949
+"Note: See the included footnote file."
+"SAACEmpLQ: Arts employment location quotient 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

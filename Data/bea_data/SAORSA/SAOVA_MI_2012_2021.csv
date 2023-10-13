@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "26000","Michigan",3,SAOVA,1,"...","All industries ","Thousands of dollars",8391112,8819894,8912566,9183569,9385982,9933891,10321341,10821122,9401311,10848319
+ "26000","Michigan",3,SAOVA,2,"..."," Private industries ","Thousands of dollars",7972180,8381541,8443180,8691114,8875400,9406883,9782356,10267377,8830856,10253381
+ "26000","Michigan",3,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",256556,290661,276798,281617,338102,398555,386390,432944,389525,416037
+ "26000","Michigan",3,SAOVA,4,"...","  Mining ","Thousands of dollars",613,607,628,450,381,473,506,439,391,589
+ "26000","Michigan",3,SAOVA,5,"...","  Utilities ","Thousands of dollars",43,45,37,43,29,33,21,21,31,26
+ "26000","Michigan",3,SAOVA,6,"...","  Construction ","Thousands of dollars",86522,90693,99869,111665,108244,107447,103946,104958,99678,94696
+ "26000","Michigan",3,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",1033011,1079356,1085535,1078522,1008236,1080558,1266543,1424771,1297612,1511194
+ "26000","Michigan",3,SAOVA,8,"...","   Durable goods ","Thousands of dollars",582401,607015,606638,596165,568512,601572,778757,945530,801717,926454
+ "26000","Michigan",3,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",450610,472341,478896,482357,439723,478985,487785,479241,495895,584740
+ "26000","Michigan",3,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",702976,690926,719545,758749,737260,767018,809184,832269,795538,819278
+ "26000","Michigan",3,SAOVA,11,"...","  Retail trade ","Thousands of dollars",2633849,2696030,2686332,2740996,2758767,2934852,2927249,2987387,3091430,3480504
+ "26000","Michigan",3,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",518050,542611,603955,624692,684212,740245,767502,833337,375776,609679
+ "26000","Michigan",3,SAOVA,13,"...","  Information ","Thousands of dollars",21115,22617,23134,25305,26476,27199,27851,28050,29180,42029
+ "26000","Michigan",3,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",775712,1006624,836080,874379,910651,894218,975259,1039660,1026769,1072261
+ "26000","Michigan",3,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",108794,99151,118705,131334,134205,123365,128054,136906,133245,131193
+ "26000","Michigan",3,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",666918,907472,717375,743045,776446,770853,847205,902754,893524,941068
+ "26000","Michigan",3,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",109743,106379,111173,115498,116996,121724,123991,115019,48480,76754
+ "26000","Michigan",3,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",53139,53220,57204,59124,65039,71801,76953,77795,55819,62693
+ "26000","Michigan",3,SAOVA,19,"...","   Educational services ","Thousands of dollars",39558,39834,43425,45162,50393,56100,61056,61298,39974,45038
+ "26000","Michigan",3,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",13581,13386,13779,13962,14647,15701,15897,16497,15845,17655
+ "26000","Michigan",3,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1646711,1663784,1794680,1857956,1941176,2074787,2127053,2183487,1386190,1810682
+ "26000","Michigan",3,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",853475,893092,970983,994591,1067169,1094177,1124690,1128265,674076,808417
+ "26000","Michigan",3,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",793236,770692,823697,863365,874007,980609,1002363,1055221,712114,1002266
+ "26000","Michigan",3,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",134141,137987,148210,162117,179831,187973,189909,207240,234437,256958
+ "26000","Michigan",3,SAOVA,25,"..."," Government ","Thousands of dollars",418932,438353,469386,492455,510582,527008,538986,553745,570455,594937
+ "26000","Michigan",3,SAOVA,26,"...","  Federal ","Thousands of dollars",26889,28689,28498,29101,31572,33826,36621,28064,25524,26990
+ "26000","Michigan",3,SAOVA,27,"...","  State and local ","Thousands of dollars",392043,409664,440888,463354,479010,493182,502364,525681,544930,567948
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

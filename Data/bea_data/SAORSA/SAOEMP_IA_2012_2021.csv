@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "19000","Iowa",4,SAOEMP,1,"...","All industries ","Number of jobs",46484,47774,47427,46975,48639,48040,47931,48472,40439,44894
+ "19000","Iowa",4,SAOEMP,2,"..."," Private industries ","Number of jobs",43946,45312,44944,44543,46111,45478,45391,45875,37827,42228
+ "19000","Iowa",4,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",408,415,441,423,661,778,855,858,625,729
+ "19000","Iowa",4,SAOEMP,4,"...","  Mining ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "19000","Iowa",4,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "19000","Iowa",4,SAOEMP,6,"...","  Construction ","Number of jobs",1410,1930,1844,1718,1556,1488,1526,1666,1722,1794
+ "19000","Iowa",4,SAOEMP,7,"...","  Manufacturing ","Number of jobs",5587,6187,5985,6040,6373,6253,6476,5877,6021,6765
+ "19000","Iowa",4,SAOEMP,8,"...","   Durable goods ","Number of jobs",4243,4841,4641,4666,4926,4776,4958,4332,4345,5009
+ "19000","Iowa",4,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1344,1346,1344,1374,1447,1478,1518,1544,1676,1756
+ "19000","Iowa",4,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",1819,1779,1801,1815,1784,1791,1800,1780,1660,1745
+ "19000","Iowa",4,SAOEMP,11,"...","  Retail trade ","Number of jobs",17210,17481,17345,17284,17285,16970,16661,16408,14135,14945
+ "19000","Iowa",4,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",1180,1151,1115,1090,1091,1064,1096,1168,1012,1116
+ "19000","Iowa",4,SAOEMP,13,"...","  Information ","Number of jobs",88,87,87,87,86,83,82,79,81,156
+ "19000","Iowa",4,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",431,441,404,404,414,417,436,478,416,418
+ "19000","Iowa",4,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",284,273,262,259,260,262,254,279,265,258
+ "19000","Iowa",4,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",146,168,143,145,153,155,182,198,151,159
+ "19000","Iowa",4,SAOEMP,17,"...","  Professional and business services ","Number of jobs",502,502,513,526,545,487,493,437,359,359
+ "19000","Iowa",4,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",698,756,804,859,936,1000,1003,1013,827,914
+ "19000","Iowa",4,SAOEMP,19,"...","   Educational services ","Number of jobs",657,715,763,818,893,955,958,966,782,865
+ "19000","Iowa",4,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",41,41,41,41,43,45,44,47,45,50
+ "19000","Iowa",4,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",14097,14070,14082,13787,14875,14665,14487,15638,10526,12841
+ "19000","Iowa",4,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",7001,7206,7582,7626,7910,8062,8289,8555,5871,6474
+ "19000","Iowa",4,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",7096,6864,6500,6161,6965,6603,6198,7082,4655,6367
+ "19000","Iowa",4,SAOEMP,24,"...","  Other services, except government ","Number of jobs",516,514,522,510,507,481,475,475,444,445
+ "19000","Iowa",4,SAOEMP,25,"..."," Government ","Number of jobs",2538,2461,2484,2432,2528,2562,2540,2596,2612,2666
+ "19000","Iowa",4,SAOEMP,26,"...","  Federal ","Number of jobs",31,26,24,15,16,15,15,10,9,9
+ "19000","Iowa",4,SAOEMP,27,"...","  State and local ","Number of jobs",2507,2435,2460,2417,2512,2547,2525,2586,2603,2657
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

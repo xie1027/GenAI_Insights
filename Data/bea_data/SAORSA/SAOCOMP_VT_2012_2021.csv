@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "50000","Vermont",1,SAOCOMP,1,"...","All industries ","Thousands of dollars",579923,590922,571515,622771,612539,644120,646166,673919,542324,634704
+ "50000","Vermont",1,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",553797,562295,541874,591640,580943,611639,612817,638957,505433,596038
+ "50000","Vermont",1,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",2934,2847,3080,2864,3733,4182,4225,4265,3376,3743
+ "50000","Vermont",1,SAOCOMP,4,"...","  Mining ","Thousands of dollars",186,150,144,100,82,121,108,81,86,89
+ "50000","Vermont",1,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,0,1,0,0,0,0,0,0
+ "50000","Vermont",1,SAOCOMP,6,"...","  Construction ","Thousands of dollars",3603,3481,3555,3467,3814,4544,5261,5542,5236,5213
+ "50000","Vermont",1,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",44341,44295,41252,42237,44989,43631,44058,44669,50152,60750
+ "50000","Vermont",1,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",32006,31738,27889,28451,31569,29120,29082,30539,34616,43029
+ "50000","Vermont",1,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",12335,12557,13362,13786,13420,14511,14976,14130,15536,17721
+ "50000","Vermont",1,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",62624,58845,61190,64170,63061,63075,62663,62466,53530,58637
+ "50000","Vermont",1,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",144093,148364,145924,155349,147848,157857,156824,161790,159626,173871
+ "50000","Vermont",1,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",22910,25090,21622,23627,24039,23634,23507,27996,15700,24167
+ "50000","Vermont",1,SAOCOMP,13,"...","  Information ","Thousands of dollars",754,792,801,791,754,747,721,698,720,1035
+ "50000","Vermont",1,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",22586,21975,19694,20317,19656,19864,20474,22830,22937,23964
+ "50000","Vermont",1,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",17090,15939,14815,13973,12857,12785,12952,14299,14594,15126
+ "50000","Vermont",1,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",5495,6036,4880,6343,6799,7079,7522,8531,8343,8838
+ "50000","Vermont",1,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",7680,7002,7468,7991,7959,8403,8578,7955,4611,5712
+ "50000","Vermont",1,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",12443,13142,14458,15762,17784,19718,20956,19261,14794,16076
+ "50000","Vermont",1,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",11543,12229,13564,14778,16785,18817,20041,18294,13970,15063
+ "50000","Vermont",1,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",901,913,894,984,998,901,916,967,825,1013
+ "50000","Vermont",1,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",225542,232103,218375,250250,242331,260730,260319,276000,169376,217288
+ "50000","Vermont",1,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",47641,48802,52131,50323,49153,47937,48889,49503,35505,38163
+ "50000","Vermont",1,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",177901,183301,166244,199927,193178,212793,211430,226497,133871,179125
+ "50000","Vermont",1,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",4100,4208,4311,4714,4893,5132,5121,5404,5291,5495
+ "50000","Vermont",1,SAOCOMP,25,"..."," Government ","Thousands of dollars",26127,28627,29641,31131,31596,32482,33349,34962,36891,38666
+ "50000","Vermont",1,SAOCOMP,26,"...","  Federal ","Thousands of dollars",866,655,634,611,640,729,770,674,584,632
+ "50000","Vermont",1,SAOCOMP,27,"...","  State and local ","Thousands of dollars",25260,27972,29007,30520,30956,31752,32580,34288,36307,38033
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

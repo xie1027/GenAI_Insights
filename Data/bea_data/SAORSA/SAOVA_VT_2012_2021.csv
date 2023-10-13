@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "50000","Vermont",1,SAOVA,1,"...","All industries ","Thousands of dollars",1215469,1314868,1257152,1397786,1409263,1479249,1509800,1593638,1258572,1539280
+ "50000","Vermont",1,SAOVA,2,"..."," Private industries ","Thousands of dollars",1177893,1274146,1212740,1350060,1360544,1430333,1460100,1541611,1204183,1480606
+ "50000","Vermont",1,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",6295,7338,6970,6701,7356,8208,8150,7765,6453,7658
+ "50000","Vermont",1,SAOVA,4,"...","  Mining ","Thousands of dollars",244,205,196,133,115,197,161,109,107,124
+ "50000","Vermont",1,SAOVA,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "50000","Vermont",1,SAOVA,6,"...","  Construction ","Thousands of dollars",5534,5407,5506,5733,6126,7109,8159,8788,8240,7836
+ "50000","Vermont",1,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",113795,120987,108380,111824,124358,121765,119951,124178,137502,158892
+ "50000","Vermont",1,SAOVA,8,"...","   Durable goods ","Thousands of dollars",80666,87944,74458,76764,89614,84407,80589,83534,94092,109670
+ "50000","Vermont",1,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",33129,33042,33923,35059,34744,37358,39362,40644,43410,49222
+ "50000","Vermont",1,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",165011,158205,163443,168160,159535,160778,162321,166404,142670,159236
+ "50000","Vermont",1,SAOVA,11,"...","  Retail trade ","Thousands of dollars",250167,261710,254810,268311,257898,269632,269351,277324,270861,309985
+ "50000","Vermont",1,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",45747,50902,44969,50110,51842,48191,48138,57095,22482,40981
+ "50000","Vermont",1,SAOVA,13,"...","  Information ","Thousands of dollars",1782,1869,1844,1894,1907,1900,1887,1890,1938,2531
+ "50000","Vermont",1,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",140270,184214,152548,165364,178840,179148,188628,210971,212832,219687
+ "50000","Vermont",1,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",27842,24888,28685,30020,28903,25782,27118,29331,28912,29212
+ "50000","Vermont",1,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",112428,159326,123863,135344,149937,153366,161510,181640,183921,190475
+ "50000","Vermont",1,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",13769,13561,13623,14034,14096,15110,15622,14500,5839,9818
+ "50000","Vermont",1,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",16982,17901,19712,21577,24897,27638,29789,29305,19108,22136
+ "50000","Vermont",1,SAOVA,19,"...","   Educational services ","Thousands of dollars",15503,16424,18255,19992,23289,26106,28237,27684,17814,20514
+ "50000","Vermont",1,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",1479,1476,1458,1584,1608,1532,1552,1621,1294,1622
+ "50000","Vermont",1,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",408085,441487,430057,525026,521973,578452,596080,630848,363338,528186
+ "50000","Vermont",1,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",127974,136134,149142,157200,168972,180851,190497,201865,131318,145668
+ "50000","Vermont",1,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",280111,305353,280915,367827,353001,397601,405583,428983,232020,382518
+ "50000","Vermont",1,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",10213,10359,10680,11190,11600,12204,11862,12435,12810,13535
+ "50000","Vermont",1,SAOVA,25,"..."," Government ","Thousands of dollars",37576,40722,44412,47727,48719,48916,49700,52027,54390,58674
+ "50000","Vermont",1,SAOVA,26,"...","  Federal ","Thousands of dollars",1127,975,933,900,945,1040,1097,938,809,883
+ "50000","Vermont",1,SAOVA,27,"...","  State and local ","Thousands of dollars",36449,39747,43479,46827,47774,47876,48603,51089,53581,57790
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

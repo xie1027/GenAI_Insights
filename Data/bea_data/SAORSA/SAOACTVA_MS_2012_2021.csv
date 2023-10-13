@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "28000","Mississippi",5,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",2491907,2550589,2565479,2614028,2573782,2769906,2978038,2976608,2462571,3093613
+ "28000","Mississippi",5,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",1224571,1261240,1270400,1301054,1304977,1399437,1467580,1484615,1455878,1595425
+ "28000","Mississippi",5,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",879568,909356,918017,952524,966781,1043337,1068486,1056385,1096282,1183581
+ "28000","Mississippi",5,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",6053,6203,6242,6207,6076,6569,6266,6279,7666,8852
+ "28000","Mississippi",5,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",99366,99880,102184,109621,120266,133828,140750,143177,228987,157922
+ "28000","Mississippi",5,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",3205,2627,2583,2582,2631,2643,2433,2654,4319,8160
+ "28000","Mississippi",5,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",24050,24287,24964,27892,38399,45004,45447,43804,42750,47241
+ "28000","Mississippi",5,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",3234,3620,3857,4022,4356,3708,3695,4318,3331,3129
+ "28000","Mississippi",5,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",68876,69347,70780,75125,74880,82474,89175,92402,178586,99391
+ "28000","Mississippi",5,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",17283,17691,18191,17668,16525,16978,17470,17449,18753,25882
+ "28000","Mississippi",5,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",51903,54085,57972,59224,66007,73372,80525,81517,74250,82357
+ "28000","Mississippi",5,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",67937,80952,80946,90962,116773,119188,114505,120604,149725,164762
+ "28000","Mississippi",5,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",33806,40726,41043,47969,66520,70668,68577,75972,86528,92234
+ "28000","Mississippi",5,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",34131,40226,39903,42994,50253,48520,45928,44632,63197,72528
+ "28000","Mississippi",5,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",58401,55630,56401,60050,55860,58089,63691,56560,55675,68876
+ "28000","Mississippi",5,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",14775,14919,15414,14681,11919,11830,13812,14144,8815,11375
+ "28000","Mississippi",5,SAOACTVA,17,"...","   RVing ","Thousands of dollars",87250,89527,92481,96941,97066,102188,110875,106556,110675,145931
+ "28000","Mississippi",5,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",18391,18096,18069,17752,13906,18902,25355,21833,15160,13938
+ "28000","Mississippi",5,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",2300,2216,2410,2388,2093,1824,1754,1782,1462,2142
+ "28000","Mississippi",5,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",16091,15880,15659,15363,11812,17078,23601,20051,13698,11796
+ "28000","Mississippi",5,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",83573,84515,84518,86574,77687,90006,99597,99173,85779,114412
+ "28000","Mississippi",5,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",71651,72751,72333,71378,62486,75335,84101,78327,59945,83399
+ "28000","Mississippi",5,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",11922,11765,12185,15196,15202,14671,15496,20846,25833,31013
+ "28000","Mississippi",5,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",374636,387856,385597,392845,384697,412388,395642,389093,340797,389274
+ "28000","Mississippi",5,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",345003,351884,352383,348530,338196,356100,399094,428230,359596,411844
+ "28000","Mississippi",5,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",19925,20961,21775,23544,24550,26535,27313,27633,24546,31889
+ "28000","Mississippi",5,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",6594,6938,7327,6716,7111,7069,7041,6623,4021,4791
+ "28000","Mississippi",5,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",17684,17477,18137,18744,18794,21613,21289,23313,22179,25982
+ "28000","Mississippi",5,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",96323,94600,89846,85242,82397,77323,81582,86119,71010,80133
+ "28000","Mississippi",5,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",92294,94714,97733,90043,79919,95203,134731,156506,107359,120275
+ "28000","Mississippi",5,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",39750,42224,47984,49429,50843,48823,79077,109215,69213,80625
+ "28000","Mississippi",5,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",52544,52489,49749,40614,29076,46381,55655,47291,38145,39650
+ "28000","Mississippi",5,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",47156,50187,49807,52590,53445,55067,54919,54523,64059,74400
+ "28000","Mississippi",5,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",39062,39614,40772,43438,43675,43199,44402,45897,40257,43703
+ "28000","Mississippi",5,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",25965,27393,26987,28212,28306,30090,27817,27616,26165,30670
+ "28000","Mississippi",5,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1267336,1289350,1295078,1312974,1268805,1370469,1510459,1491993,1006693,1498188
+ "28000","Mississippi",5,SAOACTVA,37,"...","   Construction ","Thousands of dollars",62413,55848,62011,59046,61350,67461,77813,86969,87153,82250
+ "28000","Mississippi",5,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",364546,363784,367138,368586,330033,370346,424582,400680,303612,405348
+ "28000","Mississippi",5,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",678657,692748,686580,700483,693268,753797,828434,838498,442919,824798
+ "28000","Mississippi",5,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",116535,100159,108760,115223,125386,129823,123148,136427,64812,155037
+ "28000","Mississippi",5,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",145058,178704,160858,174438,183197,190519,167330,184604,133618,207771
+ "28000","Mississippi",5,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",138545,143125,149566,148556,146883,156908,161002,164494,162238,191738
+ "28000","Mississippi",5,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",278519,270760,267397,262266,237801,276548,376953,352974,82252,270252
+ "28000","Mississippi",5,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",161720,176969,179349,184860,184154,178866,179630,165845,173008,185792
+ "28000","Mississippi",5,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",54953,62207,56800,56342,57040,57062,61091,43221,42583,44552
+ "28000","Mississippi",5,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",106768,114761,122548,128518,127114,121804,118539,122624,130425,141240
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

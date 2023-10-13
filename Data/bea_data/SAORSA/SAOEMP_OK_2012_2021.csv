@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "40000","Oklahoma",6,SAOEMP,1,"...","All industries ","Number of jobs",45284,44972,46034,46923,49144,47850,49351,48748,39853,44368
+ "40000","Oklahoma",6,SAOEMP,2,"..."," Private industries ","Number of jobs",42671,42277,43269,44149,46395,45137,46628,45846,36772,41132
+ "40000","Oklahoma",6,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",603,621,655,633,1016,1206,1320,1325,917,1072
+ "40000","Oklahoma",6,SAOEMP,4,"...","  Mining ","Number of jobs",22,23,23,20,20,53,60,62,83,83
+ "40000","Oklahoma",6,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "40000","Oklahoma",6,SAOEMP,6,"...","  Construction ","Number of jobs",1112,856,948,1021,1037,1119,1283,1465,1541,1587
+ "40000","Oklahoma",6,SAOEMP,7,"...","  Manufacturing ","Number of jobs",1867,1878,1871,1927,2017,2143,2187,2131,2113,2353
+ "40000","Oklahoma",6,SAOEMP,8,"...","   Durable goods ","Number of jobs",988,1026,1025,1078,1144,1272,1344,1297,1228,1448
+ "40000","Oklahoma",6,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",879,851,846,849,874,871,843,834,885,904
+ "40000","Oklahoma",6,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",1255,1237,1262,1266,1228,1229,1233,1223,1118,1146
+ "40000","Oklahoma",6,SAOEMP,11,"...","  Retail trade ","Number of jobs",17458,17698,17869,18480,18947,18657,18529,17944,15855,16818
+ "40000","Oklahoma",6,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",2329,2204,2230,1978,2102,1860,1969,2007,1472,1734
+ "40000","Oklahoma",6,SAOEMP,13,"...","  Information ","Number of jobs",72,73,72,72,71,69,67,63,65,141
+ "40000","Oklahoma",6,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",631,656,531,515,509,507,545,600,453,473
+ "40000","Oklahoma",6,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",154,146,136,131,129,125,112,117,107,106
+ "40000","Oklahoma",6,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",477,510,395,384,380,382,433,484,345,367
+ "40000","Oklahoma",6,SAOEMP,17,"...","  Professional and business services ","Number of jobs",905,913,911,923,944,851,861,766,615,627
+ "40000","Oklahoma",6,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",741,773,809,835,894,914,911,922,770,884
+ "40000","Oklahoma",6,SAOEMP,19,"...","   Educational services ","Number of jobs",697,728,763,787,843,862,858,867,718,825
+ "40000","Oklahoma",6,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",45,45,46,48,51,52,53,55,53,60
+ "40000","Oklahoma",6,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",15103,14761,15480,15862,16995,15956,17091,16782,11260,13709
+ "40000","Oklahoma",6,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",6374,6539,6849,6990,7439,7734,7894,7974,5482,6102
+ "40000","Oklahoma",6,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",8729,8222,8631,8873,9556,8222,9197,8808,5777,7608
+ "40000","Oklahoma",6,SAOEMP,24,"...","  Other services, except government ","Number of jobs",572,583,607,617,614,572,572,556,511,504
+ "40000","Oklahoma",6,SAOEMP,25,"..."," Government ","Number of jobs",2613,2696,2764,2774,2749,2713,2723,2902,3081,3236
+ "40000","Oklahoma",6,SAOEMP,26,"...","  Federal ","Number of jobs",185,160,148,93,95,97,106,74,69,68
+ "40000","Oklahoma",6,SAOEMP,27,"...","  State and local ","Number of jobs",2428,2536,2616,2681,2653,2616,2617,2828,3012,3167
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

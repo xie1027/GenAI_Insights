@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "56000","Wyoming",7,SAOEMP,1,"...","All industries ","Number of jobs",17039,17305,17872,18208,18448,19392,19249,18743,12907,15285
+ "56000","Wyoming",7,SAOEMP,2,"..."," Private industries ","Number of jobs",14898,15333,15937,16424,16589,17497,17362,17068,11264,13616
+ "56000","Wyoming",7,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",212,208,219,225,337,(D),435,436,(D),323
+ "56000","Wyoming",7,SAOEMP,4,"...","  Mining ","Number of jobs",49,39,32,23,20,54,61,57,63,76
+ "56000","Wyoming",7,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,(D),0
+ "56000","Wyoming",7,SAOEMP,6,"...","  Construction ","Number of jobs",407,309,320,313,301,316,379,437,443,471
+ "56000","Wyoming",7,SAOEMP,7,"...","  Manufacturing ","Number of jobs",161,165,170,187,194,(D),181,182,190,192
+ "56000","Wyoming",7,SAOEMP,8,"...","   Durable goods ","Number of jobs",23,25,25,28,32,(D),32,32,35,44
+ "56000","Wyoming",7,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",138,140,145,158,162,(D),149,149,154,149
+ "56000","Wyoming",7,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",273,268,277,281,273,270,260,259,228,238
+ "56000","Wyoming",7,SAOEMP,11,"...","  Retail trade ","Number of jobs",3828,3990,4057,4209,4225,4244,4055,4002,3344,3672
+ "56000","Wyoming",7,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",407,377,397,405,347,389,392,372,253,334
+ "56000","Wyoming",7,SAOEMP,13,"...","  Information ","Number of jobs",14,14,14,14,14,14,14,14,14,31
+ "56000","Wyoming",7,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",109,116,95,99,103,109,113,118,106,143
+ "56000","Wyoming",7,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",36,34,32,31,31,31,31,34,34,35
+ "56000","Wyoming",7,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",73,82,63,68,72,77,82,83,72,108
+ "56000","Wyoming",7,SAOEMP,17,"...","  Professional and business services ","Number of jobs",176,178,183,191,197,170,171,143,130,135
+ "56000","Wyoming",7,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",162,175,183,192,207,239,243,248,197,227
+ "56000","Wyoming",7,SAOEMP,19,"...","   Educational services ","Number of jobs",152,164,172,181,195,228,231,236,188,216
+ "56000","Wyoming",7,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",11,11,11,12,12,12,12,12,9,11
+ "56000","Wyoming",7,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",8979,9378,9872,10165,10255,10989,10942,10689,5905,7676
+ "56000","Wyoming",7,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",1925,2000,2118,2100,2146,2290,2347,2365,1700,1873
+ "56000","Wyoming",7,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",7054,7378,7754,8065,8109,8699,8595,8324,4205,5804
+ "56000","Wyoming",7,SAOEMP,24,"...","  Other services, except government ","Number of jobs",120,117,120,120,117,115,114,112,94,98
+ "56000","Wyoming",7,SAOEMP,25,"..."," Government ","Number of jobs",2141,1971,1935,1784,1859,1895,1887,1675,1643,1669
+ "56000","Wyoming",7,SAOEMP,26,"...","  Federal ","Number of jobs",942,802,752,606,640,658,688,477,444,438
+ "56000","Wyoming",7,SAOEMP,27,"...","  State and local ","Number of jobs",1199,1169,1183,1177,1219,1237,1199,1197,1200,1231
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

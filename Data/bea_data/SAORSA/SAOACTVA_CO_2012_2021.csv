@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "08000","Colorado",7,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",8576472,8840192,9363352,9984718,10394472,11294237,11809805,12388646,9316035,11632200
+ "08000","Colorado",7,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",4299008,4410775,4635257,4891907,5053776,5384384,5572539,5822109,5122093,5809846
+ "08000","Colorado",7,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",2988796,3083794,3253951,3466563,3588209,3789688,3898867,4087658,3840771,4195955
+ "08000","Colorado",7,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",49708,52438,53944,54477,56446,63454,63008,72289,91742,104026
+ "08000","Colorado",7,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",241237,247895,261038,284199,320309,355937,369976,392465,486290,403046
+ "08000","Colorado",7,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",7763,6717,6793,6895,7260,7519,7223,7930,10127,17448
+ "08000","Colorado",7,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",54426,55201,58226,68354,92269,105924,111005,111382,105464,121032
+ "08000","Colorado",7,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",6775,7455,7868,8267,9206,9299,9667,11991,9382,10095
+ "08000","Colorado",7,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",172273,178522,188150,200683,211575,233195,242082,261162,361317,254471
+ "08000","Colorado",7,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",90058,92675,95896,97526,95092,98130,102670,112476,121878,167422
+ "08000","Colorado",7,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",80929,85684,97043,100848,116546,127084,140040,132768,118477,135038
+ "08000","Colorado",7,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",72925,85580,81967,84908,96498,96420,96980,98965,107338,122591
+ "08000","Colorado",7,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",22497,27567,26206,27571,32755,28150,29235,28776,35521,40457
+ "08000","Colorado",7,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",50428,58013,55760,57337,63744,68270,67745,70189,71817,82133
+ "08000","Colorado",7,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",103494,100923,104480,115805,119465,114225,114524,112655,125687,138931
+ "08000","Colorado",7,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",12051,12418,12742,13139,13317,12799,11864,12511,13301,13080
+ "08000","Colorado",7,SAOACTVA,17,"...","   RVing ","Thousands of dollars",262286,273409,288089,310215,319298,329135,340419,345317,395414,474678
+ "08000","Colorado",7,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",1097363,1115976,1224685,1312110,1370803,1412405,1476834,1556031,1222780,1267667
+ "08000","Colorado",7,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",796123,830924,910597,975129,1031520,1059791,1105552,1173630,818532,906219
+ "08000","Colorado",7,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",301240,285052,314087,336981,339283,352614,371282,382401,404248,361447
+ "08000","Colorado",7,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",151037,154888,163473,173327,167182,181413,177590,196326,215644,266700
+ "08000","Colorado",7,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",124366,128977,136304,140529,134601,149208,142879,148736,157177,193039
+ "08000","Colorado",7,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",26671,25911,27169,32797,32581,32205,34711,47590,58467,73661
+ "08000","Colorado",7,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",827707,861908,870594,920009,913253,998685,1004961,1055856,942218,1102777
+ "08000","Colorado",7,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1310212,1326981,1381306,1425343,1465567,1594696,1673672,1734451,1281323,1613890
+ "08000","Colorado",7,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",79547,83543,89913,102054,108500,124878,133816,145993,89420,127779
+ "08000","Colorado",7,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",235464,240040,265659,264880,306655,328091,338607,321957,156605,229834
+ "08000","Colorado",7,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",51407,51987,55233,58179,60395,70160,73536,81903,70975,85990
+ "08000","Colorado",7,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",279669,287987,289959,300311,313389,304622,327015,348874,275332,317378
+ "08000","Colorado",7,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",301774,287127,294039,278763,260621,318386,346467,359775,245836,350007
+ "08000","Colorado",7,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",148725,141853,157131,157851,154629,172333,185412,198800,121456,181654
+ "08000","Colorado",7,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",153049,145274,136908,120913,105992,146053,161055,160974,124380,168353
+ "08000","Colorado",7,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",100671,106842,106605,110262,113614,120461,121119,117439,131359,146446
+ "08000","Colorado",7,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",211315,214958,224533,249331,242331,264335,272393,294036,247943,276718
+ "08000","Colorado",7,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",50367,54499,55364,61563,60062,63762,60719,64473,63853,79738
+ "08000","Colorado",7,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",4277464,4429417,4728095,5092812,5340695,5909853,6237265,6566537,4193942,5822355
+ "08000","Colorado",7,SAOACTVA,37,"...","   Construction ","Thousands of dollars",142663,116769,126613,129627,142733,169017,202443,233070,247156,230788
+ "08000","Colorado",7,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",581244,603604,622430,655329,653208,661062,674583,669620,626113,730020
+ "08000","Colorado",7,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",2985222,3122337,3371344,3690036,3858864,4290428,4472358,4737331,2366850,3827385
+ "08000","Colorado",7,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",607450,516807,550524,614981,670355,758225,787390,824849,371144,743271
+ "08000","Colorado",7,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",851005,1009020,978727,1124618,1146477,1285216,1358530,1415689,861906,1333293
+ "08000","Colorado",7,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",361311,375986,389665,413755,424554,459500,478800,492942,491947,530664
+ "08000","Colorado",7,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",1165456,1220523,1452428,1536681,1617478,1787488,1847638,2003851,641853,1220157
+ "08000","Colorado",7,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",568335,586706,607709,617820,685891,789345,887881,926516,953823,1034161
+ "08000","Colorado",7,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",88003,92709,92331,92953,100389,106105,113126,85631,73217,76603
+ "08000","Colorado",7,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",480332,493997,515378,524866,585502,683240,774755,840885,880606,957558
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

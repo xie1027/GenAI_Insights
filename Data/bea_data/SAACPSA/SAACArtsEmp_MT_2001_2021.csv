@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "30000","Montana",7,SAACArtsEmp,1,"...","Total employment ","Number of jobs",414029,417747,423152,433558,442786,455501,466205,466766,449985,447230,451230,460264,466811,470465,479397,484091,488913,494446,501392,486577,507125
+ "30000","Montana",7,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",19248,19406,18591,18185,17423,16582,16298,16333,16010,15566,15547,15312,15534,14984,15179,15577,15502,15621,15798,15166,15584
+ "30000","Montana",7,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",2321,2377,2447,2577,2682,2826,2946,2943,2707,2587,2592,2703,2814,2810,2877,3009,3128,3235,3369,3023,3410
+ "30000","Montana",7,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",250,237,230,244,310,334,351,373,377,415,417,397,(D),362,327,(D),331,(D),388,272,314
+ "30000","Montana",7,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",110,154,177,202,187,181,194,(D),166,140,129,158,177,166,209,195,191,187,168,122,158
+ "30000","Montana",7,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),3,2,4,3,5,3,2,3,3,3,3,3
+ "30000","Montana",7,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",127,(D),(D),(D),(D),(D),(D),166,181,196,195,186,215,244,252,264,275,279,281,215,288
+ "30000","Montana",7,SAACArtsEmp,120,"...","  Museums ","Number of jobs",257,258,251,280,268,286,316,324,315,315,326,349,358,367,370,414,(D),436,477,417,448
+ "30000","Montana",7,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",213,217,(D),(D),230,211,(D),(D),(D),(D),(D),(D),308,302,301,(D),(D),(D),344,299,286
+ "30000","Montana",7,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",465,467,498,555,638,714,756,738,565,522,508,522,520,527,557,591,626,653,675,680,742
+ "30000","Montana",7,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",177,189,180,167,152,159,141,125,85,79,68,68,59,77,86,86,87,89,104,103,110
+ "30000","Montana",7,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",40,47,67,70,85,94,95,95,75,56,51,51,51,70,82,85,101,115,123,129,162
+ "30000","Montana",7,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",(D),(D),(D),(D),(D),(D),8,(D),(D),(D),(D),3,13,15,17,17,18,4,5,3,3
+ "30000","Montana",7,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",85,92,87,91,94,106,97,88,76,75,79,83,91,95,97,102,97,93,98,96,109
+ "30000","Montana",7,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",(D),(D),(D),(D),(D),35,36,36,35,37,40,42,44,47,48,51,54,62,53,56,66
+ "30000","Montana",7,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",311,298,312,295,252,(D),217,199,179,151,(D),(D),(D),131,132,120,125,133,130,117,133
+ "30000","Montana",7,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",(D),(D),(D),(D),(D),(D),39,(D),(D),(D),(D),21,6,4,4,4,4,5,4,5,14
+ "30000","Montana",7,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",123,126,144,121,113,131,148,190,205,205,192,221,279,246,249,299,307,309,353,339,408
+ "30000","Montana",7,SAACArtsEmp,150,"...","  Education services ","Number of jobs",118,127,135,134,141,159,160,144,143,127,133,144,146,151,143,141,149,165,163,167,166
+ "30000","Montana",7,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",16322,16413,15554,15023,14152,13164,12742,12793,12732,12462,12450,12132,12258,11707,11815,12077,11898,11917,11960,11711,11702
+ "30000","Montana",7,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",(D),264,225,265,235,276,254,214,173,(D),89,87,(D),67,(D),(D),48,45,39,(D),35
+ "30000","Montana",7,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",(D),(D),21,(D),22,23,24,22,27,22,23,26,27,26,27,28,29,30,31,31,33
+ "30000","Montana",7,SAACArtsEmp,213,"...","  Unions ","Number of jobs",41,35,36,38,38,36,32,36,39,36,42,40,48,45,49,47,51,46,52,41,49
+ "30000","Montana",7,SAACArtsEmp,214,"...","  Government ","Number of jobs",9774,9700,8833,8030,7090,6357,5659,5696,5785,5900,5862,5791,5702,5587,5673,5788,5751,5704,5768,5529,5488
+ "30000","Montana",7,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",(D),5,5,7,7,8,8,7,6,6,6,7,6,7,8,7,6,5,5,4,3
+ "30000","Montana",7,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",1017,1004,1029,995,983,982,1023,974,875,837,810,734,(D),(D),(D),682,674,664,(D),(D),574
+ "30000","Montana",7,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",722,726,691,705,686,661,702,718,668,637,653,667,712,695,707,745,827,831,792,632,610
+ "30000","Montana",7,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",8,11,11,13,14,16,12,14,13,12,12,14,13,13,8,7,12,17,19,16,19
+ "30000","Montana",7,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",920,(D),1015,1050,1117,1162,1294,1437,(D),(D),1583,1696,1730,1685,1662,(D),1497,1469,1402,1320,1281
+ "30000","Montana",7,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",75,55,51,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),50,47,44,(D),56,61,89
+ "30000","Montana",7,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",217,219,214,229,236,223,230,207,173,151,148,205,220,217,219,234,213,211,205,169,185
+ "30000","Montana",7,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",89,87,94,108,117,138,172,172,148,123,164,165,175,175,171,167,186,191,193,152,147
+ "30000","Montana",7,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",(D),159,(D),(D),(D),(D),(D),(D),125,(D),(D),148,136,(D),(D),(D),(D),(D),(D),(D),(D)
+ "30000","Montana",7,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",(D),65,(D),60,80,85,(D),121,(D),(D),(D),(D),105,116,137,(D),188,(D),178,(D),151
+ "30000","Montana",7,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",7,6,5,3,(D),5,16,12,8,9,8,13,13,16,19,16,18,10,12,(D),(D)
+ "30000","Montana",7,SAACArtsEmp,240,"...","  Construction ","Number of jobs",145,264,284,323,466,190,191,203,602,472,678,243,393,62,82,260,205,381,326,809,509
+ "30000","Montana",7,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),286,280,380,389,(D),(D),(D),(D),310,(D),294,308
+ "30000","Montana",7,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",2389,2471,2495,2579,2470,2429,2488,2461,2260,2093,1807,1733,1735,1812,1787,1736,1684,1655,1798,1714,2042
+ "30000","Montana",7,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",605,615,590,586,590,592,610,597,570,517,505,477,462,468,487,492,475,469,469,431,471
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

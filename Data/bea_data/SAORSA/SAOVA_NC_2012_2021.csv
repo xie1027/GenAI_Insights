@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "37000","North Carolina",5,SAOVA,1,"...","All industries ","Thousands of dollars",9333592,9780738,9992992,10666893,10619744,11128145,11292735,11950411,9652515,11836649
+ "37000","North Carolina",5,SAOVA,2,"..."," Private industries ","Thousands of dollars",8688348,9090521,9286568,9945460,9897722,10425710,10619292,11352560,9061214,11221935
+ "37000","North Carolina",5,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",159343,183744,178955,180216,196070,224226,224868,236623,220187,258335
+ "37000","North Carolina",5,SAOVA,4,"...","  Mining ","Thousands of dollars",259,261,265,183,149,197,215,197,139,210
+ "37000","North Carolina",5,SAOVA,5,"...","  Utilities ","Thousands of dollars",26,24,21,25,19,22,15,15,22,20
+ "37000","North Carolina",5,SAOVA,6,"...","  Construction ","Thousands of dollars",108659,103789,108265,115082,118935,127368,131762,137679,134451,126743
+ "37000","North Carolina",5,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",1436823,1441583,1487321,1655579,1468598,1465690,1469481,1556175,1597315,1701102
+ "37000","North Carolina",5,SAOVA,8,"...","   Durable goods ","Thousands of dollars",422317,445331,481234,609768,495889,464586,489819,518732,492480,542228
+ "37000","North Carolina",5,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",1014506,996252,1006087,1045811,972709,1001104,979662,1037443,1104834,1158874
+ "37000","North Carolina",5,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",773942,753109,781662,825689,797706,793474,811977,848046,714265,843587
+ "37000","North Carolina",5,SAOVA,11,"...","  Retail trade ","Thousands of dollars",2294654,2409331,2419541,2539138,2556765,2735545,2742414,2904669,2942747,3540678
+ "37000","North Carolina",5,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",692269,779806,873743,957875,1014086,1074405,1139897,1303383,473163,696596
+ "37000","North Carolina",5,SAOVA,13,"...","  Information ","Thousands of dollars",28488,30332,31525,35260,38076,41786,44573,45771,48952,63056
+ "37000","North Carolina",5,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",587477,757931,619071,665216,664649,665021,723531,787975,770979,812184
+ "37000","North Carolina",5,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",77880,70583,83826,91969,94191,87392,91777,99126,97834,97454
+ "37000","North Carolina",5,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",509598,687348,535245,573247,570458,577629,631754,688849,673146,714730
+ "37000","North Carolina",5,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",88930,87402,92942,100163,105001,111835,117239,112908,52502,82763
+ "37000","North Carolina",5,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",77284,75292,80061,80049,87764,99994,110463,117093,86583,101241
+ "37000","North Carolina",5,SAOVA,19,"...","   Educational services ","Thousands of dollars",64449,62720,67043,66433,73545,84651,95008,100509,71228,82226
+ "37000","North Carolina",5,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",12835,12572,13018,13616,14218,15343,15455,16583,15355,19015
+ "37000","North Carolina",5,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2319557,2343285,2482178,2650333,2700707,2931529,2952959,3142974,1847025,2804435
+ "37000","North Carolina",5,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",1071549,1122225,1186283,1189233,1263191,1307170,1369938,1410115,846669,1065774
+ "37000","North Carolina",5,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1248009,1221060,1295895,1461100,1437516,1624359,1583021,1732860,1000356,1738661
+ "37000","North Carolina",5,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",120636,124631,131018,140653,149198,154619,149898,159052,172883,190988
+ "37000","North Carolina",5,SAOVA,25,"..."," Government ","Thousands of dollars",645245,690216,706424,721433,722022,702435,673443,597851,591301,614713
+ "37000","North Carolina",5,SAOVA,26,"...","  Federal ","Thousands of dollars",191647,208630,190730,183939,186636,192151,205949,151809,142620,150750
+ "37000","North Carolina",5,SAOVA,27,"...","  State and local ","Thousands of dollars",453598,481586,515694,537494,535386,510284,467494,446042,448682,463963
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

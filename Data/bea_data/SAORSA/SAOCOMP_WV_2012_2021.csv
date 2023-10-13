@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "54000","West Virginia",5,SAOCOMP,1,"...","All industries ","Thousands of dollars",665947,660033,652562,674027,660263,668370,678368,699751,602374,694829
+ "54000","West Virginia",5,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",592369,580768,571083,590429,577572,587931,598861,618673,514829,600251
+ "54000","West Virginia",5,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",6636,6551,7236,6961,11025,13242,13365,13667,9448,10191
+ "54000","West Virginia",5,SAOCOMP,4,"...","  Mining ","Thousands of dollars",9640,7650,5691,3682,2862,5641,7317,6310,3931,6366
+ "54000","West Virginia",5,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,1,1,1,1,1,1,1,1,1
+ "54000","West Virginia",5,SAOCOMP,6,"...","  Construction ","Thousands of dollars",14605,13190,14148,13532,14239,15067,17767,19555,20808,20231
+ "54000","West Virginia",5,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",20460,19769,20233,20291,20267,20323,20847,22494,22602,23551
+ "54000","West Virginia",5,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",4929,4215,4222,4303,4634,4313,4728,6076,6623,7433
+ "54000","West Virginia",5,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",15532,15554,16011,15987,15633,16009,16119,16418,15979,16118
+ "54000","West Virginia",5,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",56051,53300,55170,57316,53515,52608,51507,52629,43398,47725
+ "54000","West Virginia",5,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",227482,233062,227305,235161,224883,237468,235429,239961,229213,254383
+ "54000","West Virginia",5,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",25390,22847,22571,21975,24348,21495,24476,31338,23234,32467
+ "54000","West Virginia",5,SAOCOMP,13,"...","  Information ","Thousands of dollars",1544,1599,1672,1742,1761,1700,1586,1446,1489,2191
+ "54000","West Virginia",5,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",11079,11221,9616,10626,10770,11052,10294,11393,10641,11407
+ "54000","West Virginia",5,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",5484,5166,4910,4836,4607,4605,4313,4514,4289,4358
+ "54000","West Virginia",5,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",5595,6055,4706,5791,6162,6447,5981,6879,6352,7049
+ "54000","West Virginia",5,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",10432,9243,10553,11468,11868,12473,13091,12398,8331,9650
+ "54000","West Virginia",5,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",5180,5221,5407,5586,5740,5971,6194,6283,5652,6210
+ "54000","West Virginia",5,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",3767,3801,3994,4079,4189,4345,4515,4516,3881,4198
+ "54000","West Virginia",5,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1413,1421,1413,1507,1551,1627,1679,1767,1771,2013
+ "54000","West Virginia",5,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",197293,190492,184782,195027,189066,183447,189532,193380,128114,167675
+ "54000","West Virginia",5,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",71589,71904,75492,69781,69605,68390,67214,67248,49996,55427
+ "54000","West Virginia",5,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",125703,118588,109290,125247,119461,115057,122319,126132,78118,112248
+ "54000","West Virginia",5,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",6577,6622,6699,7059,7230,7443,7455,7818,7969,8202
+ "54000","West Virginia",5,SAOCOMP,25,"..."," Government ","Thousands of dollars",73578,79265,81479,83598,82691,80439,79507,81078,87545,94579
+ "54000","West Virginia",5,SAOCOMP,26,"...","  Federal ","Thousands of dollars",11166,11395,10777,10574,11035,11212,11782,8522,7754,8091
+ "54000","West Virginia",5,SAOCOMP,27,"...","  State and local ","Thousands of dollars",62412,67870,70701,73024,71656,69227,67725,72557,79791,86488
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

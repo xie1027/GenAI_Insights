@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "17000","Illinois",3,SAOVA,1,"...","All industries ","Thousands of dollars",13886951,13894462,14140363,14539793,14939096,15636861,16200443,16653785,13347640,16745604
+ "17000","Illinois",3,SAOVA,2,"..."," Private industries ","Thousands of dollars",12795433,12836128,13048947,13481638,13774263,14318218,14806557,15250149,11992978,15345103
+ "17000","Illinois",3,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",472362,496340,511197,512537,603418,656051,655871,647072,631420,755620
+ "17000","Illinois",3,SAOVA,4,"...","  Mining ","Thousands of dollars",6916,5748,4490,3115,2909,6481,7599,5613,3790,6252
+ "17000","Illinois",3,SAOVA,5,"...","  Utilities ","Thousands of dollars",26,26,23,28,21,24,16,16,23,22
+ "17000","Illinois",3,SAOVA,6,"...","  Construction ","Thousands of dollars",256153,222189,225782,220874,226787,253663,283985,314131,310754,291712
+ "17000","Illinois",3,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",2344466,2269250,2207786,2061023,1834391,1985666,2257141,2288805,2098242,2459598
+ "17000","Illinois",3,SAOVA,8,"...","   Durable goods ","Thousands of dollars",706575,727849,695043,682881,696396,729448,822346,874066,867193,964850
+ "17000","Illinois",3,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",1637892,1541401,1512743,1378142,1137996,1256218,1434795,1414738,1231049,1494748
+ "17000","Illinois",3,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",1756179,1736453,1807303,1881436,1820476,1837214,1873863,1911424,1736573,2116419
+ "17000","Illinois",3,SAOVA,11,"...","  Retail trade ","Thousands of dollars",2903913,2998836,2966934,3052515,3024197,3169825,3130140,3212944,3171693,3753192
+ "17000","Illinois",3,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",1364817,1439402,1566297,1718027,1877783,1855686,1905158,2086645,856509,1370531
+ "17000","Illinois",3,SAOVA,13,"...","  Information ","Thousands of dollars",58075,60682,60611,62717,64166,65006,66017,67241,69943,89382
+ "17000","Illinois",3,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",437943,474740,445618,479236,531058,538826,557051,608719,529055,570240
+ "17000","Illinois",3,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",143979,128149,150450,162064,163891,148272,151765,161277,157023,154766
+ "17000","Illinois",3,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",293964,346591,295169,317173,367168,390553,405286,447442,372033,415474
+ "17000","Illinois",3,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",327108,306964,313029,333181,343503,366834,363192,342755,84611,201267
+ "17000","Illinois",3,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",99098,99124,104619,106190,117952,131231,142790,145516,111308,124129
+ "17000","Illinois",3,SAOVA,19,"...","   Educational services ","Thousands of dollars",81029,81352,86444,87293,97661,109820,120950,122765,88809,97474
+ "17000","Illinois",3,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",18069,17772,18175,18897,20291,21411,21840,22751,22499,26655
+ "17000","Illinois",3,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2604730,2560108,2661712,2868509,3136512,3253124,3363848,3409770,2179337,3380446
+ "17000","Illinois",3,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",1389301,1423019,1520229,1561898,1691638,1816648,1866381,1842816,1030161,1281576
+ "17000","Illinois",3,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1215429,1137089,1141483,1306612,1444874,1436475,1497466,1566954,1149175,2098870
+ "17000","Illinois",3,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",163645,166267,173547,182250,191088,198586,199886,209498,209719,226293
+ "17000","Illinois",3,SAOVA,25,"..."," Government ","Thousands of dollars",1091518,1058335,1091416,1058156,1164833,1318643,1393886,1403636,1354662,1400502
+ "17000","Illinois",3,SAOVA,26,"...","  Federal ","Thousands of dollars",11996,10555,9468,8601,8751,9832,10196,9416,8288,9391
+ "17000","Illinois",3,SAOVA,27,"...","  State and local ","Thousands of dollars",1079522,1047780,1081948,1049554,1156083,1308812,1383690,1394220,1346374,1391111
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

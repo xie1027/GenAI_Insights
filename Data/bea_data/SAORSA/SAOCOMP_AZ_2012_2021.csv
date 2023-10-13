@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "04000","Arizona",6,SAOCOMP,1,"...","All industries ","Thousands of dollars",3730310,3722288,3985184,4137118,4336768,4615170,4747169,4943617,4039806,5002549
+ "04000","Arizona",6,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",3386743,3365698,3619906,3759882,3935607,4190492,4303400,4499972,3573751,4515381
+ "04000","Arizona",6,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",33181,33314,35735,33433,39681,44477,43924,42840,35330,40276
+ "04000","Arizona",6,SAOCOMP,4,"...","  Mining ","Thousands of dollars",3110,2623,2030,1414,1158,2388,3156,2691,1701,2755
+ "04000","Arizona",6,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",5,6,5,6,5,5,3,4,5,4
+ "04000","Arizona",6,SAOCOMP,6,"...","  Construction ","Thousands of dollars",63584,62379,64054,55963,60795,69665,84338,93712,96497,95382
+ "04000","Arizona",6,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",130417,131694,131575,140641,162274,167008,184222,195049,225924,274795
+ "04000","Arizona",6,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",99812,99464,97561,105616,127369,130766,147334,155609,179983,223013
+ "04000","Arizona",6,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",30605,32230,34015,35025,34905,36241,36887,39441,45941,51782
+ "04000","Arizona",6,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",161967,155918,159917,167645,164511,170728,176380,180402,175543,194272
+ "04000","Arizona",6,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",975380,1003871,1033274,1086606,1076470,1167024,1164390,1198507,1215133,1397973
+ "04000","Arizona",6,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",430155,424012,483300,476788,524377,554514,574417,641720,457796,672903
+ "04000","Arizona",6,SAOCOMP,13,"...","  Information ","Thousands of dollars",5936,6350,6884,7375,7523,7592,7951,7841,8993,19851
+ "04000","Arizona",6,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",72239,75721,67665,76741,79811,82651,87014,95904,85935,95563
+ "04000","Arizona",6,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",29907,30036,30873,32695,33623,34507,33864,37307,38741,42473
+ "04000","Arizona",6,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",42332,45685,36792,44046,46188,48144,53150,58598,47194,53090
+ "04000","Arizona",6,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",115701,106286,116258,134967,144103,162978,176027,166982,71201,97809
+ "04000","Arizona",6,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",33204,33207,35843,37765,40608,43239,44596,45927,38964,46330
+ "04000","Arizona",6,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",27533,27613,29895,31483,33948,35993,37042,37803,31313,36905
+ "04000","Arizona",6,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",5671,5594,5948,6282,6660,7246,7554,8123,7651,9425
+ "04000","Arizona",6,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1322677,1289283,1440209,1493422,1584417,1665809,1704386,1771552,1100917,1514219
+ "04000","Arizona",6,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",548277,566374,627627,633126,688412,724215,740006,757675,484795,578689
+ "04000","Arizona",6,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",774400,722909,812582,860296,896005,941594,964380,1013877,616122,935530
+ "04000","Arizona",6,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",39186,41034,43156,47116,49874,52413,52595,56840,59811,63249
+ "04000","Arizona",6,SAOCOMP,25,"..."," Government ","Thousands of dollars",343567,356590,365278,377236,401161,424678,443769,443645,466055,487169
+ "04000","Arizona",6,SAOCOMP,26,"...","  Federal ","Thousands of dollars",62078,64720,61585,62606,67530,71647,76243,56174,48899,51222
+ "04000","Arizona",6,SAOCOMP,27,"...","  State and local ","Thousands of dollars",281489,291870,303693,314630,333631,353030,367527,387471,417156,435947
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

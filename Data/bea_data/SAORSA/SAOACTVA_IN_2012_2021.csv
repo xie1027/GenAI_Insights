@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "18000","Indiana",3,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",7763312,8183507,8256543,8423038,8843342,9885204,10813178,10512501,10250193,12913307
+ "18000","Indiana",3,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",5179879,5564093,5605995,5755857,6284614,7341158,8072731,7663582,8058283,9952939
+ "18000","Indiana",3,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",3602316,3926124,3946203,4135508,4766887,5618704,6135340,5671187,6492268,8156862
+ "18000","Indiana",3,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",29999,31253,30428,29488,30351,33957,33860,36703,48488,54610
+ "18000","Indiana",3,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",447967,455672,458349,503544,531915,549424,565070,608826,747253,702050
+ "18000","Indiana",3,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",18139,13791,13445,14059,14362,10030,10187,12102,15932,24738
+ "18000","Indiana",3,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",47131,47756,49702,56241,77621,89926,89052,87663,91175,101089
+ "18000","Indiana",3,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",16024,18487,19573,19775,23054,17546,17888,23268,16248,12644
+ "18000","Indiana",3,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",366673,375637,375629,413469,416878,431923,447944,485794,623898,563580
+ "18000","Indiana",3,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",57122,59383,60293,59899,58303,54938,57356,63825,67704,94642
+ "18000","Indiana",3,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",109107,127786,111708,116165,141146,163806,247594,189214,204754,265718
+ "18000","Indiana",3,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",89047,103899,100253,103492,120682,119257,114012,114442,127547,141625
+ "18000","Indiana",3,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",36215,42904,42189,45074,56233,54376,53271,55255,59472,63698
+ "18000","Indiana",3,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",52832,60995,58065,58418,64449,64881,60741,59187,68074,77927
+ "18000","Indiana",3,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",154297,146800,146392,149596,148084,240812,253501,214646,232682,214856
+ "18000","Indiana",3,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",20694,21207,21244,18761,14805,13688,13808,14973,11756,13215
+ "18000","Indiana",3,SAOACTVA,17,"...","   RVing ","Thousands of dollars",1714379,2000667,2038876,2163931,2763947,3348432,3729740,3233623,3901269,5401920
+ "18000","Indiana",3,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",43252,40301,41269,39085,35074,98808,113057,89096,118429,56235
+ "18000","Indiana",3,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",16018,15945,17344,17996,18009,16964,17164,17805,12815,15500
+ "18000","Indiana",3,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",27234,24355,23925,21089,17065,81844,95893,71291,105614,40735
+ "18000","Indiana",3,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",234244,218531,227286,237281,232202,255129,272061,348408,373281,447933
+ "18000","Indiana",3,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",129588,128233,127327,119331,104780,119693,121696,134387,133661,170911
+ "18000","Indiana",3,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",104656,90298,99959,117951,127422,135436,150366,214021,239620,277022
+ "18000","Indiana",3,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",702209,720625,710105,714266,690378,740454,735281,757429,659106,764057
+ "18000","Indiana",3,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",1577563,1637969,1659792,1620349,1517727,1722454,1937391,1992395,1566014,1796077
+ "18000","Indiana",3,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",71072,74221,77391,83527,86583,97242,103138,107010,70612,95478
+ "18000","Indiana",3,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",223508,237719,252403,241760,260353,276526,278312,271361,144599,185331
+ "18000","Indiana",3,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",45965,46168,48383,49507,48720,56781,56665,62148,60860,74159
+ "18000","Indiana",3,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",259099,264295,261148,257750,255234,240975,255102,266773,224998,261853
+ "18000","Indiana",3,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",628328,655719,653934,591860,467458,662550,853951,894038,663277,705539
+ "18000","Indiana",3,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",183053,184907,219055,223510,210547,186741,277895,372991,232851,274082
+ "18000","Indiana",3,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",445274,470813,434879,368351,256912,475809,576057,521047,430426,431458
+ "18000","Indiana",3,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",144283,151421,157773,173482,186439,183445,181280,180237,210243,252771
+ "18000","Indiana",3,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",114994,115421,119869,131979,124671,132363,136125,140622,123060,136747
+ "18000","Indiana",3,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",90314,93004,88890,90484,88268,72571,72818,70206,68365,84198
+ "18000","Indiana",3,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",2583433,2619414,2650549,2667181,2558728,2544046,2740447,2848919,2191910,2960368
+ "18000","Indiana",3,SAOACTVA,37,"...","   Construction ","Thousands of dollars",112642,95147,106007,112868,129370,150329,163220,166895,158616,149340
+ "18000","Indiana",3,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",735632,727677,739933,704275,633762,635000,670181,666199,620852,734815
+ "18000","Indiana",3,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",1528936,1567259,1556787,1576285,1521260,1503669,1677149,1796953,1181412,1826097
+ "18000","Indiana",3,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",255911,222233,222359,241719,248124,239559,264330,269345,157494,324537
+ "18000","Indiana",3,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",238838,293024,263684,301125,284858,287135,317619,327323,258574,396124
+ "18000","Indiana",3,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",488719,522133,536735,516019,489313,488049,498999,517278,558627,599505
+ "18000","Indiana",3,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",545467,529869,534008,517422,498965,488925,596201,683007,206717,505932
+ "18000","Indiana",3,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",206223,229332,247822,273753,274337,255048,229897,218872,231030,250115
+ "18000","Indiana",3,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",19725,21214,18801,17587,17294,17592,19297,14261,14188,14844
+ "18000","Indiana",3,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",186498,208118,229021,256167,257043,237456,210599,204611,216842,235271
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

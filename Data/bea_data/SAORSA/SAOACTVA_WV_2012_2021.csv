@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "54000","West Virginia",5,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",1488669,1523930,1467042,1521992,1488657,1501540,1529564,1566569,1318156,1607636
+ "54000","West Virginia",5,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",653288,662781,667257,676684,666975,675413,670841,679652,638965,715489
+ "54000","West Virginia",5,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",464579,472337,475709,486607,482417,491067,482337,486697,475581,521726
+ "54000","West Virginia",5,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",3956,4054,3973,3783,3599,3837,3710,3768,4474,5021
+ "54000","West Virginia",5,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",56725,56808,58562,60298,64854,65273,64246,64608,80938,71696
+ "54000","West Virginia",5,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",3367,2611,2530,2511,2486,2197,2055,2252,3715,6877
+ "54000","West Virginia",5,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",12564,12840,12881,14327,19530,22375,23009,22520,21678,23625
+ "54000","West Virginia",5,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",2336,2469,2617,2674,2723,2268,2092,2478,1794,1819
+ "54000","West Virginia",5,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",38457,38888,40535,40786,40115,38433,37090,37357,53751,39375
+ "54000","West Virginia",5,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",10369,10909,11103,10846,10115,9873,9917,10550,11197,15033
+ "54000","West Virginia",5,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",24415,25303,28059,29296,34447,35822,38109,36841,29150,32049
+ "54000","West Virginia",5,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",25319,28176,26531,27496,33053,32268,29332,30836,33196,36410
+ "54000","West Virginia",5,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",11275,12511,11951,12890,17228,17367,15786,17075,17146,18114
+ "54000","West Virginia",5,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",14043,15665,14580,14605,15825,14901,13547,13761,16050,18296
+ "54000","West Virginia",5,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",33701,31551,31907,34403,32854,31190,30214,26790,32834,36935
+ "54000","West Virginia",5,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",3349,3565,3610,3412,2861,2678,2620,2598,2350,2682
+ "54000","West Virginia",5,SAOACTVA,17,"...","   RVing ","Thousands of dollars",40649,41242,42567,43161,41081,40396,40371,40258,42728,50160
+ "54000","West Virginia",5,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",21212,20209,20904,20741,19344,17865,17826,17177,14123,14563
+ "54000","West Virginia",5,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",13046,12536,12847,12685,12061,10399,9992,9833,6975,8053
+ "54000","West Virginia",5,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",8166,7673,8056,8056,7284,7466,7834,7344,7148,6510
+ "54000","West Virginia",5,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",39057,39609,40711,42151,39211,41561,40666,45281,46173,54728
+ "54000","West Virginia",5,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",29136,29899,30466,30150,27175,29508,27494,27746,25885,31346
+ "54000","West Virginia",5,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",9920,9710,10245,12001,12035,12054,13171,17535,20288,23382
+ "54000","West Virginia",5,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",205828,210911,207782,211019,200998,210304,205327,207988,178418,202448
+ "54000","West Virginia",5,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",188709,190444,191548,190077,184558,184346,188503,192955,163384,193763
+ "54000","West Virginia",5,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",19377,18979,19072,19932,20423,21906,21365,21331,15574,20406
+ "54000","West Virginia",5,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",7909,7919,8313,7590,8107,8161,8585,8523,4791,6245
+ "54000","West Virginia",5,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",12373,12465,12682,12612,11655,12655,12352,13339,12182,14318
+ "54000","West Virginia",5,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",54307,55244,52780,50747,47450,45701,50015,53266,43419,49659
+ "54000","West Virginia",5,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",28652,27358,29542,27166,24660,26198,27836,28397,20706,28069
+ "54000","West Virginia",5,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",13490,13007,15187,14719,14029,14201,15723,16871,11031,15488
+ "54000","West Virginia",5,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",15161,14351,14355,12448,10630,11997,12113,11526,9675,12580
+ "54000","West Virginia",5,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",17897,18929,19497,22103,23485,22180,21674,21860,25866,28507
+ "54000","West Virginia",5,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",35392,35917,36499,36959,35778,35229,34583,34612,29243,32844
+ "54000","West Virginia",5,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",12803,13631,13163,12967,12999,12317,12093,11628,11601,13715
+ "54000","West Virginia",5,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",835381,861149,799785,845308,821682,826127,858723,886917,679191,892147
+ "54000","West Virginia",5,SAOACTVA,37,"...","   Construction ","Thousands of dollars",24699,22128,23942,24487,25360,26558,31042,35107,36459,34083
+ "54000","West Virginia",5,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",202628,201986,201688,202875,199838,205941,209581,217544,185305,216785
+ "54000","West Virginia",5,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",489487,510823,444537,486777,467956,467520,491322,507194,324566,494463
+ "54000","West Virginia",5,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",108011,92637,82470,99908,95370,90691,96834,97146,45574,91791
+ "54000","West Virginia",5,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",160708,205844,157020,179418,170148,165072,159788,167664,127522,169499
+ "54000","West Virginia",5,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",118549,114791,104184,106225,101106,115233,125300,121172,117131,136536
+ "54000","West Virginia",5,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",102219,97552,100862,101227,101332,96524,109399,121212,34339,96637
+ "54000","West Virginia",5,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",118567,126213,129618,131169,128528,126108,126779,127073,132861,146816
+ "54000","West Virginia",5,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",15968,17212,16265,15926,16487,16748,17811,12664,11567,12102
+ "54000","West Virginia",5,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",102599,109001,113353,115243,112041,109361,108968,114409,121294,134714
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

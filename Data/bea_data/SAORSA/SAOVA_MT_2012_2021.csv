@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "30000","Montana",7,SAOVA,1,"...","All industries ","Thousands of dollars",2031784,2152267,2224020,2377901,2309815,2441925,2515131,2547504,1981395,2565393
+ "30000","Montana",7,SAOVA,2,"..."," Private industries ","Thousands of dollars",1921867,2035305,2102895,2256964,2190402,2325026,2395702,2437643,1873138,2446047
+ "30000","Montana",7,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",72547,81907,79246,75800,78729,84169,82762,77776,71258,80230
+ "30000","Montana",7,SAOVA,4,"...","  Mining ","Thousands of dollars",3558,3236,2741,1921,1693,3565,4336,3576,2633,4510
+ "30000","Montana",7,SAOVA,5,"...","  Utilities ","Thousands of dollars",3,3,2,3,2,3,2,2,2,2
+ "30000","Montana",7,SAOVA,6,"...","  Construction ","Thousands of dollars",21072,19963,22666,22520,23983,25935,29213,32954,36725,32797
+ "30000","Montana",7,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",283595,260342,270335,248354,197611,216910,265607,235260,148698,211968
+ "30000","Montana",7,SAOVA,8,"...","   Durable goods ","Thousands of dollars",28112,33531,31500,34116,42648,40504,39066,38741,45518,50796
+ "30000","Montana",7,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",255483,226811,238835,214239,154963,176406,226540,196520,103180,161172
+ "30000","Montana",7,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",237721,240269,248234,269386,267914,259619,264503,265913,223040,281128
+ "30000","Montana",7,SAOVA,11,"...","  Retail trade ","Thousands of dollars",435501,466875,475044,505039,507668,533866,521697,516386,514774,614192
+ "30000","Montana",7,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",130885,143519,156591,189388,169231,206638,221036,251815,98950,167358
+ "30000","Montana",7,SAOVA,13,"...","  Information ","Thousands of dollars",2423,2605,2586,2709,2804,2897,3058,3143,3387,4653
+ "30000","Montana",7,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",102791,139327,123572,133632,137162,144207,139679,154386,152881,159893
+ "30000","Montana",7,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",19235,17445,20754,22654,23401,21710,22994,24055,23133,22909
+ "30000","Montana",7,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",83557,121882,102818,110978,113762,122498,116685,130331,129748,136984
+ "30000","Montana",7,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",20137,20011,21905,23773,24975,24192,24372,21818,15497,18870
+ "30000","Montana",7,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",9025,8951,9416,9879,10538,11103,11560,11921,8496,10911
+ "30000","Montana",7,SAOVA,19,"...","   Educational services ","Thousands of dollars",7020,6920,7312,7618,8222,8679,9122,9377,6372,8141
+ "30000","Montana",7,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",2004,2031,2104,2261,2316,2423,2438,2544,2124,2771
+ "30000","Montana",7,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",588733,634111,675556,758546,751072,794480,810541,844326,577353,838172
+ "30000","Montana",7,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",240113,250437,275949,295117,316530,310316,325161,340834,265814,316849
+ "30000","Montana",7,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",348620,383674,399607,463429,434541,484164,485379,503491,311539,521323
+ "30000","Montana",7,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",13876,14185,14999,16014,17020,17442,17337,18368,19443,21362
+ "30000","Montana",7,SAOVA,25,"..."," Government ","Thousands of dollars",109917,116962,121125,120937,119413,116899,119429,109861,108257,119346
+ "30000","Montana",7,SAOVA,26,"...","  Federal ","Thousands of dollars",40020,42073,42395,42995,46589,49358,53193,41086,34878,36966
+ "30000","Montana",7,SAOVA,27,"...","  State and local ","Thousands of dollars",69897,74889,78731,77941,72824,67541,66236,68774,73378,82380
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

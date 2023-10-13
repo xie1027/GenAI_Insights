@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "28000","Mississippi",5,SAOEMP,1,"...","All industries ","Number of jobs",32711,32112,32588,32540,33560,33960,33522,33732,27372,31681
+ "28000","Mississippi",5,SAOEMP,2,"..."," Private industries ","Number of jobs",30176,29612,30138,30352,31403,31854,31427,31726,25331,29567
+ "28000","Mississippi",5,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",321,313,323,310,436,502,545,551,413,459
+ "28000","Mississippi",5,SAOEMP,4,"...","  Mining ","Number of jobs",4,4,3,3,3,6,7,6,8,10
+ "28000","Mississippi",5,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "28000","Mississippi",5,SAOEMP,6,"...","  Construction ","Number of jobs",1054,872,941,914,886,920,987,1060,1044,1065
+ "28000","Mississippi",5,SAOEMP,7,"...","  Manufacturing ","Number of jobs",2475,2455,2383,2399,2497,2604,2671,2697,2823,3075
+ "28000","Mississippi",5,SAOEMP,8,"...","   Durable goods ","Number of jobs",1293,1338,1276,1291,1379,1491,1570,1581,1642,1904
+ "28000","Mississippi",5,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1182,1118,1106,1107,1118,1113,1101,1117,1180,1171
+ "28000","Mississippi",5,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",746,728,730,736,727,733,734,732,675,712
+ "28000","Mississippi",5,SAOEMP,11,"...","  Retail trade ","Number of jobs",13917,13963,14032,14180,14445,14416,13988,13520,11527,12399
+ "28000","Mississippi",5,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",766,731,724,703,736,706,740,797,723,820
+ "28000","Mississippi",5,SAOEMP,13,"...","  Information ","Number of jobs",37,38,38,38,38,37,36,33,34,72
+ "28000","Mississippi",5,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",255,275,226,230,236,238,226,248,197,203
+ "28000","Mississippi",5,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",50,47,44,42,43,43,39,43,41,42
+ "28000","Mississippi",5,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",204,228,182,188,193,195,187,205,156,161
+ "28000","Mississippi",5,SAOEMP,17,"...","  Professional and business services ","Number of jobs",229,233,243,256,267,236,239,208,183,186
+ "28000","Mississippi",5,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",374,386,393,389,394,393,383,381,303,333
+ "28000","Mississippi",5,SAOEMP,19,"...","   Educational services ","Number of jobs",344,356,362,357,360,357,348,343,268,293
+ "28000","Mississippi",5,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",30,30,31,32,34,36,35,37,34,40
+ "28000","Mississippi",5,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",9645,9267,9745,9843,10389,10725,10535,11161,7093,9917
+ "28000","Mississippi",5,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",3124,3179,3298,3280,3430,3633,3831,4004,2806,3107
+ "28000","Mississippi",5,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",6521,6088,6447,6564,6958,7092,6704,7158,4287,6810
+ "28000","Mississippi",5,SAOEMP,24,"...","  Other services, except government ","Number of jobs",352,348,356,351,349,337,336,332,307,316
+ "28000","Mississippi",5,SAOEMP,25,"..."," Government ","Number of jobs",2535,2499,2450,2188,2157,2106,2095,2005,2041,2114
+ "28000","Mississippi",5,SAOEMP,26,"...","  Federal ","Number of jobs",914,805,732,467,465,453,463,319,306,302
+ "28000","Mississippi",5,SAOEMP,27,"...","  State and local ","Number of jobs",1621,1694,1718,1721,1693,1653,1632,1686,1735,1812
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

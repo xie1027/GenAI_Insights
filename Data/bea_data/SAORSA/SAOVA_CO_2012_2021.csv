@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "08000","Colorado",7,SAOVA,1,"...","All industries ","Thousands of dollars",8576472,8840192,9363352,9984718,10394472,11294237,11809805,12388646,9316035,11632200
+ "08000","Colorado",7,SAOVA,2,"..."," Private industries ","Thousands of dollars",7920378,8168674,8657183,9262702,9594914,10379740,10786310,11316839,8223196,10457639
+ "08000","Colorado",7,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",122881,134283,129006,125650,134653,152027,151399,144821,130402,150351
+ "08000","Colorado",7,SAOVA,4,"...","  Mining ","Thousands of dollars",9866,8880,8582,5839,5043,7568,9416,8439,6144,10414
+ "08000","Colorado",7,SAOVA,5,"...","  Utilities ","Thousands of dollars",12,12,11,12,9,10,7,7,10,9
+ "08000","Colorado",7,SAOVA,6,"...","  Construction ","Thousands of dollars",129997,110042,114481,114787,125098,147389,176533,205979,218705,202769
+ "08000","Colorado",7,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",486535,496181,494915,489676,443655,469555,505460,504148,506222,561648
+ "08000","Colorado",7,SAOVA,8,"...","   Durable goods ","Thousands of dollars",200549,197201,188421,188938,176010,193353,192707,203340,212702,242154
+ "08000","Colorado",7,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",285987,298981,306494,300738,267645,276202,312753,300808,293520,319494
+ "08000","Colorado",7,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",701850,682046,724343,785474,774112,778502,796299,829225,761339,863675
+ "08000","Colorado",7,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1783032,1860739,1905582,2012122,2033798,2191353,2225609,2302381,2347344,2711729
+ "08000","Colorado",7,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",991477,1045712,1283721,1361229,1448466,1613540,1634487,1778236,598591,1055803
+ "08000","Colorado",7,SAOVA,13,"...","  Information ","Thousands of dollars",40349,42338,43583,47298,48930,49858,51274,54066,60062,77268
+ "08000","Colorado",7,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",484527,582032,513044,579016,608440,625915,678842,723251,691637,734401
+ "08000","Colorado",7,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",159808,144758,172935,190325,195456,181615,197043,211842,210001,210308
+ "08000","Colorado",7,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",324718,437274,340109,388691,412985,444300,481798,511409,481636,524093
+ "08000","Colorado",7,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",188444,176212,179578,186133,188408,198136,203698,198936,68031,134065
+ "08000","Colorado",7,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",100694,101779,111496,119390,136577,150404,166246,172397,117810,143641
+ "08000","Colorado",7,SAOVA,19,"...","   Educational services ","Thousands of dollars",90432,91818,101001,108198,124417,138268,153573,158948,106342,129023
+ "08000","Colorado",7,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",10262,9961,10496,11192,12160,12136,12673,13448,11468,14618
+ "08000","Colorado",7,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",2792973,2837783,3052335,3331247,3535137,3877149,4070402,4270243,2586976,3671758
+ "08000","Colorado",7,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",1316345,1370624,1484016,1553140,1679401,1798412,1889161,1981633,1276515,1496178
+ "08000","Colorado",7,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1476628,1467160,1568319,1778107,1855736,2078737,2181241,2288610,1310461,2175580
+ "08000","Colorado",7,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",87740,90633,96505,104829,112587,118334,116639,124711,129922,140109
+ "08000","Colorado",7,SAOVA,25,"..."," Government ","Thousands of dollars",656095,671518,706169,722017,799558,914497,1023495,1071807,1092839,1174561
+ "08000","Colorado",7,SAOVA,26,"...","  Federal ","Thousands of dollars",102280,104724,103966,103844,111655,118041,124456,96950,83454,89311
+ "08000","Colorado",7,SAOVA,27,"...","  State and local ","Thousands of dollars",553814,566794,602203,618173,687902,796456,899039,974857,1009385,1085250
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

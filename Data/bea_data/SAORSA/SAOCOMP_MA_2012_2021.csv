@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "25000","Massachusetts",1,SAOCOMP,1,"...","All industries ","Thousands of dollars",4128470,4214789,4276094,4504817,4717889,5114448,5108283,5276507,4405680,5148235
+ "25000","Massachusetts",1,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",3832900,3897799,3949370,4163002,4355093,4729037,4699147,4861676,3966894,4691975
+ "25000","Massachusetts",1,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",(D),32133,32921,33145,38251,39510,36468,37180,33097,30772
+ "25000","Massachusetts",1,SAOCOMP,4,"...","  Mining ","Thousands of dollars",(D),25,26,22,21,24,24,22,20,23
+ "25000","Massachusetts",1,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",36,39,35,49,33,36,18,16,22,16
+ "25000","Massachusetts",1,SAOCOMP,6,"...","  Construction ","Thousands of dollars",42191,42652,47617,48478,57539,69481,83170,92218,90837,90844
+ "25000","Massachusetts",1,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",380004,378458,353908,370674,414642,444553,413994,436572,492266,583112
+ "25000","Massachusetts",1,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",244357,238422,224100,237815,256563,264167,277768,290359,286513,337538
+ "25000","Massachusetts",1,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",135647,140036,129807,132859,158080,180386,136226,146213,205753,245574
+ "25000","Massachusetts",1,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",314014,302587,314928,337365,331957,340819,343897,350718,335381,350971
+ "25000","Massachusetts",1,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",934002,962069,954855,989487,985782,1088185,1059175,1089769,1127786,1203518
+ "25000","Massachusetts",1,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",352181,375488,378967,441541,441714,525073,509225,543338,293633,428556
+ "25000","Massachusetts",1,SAOCOMP,13,"...","  Information ","Thousands of dollars",15319,15153,15576,16800,16143,17074,17197,17537,18755,25838
+ "25000","Massachusetts",1,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",100438,99248,93963,104257,107396,112072,116415,127039,121538,127832
+ "25000","Massachusetts",1,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",69905,67565,68226,73038,75733,78898,78756,86962,88381,91014
+ "25000","Massachusetts",1,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",30533,31682,25738,31219,31662,33174,37660,40078,33156,36818
+ "25000","Massachusetts",1,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",128271,117852,123894,137311,143627,168086,187407,186127,76748,112716
+ "25000","Massachusetts",1,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",116965,121497,130929,139377,153990,171419,186758,189934,171533,183842
+ "25000","Massachusetts",1,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",109883,114285,123604,131707,145833,162794,178066,180717,162363,173287
+ "25000","Massachusetts",1,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",7082,7212,7325,7670,8157,8625,8692,9217,9170,10555
+ "25000","Massachusetts",1,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1362211,1391660,1440344,1476797,1592268,1676850,1670614,1711580,1125414,1467912
+ "25000","Massachusetts",1,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",732918,754131,815747,818882,883292,933319,959504,960632,603947,727652
+ "25000","Massachusetts",1,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",629292,637529,624597,657914,708976,743531,711111,750947,521467,740260
+ "25000","Massachusetts",1,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",56254,58939,61409,67699,71731,75855,74784,79627,79863,86023
+ "25000","Massachusetts",1,SAOCOMP,25,"..."," Government ","Thousands of dollars",295571,316990,326724,341815,362795,385411,409135,414831,438786,456260
+ "25000","Massachusetts",1,SAOCOMP,26,"...","  Federal ","Thousands of dollars",54354,59783,54827,53588,54263,53918,57363,40237,37519,38956
+ "25000","Massachusetts",1,SAOCOMP,27,"...","  State and local ","Thousands of dollars",241217,257207,271897,288227,308533,331493,351773,374593,401267,417304
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

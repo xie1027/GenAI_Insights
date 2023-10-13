@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "35000","New Mexico",6,SAOCOMP,1,"...","All industries ","Thousands of dollars",949658,954423,975825,1027265,1053022,1078306,1089817,1186777,1001422,1174533
+ "35000","New Mexico",6,SAOCOMP,2,"..."," Private industries ","Thousands of dollars",788394,783315,798302,842437,862642,880557,884223,968443,762178,919353
+ "35000","New Mexico",6,SAOCOMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",11078,10822,11578,10625,15536,18598,19920,20435,15638,17596
+ "35000","New Mexico",6,SAOCOMP,4,"...","  Mining ","Thousands of dollars",2189,1953,1677,1397,1266,1537,1723,1576,1314,1805
+ "35000","New Mexico",6,SAOCOMP,5,"...","  Utilities ","Thousands of dollars",1,2,1,2,1,1,1,1,1,1
+ "35000","New Mexico",6,SAOCOMP,6,"...","  Construction ","Thousands of dollars",25181,22376,22645,20185,21254,25577,34612,44175,47983,48521
+ "35000","New Mexico",6,SAOCOMP,7,"...","  Manufacturing ","Thousands of dollars",23740,24057,23951,25841,26938,28962,29789,30620,28631,30693
+ "35000","New Mexico",6,SAOCOMP,8,"...","   Durable goods ","Thousands of dollars",6340,6041,6180,6387,6263,7062,7801,6822,6004,7050
+ "35000","New Mexico",6,SAOCOMP,9,"...","   Nondurable goods ","Thousands of dollars",17400,18016,17770,19454,20675,21901,21988,23798,22627,23642
+ "35000","New Mexico",6,SAOCOMP,10,"...","  Wholesale trade ","Thousands of dollars",28932,28232,29620,31448,29703,29893,29903,31238,29020,30928
+ "35000","New Mexico",6,SAOCOMP,11,"...","  Retail trade ","Thousands of dollars",265784,273117,274579,289513,286909,302574,297059,309507,304262,344109
+ "35000","New Mexico",6,SAOCOMP,12,"...","  Transportation and warehousing ","Thousands of dollars",60731,56082,59170,58809,63577,59496,64002,75333,45855,60541
+ "35000","New Mexico",6,SAOCOMP,13,"...","  Information ","Thousands of dollars",1570,1627,1696,1641,1634,1686,1707,1607,1705,3322
+ "35000","New Mexico",6,SAOCOMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",13611,14428,12326,13859,14372,15687,14909,16668,15666,16364
+ "35000","New Mexico",6,SAOCOMP,15,"...","   Finance and insurance ","Thousands of dollars",6124,5830,5550,5401,5162,5146,5095,5486,5393,5463
+ "35000","New Mexico",6,SAOCOMP,16,"...","   Real estate and rental and leasing ","Thousands of dollars",7487,8598,6775,8458,9210,10541,9814,11182,10273,10900
+ "35000","New Mexico",6,SAOCOMP,17,"...","  Professional and business services ","Thousands of dollars",17422,15111,17316,18466,18793,18954,19104,17443,12367,14253
+ "35000","New Mexico",6,SAOCOMP,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",10195,10220,11060,12484,14018,15393,16243,17618,13802,16386
+ "35000","New Mexico",6,SAOCOMP,19,"...","   Educational services ","Thousands of dollars",8574,8612,9437,10753,12204,13532,14358,15570,11997,14172
+ "35000","New Mexico",6,SAOCOMP,20,"...","   Health care and social assistance ","Thousands of dollars",1621,1608,1623,1732,1814,1862,1885,2047,1805,2213
+ "35000","New Mexico",6,SAOCOMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",317398,314477,321594,346176,356134,349233,342578,388834,232527,321163
+ "35000","New Mexico",6,SAOCOMP,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",88032,89288,97202,102880,109984,110080,105237,112065,78699,82496
+ "35000","New Mexico",6,SAOCOMP,23,"...","   Accommodation and food services ","Thousands of dollars",229366,225189,224392,243296,246150,239153,237341,276769,153828,238667
+ "35000","New Mexico",6,SAOCOMP,24,"...","  Other services, except government ","Thousands of dollars",10564,10811,11088,11991,12506,12966,12672,13388,13406,13672
+ "35000","New Mexico",6,SAOCOMP,25,"..."," Government ","Thousands of dollars",161264,171108,177523,184828,190381,197749,205594,218334,239244,255179
+ "35000","New Mexico",6,SAOCOMP,26,"...","  Federal ","Thousands of dollars",15572,14969,14380,14273,15289,16311,17343,13857,12530,13428
+ "35000","New Mexico",6,SAOCOMP,27,"...","  State and local ","Thousands of dollars",145692,156139,163143,170555,175092,181438,188251,204477,226714,241751
+"Note: See the included footnote file."
+"SAOCOMP: Outdoor recreation satellite account compensation 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

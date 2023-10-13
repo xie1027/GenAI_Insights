@@ -1,0 +1,44 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "41000","Oregon",8,SAACArtsEmp,1,"...","Total employment ","Number of jobs",1672920,1646842,1655675,1692691,1735866,1783157,1805495,1789235,1686852,1676367,1696317,1717522,1750628,1799438,1851804,1901816,1949116,1990074,2015248,1902097,1952352
+ "41000","Oregon",8,SAACArtsEmp,10,"...","Total ACPSA employment ","Number of jobs",76234,73585,69907,66773,65731,66250,67212,67580,62951,61117,60938,61699,62244,63361,64703,65832,68096,69042,69338,60005,62725
+ "41000","Oregon",8,SAACArtsEmp,100,"..."," Core arts and cultural production ","Number of jobs",13013,12788,12971,12916,12952,13650,14210,14618,13224,13193,13765,13999,14547,15278,16012,16632,17027,17589,(D),14307,(D)
+ "41000","Oregon",8,SAACArtsEmp,111,"...","  Performing arts companies ","Number of jobs",1437,1432,1410,1492,1631,1701,1679,1773,1640,1664,1826,1888,1953,2042,2017,2135,2201,2192,2226,1341,1298
+ "41000","Oregon",8,SAACArtsEmp,112,"...","  Promoters of performing arts and similar events ","Number of jobs",1109,995,985,880,933,946,1046,998,947,1046,1012,591,610,657,755,875,1055,1148,1200,782,928
+ "41000","Oregon",8,SAACArtsEmp,113,"...","  Agents/managers for artists ","Number of jobs",22,18,19,26,25,25,23,27,31,36,28,28,32,41,42,41,53,55,86,55,65
+ "41000","Oregon",8,SAACArtsEmp,114,"...","  Independent artists, writers, and performers ","Number of jobs",268,306,290,296,337,398,404,441,397,452,412,418,448,482,533,610,675,733,740,546,619
+ "41000","Oregon",8,SAACArtsEmp,120,"...","  Museums ","Number of jobs",1253,1243,1256,1280,1247,1306,1357,1372,1292,1294,1395,1464,1517,1496,1528,1567,1537,1599,1630,(D),1153
+ "41000","Oregon",8,SAACArtsEmp,131,"...","  Advertising ","Number of jobs",1948,1702,1565,1562,1462,1503,1450,1562,1497,1576,1692,1841,1917,2147,2152,2184,2187,2417,2373,2022,2098
+ "41000","Oregon",8,SAACArtsEmp,132,"...","  Architectural services ","Number of jobs",1765,1730,1737,1817,2017,2296,2476,2417,1857,1649,1626,1633,1686,1832,2048,2223,2316,2340,2417,2335,2328
+ "41000","Oregon",8,SAACArtsEmp,133,"...","  Landscape architectural services ","Number of jobs",341,324,281,286,307,369,421,417,349,325,336,338,341,351,405,432,458,448,471,523,488
+ "41000","Oregon",8,SAACArtsEmp,134,"...","  Interior design services ","Number of jobs",209,222,241,266,299,327,377,420,329,304,311,359,365,367,441,487,536,559,610,535,552
+ "41000","Oregon",8,SAACArtsEmp,135,"...","  Industrial design services ","Number of jobs",67,84,148,225,311,254,269,261,280,368,350,351,306,311,332,329,363,358,263,259,243
+ "41000","Oregon",8,SAACArtsEmp,136,"...","  Graphic design services ","Number of jobs",915,819,799,786,765,852,952,1002,923,897,994,1040,1100,1133,1201,1250,1316,1322,1287,1100,1057
+ "41000","Oregon",8,SAACArtsEmp,137,"...","  Computer systems design ","Number of jobs",87,61,53,45,45,47,49,51,53,61,71,92,107,125,136,158,168,174,183,190,197
+ "41000","Oregon",8,SAACArtsEmp,138,"...","  Photography and photofinishing services ","Number of jobs",2163,2060,2024,1856,1678,1575,1500,1400,1264,1125,1049,1107,1036,1007,974,977,935,843,(D),(D),(D)
+ "41000","Oregon",8,SAACArtsEmp,139,"...","  All other design services ","Number of jobs",26,14,15,7,10,21,34,48,65,82,97,103,114,106,129,165,176,170,162,131,132
+ "41000","Oregon",8,SAACArtsEmp,140,"...","  Fine arts education ","Number of jobs",589,692,746,809,827,935,1075,1282,1246,1275,1382,1436,1588,1669,1776,1847,1917,2046,2157,1718,1993
+ "41000","Oregon",8,SAACArtsEmp,150,"...","  Education services ","Number of jobs",815,1086,1402,1283,1059,1096,1096,1145,1053,1040,1183,1312,1424,1509,1543,1353,1132,1186,1080,1022,965
+ "41000","Oregon",8,SAACArtsEmp,200,"..."," Supporting arts and cultural production ","Number of jobs",60574,58168,54412,51363,50269,50097,50456,50513,47459,45860,45152,45801,45837,46158,46652,47101,49026,49427,49661,43889,46081
+ "41000","Oregon",8,SAACArtsEmp,211,"...","  Rental and leasing ","Number of jobs",1574,1444,1514,1467,(D),(D),1143,1006,858,594,404,336,(D),249,225,210,(D),195,196,160,155
+ "41000","Oregon",8,SAACArtsEmp,212,"...","  Grantmaking and giving services ","Number of jobs",61,62,74,59,60,68,74,70,80,78,83,96,100,102,108,103,104,109,113,104,103
+ "41000","Oregon",8,SAACArtsEmp,213,"...","  Unions ","Number of jobs",211,181,193,189,187,192,184,202,221,205,235,236,278,249,270,247,276,257,288,228,283
+ "41000","Oregon",8,SAACArtsEmp,214,"...","  Government ","Number of jobs",27252,27306,24686,21833,20088,18471,16764,16914,17032,16502,16576,15977,16709,17007,17324,17547,17264,17633,17431,15590,15569
+ "41000","Oregon",8,SAACArtsEmp,215,"...","  Other support services ","Number of jobs",12,7,8,7,10,24,29,26,40,41,40,41,42,48,50,63,57,48,46,38,30
+ "41000","Oregon",8,SAACArtsEmp,221,"...","  Publishing ","Number of jobs",7594,6915,6745,6104,6389,6890,7410,7312,6618,6506,6401,6266,6160,6244,6589,6439,6602,6487,6551,6325,6500
+ "41000","Oregon",8,SAACArtsEmp,222,"...","  Motion pictures ","Number of jobs",3591,3383,2996,2987,3073,3461,3572,3766,3304,3229,3432,4118,3915,3912,4267,4511,4495,4608,4549,2449,3119
+ "41000","Oregon",8,SAACArtsEmp,223,"...","  Sound recording ","Number of jobs",521,398,225,79,69,73,76,75,75,75,72,71,83,94,97,117,120,119,122,119,113
+ "41000","Oregon",8,SAACArtsEmp,224,"...","  Broadcasting ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4187,4080,3990,3609,3428,(D),(D),(D)
+ "41000","Oregon",8,SAACArtsEmp,225,"...","  Other information services ","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),682,732,802,798,770,809,850,943,1110,1184,1295
+ "41000","Oregon",8,SAACArtsEmp,231,"...","  Jewelry and silverware manufacturing ","Number of jobs",215,251,245,261,336,400,393,272,164,120,124,193,183,183,185,186,209,186,216,183,221
+ "41000","Oregon",8,SAACArtsEmp,232,"...","  Printed goods manufacturing ","Number of jobs",1382,1140,1041,1151,1128,1129,1329,(D),(D),1012,1013,974,986,(D),896,840,851,(D),758,618,599
+ "41000","Oregon",8,SAACArtsEmp,233,"...","  Musical instruments manufacturing ","Number of jobs",250,235,226,204,201,213,212,215,213,164,173,173,184,231,207,154,129,130,120,96,111
+ "41000","Oregon",8,SAACArtsEmp,234,"...","  Custom architectural woodwork and metalwork manufacturing ","Number of jobs",(D),(D),(D),312,331,382,538,573,412,420,461,469,515,508,601,638,654,693,680,540,504
+ "41000","Oregon",8,SAACArtsEmp,236,"...","  Other goods manufacturing ","Number of jobs",402,359,349,366,335,(D),(D),(D),(D),(D),(D),(D),357,(D),526,547,(D),(D),(D),(D),(D)
+ "41000","Oregon",8,SAACArtsEmp,240,"...","  Construction ","Number of jobs",1583,1354,1288,1175,1360,1027,1179,1396,1202,708,782,1354,750,925,555,755,803,650,790,886,1088
+ "41000","Oregon",8,SAACArtsEmp,250,"...","  Wholesale and transportation industries ","Number of jobs",2060,1984,1916,1934,1866,1871,1973,2082,(D),(D),(D),(D),(D),1403,1427,1491,1691,1810,1875,1944,1867
+ "41000","Oregon",8,SAACArtsEmp,260,"...","  Retail industries ","Number of jobs",10044,9309,9112,9615,9823,10294,10735,10147,9357,9407,8775,8739,8816,8630,8475,8452,10487,10723,10929,9755,10983
+ "41000","Oregon",8,SAACArtsEmp,300,"..."," All other industries 2/","Number of jobs",2647,2629,2525,2494,2511,2503,2547,2449,2268,2063,2021,1899,1860,1925,2039,2099,2043,2026,(D),1810,(D)
+"Note: See the included footnote file."
+"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry 1/"
+"Last updated: March 15, 2023-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

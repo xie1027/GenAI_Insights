@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "15000","Hawaii",8,SAOVA,1,"...","All industries ","Thousands of dollars",4267334,4579099,4805534,5101793,4982335,5489823,5717977,6016827,2962607,4363907
+ "15000","Hawaii",8,SAOVA,2,"..."," Private industries ","Thousands of dollars",4099556,4394113,4609890,4892174,4767433,5270044,5491229,5794875,2738394,4123290
+ "15000","Hawaii",8,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",37238,39478,35315,32771,30262,32340,29336,26640,24882,28973
+ "15000","Hawaii",8,SAOVA,4,"...","  Mining ","Thousands of dollars",28,26,28,20,19,30,31,23,22,25
+ "15000","Hawaii",8,SAOVA,5,"...","  Utilities ","Thousands of dollars",9,8,7,7,5,5,4,4,5,4
+ "15000","Hawaii",8,SAOVA,6,"...","  Construction ","Thousands of dollars",33654,33007,34922,38582,44191,55090,71000,86181,89044,86465
+ "15000","Hawaii",8,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",139110,137488,135553,135364,100790,119098,138446,113449,78737,97371
+ "15000","Hawaii",8,SAOVA,8,"...","   Durable goods ","Thousands of dollars",5807,4997,4912,4480,4628,4116,4068,4485,4714,5255
+ "15000","Hawaii",8,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",133303,132491,130641,130884,96162,114983,134378,108964,74023,92116
+ "15000","Hawaii",8,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",83236,80018,81931,83785,80014,79182,88448,92953,102954,93548
+ "15000","Hawaii",8,SAOVA,11,"...","  Retail trade ","Thousands of dollars",671597,700474,695726,719670,692117,736384,762140,806557,709776,807955
+ "15000","Hawaii",8,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",1106482,1322366,1517679,1568110,1581564,1823390,1923352,2052013,416562,877834
+ "15000","Hawaii",8,SAOVA,13,"...","  Information ","Thousands of dollars",4982,5204,5208,5405,5584,5619,5755,5752,5956,8857
+ "15000","Hawaii",8,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",126220,161785,124750,139340,150463,155369,169731,188022,172012,184530
+ "15000","Hawaii",8,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",13862,12644,14671,15868,16269,15103,15565,16897,16551,16806
+ "15000","Hawaii",8,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",112358,149142,110079,123472,134193,140266,154167,171125,155461,167724
+ "15000","Hawaii",8,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",94509,94657,97587,105973,111367,127262,133206,124691,20999,68810
+ "15000","Hawaii",8,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",26180,24463,25112,25625,25505,27195,28184,29402,17901,23725
+ "15000","Hawaii",8,SAOVA,19,"...","   Educational services ","Thousands of dollars",19755,18500,19070,19264,19349,20538,21487,22247,13769,17408
+ "15000","Hawaii",8,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",6425,5962,6041,6361,6155,6657,6698,7155,4132,6317
+ "15000","Hawaii",8,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1746134,1765538,1825697,2006376,1914113,2076729,2109795,2235830,1067493,1809812
+ "15000","Hawaii",8,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",273164,286242,306716,308439,316255,317744,341731,376356,249922,285828
+ "15000","Hawaii",8,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",1472970,1479296,1518981,1697937,1597858,1758985,1768064,1859473,817570,1523984
+ "15000","Hawaii",8,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",30178,29601,30375,31144,31439,32350,31802,33360,32054,35381
+ "15000","Hawaii",8,SAOVA,25,"..."," Government ","Thousands of dollars",167778,184986,195644,209619,214902,219780,226748,221952,224213,240616
+ "15000","Hawaii",8,SAOVA,26,"...","  Federal ","Thousands of dollars",51651,56194,53097,53219,55406,57745,60845,44267,39095,41582
+ "15000","Hawaii",8,SAOVA,27,"...","  State and local ","Thousands of dollars",116126,128792,142547,156399,159496,162034,165903,177685,185118,199034
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

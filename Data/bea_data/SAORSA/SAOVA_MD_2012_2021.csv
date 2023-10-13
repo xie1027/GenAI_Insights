@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "24000","Maryland",2,SAOVA,1,"...","All industries ","Thousands of dollars",5738282,5822662,6013325,6263736,6339722,6513518,6586647,6840032,5449230,6567148
+ "24000","Maryland",2,SAOVA,2,"..."," Private industries ","Thousands of dollars",5142960,5138892,5257748,5408412,5480360,5713811,5867499,6166772,4758292,5837417
+ "24000","Maryland",2,SAOVA,3,"...","  Agriculture, forestry, fishing, and hunting ","Thousands of dollars",119486,132689,126060,127371,148506,168992,160210,173191,155265,165561
+ "24000","Maryland",2,SAOVA,4,"...","  Mining ","Thousands of dollars",309,268,247,175,159,286,310,256,198,323
+ "24000","Maryland",2,SAOVA,5,"...","  Utilities ","Thousands of dollars",22,22,19,23,16,19,12,12,18,15
+ "24000","Maryland",2,SAOVA,6,"...","  Construction ","Thousands of dollars",62619,58104,64239,69222,74921,79779,83032,86748,83920,78406
+ "24000","Maryland",2,SAOVA,7,"...","  Manufacturing ","Thousands of dollars",307428,311096,298980,291412,267490,294716,328335,329211,308746,359525
+ "24000","Maryland",2,SAOVA,8,"...","   Durable goods ","Thousands of dollars",137030,134106,118586,107052,96533,114485,137817,135063,122268,129227
+ "24000","Maryland",2,SAOVA,9,"...","   Nondurable goods ","Thousands of dollars",170398,176990,180394,184360,170958,180231,190519,194149,186477,230297
+ "24000","Maryland",2,SAOVA,10,"...","  Wholesale trade ","Thousands of dollars",421528,409854,429013,453965,443282,442328,449771,462142,496746,456222
+ "24000","Maryland",2,SAOVA,11,"...","  Retail trade ","Thousands of dollars",1580329,1592795,1572188,1595016,1565592,1647351,1635213,1702995,1664897,1886490
+ "24000","Maryland",2,SAOVA,12,"...","  Transportation and warehousing ","Thousands of dollars",478932,491706,571107,563735,613141,635507,659421,692271,277075,452567
+ "24000","Maryland",2,SAOVA,13,"...","  Information ","Thousands of dollars",20413,22066,22305,23597,24403,24904,25583,25898,26730,34989
+ "24000","Maryland",2,SAOVA,14,"...","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",278905,317785,293078,316411,338289,327284,361915,398675,340769,367925
+ "24000","Maryland",2,SAOVA,15,"...","   Finance and insurance ","Thousands of dollars",62183,56198,67044,73862,76355,70589,73682,78877,76628,74675
+ "24000","Maryland",2,SAOVA,16,"...","   Real estate and rental and leasing ","Thousands of dollars",216722,261587,226034,242549,261934,256695,288234,319797,264142,293250
+ "24000","Maryland",2,SAOVA,17,"...","  Professional and business services ","Thousands of dollars",92633,93605,100313,114042,125572,148528,162877,152831,42377,86745
+ "24000","Maryland",2,SAOVA,18,"...","  Educational services, health care, and social assistance ","Thousands of dollars",63296,62151,65891,67449,75301,84456,91379,92550,65918,72993
+ "24000","Maryland",2,SAOVA,19,"...","   Educational services ","Thousands of dollars",53143,52488,56033,57303,64673,73062,79783,80200,54438,59627
+ "24000","Maryland",2,SAOVA,20,"...","   Health care and social assistance ","Thousands of dollars",10154,9664,9858,10146,10628,11395,11596,12350,11480,13366
+ "24000","Maryland",2,SAOVA,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",1580301,1512615,1577792,1648494,1663911,1708619,1766307,1899940,1135739,1702895
+ "24000","Maryland",2,SAOVA,22,"...","   Arts, entertainment, and recreation ","Thousands of dollars",616806,638798,693145,701004,746983,792570,817760,831279,505956,633233
+ "24000","Maryland",2,SAOVA,23,"...","   Accommodation and food services ","Thousands of dollars",963495,873818,884647,947490,916927,916049,948547,1068661,629783,1069661
+ "24000","Maryland",2,SAOVA,24,"...","  Other services, except government ","Thousands of dollars",136758,134134,136517,137500,139776,151043,143133,150052,159896,172761
+ "24000","Maryland",2,SAOVA,25,"..."," Government ","Thousands of dollars",595322,683770,755576,855324,859362,799707,719148,673260,690938,729730
+ "24000","Maryland",2,SAOVA,26,"...","  Federal ","Thousands of dollars",90905,99432,93996,93939,96392,97275,100818,74729,70949,75132
+ "24000","Maryland",2,SAOVA,27,"...","  State and local ","Thousands of dollars",504417,584338,661580,761385,762970,702432,618330,598531,619989,654598
+"Note: See the included footnote file."
+"SAOVA: Outdoor recreation satellite account value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

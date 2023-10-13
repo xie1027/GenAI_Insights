@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "09000","Connecticut",1,SAOEMP,1,"...","All industries ","Number of jobs",48616,49009,48642,47874,48673,48294,48458,48457,38950,44065
+ "09000","Connecticut",1,SAOEMP,2,"..."," Private industries ","Number of jobs",46398,46871,46503,45781,46399,45859,45932,45832,36333,41428
+ "09000","Connecticut",1,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",697,693,718,708,752,781,775,781,(D),838
+ "09000","Connecticut",1,SAOEMP,4,"...","  Mining ","Number of jobs",0,0,0,0,0,0,0,0,(D),0
+ "09000","Connecticut",1,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "09000","Connecticut",1,SAOEMP,6,"...","  Construction ","Number of jobs",467,414,447,491,501,493,512,530,502,535
+ "09000","Connecticut",1,SAOEMP,7,"...","  Manufacturing ","Number of jobs",1491,1524,1483,1476,1522,1504,1515,1466,1436,1665
+ "09000","Connecticut",1,SAOEMP,8,"...","   Durable goods ","Number of jobs",1011,1061,1029,1033,1075,1050,1053,975,861,1003
+ "09000","Connecticut",1,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",480,463,453,443,447,454,462,491,576,662
+ "09000","Connecticut",1,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",1181,1151,1151,1164,1130,1123,1114,1101,1058,1018
+ "09000","Connecticut",1,SAOEMP,11,"...","  Retail trade ","Number of jobs",19762,19808,19404,19101,18919,18470,17799,16982,14982,15318
+ "09000","Connecticut",1,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",1259,1250,1270,1251,1237,1210,1179,1228,935,1121
+ "09000","Connecticut",1,SAOEMP,13,"...","  Information ","Number of jobs",82,82,81,80,77,73,69,65,66,124
+ "09000","Connecticut",1,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",631,634,583,580,577,585,600,656,568,572
+ "09000","Connecticut",1,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",394,375,358,351,348,346,331,357,336,324
+ "09000","Connecticut",1,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",237,259,226,230,229,239,269,299,233,248
+ "09000","Connecticut",1,SAOEMP,17,"...","  Professional and business services ","Number of jobs",590,583,579,580,599,574,587,565,382,340
+ "09000","Connecticut",1,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1382,1466,1532,1567,1635,1702,1697,1645,1328,1433
+ "09000","Connecticut",1,SAOEMP,19,"...","   Educational services ","Number of jobs",1326,1409,1476,1511,1577,1643,1638,1584,1269,1367
+ "09000","Connecticut",1,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",56,57,56,56,58,59,59,61,59,66
+ "09000","Connecticut",1,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",18164,18570,18546,18080,18748,18672,19395,20112,13728,17844
+ "09000","Connecticut",1,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",9801,10217,10962,10914,11159,11304,11659,11897,8108,9268
+ "09000","Connecticut",1,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",8363,8353,7585,7166,7589,7368,7737,8216,5620,8576
+ "09000","Connecticut",1,SAOEMP,24,"...","  Other services, except government ","Number of jobs",690,694,708,702,703,673,690,700,622,620
+ "09000","Connecticut",1,SAOEMP,25,"..."," Government ","Number of jobs",2218,2138,2140,2093,2274,2435,2527,2625,2617,2637
+ "09000","Connecticut",1,SAOEMP,26,"...","  Federal ","Number of jobs",4,4,4,3,3,3,3,2,2,2
+ "09000","Connecticut",1,SAOEMP,27,"...","  State and local ","Number of jobs",2214,2134,2136,2091,2271,2432,2523,2623,2615,2635
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,32 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "26000","Michigan",3,SAOEMP,1,"...","All industries ","Number of jobs",121753,121071,123757,123224,124474,127240,126821,127405,102494,109595
+ "26000","Michigan",3,SAOEMP,2,"..."," Private industries ","Number of jobs",116451,115689,118316,117840,119149,122044,121769,122132,97177,104178
+ "26000","Michigan",3,SAOEMP,3,"...","  Agriculture, forestry, fishing, and hunting ","Number of jobs",2215,2233,2361,2396,2695,2893,2943,2969,2685,3123
+ "26000","Michigan",3,SAOEMP,4,"...","  Mining ","Number of jobs",3,3,3,2,2,4,4,4,6,6
+ "26000","Michigan",3,SAOEMP,5,"...","  Utilities ","Number of jobs",0,0,0,0,0,0,0,0,0,0
+ "26000","Michigan",3,SAOEMP,6,"...","  Construction ","Number of jobs",1406,1288,1321,1372,1202,1086,1033,1041,1021,1061
+ "26000","Michigan",3,SAOEMP,7,"...","  Manufacturing ","Number of jobs",5025,5109,5070,5190,5344,5752,6033,6469,6461,7223
+ "26000","Michigan",3,SAOEMP,8,"...","   Durable goods ","Number of jobs",3256,3373,3351,3429,3482,3782,4128,4497,4363,4944
+ "26000","Michigan",3,SAOEMP,9,"...","   Nondurable goods ","Number of jobs",1770,1736,1719,1761,1862,1970,1906,1972,2098,2279
+ "26000","Michigan",3,SAOEMP,10,"...","  Wholesale trade ","Number of jobs",2942,2890,2924,3004,2984,3076,3113,3098,2822,2872
+ "26000","Michigan",3,SAOEMP,11,"...","  Retail trade ","Number of jobs",50040,49903,49831,49545,49140,49096,47843,46821,41839,41318
+ "26000","Michigan",3,SAOEMP,12,"...","  Transportation and warehousing ","Number of jobs",4117,4009,4149,3986,4132,4324,4511,4660,3365,4246
+ "26000","Michigan",3,SAOEMP,13,"...","  Information ","Number of jobs",150,150,149,151,147,141,140,133,144,352
+ "26000","Michigan",3,SAOEMP,14,"...","  Finance, insurance, real estate, rental, and leasing ","Number of jobs",1687,1858,1568,1550,1556,1557,1664,1801,1548,1579
+ "26000","Michigan",3,SAOEMP,15,"...","   Finance and insurance ","Number of jobs",562,534,502,482,469,462,442,484,459,451
+ "26000","Michigan",3,SAOEMP,16,"...","   Real estate and rental and leasing ","Number of jobs",1125,1324,1065,1068,1087,1096,1222,1317,1089,1128
+ "26000","Michigan",3,SAOEMP,17,"...","  Professional and business services ","Number of jobs",1569,1601,1640,1729,1821,1755,1740,1653,1121,1061
+ "26000","Michigan",3,SAOEMP,18,"...","  Educational services, health care, and social assistance ","Number of jobs",1730,1866,1994,2104,2271,2418,2452,2421,1914,2094
+ "26000","Michigan",3,SAOEMP,19,"...","   Educational services ","Number of jobs",1602,1739,1863,1973,2136,2275,2311,2274,1776,1944
+ "26000","Michigan",3,SAOEMP,20,"...","   Health care and social assistance ","Number of jobs",128,128,131,131,135,142,141,146,138,149
+ "26000","Michigan",3,SAOEMP,21,"...","  Arts, entertainment, recreation, accommodation, and food services ","Number of jobs",43847,43041,45477,44933,45900,47970,48230,48956,32197,37187
+ "26000","Michigan",3,SAOEMP,22,"...","   Arts, entertainment, and recreation ","Number of jobs",22095,22925,24464,24495,25304,25849,26569,27161,18276,20204
+ "26000","Michigan",3,SAOEMP,23,"...","   Accommodation and food services ","Number of jobs",21752,20116,21012,20438,20596,22122,21661,21794,13921,16983
+ "26000","Michigan",3,SAOEMP,24,"...","  Other services, except government ","Number of jobs",1719,1738,1831,1880,1954,1970,2063,2106,2055,2055
+ "26000","Michigan",3,SAOEMP,25,"..."," Government ","Number of jobs",5302,5382,5440,5384,5325,5196,5052,5273,5317,5418
+ "26000","Michigan",3,SAOEMP,26,"...","  Federal ","Number of jobs",370,321,313,214,230,240,251,182,162,160
+ "26000","Michigan",3,SAOEMP,27,"...","  State and local ","Number of jobs",4932,5062,5128,5170,5095,4956,4801,5091,5155,5258
+"Note: See the included footnote file."
+"SAOEMP: Outdoor recreation satellite account employment 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

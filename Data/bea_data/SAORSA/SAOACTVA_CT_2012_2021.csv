@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "09000","Connecticut",1,SAOACTVA,1,"...","Total Outdoor Recreation ","Thousands of dollars",3266965,3398427,3378492,3435414,3484110,3509312,3562936,3686421,3279524,3920677
+ "09000","Connecticut",1,SAOACTVA,2,"..."," Total Core Outdoor Recreation ","Thousands of dollars",1974077,2046814,2046009,2081151,2103574,2146289,2146823,2164948,2089771,2258532
+ "09000","Connecticut",1,SAOACTVA,3,"...","  Conventional Outdoor Recreation ","Thousands of dollars",1341817,1402676,1383213,1410031,1425504,1441668,1393414,1414070,1518498,1550099
+ "09000","Connecticut",1,SAOACTVA,4,"...","   Bicycling ","Thousands of dollars",19756,20572,20134,18380,19827,22466,20488,26306,36076,36761
+ "09000","Connecticut",1,SAOACTVA,5,"...","   Boating/Fishing ","Thousands of dollars",216389,218273,225787,234405,244634,246527,243410,264100,385971,276097
+ "09000","Connecticut",1,SAOACTVA,6,"...","    Canoeing/Kayaking ","Thousands of dollars",6119,4929,4757,4558,4497,4214,3896,4191,5673,10007
+ "09000","Connecticut",1,SAOACTVA,7,"...","    Fishing (excludes Boating) ","Thousands of dollars",17077,16809,16954,18584,25593,30828,28440,28350,33766,34995
+ "09000","Connecticut",1,SAOACTVA,8,"...","    Sailing ","Thousands of dollars",29145,31856,33744,34652,36359,33570,34745,40641,25661,25458
+ "09000","Connecticut",1,SAOACTVA,9,"...","    Other Boating ","Thousands of dollars",164048,164680,170333,176610,178186,177916,176329,190918,320870,205636
+ "09000","Connecticut",1,SAOACTVA,10,"...","   Climbing/Hiking/Tent Camping ","Thousands of dollars",39609,41530,42176,43108,38969,41846,41525,43958,47698,66180
+ "09000","Connecticut",1,SAOACTVA,11,"...","   Equestrian ","Thousands of dollars",20549,21715,25700,26787,30182,32911,35313,33303,30833,32953
+ "09000","Connecticut",1,SAOACTVA,12,"...","   Hunting/Shooting/Trapping ","Thousands of dollars",130406,178957,142627,143987,171844,145625,136208,129018,165550,179246
+ "09000","Connecticut",1,SAOACTVA,13,"...","    Hunting/Trapping ","Thousands of dollars",55075,75923,60122,60759,73389,53920,53312,46236,56796,61217
+ "09000","Connecticut",1,SAOACTVA,14,"...","    Shooting (includes Archery) ","Thousands of dollars",75331,103034,82506,83228,98456,91705,82896,82782,108753,118029
+ "09000","Connecticut",1,SAOACTVA,15,"...","   Motorcycling/ATVing ","Thousands of dollars",84941,83678,86845,87335,89447,76228,73197,77278,74913,79040
+ "09000","Connecticut",1,SAOACTVA,16,"...","   Recreational Flying ","Thousands of dollars",16171,15072,15965,16488,17266,16078,16642,14852,9752,10118
+ "09000","Connecticut",1,SAOACTVA,17,"...","   RVing ","Thousands of dollars",93450,94748,97334,101940,99425,98489,99651,102621,107381,115250
+ "09000","Connecticut",1,SAOACTVA,18,"...","   Snow Activities ","Thousands of dollars",53020,49069,53275,53236,50762,49496,50183,49998,46283,44578
+ "09000","Connecticut",1,SAOACTVA,19,"...","    Skiing/Snowboarding ","Thousands of dollars",23596,22494,24924,25433,23637,21431,21207,21854,16190,19776
+ "09000","Connecticut",1,SAOACTVA,20,"...","    Other Snow Activities (includes Snowmobiling) 2/","Thousands of dollars",29425,26576,28351,27802,27125,28065,28976,28144,30092,24803
+ "09000","Connecticut",1,SAOACTVA,21,"...","   Other Conventional Outdoor Recreation Activities ","Thousands of dollars",81995,83589,85154,87978,83053,94687,91125,98950,123831,158618
+ "09000","Connecticut",1,SAOACTVA,22,"...","    Other Conventional Air and Land Activities 3/","Thousands of dollars",62638,64558,65218,65115,60990,73163,69122,70081,89244,116242
+ "09000","Connecticut",1,SAOACTVA,23,"...","    Other Conventional Water Activities 4/","Thousands of dollars",19357,19031,19936,22863,22063,21523,22004,28868,34587,42376
+ "09000","Connecticut",1,SAOACTVA,24,"...","   Multi-use Apparel and Accessories (Conventional) 5/","Thousands of dollars",585532,595474,588216,596387,580094,617314,585671,573688,490212,551259
+ "09000","Connecticut",1,SAOACTVA,25,"...","  Other Outdoor Recreation ","Thousands of dollars",632259,644138,662797,671120,678070,704621,753410,750878,571272,708433
+ "09000","Connecticut",1,SAOACTVA,26,"...","   Amusement Parks/Water Parks ","Thousands of dollars",36065,38307,40593,44556,47880,55550,58840,58992,37139,53468
+ "09000","Connecticut",1,SAOACTVA,27,"...","   Festivals/Sporting Events/Concerts ","Thousands of dollars",51153,53686,56105,50553,52894,53424,53798,51938,32570,42148
+ "09000","Connecticut",1,SAOACTVA,28,"...","   Field Sports ","Thousands of dollars",30451,30201,31134,31162,30604,35449,36297,38524,37869,46993
+ "09000","Connecticut",1,SAOACTVA,29,"...","   Game Areas (includes Golfing and Tennis) ","Thousands of dollars",225857,229561,232660,232878,236254,234602,245528,254420,195824,221592
+ "09000","Connecticut",1,SAOACTVA,30,"...","   Guided Tours/Outfitted Travel ","Thousands of dollars",107777,102811,109992,108821,107909,129840,162581,145108,79301,128228
+ "09000","Connecticut",1,SAOACTVA,31,"...","    Air and Land Guided Tours/Outfitted Travel ","Thousands of dollars",66298,62781,69684,71182,73746,88756,117562,100829,51334,88600
+ "09000","Connecticut",1,SAOACTVA,32,"...","    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters) ","Thousands of dollars",41479,40029,40307,37639,34163,41083,45020,44279,27967,39627
+ "09000","Connecticut",1,SAOACTVA,33,"...","   Productive Activities (includes Gardening) ","Thousands of dollars",37439,40543,41566,46520,49330,52625,52238,51406,57960,64052
+ "09000","Connecticut",1,SAOACTVA,34,"...","   Other Outdoor Recreation Activities 6/","Thousands of dollars",89466,91484,94113,98906,95287,95088,98765,103689,86725,96539
+ "09000","Connecticut",1,SAOACTVA,35,"...","   Multi-use Apparel and Accessories (Other) 5/","Thousands of dollars",54052,57546,56634,57724,57912,48043,45363,46801,43884,55415
+ "09000","Connecticut",1,SAOACTVA,36,"..."," Supporting Outdoor Recreation ","Thousands of dollars",1292888,1351612,1332482,1354264,1380535,1363022,1416113,1521473,1189753,1662145
+ "09000","Connecticut",1,SAOACTVA,37,"...","   Construction ","Thousands of dollars",33617,31000,36156,40543,44824,47975,51020,53173,51269,48827
+ "09000","Connecticut",1,SAOACTVA,38,"...","   Local Trips 7/","Thousands of dollars",282428,285514,296592,304982,302069,297945,305401,309259,306582,347212
+ "09000","Connecticut",1,SAOACTVA,39,"...","   Travel and Tourism 8/","Thousands of dollars",837532,887500,845026,849684,879378,868422,914253,1007227,671748,1096799
+ "09000","Connecticut",1,SAOACTVA,40,"...","    Food and Beverages ","Thousands of dollars",179941,168661,150829,145756,162167,157939,171530,193329,111016,252257
+ "09000","Connecticut",1,SAOACTVA,41,"...","    Lodging ","Thousands of dollars",197623,239097,205857,208053,217755,212863,226626,252374,194571,321560
+ "09000","Connecticut",1,SAOACTVA,42,"...","    Shopping and Souvenirs ","Thousands of dollars",188567,203530,197252,193550,189345,186759,193588,207157,231287,259511
+ "09000","Connecticut",1,SAOACTVA,43,"...","    Transportation ","Thousands of dollars",271401,276211,291089,302326,310112,310862,322509,354366,134874,263470
+ "09000","Connecticut",1,SAOACTVA,44,"...","   Government Expenditures ","Thousands of dollars",139311,147599,154708,159055,154264,148680,145438,151814,160154,169307
+ "09000","Connecticut",1,SAOACTVA,45,"...","    Federal Government ","Thousands of dollars",213,242,243,271,318,354,373,254,223,233
+ "09000","Connecticut",1,SAOACTVA,46,"...","    State and Local Government ","Thousands of dollars",139098,147356,154466,158783,153945,148326,145065,151560,159931,169074
+"Note: See the included footnote file."
+"SAOACTVA: Outdoor recreation satellite account activities - value added 1/"
+"Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"
