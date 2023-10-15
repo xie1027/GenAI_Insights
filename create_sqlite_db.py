@@ -1,5 +1,5 @@
 """
-Read in CSV files and create a SQLite database
+Read CSV, XML, and HTML files and create a SQLite database
 """
 import sqlite3
 import pathlib
@@ -127,7 +127,7 @@ for f in html_files:
     list_items: bs4.element.ResultSet = list_element.find_all("li")
 
     # save the list items in a Python list
-    result: list = []
+    result: list[str] = []
     for item in list_items:
         result.append(item.text.strip())
 
@@ -144,9 +144,21 @@ for f in html_files:
 # List all tables in SQLite database
 cursor = db.cursor()
 cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-logger.info(cursor.fetchall())
+tables: list[tuple] = cursor.fetchall()
+logger.info(tables)
 
-# Close database connection
+# List all columns and types in SQLite database
+for table_name in tables:
+    logger.info(f"Table Name: {table_name[0]}")
+    cursor.execute(f"PRAGMA table_info({table_name[0]})")
+    columns = cursor.fetchall()
+    for column in columns:
+        logger.info(f"Column Name: {column[1]}")
+        logger.info(f"Column Type: {column[2]}")
+    logger.info("\n")
+
+# Close the cursor and connection
+cursor.close()
 db.close()
 
 # End time
