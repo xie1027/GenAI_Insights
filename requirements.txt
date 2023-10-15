@@ -40,6 +40,7 @@ frozenlist==1.4.0
 fsspec==2023.9.0
 greenlet==2.0.2
 h11==0.14.0
+html5lib==1.1
 httptools==0.6.0
 huggingface-hub==0.16.4
 humanfriendly==10.0
@@ -138,5 +139,6 @@ uvicorn==0.23.2
 uvloop==0.17.0
 watchfiles==0.20.0
 wcwidth==0.2.6
+webencodings==0.5.1
 websockets==11.0.3
 yarl==1.9.2
