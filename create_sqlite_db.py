@@ -5,6 +5,7 @@ import sqlite3
 import pathlib
 import logging
 import datetime
+import bs4
 import xml.etree.ElementTree as ET
 from pandas import DataFrame, read_csv
 from typing import Generator
@@ -33,8 +34,11 @@ bea_dir: pathlib.PosixPath = data_dir / "bea_data"
 # Get the CSV files, which contain all states
 csv_files: Generator = bea_dir.glob("**/*ALL*.csv")
 
-# Get the XML meta data files
-xml_files: Generator = bea_dir.glob("**/*.xml")
+# Get the XML definition files
+xml_files: Generator = bea_dir.glob("**/*definition*.xml")
+
+# Get the HTML footnotes files
+html_files: Generator = bea_dir.glob("**/*Footnotes*.html")
 
 # Read CSV files into a dictionary of DataFrames
 dfs: dict[str, DataFrame] = {
@@ -83,7 +87,7 @@ acs_df: DataFrame = read_csv(data_dir / "ACS_2012_21.csv")
 acs_df.to_sql(name="acs", con=db, if_exists="replace", index=False)
 logger.info(f"acs loaded into database")
 
-# Load XML meta data into SQLite database
+# Load XML definition data into SQLite database
 for f in xml_files:
     # Parse the XML file
     tree = ET.parse(f)
@@ -101,9 +105,39 @@ for f in xml_files:
     df = DataFrame(data)
 
     # XML meta data file name
-    file_name: str = f"{f.stem[: f.stem.index('__')].lower()}_meta_data"
+    file_name: str = f"{f.stem[: f.stem.index('__')].lower()}_definitions"
 
     # Load XML meta data into SQLite database
+    df.to_sql(name=file_name, con=db, if_exists="replace", index=False)
+    logger.info(f"{file_name} loaded into database")
+
+# Load HTML footnote data into SQLite database
+for f in html_files:
+    # read the HTML file
+    with open(f, "r") as raw_html:
+        html: str = raw_html.read()
+
+    # parse the HTML using BeautifulSoup
+    soup: bs4.BeautifulSoup = bs4.BeautifulSoup(html, "html.parser")
+
+    # find the list element
+    list_element: bs4.element.Tag = soup.find("ul")
+
+    # extract the list items
+    list_items: bs4.element.ResultSet = list_element.find_all("li")
+
+    # save the list items in a Python list
+    result: list = []
+    for item in list_items:
+        result.append(item.text.strip())
+
+    # Create a DataFrame
+    df: DataFrame = DataFrame(result, columns=["Footnotes"])
+
+    # HTML footnote file name
+    file_name: str = f"{f.stem[: f.stem.index('__')].lower()}_footnotes"
+
+    # Load HTML footnote data into SQLite database
     df.to_sql(name=file_name, con=db, if_exists="replace", index=False)
     logger.info(f"{file_name} loaded into database")
 
