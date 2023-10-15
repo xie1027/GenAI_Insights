@@ -5,6 +5,7 @@ import sqlite3
 import pathlib
 import logging
 import datetime
+import xml.etree.ElementTree as ET
 from pandas import DataFrame, read_csv
 from typing import Generator
 
@@ -31,6 +32,9 @@ bea_dir: pathlib.PosixPath = data_dir / "bea_data"
 
 # Get the CSV files, which contain all states
 csv_files: Generator = bea_dir.glob("**/*ALL*.csv")
+
+# Get the XML meta data files
+xml_files: Generator = bea_dir.glob("**/*.xml")
 
 # Read CSV files into a dictionary of DataFrames
 dfs: dict[str, DataFrame] = {
@@ -78,6 +82,30 @@ for k, v in dfs.items():
 acs_df: DataFrame = read_csv(data_dir / "ACS_2012_21.csv")
 acs_df.to_sql(name="acs", con=db, if_exists="replace", index=False)
 logger.info(f"acs loaded into database")
+
+# Load XML meta data into SQLite database
+for f in xml_files:
+    # Parse the XML file
+    tree = ET.parse(f)
+    root = tree.getroot()
+
+    # Extract the data from the XML file
+    data = []
+    for child in root:
+        row = {}
+        for subchild in child:
+            row[subchild.tag] = subchild.text
+        data.append(row)
+
+    # Create a pandas dataframe from the extracted data
+    df = DataFrame(data)
+
+    # XML meta data file name
+    file_name: str = f"{f.stem[: f.stem.index('__')].lower()}_meta_data"
+
+    # Load XML meta data into SQLite database
+    df.to_sql(name=file_name, con=db, if_exists="replace", index=False)
+    logger.info(f"{file_name} loaded into database")
 
 # List all tables in SQLite database
 cursor = db.cursor()
