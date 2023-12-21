@@ -24,7 +24,6 @@ Modules:
 
 """
 
-import openai
 import pandas as pd
 from pathlib import Path, PosixPath
 from typing import NamedTuple
@@ -32,20 +31,9 @@ from tabulate import tabulate
 from dotenv import dotenv_values
 from langchain import OpenAI
 import sqlite3
-
-...
-import openai
-import pandas as pd
-from pathlib import Path, PosixPath
-from typing import NamedTuple
-from tabulate import tabulate
-from dotenv import dotenv_values
-from langchain import OpenAI
-
 # from langchain.llms import OpenAI
 
 
-# from langchain.utilities import SQLDatabase
 class ColumnDetail(NamedTuple):
     """
     Represents the details of a column in a dataset.
