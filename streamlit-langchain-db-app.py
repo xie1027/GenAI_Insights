@@ -15,26 +15,6 @@ What are the distinct years in the acs table?
 How many five to nine year olds are in Alabama in 2021?
     301,814
 
-Usage Examples:
-
-# Instantiate the DataAIQuestioner class
-questioner = DataAIQuestioner(
-    question="How many nine year olds were in Kentucky in 2020?",
-    db_path=Parameters.db_path,
-    openai_api_key=Parameters.openai_api_key,
-)
-# Execute the data analysis
-questioner.execute_data_analysis()
-
-# Instantiate the DataAIQuestioner class
-questioner = DataAIQuestioner(
-    question="How many nine year olds were in Kentucky by year?",
-    db_path=Parameters.db_path,
-    openai_api_key=Parameters.openai_api_key,
-)
-# Execute the data analysis
-questioner.execute_data_analysis()
-
 pip install setuptools
 streamlit run streamlit-langchain-db-app.py
 """
