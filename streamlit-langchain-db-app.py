@@ -35,10 +35,12 @@ questioner = DataAIQuestioner(
 # Execute the data analysis
 questioner.execute_data_analysis()
 
+pip install setuptools
 streamlit run streamlit-langchain-db-app.py
 """
 import streamlit as st
 from ai_db_tools import Parameters, DataAIQuestioner
+# import streamlit_scrollable_textbox as stx
 
 # Storing the response
 if 'generated' not in st.session_state:
@@ -72,6 +74,7 @@ def main():
         st.text(questioner.question)
         st.divider()
         st.subheader("SQL Prompt:")
+        # stx.scrollableTextbox(questioner.Answer.sql_prompt)
         st.text(questioner.Answer.sql_prompt)
         st.divider()
         st.subheader("SQL:")
@@ -81,6 +84,7 @@ def main():
         st.text(questioner.Answer.table_text)
         st.divider()
         st.subheader("Readable Format Prompt:")
+        # stx.scrollableTextbox(questioner.Answer.put_in_readable_format_prompt)
         st.text(questioner.Answer.put_in_readable_format_prompt)
         st.divider()
         st.subheader("Readable Format:")
@@ -98,9 +102,12 @@ def main():
         st.subheader("Plot Code Error:")
         st.text(questioner.DFPlot.plot_code_error)
         st.divider()
-        st.subheader("Plot:")
-        st.image("_plot.png", caption=questioner.question)
-        st.divider()
+        try:
+            st.subheader("Plot:")
+            st.image("_plot.png", caption=questioner.question)
+            st.divider()
+        except:
+            st.write("No plot available")
 
 
 if __name__ == '__main__':
