@@ -58,8 +58,6 @@ from dotenv import dotenv_values
 from langchain import OpenAI
 import sqlite3
 
-# from langchain.llms import OpenAI
-
 
 class ColumnDetail(NamedTuple):
     """
@@ -69,11 +67,15 @@ class ColumnDetail(NamedTuple):
         name (str): The name of the column.
         type (str): The data type of the column.
         values (list[str | int | float]): The values present in the column.
+        min_value (str | int | float): The minimum value in the column.
+        max_value (str | int | float): The maximum value in the column.
     """
 
-    name: str
-    type: str
-    values: list[str | int | float]
+    name: str = None
+    type: str = None
+    values: list[str | int | float] = None
+    min_value: str | int | float = None
+    max_value: str | int | float = None
 
 
 def get_env_values() -> dict[str, str | None]:
@@ -178,6 +180,17 @@ class DatabaseInfoExtractor:
             self.cursor.execute(f"SELECT * FROM {table_name} LIMIT 5;")
             records: list[tuple] = self.cursor.fetchall()
             tables[table_name]["records"] = records
+
+            # Get the min and max values for each column
+            min_values: list[str | int | float] = []
+            max_values: list[str | int | float] = []
+            for column in columns:
+                self.cursor.execute(f"""SELECT MIN("{column}") FROM {table_name};""")
+                min_values.append(self.cursor.fetchone()[0])
+                self.cursor.execute(f"""SELECT MAX("{column}") FROM {table_name};""")
+                max_values.append(self.cursor.fetchone()[0])
+                tables[table_name]["min_values"] = min_values
+                tables[table_name]["max_values"] = max_values
 
         return tables
 
@@ -467,11 +480,27 @@ class DatabaseInfoFormatter:
             for i in range(len(self.db_info[table_name]["columns"]))
         ]
 
-        col_details: list[tuple[str, str, list[str | int | float]]] = list(
+        min_values: list[str | int | float] = [
+            f"""'{self.db_info[table_name]["min_values"][i]}'"""
+            if self.db_info[table_name]["column_types"][i] == "TEXT"
+            else self.db_info[table_name]["min_values"][i]
+            for i in range(len(self.db_info[table_name]["columns"]))
+        ]
+
+        max_values: list[str | int | float] = [
+            f"""'{self.db_info[table_name]["max_values"][i]}'"""
+            if self.db_info[table_name]["column_types"][i] == "TEXT"
+            else self.db_info[table_name]["max_values"][i]
+            for i in range(len(self.db_info[table_name]["columns"]))
+        ]
+
+        col_details: list[tuple[str, str, list[str | int | float], str | int | float, str | int | float]] = list(
             zip(
                 self.db_info[table_name]["columns"],
                 self.db_info[table_name]["column_types"],
                 values,
+                min_values,  # self.db_info[table_name]["min_values"],
+                max_values,  # self.db_info[table_name]["max_values"],
             )
         )
 
@@ -481,11 +510,11 @@ class DatabaseInfoFormatter:
 
     def format_db_info_for_tabulation(
         self,
-    ) -> dict[str, list[str, str, str, list[str | int | float]]]:
+    ) -> dict[str, list[str, str, str, list[str | int | float], str | int | float, str | int | float]]:
         """
         Format the database information for tabulation.
         """
-        table_summaries: dict[str, list[str, str, str, list[str | int | float]]] = {}
+        table_summaries: dict[str, list[str, str, str, list[str | int | float], str | int | float, str | int | float]] = {}
 
         for table_name, table_info in self.db_info.items():
             table_summary = []
@@ -495,7 +524,7 @@ class DatabaseInfoFormatter:
 
             for col_detail in column_details.values():
                 table_summary.append(
-                    [table_name, col_detail.name, col_detail.type, col_detail.values]
+                    [table_name, col_detail.name, col_detail.type, col_detail.values, col_detail.min_value, col_detail.max_value]
                 )
 
             table_summaries[table_name] = table_summary
@@ -561,6 +590,8 @@ class DataAIQuestioner:
             "Column Name",
             "Column Type",
             "First Five Column Values",
+            "Minimum Column Value",
+            "Maximum Column Value",
         ]
         # Table text for ACS table
         self.table_text: str = (
@@ -710,6 +741,8 @@ class PythonDataAIQuestioner:
             "Column Name",
             "Column Type",
             "First Five Column Values",
+            "Minimum Column Value",
+            "Maximum Column Value",
         ]
         # Table text for ACS table
         self.table_text: str = (
