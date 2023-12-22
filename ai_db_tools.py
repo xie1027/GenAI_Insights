@@ -70,14 +70,14 @@ class ColumnDetail(NamedTuple):
     Attributes:
         name (str): The name of the column.
         type (str): The data type of the column.
-        values (list[str | int | float]): The values present in the column.
+        # values (list[str | int | float]): The values present in the column.
         min_value (str | int | float): The minimum value in the column.
         max_value (str | int | float): The maximum value in the column.
     """
 
     name: str = None
     type: str = None
-    values: list[str_int_float] = None
+    # values: list[str_int_float] = None
     min_value: str_int_float = None
     max_value: str_int_float = None
 
@@ -499,12 +499,11 @@ class DatabaseInfoFormatter:
         ]
 
         col_details: list[
-            tuple[str, str, list[str_int_float], str_int_float, str_int_float]
+            tuple[str, str, str_int_float, str_int_float]
         ] = list(
             zip(
                 self.db_info[table_name]["columns"],
                 self.db_info[table_name]["column_types"],
-                values,
                 min_values,  # self.db_info[table_name]["min_values"],
                 max_values,  # self.db_info[table_name]["max_values"],
             )
@@ -518,7 +517,7 @@ class DatabaseInfoFormatter:
         self,
     ) -> dict[
         str,
-        list[str, str, str, list[str_int_float], str_int_float, str_int_float],
+        list[str, str, str, str_int_float, str_int_float],
     ]:
         """
         Format the database information for tabulation.
@@ -529,7 +528,6 @@ class DatabaseInfoFormatter:
                 str,
                 str,
                 str,
-                list[str_int_float],
                 str_int_float,
                 str_int_float,
             ],
@@ -547,7 +545,6 @@ class DatabaseInfoFormatter:
                         table_name,
                         col_detail.name,
                         col_detail.type,
-                        col_detail.values,
                         col_detail.min_value,
                         col_detail.max_value,
                     ]
@@ -613,7 +610,7 @@ class DataAIQuestioner:
             "Table Name",
             "Column Name",
             "Column Type",
-            "First Five Column Values",
+            # "First Five Column Values",
             "Minimum Column Value",
             "Maximum Column Value",
         ]
@@ -762,7 +759,7 @@ class PythonDataAIQuestioner:
             "Table Name",
             "Column Name",
             "Column Type",
-            "First Five Column Values",
+            # "First Five Column Values",
             "Minimum Column Value",
             "Maximum Column Value",
         ]
