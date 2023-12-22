@@ -15,32 +15,34 @@ What are the distinct years in the acs table?
 How many five to nine year olds are in Alabama in 2021?
     301,814
 
+Usage Examples:
+
+# Instantiate the DataAIQuestioner class
+questioner = DataAIQuestioner(
+    question="How many nine year olds were in Kentucky in 2020?",
+    db_path=Parameters.db_path,
+    openai_api_key=Parameters.openai_api_key,
+)
+# Execute the data analysis
+questioner.execute_data_analysis()
+
+# Instantiate the DataAIQuestioner class
+questioner = DataAIQuestioner(
+    question="How many nine year olds were in Kentucky by year?",
+    db_path=Parameters.db_path,
+    openai_api_key=Parameters.openai_api_key,
+)
+# Execute the data analysis
+questioner.execute_data_analysis()
+
 streamlit run streamlit-langchain-db-app.py
 """
 import streamlit as st
-from dotenv import load_dotenv
-from langchain.chat_models import ChatOpenAI
-from langchain import SQLDatabase
-from langchain_experimental.sql import SQLDatabaseChain
+from ai_db_tools import Parameters, DataAIQuestioner
 
 # Storing the response
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
-
-def generate_response(message):
-    # Connect to the database
-    # dburi = "sqlite:///Data/data.sqlite3"
-    dburi = "sqlite:///Data/acs.sqlite3"
-    db = SQLDatabase.from_uri(dburi)
-
-    # Create an instance of LLM
-    llm = ChatOpenAI()
-
-    # Create an SQLDatabaseChain using the ChatOpenAI model and the database
-    db_chain = SQLDatabaseChain.from_llm(llm=llm, db=db)
-    ai_response = db_chain.run(message)
-
-    return ai_response
 
 def get_text():
     # Get user input from text input field
@@ -48,22 +50,58 @@ def get_text():
     return input_text  
 
 def main():
-    # Load environment variables
-    load_dotenv()
-
     # Display header
     st.header('Query Database Like you Chat')
 
     # Get user input
     user_input = get_text()
 
+    # Generate response for the user input
     if user_input:
-        # Generate response for the user input
-        st.session_state["generated"] = generate_response(user_input)
+        questioner = DataAIQuestioner(
+            question=user_input,
+            db_path=Parameters.db_path,
+            openai_api_key=Parameters.openai_api_key,
+        )
 
-    if st.session_state['generated']:
-        # Display the generated response
-        st.write(st.session_state['generated'])
+        # Execute the data analysis
+        questioner.execute_data_analysis()
+
+        st.divider()
+        st.subheader("Question:")
+        st.text(questioner.question)
+        st.divider()
+        st.subheader("SQL Prompt:")
+        st.text(questioner.Answer.sql_prompt)
+        st.divider()
+        st.subheader("SQL:")
+        st.text(questioner.Answer.sql)
+        st.divider()
+        st.subheader("Result:")
+        st.text(questioner.Answer.table_text)
+        st.divider()
+        st.subheader("Readable Format Prompt:")
+        st.text(questioner.Answer.put_in_readable_format_prompt)
+        st.divider()
+        st.subheader("Readable Format:")
+        st.text(questioner.Answer.cleaned_result)
+        st.divider()
+        st.subheader("Plot Prompt:")
+        st.text(questioner.DFPlot.prompt)
+        st.divider()
+        st.subheader("Python Code for Plot:")
+        st.text(questioner.DFPlot.python_code)
+        st.divider()
+        st.header("More than one data point:")
+        st.text(questioner.DFPlot.more_than_one_data_point)
+        st.divider()
+        st.subheader("Plot Code Error:")
+        st.text(questioner.DFPlot.plot_code_error)
+        st.divider()
+        st.subheader("Plot:")
+        st.image("_plot.png", caption=questioner.question)
+        st.divider()
+
 
 if __name__ == '__main__':
     main()

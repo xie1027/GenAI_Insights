@@ -23,7 +23,7 @@ Modules:
 - sqlite3: Provides a lightweight database engine.
 
 """
-
+import os
 import pandas as pd
 from pathlib import Path, PosixPath
 from typing import NamedTuple
@@ -321,6 +321,7 @@ Please return Python code to plot Pandas DataFrame {self.df_name}, containing th
 {self.table_text}
 
 The code should not create a new data frame but use the existing Pandas DataFrame, {self.df_name}.
+Also, the code should not show the plot, but save it as a file named "_plot.png".
 
 The data answers this question:
 
@@ -532,24 +533,25 @@ class DataAIQuestioner:
 
         Note: Make sure to call this method after setting up the necessary configurations and inputs.
         """
+        os.system("rm _plot.png")
         self.instantiate_db_info_extractor()
         self.connect_to_database()
         self.instantiate_llm()
         self.instantiate_answer_generator()
         self.instantiate_dataframe_plotter()
 
-        print(self.question)
+        # print(self.question)
 
-        print(self.Answer.sql_prompt)
-        print(self.Answer.sql)
-        print(self.Answer.table_text)
-        print(self.Answer.put_in_readable_format_prompt)
-        print(self.Answer.cleaned_result)
+        # print(self.Answer.sql_prompt)
+        # print(self.Answer.sql)
+        # print(self.Answer.table_text)
+        # print(self.Answer.put_in_readable_format_prompt)
+        # print(self.Answer.cleaned_result)
 
-        print(self.DFPlot.prompt)
-        print(self.DFPlot.python_code)
+        # print(self.DFPlot.prompt)
+        # print(self.DFPlot.python_code)
 
         self.DFPlot.plot()
 
-        print(self.DFPlot.more_than_one_data_point)
-        print(self.DFPlot.plot_code_error)
+        # print(self.DFPlot.more_than_one_data_point)
+        # print(self.DFPlot.plot_code_error)
