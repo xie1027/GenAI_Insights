@@ -23,17 +23,19 @@ from ai_db_tools import Parameters, DataAIQuestioner
 # import streamlit_scrollable_textbox as stx
 
 # Storing the response
-if 'generated' not in st.session_state:
-    st.session_state['generated'] = []
+if "generated" not in st.session_state:
+    st.session_state["generated"] = []
+
 
 def get_text():
     # Get user input from text input field
     input_text = st.text_input("You: ", "", key="input")
-    return input_text  
+    return input_text
+
 
 def main():
     # Display header
-    st.header('Query Database Like you Chat')
+    st.header("Query Database Like you Chat")
 
     # Get user input
     user_input = get_text()
@@ -54,7 +56,9 @@ def main():
         st.text(questioner.question)
         st.divider()
         st.subheader("SQL Prompt:")
-        # stx.scrollableTextbox(questioner.Answer.sql_prompt)
+        # stx.scrollableTextbox(
+        #     text=questioner.Answer.sql_prompt, height=300, fontFamily="courier"
+        # )
         st.text(questioner.Answer.sql_prompt)
         st.divider()
         st.subheader("SQL:")
@@ -64,7 +68,11 @@ def main():
         st.text(questioner.Answer.table_text)
         st.divider()
         st.subheader("Readable Format Prompt:")
-        # stx.scrollableTextbox(questioner.Answer.put_in_readable_format_prompt)
+        # stx.scrollableTextbox(
+        #     questioner.Answer.put_in_readable_format_prompt,
+        #     height=300,
+        #     fontFamily="courier",
+        # )
         st.text(questioner.Answer.put_in_readable_format_prompt)
         st.divider()
         st.subheader("Readable Format:")
@@ -90,5 +98,5 @@ def main():
             st.write("No plot available")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
