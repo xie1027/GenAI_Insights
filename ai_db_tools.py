@@ -48,6 +48,10 @@ questioner = DataAIQuestioner(
 )
 # Execute the data analysis
 questioner.execute_data_analysis()
+
+gpt-3.5-turbo-1106
+gpt-3.5-turbo-instruct
+DEPRICATED: text-davinci-003
 """
 import os
 import pandas as pd
