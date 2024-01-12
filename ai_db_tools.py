@@ -636,7 +636,7 @@ class DataAIQuestioner:
         Instantiates the OpenAI language model.
         """
         self.llm = OpenAI(
-            model_name="text-davinci-003", openai_api_key=self.openai_api_key
+            model_name="gpt-3.5-turbo-instruct", openai_api_key=self.openai_api_key
         )
 
     def instantiate_answer_generator(self):
@@ -784,7 +784,7 @@ class PythonDataAIQuestioner:
         Instantiates the OpenAI language model.
         """
         self.llm = OpenAI(
-            model_name="text-davinci-003", openai_api_key=self.openai_api_key
+            model_name="gpt-3.5-turbo-instruct", openai_api_key=self.openai_api_key
         )
 
     def instantiate_answer_generator(self):
