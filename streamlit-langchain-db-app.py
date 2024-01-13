@@ -15,9 +15,26 @@ What are the distinct years in the acs table?
 How many five to nine year olds are in Alabama in 2021?
     301,814
 
+How many five to nine year olds were in Kentucky by year?
+
 How many nine year olds were in Kentucky by year?
+    Gave wrong answer
+
 How many five to nine year olds are in Kentucky by year?
+    Gave wrong answer
+
 For each year, how many five to nine year olds are in Kentucky?
+    YEAR | Number of 5 to 9 year olds in Kentucky 
+    2012 | 280790
+    2013 | 282464
+    2014 | 282577
+    2015 | 281090
+    2016 | 282564
+    2017 | 280088
+    2018 | 281151
+    2019 | 275466
+    2020 | 275013
+    2021 | 279548
 
 pip install setuptools
 streamlit run streamlit-langchain-db-app.py
