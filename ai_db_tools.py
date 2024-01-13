@@ -56,7 +56,7 @@ DEPRICATED: text-davinci-003
 import os
 import pandas as pd
 from pathlib import Path, PosixPath
-from typing import NamedTuple
+from typing import NamedTuple, TypeAlias
 from tabulate import tabulate
 from dotenv import dotenv_values
 from langchain import OpenAI
@@ -64,7 +64,11 @@ import sqlite3
 
 
 # Stirng, integer, abd float type hint
-str_int_float = str | int | float
+# str_int_float = str | int | float
+str_int_float: TypeAlias = str | int | float
+
+# Model name
+MODEL_NAME: str = "gpt-3.5-turbo-instruct"
 
 
 class ColumnDetail(NamedTuple):
@@ -640,7 +644,7 @@ class DataAIQuestioner:
         Instantiates the OpenAI language model.
         """
         self.llm = OpenAI(
-            model_name="gpt-3.5-turbo-instruct", openai_api_key=self.openai_api_key
+            model_name=MODEL_NAME, openai_api_key=self.openai_api_key
         )
 
     def instantiate_answer_generator(self):
@@ -788,7 +792,7 @@ class PythonDataAIQuestioner:
         Instantiates the OpenAI language model.
         """
         self.llm = OpenAI(
-            model_name="gpt-3.5-turbo-instruct", openai_api_key=self.openai_api_key
+            model_name=MODEL_NAME, openai_api_key=self.openai_api_key
         )
 
     def instantiate_answer_generator(self):
