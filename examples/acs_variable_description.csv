@@ -1,0 +1,64 @@
+variable,description
+state,State
+year,Year
+total_pop,Total population
+civilian_noninst_pop,Civilian noninstitutionalized population
+male,Male
+female,Female
+age_under_5,Age under 5 years
+age_5_9,Age  5 to 9 years
+age_10_14,Age 10 to 14 years
+age_15_19,Age  15 to 19 years
+age_20-24,Age 20 to 24 years
+age_25_34,Age  25 to 34 years
+age_35_44,Age 35 to 44 years
+age_35_54,Age 45 to 54 years
+age_55_59,Age 55 to 59 years
+age_60_64,Age 60 to 64 years
+age_65_74,Age 65 to 74 years
+age_75_84,Age 75 to 84 years
+age_over_85,85 years and over
+median_age,Median age (years)
+race_one,One race
+race_twomore,Two or more races
+race_white,Race White
+race_black,Race Black or African American
+race_ai_an,Race American Indian and Alaska Native
+race_asian,Race Asian
+race_island,Race Native Hawaiian and Other Pacific Islander
+race_others,Race Some other race
+race_hisp,Race Hispanic or Latino (of any race)
+race_nhisp,Race Not Hispanic or Latino
+native,Race Native
+Foreign_born,Race Foreign born
+other_lang,Language other than English
+pop_over16,Population 16 years and over
+in_lf,Population In labor force
+employed,Population Employed
+unemployed,Population Unemployed
+not_in_lf,Population Not in labor force
+Man_bus_sci_arts,"Occupations: Management, business, science, and arts"
+service,Occupations: Service
+sales_office,Occupations: Sales and office
+construction,"Occupations: Natural resources, construction, and maintenance"
+prod_tran_mov,"Occupations: Production, transportation, and material moving"
+median_f_income,Occupations: Median family income (dollars)
+mean_f_income,Occupations: Mean family income (dollars)
+per_cp_income,Occupations: Per capita income (dollars)
+pop_hea_ins,Occupations: With health insurance coverage
+pop_hea_ins_pri,Occupations: With private health insurance
+pop_hea_ins_pub,With public coverage
+pop_no_hea_ins,No health insurance coverage
+total_housing,Total housing units
+total_hh,Total households
+avg_hh_size,Average household size
+occ_housing,Occupied housing units
+vacant_housing,Vacant housing units
+ho_vac_rate,Homeowner vacancy rate
+ren_vac_rate,Rental vacancy rate
+ho_housing,Owner-occupied units
+median_rooms,Median rooms
+median_value,Median housing value (dollars)
+meidan_rent,Median rent (dollars)
+housing_mort,Housing units with a mortgage
+housing_wo_mort,Housing units without a mortgage
