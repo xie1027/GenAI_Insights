@@ -1,4 +1,3 @@
-# codes from: https://medium.com/@antonyseabra/unleashing-the-power-of-knowledge-connecting-chatgpt-to-databases-for-advanced-question-answering-8dfe5f140b1b
 from llama_index.core.utilities.sql_wrapper import SQLDatabase
 from llama_index.core.indices.struct_store import (
     NLSQLTableQueryEngine,
@@ -15,7 +14,7 @@ import openai
 import re
 os.environ["DC_STATEHOOD"] = "1"
 import us
-#us.states.STATES.append(us.states.DC)
+
 
 engine = create_engine("postgresql://postgres:pwd@localhost:5432/postgres")
 metadata_obj = MetaData()
