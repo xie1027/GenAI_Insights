@@ -15,14 +15,14 @@ from llama_index.core.indices.struct_store import (
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
 
-def generate_response(message):
+def generate_response(message, table_list):
     # Connect to the database
     # dburi = "sqlite:///acs.db"
     # db = SQLDatabase.from_uri(dburi)
 
     # Connect llamindex to the PostgreSQL engine, naming the table we will use
     engine = create_engine("postgresql://postgres:pwd@localhost:5432/postgres")
-    sql_database = SQLDatabase(engine, include_tables=["acs_dem", "acs_econ", "acs_housing"])
+    sql_database = SQLDatabase(engine, include_tables=table_list)
     # Create a structured store to offer a context to GPT
     query_engine = NLSQLTableQueryEngine(sql_database)
     # "gpt-4-turbo"
@@ -60,6 +60,25 @@ def get_text():
     input_text = st.text_input("You: ", "", key="input")
     return input_text
 
+
+def get_check_box():
+    # Define a list of table names available for selection
+    available_tables = ["acs_dem", "acs_econ", "acs_housing"]
+
+    # Dictionary to store the selected status of each table
+    selected_tables = {}
+
+    # Create a container with a column for each checkbox
+    cols = st.columns(len(available_tables))
+
+    # Create a checkbox in each column and store the selection status
+    for col, table in zip(cols, available_tables):
+        selected_tables[table] = col.checkbox(f"Include {table}", value=True)
+
+    return selected_tables
+
+
+
 def main():
     # Load environment variables
     load_dotenv()
@@ -79,12 +98,16 @@ def main():
     with col2:
         st.header('Enter Your Question:')
 
+    # test: get user selection
+    user_check_box = get_check_box()
+
     # Get user input
     user_input = get_text()
 
+
     if user_input:
         # Generate response for the user input
-        response = generate_response(user_input)
+        response = generate_response(user_input, user_check_box)
         st.session_state["generated"] = response.ai_answer
         st.session_state["sql_query"] = response.sql_query
         st.session_state["sql_answer"] = response.sql_answer
