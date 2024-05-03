@@ -187,13 +187,25 @@ def main():
             ############
             # if there is state, plot
             chart_data = st.session_state["sql_answer"]
+
             if chart_data is not None:
-                if "state" in chart_data.columns and len(chart_data) > 2:
-                    if "year" in chart_data.columns:
+                chart_data = pd.DataFrame(chart_data)
+                # Check for required columns and adequate data length
+                if len(chart_data) > 2 and ("state" in chart_data.columns or "year" in chart_data.columns):
+                    # Specific handling when both 'state' and 'year' columns are present
+                    if "state" in chart_data.columns and "year" in chart_data.columns:
                         chart_data = chart_data[chart_data['year'] == 2021].drop('year', axis=1)
-                    chart_data = pd.DataFrame(chart_data)
-                    chart_data.set_index('state', inplace=True)
-                    st.bar_chart(chart_data)
+                        chart_data.set_index('state', inplace=True)
+                        st.markdown("**Data in 2021**")
+                        st.bar_chart(chart_data)
+                    # Handling when only 'year' is present
+                    elif "year" in chart_data.columns:
+                        chart_data.set_index('year', inplace=True)
+                        st.line_chart(chart_data)
+                    # Handling when only 'state' is present
+                    else:
+                        chart_data.set_index('state', inplace=True)
+                        st.bar_chart(chart_data)
 
             st.markdown(":speech_balloon: **SQL Query:**")
             st.text(st.session_state['sql_query'])
